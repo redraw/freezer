@@ -1,0 +1,23 @@
+---
+label: Curso
+hide_body: false
+fields:
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: inicio
+  label: inicio
+- type: text
+  name: docente
+  label: docente
+- name: lugar
+  type: text
+  config:
+    required: false
+  label: lugar
+pages:
+- content/cursos/luz-disponible-curso-de-fotografía-de-eventos-especiales.md

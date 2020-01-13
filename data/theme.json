@@ -1,0 +1,22 @@
+{
+  "footer": "La Plata | Buenos Aires | Argentina • Copyleft &copy; 2019",
+  "dark_mode": false,
+  "site_name": "Freezer",
+  "site_description": "Freezer fotoclub",
+  "hero_title": "",
+  "hero_subtitle": "",
+  "menu": [
+    {
+      "name": "Cursos",
+      "url": "/"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/freezer.foto"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contacto"
+    }
+  ]
+}
