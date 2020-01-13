@@ -56,10 +56,9 @@ query Posts {
   }
   .layout {
     flex-flow: row nowrap;
-    justify-content: flex-end;
   }
   .cursos {
-    justify-content: center;
+    justify-content: flex-end;
   }
   .curso-thumbnail {
     max-height: 100vh;
