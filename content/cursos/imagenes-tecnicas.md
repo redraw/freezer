@@ -18,7 +18,7 @@ Se trabajará con una presentación a la postproducción en Lightroom: primeras 
 
 Duración: 4 clases de 2 horas & media
 
-Costo: $2000
+Costo: $1700
 
 🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
 
