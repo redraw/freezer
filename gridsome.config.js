@@ -34,6 +34,12 @@ module.exports = {
         typeName: "SinglePage",
         resolveAbsolutePaths: true
       }
+    },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-156250757-1'
+      }
     }
   ],
   transformers: {
