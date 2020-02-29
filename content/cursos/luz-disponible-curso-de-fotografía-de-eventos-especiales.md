@@ -1,9 +1,9 @@
 ---
 thumbnail: "/uploads/2020/01/LUZDISPONIBLE.jpg"
 title: luz disponible | curso de fotografía de eventos especiales
-inicio: 2020-03-05T20:00:00Z
+inicio: 2020-03-05T20:00:00.000+00:00
 docente: Luciana Demichelis
-lugar: ''
+lugar: La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
 
 ---
 Considerando a la fotografía como un vehículo de comunicación utilizado frecuentemente para dar voz a las producciones artísticas actuales, LUZ DISPONIBLE es un curso donde se trabajará con las imágenes producidas por lxs alumnxs en diferentes eventos y se pensarán nuevas formas de curaduría, edición y creación.
