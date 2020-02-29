@@ -28,6 +28,11 @@ sections:
 - type: document
   path: data/theme.json
   label: Theme config
+- type: document
+  path: README.md
+  label: Status
+  match: "**/*"
+  read_only: true
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
