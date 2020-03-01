@@ -3,6 +3,7 @@ import settings from "../data/theme.json";
 
 import "@/assets/code-highlight.css"
 import "@/assets/fonts/stylesheet.css"
+import "vue-scrollama/dist/vue-scrollama.css"
 
 export default function(Vue, { head }) {
   Vue.prototype.$settings = settings

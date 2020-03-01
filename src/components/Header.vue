@@ -3,7 +3,6 @@
     <div class="container">
       <g-link :to="{ name: 'home' }" class="home-link">
         <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-        <h2>freezer</h2>
       </g-link>
       <nav class="nav right">
         <g-link 
