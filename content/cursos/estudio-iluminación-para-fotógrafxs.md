@@ -47,6 +47,6 @@ Elementos de estudio:
 
 🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
 
-Costo | $2700 mensual
+Costo | $1700 mensual
 
 Formá parte de este taller completando [nuestro formulario de inscripción](https://forms.gle/EhkzjABDjuebP7Cr7) 🔭
