@@ -7,8 +7,7 @@ lugar: 'La Playa Estudios '
 finalizado: false
 
 ---
-
-Este curso busca brindar las herramientas básicas para el desarrollo de una toma fotográfica en estudio, haciendo énfasis en la técnica y en los usos creativos de luz. También se pensará acerca de las opciones relacionadas con la organización de los contenidos, orientado a fotógrafxs en actividad que ya hayan realizado prácticas en estudio. 
+Este curso busca brindar las herramientas básicas para el desarrollo de una toma fotográfica en estudio, haciendo énfasis en la técnica y en los usos creativos de luz. También se pensará acerca de las opciones relacionadas con la organización de los contenidos, orientado a fotógrafxs en actividad que ya hayan realizado prácticas en estudio.
 
 Este curso es de modalidad teórico/práctico con cupos limitados.
 
@@ -38,6 +37,6 @@ El alumno deberá contar con conocimientos previos de manejos básicos de cámar
 
 🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
 
-Costo | $1800
+Costo | $1700 por mes
 
 Formá parte de este taller completando [nuestro formulario de inscripción](https://forms.gle/EhkzjABDjuebP7Cr7) 🔭
