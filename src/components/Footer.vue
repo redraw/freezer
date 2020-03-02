@@ -9,6 +9,9 @@
 <style scoped>
 .footer {
   font-size: 0.8rem;
-  padding: 2rem 2rem;
+  padding: 1rem 2rem;
+  margin-top: 5em;
+  color: #aaa;
+  background-color: #111;
 }
 </style>

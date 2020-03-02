@@ -6,7 +6,7 @@
           <g-image :src="$page.curso.thumbnail" :alt="$page.curso.title" />
         </div>
         <div class="right">
-          <h2 v-html="$page.curso.title" class="title"/>
+          <h2 v-html="$page.curso.title" class="titulo"/>
           <div class="meta">
             <div class="docente">
               <span class="label">coordina</span>
@@ -64,11 +64,6 @@ export default {
 .thumbnail {
   max-width: 100%;
 }
-.title {
-  color: white;
-  background: black;
-  padding: 1rem 2rem;
-}
 .meta {
   display: flex;
   flex-wrap: wrap;
@@ -77,6 +72,9 @@ export default {
 }
 .meta > div {
   margin: 0 2rem 1rem 0;
+}
+.content {
+  margin-bottom: 4em;
 }
 @media screen and (min-width: 720px) {
   .content {
@@ -90,13 +88,6 @@ export default {
   }
   .right {
     flex-basis: 80%;
-  }
-  .title {
-    color: inherit;
-    background: inherit;
-    line-height: inherit;
-    margin: 0;
-    padding-top: 0;
   }
 }
 </style>

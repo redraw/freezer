@@ -3,40 +3,20 @@
     <div class="container">
       <g-link :to="{ name: 'home' }" class="home-link">
         <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
+        <h2>freezer</h2>
       </g-link>
       <nav class="nav right">
         <g-link 
-          v-for="link in siteLinks" 
+          v-for="link in $settings.menu" 
           :key="link.url" 
           :to="link.url"
         >
           {{ link.name }}
         </g-link>
-        <a
-          :href="link.url"
-          v-for="link in externalLinks"
-          target="_blank"
-          :key="link.url"
-        >
-          {{ link.name }}
-        </a>
       </nav>
     </div>
   </header>
 </template>
-
-<script>
-export default {
-  computed: {
-    externalLinks() {
-      return this.$settings.menu.filter(item => item.url.startsWith("http"));
-    },
-    siteLinks() {
-      return this.$settings.menu.filter(item => !item.url.startsWith("http"));
-    }
-  }
-};
-</script>
 
 <style scoped>
 .header {
@@ -55,6 +35,8 @@ export default {
   justify-content: center;
   padding: 1rem;
   text-decoration: none;
+  position: sticky;
+  top: 0;
 }
 .home-link h2 {
   color: lightgrey;
@@ -86,5 +68,10 @@ export default {
 }
 .nav > .active--exact {
   border-color: inherit;
+}
+@media screen and (min-width: 720px) {
+  .container {
+    justify-content: space-between;
+  }
 }
 </style>

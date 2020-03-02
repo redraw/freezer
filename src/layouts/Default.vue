@@ -2,7 +2,6 @@
   <div class="layout">
     <Header />
     <slot/>
-    <Footer />
   </div>
 </template>
 
@@ -24,6 +23,10 @@ export default {
   box-sizing: border-box;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   --color-base: rgb(255, 255, 255);
   --color-base-1: rgb(243, 243, 243);
@@ -36,6 +39,7 @@ body {
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
+  height: 100%;
 }
 
 body.dark {
@@ -52,11 +56,15 @@ h1 {
 .layout {
   padding: 0;
   width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
 }
 
 .container {
   max-width: 980px;
   margin: 0 auto;
+  flex-grow: 1;
 }
 
 .content {
@@ -78,9 +86,22 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.titulo {
+  color: white;
+  background: black;
+  padding: 1rem 2rem;
+}
+
 @media screen and (min-width: 720px) {
   .content {
     padding: 0;
+  }
+  .titulo {
+    color: inherit;
+    background: inherit;
+    line-height: inherit;
+    margin: 0;
+    padding-top: 0;
   }
 }
 </style>
