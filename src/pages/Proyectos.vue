@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="container">
+    <div class="container content">
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At vero ipsa, iure quaerat laboriosam exercitationem quam minus laudantium dicta, praesentium amet harum sint! Ducimus consequatur sint eos voluptatum sed eligendi.</p>
       <div class="proyectos">
         <a 

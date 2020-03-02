@@ -56,7 +56,6 @@ h1 {
 .layout {
   padding: 0;
   width: 100%;
-  height: 100%;
   display: flex;
   flex-flow: column;
 }
@@ -64,7 +63,6 @@ h1 {
 .container {
   max-width: 980px;
   margin: 0 auto;
-  flex-grow: 1;
 }
 
 .content {

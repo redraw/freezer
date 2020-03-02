@@ -3,7 +3,7 @@
     <div class="container">
       <g-link :to="{ name: 'home' }" class="home-link">
         <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-        <h2>freezer</h2>
+        <h2 class="site-name">freezer</h2>
       </g-link>
       <nav class="nav right">
         <g-link 
@@ -47,31 +47,34 @@
   height: 6rem;
 }
 .site-name {
-  font-size: 0.9rem;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  text-decoration: none;
-  text-transform: uppercase;
+  display: none;
 }
-.nav > * {
-  font-size: 0.9rem;
-  font-weight: 600;
-  text-decoration: none;
-  margin: 1rem;
-  padding-bottom: 4px;
-  border-bottom: 1px solid;
-  border-color: transparent;
-  transition: border 0.15s;
-}
-.nav > *:hover {
-  border-color: inherit;
-}
-.nav > .active--exact {
-  border-color: inherit;
+.nav {
+  display: flex;
+  flex-flow: column;
 }
 @media screen and (min-width: 720px) {
   .container {
     justify-content: space-between;
+  }
+  .nav {
+    flex-flow: row;
+  }
+  .nav > * {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 1rem;
+    padding-bottom: 4px;
+    border-bottom: 1px solid;
+    border-color: transparent;
+    transition: border 0.15s;
+  }
+  .nav > *:hover {
+    border-color: inherit;
+  }
+  .nav > .active--exact {
+    border-color: inherit;
   }
 }
 </style>
