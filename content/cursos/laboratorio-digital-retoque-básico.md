@@ -33,6 +33,6 @@ Este curso es de modalidad teórico/práctico con cupos limitados.
 
 🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
 
-Costo | $2700
+Costo | Total $2000
 
 Formá parte de este taller completando [nuestro formulario de inscripción](https://forms.gle/EhkzjABDjuebP7Cr7) 🔭
