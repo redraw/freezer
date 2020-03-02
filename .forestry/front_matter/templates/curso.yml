@@ -23,5 +23,6 @@ fields:
   name: finalizado
   label: finalizado
 pages:
+- content/cursos/estudio-iluminación-para-fotógrafxs.md
 - content/cursos/laboratorio-digital-retoque-básico.md
 - content/cursos/luz-disponible-curso-de-fotografía-de-eventos-especiales.md
