@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/2020/03/nadia_labdigitalA3.jpg"
 title: Laboratorio digital | Retoque básico
-inicio: 2020-04-09T21:00:00Z
+inicio: 2020-04-09T21:00:00.000+00:00
 docente: Nadia Abal
 lugar: 'La Playa Estudios '
 finalizado: false
@@ -30,5 +30,9 @@ El alumno deberá contar con conocimientos previos en manejos básicos de cámar
 Este curso es de modalidad teórico/práctico con cupos limitados.
 
 **Jueves de abril de 18 a 21 a partir del 9/4**
+
+🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
+
+Costo | $2700
 
 Formá parte de este taller completando [nuestro formulario de inscripción]() 🔭
