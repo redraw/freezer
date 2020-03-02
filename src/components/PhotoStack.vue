@@ -95,12 +95,12 @@ export default {
 
 <style scoped>
 .photo-stack {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   height: 100vh;
-  overflow-x: none;
 }
 .photo-step {
   height: 20vh; /* espacio vacio */
@@ -108,10 +108,9 @@ export default {
 .photo-step:first-child {
   height: 0;
 }
-img {
-  position: absolute; 
-  height: 100%;
-  max-height: 100vh;
+.photo {
+  height: 100vh;
+  position: absolute;
   object-fit: cover;
 }
 </style>

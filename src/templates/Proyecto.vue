@@ -8,7 +8,9 @@
         <div v-html="$page.proyecto.content" class="content" />
         <br>
       </div>
-      <photo-stack :photos="$page.proyecto.fotos"/>
+      <client-only>
+        <photo-stack :photos="$page.proyecto.fotos"/>
+      </client-only>
     </div>
   </Layout>
 </template>
@@ -27,10 +29,12 @@ query Proyecto ($path: String!) {
 </page-query>
 
 <script>
+import ClientOnly from 'vue-client-only'
 import PhotoStack from "~/components/PhotoStack.vue"
 
 export default {
   components: {
+    ClientOnly,
     PhotoStack
   },
 
