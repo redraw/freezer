@@ -49,4 +49,4 @@ Elementos de estudio:
 
 Costo | $2700 mensual
 
-Formá parte de este taller completando [nuestro formulario de inscripción](https://freezer.com.ar/cursos/laboratorio-digital-retoque-basico/) 🔭
+Formá parte de este taller completando [nuestro formulario de inscripción](https://forms.gle/EhkzjABDjuebP7Cr7) 🔭
