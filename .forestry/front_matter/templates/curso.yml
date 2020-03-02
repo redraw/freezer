@@ -19,5 +19,8 @@ fields:
   config:
     required: false
   label: lugar
+- type: boolean
+  name: finalizado
+  label: finalizado
 pages:
 - content/cursos/luz-disponible-curso-de-fotografía-de-eventos-especiales.md
