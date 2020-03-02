@@ -6,7 +6,10 @@
           <g-image :src="$page.curso.thumbnail" :alt="$page.curso.title" />
         </div>
         <div class="right">
-          <h2 v-html="$page.curso.title" class="title"/>
+          <h2 class="title">
+            {{ $page.curso.title }}
+            <small class="finalizado" v-if="$page.curso.finalizado"><br>🕑 finalizado</small>
+          </h2>
           <div class="meta">
             <div class="docente">
               <span class="label">coordina</span>
@@ -38,6 +41,7 @@ query Curso ($path: String!) {
     timeToRead
     content
     lugar
+    finalizado
   }
 }
 </page-query>
@@ -68,6 +72,9 @@ export default {
   color: white;
   background: black;
   padding: 1rem 2rem;
+}
+.finalizado {
+  color: red;
 }
 .meta {
   display: flex;
