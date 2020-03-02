@@ -35,4 +35,4 @@ Este curso es de modalidad teórico/práctico con cupos limitados.
 
 Costo | $2700
 
-Formá parte de este taller completando [nuestro formulario de inscripción]() 🔭
+Formá parte de este taller completando [nuestro formulario de inscripción](https://forms.gle/EhkzjABDjuebP7Cr7) 🔭
