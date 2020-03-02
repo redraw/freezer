@@ -19,7 +19,7 @@
 
 <page-query>
 query Posts {
-  cursos: allCurso {
+  cursos: allCurso (sortBy: "inicio") {
     edges {
       node {
         id
@@ -45,8 +45,8 @@ query Posts {
 
 .layout, .cursos {
   display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
+  flex-flow: column;
+  justify-content: space-around;
 }
 
 @media screen and (min-width: 720px) {
@@ -55,13 +55,14 @@ query Posts {
     top: 10vw;
   }
   .layout {
-    flex-flow: row nowrap;
+    flex-flow: row;
+    justify-content: center;
   }
   .cursos {
-    justify-content: flex-end;
+    justify-content: center;
   }
-  .curso-thumbnail {
-    max-height: 100vh;
+  .thumbnail {
+    height: 100vh;
   }
 }
 .flicker-in-1{-webkit-animation:flicker-in-1 2s linear both;animation:flicker-in-1 2s linear both}
