@@ -68,17 +68,9 @@ export default {
 .thumbnail {
   max-width: 100%;
 }
-<<<<<<< HEAD
-=======
-.title {
-  color: white;
-  background: black;
-  padding: 1rem 2rem;
-}
 .finalizado {
   color: red;
 }
->>>>>>> master
 .meta {
   display: flex;
   flex-wrap: wrap;
