@@ -23,6 +23,7 @@ fields:
   name: finalizado
   label: finalizado
 pages:
+- content/cursos/diseño-de-montaje.md
 - content/cursos/estudio-iluminación-para-fotógrafxs-avanzadxs.md
 - content/cursos/estudio-iluminación-para-fotógrafxs.md
 - content/cursos/laboratorio-digital-retoque-básico.md
