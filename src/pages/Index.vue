@@ -10,7 +10,10 @@
         class="curso-thumbnail"
       >
         <g-link :to="curso.node.path">
-          <g-image :src="curso.node.thumbnail.src" class="thumbnail"/>
+          <g-image :src="curso.node.thumbnail.src" 
+                   :class="{'finalizado': curso.node.finalizado}"
+                   class="thumbnail" 
+          />
         </g-link>
       </div>
     </div>
@@ -19,7 +22,7 @@
 
 <page-query>
 query Posts {
-  cursos: allCurso (sortBy: "inicio") {
+  cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "inicio", order: ASC}]) {
     edges {
       node {
         id
@@ -27,6 +30,7 @@ query Posts {
         title
         thumbnail (quality: 90, height: 720, fit: inside)
         path
+        finalizado
       }
     }
   }
@@ -47,6 +51,10 @@ query Posts {
   display: flex;
   flex-flow: column;
   justify-content: space-around;
+}
+
+.finalizado {
+  opacity: 0.4;
 }
 
 @media screen and (min-width: 720px) {

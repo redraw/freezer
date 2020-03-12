@@ -5,7 +5,7 @@ title: ficción y simulacro | curso de producción e investigación a partir de 
 inicio: 2019-01-04
 docente: Luciana Demichelis
 lugar: La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
-finalizado: false
+finalizado: true
 ---
 
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias. Se busca que le alumnx pueda poner en discusión las imágenes propias como también los textos y los autores que se charlarán en el taller, viendo sus fotografías por fuera de la idea de ‘registro’ y alentando la creación de nuevos inventos a través de su dispositivo.
