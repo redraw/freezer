@@ -4,7 +4,7 @@ title: imágenes técnicas | curso inicial de fotografía
 inicio: 2020-02-06T03:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
-finalizado: false
+finalizado: true
 
 ---
 Se busca que lxs interesadxs logren usar hacia el final del curso la herramienta fotográfica con fines creativos: aprender el manejo básico de la cámara como también conceptos relativos a la edición posterior de las imágenes.
