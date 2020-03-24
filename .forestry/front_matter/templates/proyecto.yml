@@ -32,5 +32,9 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: fotos
+  type: image_gallery
+  config: {}
+  label: Fotos
 pages:
 - content/proyectos/test.md
