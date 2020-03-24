@@ -12,6 +12,9 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.4.0",
     "gridsome": "^0.7.11",
-    "vue": "^2.6.11"
+    "intersection-observer": "^0.7.0",
+    "vue": "^2.6.11",
+    "vue-client-only": "^2.0.0",
+    "vue-scrollama": "^1.1.9"
   }
 }

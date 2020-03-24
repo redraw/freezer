@@ -6,7 +6,7 @@
           <g-image :src="$page.curso.thumbnail" :alt="$page.curso.title" />
         </div>
         <div class="right">
-          <h2 class="title">
+          <h2 class="titulo">
             {{ $page.curso.title }}
             <small class="finalizado" v-if="$page.curso.finalizado"><br>🕑 finalizado</small>
           </h2>
@@ -68,11 +68,6 @@ export default {
 .thumbnail {
   max-width: 100%;
 }
-.title {
-  color: white;
-  background: black;
-  padding: 1rem 2rem;
-}
 .finalizado {
   color: red;
 }
@@ -84,6 +79,9 @@ export default {
 }
 .meta > div {
   margin: 0 2rem 1rem 0;
+}
+.content {
+  margin-bottom: 4em;
 }
 @media screen and (min-width: 720px) {
   .content {
@@ -97,13 +95,6 @@ export default {
   }
   .right {
     flex-basis: 80%;
-  }
-  .title {
-    color: inherit;
-    background: inherit;
-    line-height: inherit;
-    margin: 0;
-    padding-top: 0;
   }
 }
 </style>

@@ -11,12 +11,12 @@
       "url": "/"
     },
     {
-      "name": "Instagram",
-      "url": "https://instagram.com/freezer.foto"
-    },
-    {
       "name": "Contacto",
       "url": "/contacto"
+    },
+    {
+      "name": "📸Instagram",
+      "url": "https://instagram.com/freezer.foto"
     }
   ]
 }
