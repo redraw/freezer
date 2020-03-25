@@ -33,8 +33,17 @@ fields:
     color_format: Hex
   label: Foreground color
 - name: fotos
-  type: image_gallery
+  type: field_group
   config: {}
+  fields:
+  - name: archivos
+    type: image_gallery
+    config: {}
+    label: Archivos
+  - name: link_instagram
+    type: boolean
+    label: Link instagram
+    description: El nombre del archivo es el nombre del user de Instagram
   label: Fotos
 pages:
 - content/proyectos/test.md
