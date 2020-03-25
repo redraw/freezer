@@ -2,4 +2,6 @@
 title: internet te amo
 
 ---
-[VZCv9p8](https://imgur.com/VZCv9p8 "VZCv9p8")
+![](https://i.imgur.com/VZCv9p8.jpg)
+
+![](https://i.imgur.com/Sw2EjA0.jpg)![](https://i.imgur.com/ABXqnZs.jpg)
