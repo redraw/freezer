@@ -9,7 +9,10 @@
         <br>
       </div>
       <client-only>
-        <photo-stack :photos="$page.proyecto.fotos"/>
+        <photo-stack 
+          :photos="$page.proyecto.fotos.archivos" 
+          :link-instagram="$page.proyecto.fotos.link_instagram"
+        />
       </client-only>
     </div>
   </Layout>
@@ -23,7 +26,10 @@ query Proyecto ($path: String!) {
     content
     bg_color
     fg_color
-    fotos
+    fotos {
+      archivos
+      link_instagram
+    }
   }
 }
 </page-query>

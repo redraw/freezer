@@ -18,14 +18,19 @@
           'background-color': `rgba(0, 0, 0, ${background.opacity})`
         }"
       >
-        <g-image 
+        <a
           v-for="(photo, key) in photos" 
-          :key="key" 
-          :src="photo.src"
-          v-show="key <= index"
-          :style="styles[key]"
-          class="photo"
-        />
+          :key="key"  
+          :href="getLink(photo.src)"
+          class="photo-link"
+        >
+          <g-image 
+            :src="photo.src"
+            v-show="key <= index"
+            :style="styles[key]"
+            class="photo"
+          />
+        </a>
       </div>
     </div>
   </Scrollama>
@@ -33,6 +38,7 @@
 
 <script>
 import Scrollama from 'vue-scrollama'
+const URI = require('urijs')
 
 export default {
   components: {
@@ -88,6 +94,12 @@ export default {
           }
         }
       })
+    },
+
+    getLink (src) {
+      const filename = URI(src).filename()
+      const link = `https://instagram.com/${filename.split('.')[0]}`
+      return link
     }
   }
 }
@@ -107,6 +119,9 @@ export default {
 }
 .photo-step:first-child {
   height: 0;
+}
+.photo-link {
+  height: 100vh;
 }
 .photo {
   height: 100vh;
