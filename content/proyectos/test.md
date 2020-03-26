@@ -1,17 +1,13 @@
 ---
 date: 2020-01-13
-thumbnail: "/uploads/2020/01/First_Web_Server.jpg"
+thumbnail: "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
 title: test
 bg_color: ''
 fg_color: ''
 anio: 2020
 fotos:
   archivos:
-    - "/uploads/2020/01/ficcion.jpg"
-    - "/uploads/2020/01/ficcion.jpg"
-    - "/uploads/2020/01/ficcion.jpg"
-    - "/uploads/2020/01/ficcion.jpg"
-    - "/uploads/2020/01/ficcion.jpg"
+    - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
   link_instagram: true
 
 ---

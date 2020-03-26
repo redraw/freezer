@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2020/01/imagenes tecnicas final.jpg"
+thumbnail: "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
 title: imágenes técnicas | curso inicial de fotografía
 inicio: 2020-02-06T03:00:00.000+00:00
 docente: Luciana Demichelis

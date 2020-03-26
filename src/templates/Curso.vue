@@ -3,7 +3,7 @@
     <div class="container">
       <div class="curso">
         <div class="thumbnail">
-          <g-image :src="$page.curso.thumbnail" :alt="$page.curso.title" />
+          <g-image :src="`${$settings.cloudinary_url}/c_scale,w_400/${$page.curso.thumbnail}`" :alt="$page.curso.title" />
         </div>
         <div class="right">
           <h2 class="titulo">
@@ -36,7 +36,7 @@ query Curso ($path: String!) {
   curso (path: $path) {
     title
     docente
-    thumbnail (quality: 90, width: 720)
+    thumbnail
     inicio (format: "YYYY MM")
     timeToRead
     content

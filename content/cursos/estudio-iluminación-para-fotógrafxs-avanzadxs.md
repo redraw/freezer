@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2020/03/estudioavanzadonadiaa3opcionb.jpg"
+thumbnail: "2020/03/estudioavanzadonadiaa3opcionb_snjw33.jpg"
 title: Estudio | Iluminación para fotógrafxs avanzadxs
 inicio: 2020-04-10T21:00:00Z
 docente: Nadia Abal

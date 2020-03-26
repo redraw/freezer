@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2020/03/LUZDISPONIBLEbandas.jpg"
+thumbnail: "2020/03/LUZDISPONIBLEbandas_vtnvr8.jpg"
 title: luz disponible | curso de fotografía de eventos especiales
 inicio: 2020-03-05T20:00:00.000+00:00
 docente: Luciana Demichelis

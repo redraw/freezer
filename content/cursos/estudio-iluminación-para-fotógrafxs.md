@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2020/03/estudiobasicnadiaa3.jpg"
+thumbnail: "2020/03/estudiobasicnadiaa3_fcqfyt.jpg"
 title: Estudio | Iluminación para fotógrafxs
 inicio: 2020-04-07T21:00:00Z
 docente: Nadia Abal

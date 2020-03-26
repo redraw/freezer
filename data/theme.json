@@ -1,5 +1,6 @@
 {
   "footer": "La Plata | Buenos Aires | Argentina • Copyleft &copy; 2019",
+  "cloudinary_url": "https://res.cloudinary.com/freezer",
   "dark_mode": false,
   "site_name": "Freezer",
   "site_description": "Freezer fotoclub",
@@ -15,7 +16,7 @@
       "url": "/contacto"
     },
     {
-      "name": "📸Instagram",
+      "name": "Instagram",
       "url": "https://instagram.com/freezer.foto"
     }
   ]

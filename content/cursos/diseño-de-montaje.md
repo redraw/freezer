@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2020/03/Sin título-2.jpg"
+thumbnail: "2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg"
 title: Diseño de Montaje
 inicio: 2020-04-01T18:30:00Z
 docente: Martín Difeo

@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
     <g-link to="/contacto" class="logo flicker-in-1">
-      <g-image src="../../static/logo.png" :alt="$settings.site_name"/>
+      <g-image src="/logo.png" :alt="$settings.site_name"/>
     </g-link>
     <div class="cursos">
       <div
@@ -10,7 +10,7 @@
         class="curso-thumbnail"
       >
         <g-link :to="curso.node.path">
-          <g-image :src="curso.node.thumbnail.src" 
+          <g-image :src="`${$settings.cloudinary_url}/c_scale,w_600/${curso.node.thumbnail}`" 
                    :class="{'finalizado': curso.node.finalizado}"
                    class="thumbnail" 
           />
@@ -28,7 +28,7 @@ query Posts {
         id
         inicio (format: "YYYY")
         title
-        thumbnail (quality: 90, height: 720, fit: inside)
+        thumbnail
         path
         finalizado
       }
