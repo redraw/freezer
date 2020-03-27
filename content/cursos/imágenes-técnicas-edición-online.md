@@ -23,6 +23,6 @@ Duración | 3 encuentros
 
 Costo | $1500
 
-El curso puede ser abonado por transferencia o a través de MercadoPago. 
+El curso puede ser abonado por transferencia o a través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f)
 
 Anotate de forma a través de nuestro formulario de inscripción |  [https://forms.gle/6aJCmZzYw9HE71qz6](https://forms.gle/6aJCmZzYw9HE71qz6 "formulario de inscripción")
