@@ -13,8 +13,7 @@ module.exports = {
       options: {
         baseDir: "content",
         path: "proyectos/**/*.md",
-        typeName: "Proyecto",
-        resolveAbsolutePaths: true
+        typeName: "Proyecto"
       }
     },
     {
@@ -22,8 +21,7 @@ module.exports = {
       options: {
         baseDir: "content",
         path: "cursos/**/*.md",
-        typeName: "Curso",
-        resolveAbsolutePaths: true
+        typeName: "Curso"
       },
     },
     {
@@ -31,8 +29,7 @@ module.exports = {
       options: {
         baseDir: "content",
         path: "pages/**/*.md",
-        typeName: "SinglePage",
-        resolveAbsolutePaths: true
+        typeName: "SinglePage"
       }
     },
     {
