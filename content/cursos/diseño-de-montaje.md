@@ -3,8 +3,8 @@ thumbnail: 2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg
 title: Diseño de Montaje | Edición Virtual
 inicio: 2020-04-01T18:30:00.000+00:00
 docente: Martín Difeo
-lugar: 'La Playa Estudios '
-mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f
+lugar: Online
+mercadopago_link: " http://mpago.la/423PGp"
 finalizado: false
 
 ---
