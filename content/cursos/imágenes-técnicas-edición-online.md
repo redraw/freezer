@@ -1,9 +1,10 @@
 ---
-thumbnail: "/v1585274304/2020/imagenes_tecnicasweb_g1uz6g.jpg"
+thumbnail: "2020/imagenes_tecnicasweb_g1uz6g.jpg"
 title: Imágenes Técnicas | Edición Online
 inicio: 2020-04-03T21:00:00Z
 docente: Luciana Demichelis
 lugar: WWW
+mercadopago_link: "https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f"
 finalizado: false
 
 ---
