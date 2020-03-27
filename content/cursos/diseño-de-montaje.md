@@ -1,13 +1,19 @@
 ---
-thumbnail: "2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg"
-title: Diseño de Montaje
-inicio: 2020-04-01T18:30:00Z
+thumbnail: 2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg
+title: Diseño de Montaje | Edición Virtual
+inicio: 2020-04-01T18:30:00.000+00:00
 docente: Martín Difeo
 lugar: 'La Playa Estudios '
-mercadopago_link: 'https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f'
+mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f
 finalizado: false
 
 ---
+Taller Digital Intensivo con [Martín Difeo](https://martindifeo.com/)  
+  
+\+ 3 horas de video dividido en 3 módulos.   
+\+ programas e instaladores (Win ./ MacOs)  
+\+ clase de consulta a convenir (Skype/mail).  
+  
 Habitar, crear y probar las diferentes maneras entre contenedor y contenido es prever el montaje como una herramienta que busca dar indicaciones detalladas y representativas sobre lo tridimensional; lo recorrible más allá del plano o la idea.
 
 Dando lugar a visualizar propuestas para proyectos curatoriales, muestras, o prácticas artísticas abiertas, búsquedas que impliquen componer el espacio.
@@ -16,22 +22,9 @@ Dirigido a quienes deseen compartir sus propuestas y visión del espacio de mane
 
 El objetivo es que lxs interesadas logren llevar un espacio real, del plano a su versión digital, y así buscar las posibilidades de habitar tal espacio a su manera, y en sus búsquedas, a través de las herramientas digitales.
 
-Trabajaremos a partir de los planos de una locación elegida, o una aportada. A partir de Sketch Up y Blender se diseñará el espacio y las posibles resoluciones para la
+Trabajaremos a partir de los planos de una locación elegida, o una aportada. A partir de Sketch Up y Blender se diseñará el espacio y las posibles resoluciones para la representación de obras u objetos en el mismo, como también la iluminación.
 
-representación de obras u objetos en el mismo, como también la iluminación.
-
-**Todos los Miércoles de 15:30 a 18:00hs a partir del 1 de Abril.**
-
-  
-Duración: 8 Clases de 2 horas & media.
-
-Costo: 2500$ | 1250$ x mes.
-
-🌐 La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
-
-Anotate a través de nuestro [formulario de inscripción](https://docs.google.com/forms/d/1DhP74ybQ263dC5EmU-2ZVJDRlMwMGiQaEfgAp31-_Vw/edit "formulario de inscripción")
-
-\*Es requisito contar con una pc portátil que soporte los programas a utilizar (y en lo posible mouse, para trabajar más cómodxs).
+\*Es requisito contar con una pc que soporte los programas a utilizar (y en lo posible mouse, para trabajar más cómodxs).
 
 Los mismos serán facilitados a quienes participen con anterioridad, con sus respectivos archivos para la instalación.
 
@@ -42,4 +35,6 @@ Utilizaremos:
 * SketchUp 2016 (Windows 32Bits)
 * SketchUp 2018 (MacOs)
 
-El cupo Inicial será de 4 Inscriptxs - con un cupo máximo de 8.
+Anotate en este curso a través de nuestro [formulario de inscripción](https://docs.google.com/forms/u/0/d/1PJh7jBDj7wo74KjZljga9unN9DJw74-rbG9pPsVg8_o/viewform?edit_requested=true "formulario de inscripción")
+
+Costo: $1750 | [Pago online a través de MercadoPago]( http://mpago.la/423PGp )
