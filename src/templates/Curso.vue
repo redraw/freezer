@@ -25,6 +25,11 @@
             </div>
           </div>
           <div class="content" v-html="$page.curso.content" />
+          <div class="content" v-if="$page.curso.mercadopago_link">
+            <a :href="$page.curso.mercadopago_link">
+              <img :src="`https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=${$page.curso.mercadopago_link}`">
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -41,6 +46,7 @@ query Curso ($path: String!) {
     timeToRead
     content
     lugar
+    mercadopago_link
     finalizado
   }
 }
@@ -66,7 +72,7 @@ export default {
   flex-grow: 1;
 }
 .thumbnail {
-  max-width: 100%;
+  width: 100vw;
 }
 .finalizado {
   color: red;
@@ -80,18 +86,20 @@ export default {
 .meta > div {
   margin: 0 2rem 1rem 0;
 }
-.content {
-  margin-bottom: 4em;
-}
 @media screen and (min-width: 720px) {
   .content {
     padding: 0 2rem;
   }
   .curso {
+    position: relative;
     flex-flow: row nowrap;
   }
   .thumbnail {
     width: 300px;
+  }
+  .thumbnail img {
+    position: sticky;
+    top: 1em;
   }
   .right {
     flex-basis: 80%;

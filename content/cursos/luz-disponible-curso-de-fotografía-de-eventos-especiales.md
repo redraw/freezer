@@ -4,6 +4,7 @@ title: luz disponible | curso de fotografía de eventos especiales
 inicio: 2020-03-05T20:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
+mercadopago_link: ''
 finalizado: true
 
 ---

@@ -4,6 +4,7 @@ title: Laboratorio digital | Retoque básico
 inicio: 2020-04-09T21:00:00.000+00:00
 docente: Nadia Abal
 lugar: 'La Playa Estudios'
+mercadopago_link: ''
 finalizado: false
 
 ---

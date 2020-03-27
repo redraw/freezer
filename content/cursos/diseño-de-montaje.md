@@ -4,6 +4,7 @@ title: Diseño de Montaje
 inicio: 2020-04-01T18:30:00Z
 docente: Martín Difeo
 lugar: 'La Playa Estudios '
+mercadopago_link: 'https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f'
 finalizado: false
 
 ---

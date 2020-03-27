@@ -4,6 +4,7 @@ title: Estudio | Iluminación para fotógrafxs avanzadxs
 inicio: 2020-04-10T21:00:00Z
 docente: Nadia Abal
 lugar: 'La Playa Estudios '
+mercadopago_link: ''
 finalizado: false
 
 ---
