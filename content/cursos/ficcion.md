@@ -5,6 +5,7 @@ title: ficción y simulacro | curso de producción e investigación a partir de 
 inicio: 2019-01-04
 docente: Luciana Demichelis
 lugar: La Playa Estudios | 12 N° 1618 e 65 y 66 | La Plata
+mercadopago_link: ''
 finalizado: true
 ---
 

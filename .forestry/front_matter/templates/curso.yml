@@ -19,6 +19,10 @@ fields:
   config:
     required: false
   label: lugar
+- type: text
+  name: mercadopago_link
+  label: Mercadopago link
+  description: muestra un QR
 - type: boolean
   name: finalizado
   label: finalizado
