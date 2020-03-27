@@ -8,6 +8,8 @@ anio: 2020
 fotos:
   archivos:
     - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
+    - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
+    - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
   link_instagram: true
 
 ---

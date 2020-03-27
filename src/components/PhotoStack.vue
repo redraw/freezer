@@ -18,19 +18,19 @@
           'background-color': `rgba(0, 0, 0, ${background.opacity})`
         }"
       >
-        <a
+        <g-link
           v-for="(photo, key) in photos" 
           :key="key"  
-          :href="getLink(photo.src)"
+          :href="getLink(photo)"
           class="photo-link"
         >
           <g-image 
-            :src="photo.src"
+            :src="`${$settings.cloudinary_url}/c_scale,w_auto:800/${photo}`"
             v-show="key <= index"
             :style="styles[key]"
             class="photo"
           />
-        </a>
+        </g-link>
       </div>
     </div>
   </Scrollama>
@@ -122,10 +122,10 @@ export default {
 }
 .photo-link {
   height: 100vh;
+  position: absolute;
 }
 .photo {
   height: 100vh;
-  position: absolute;
   object-fit: cover;
 }
 </style>

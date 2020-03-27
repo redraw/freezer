@@ -26,9 +26,9 @@
           </div>
           <div class="content" v-html="$page.curso.content" />
           <div class="content" v-if="$page.curso.mercadopago_link">
-            <a :href="$page.curso.mercadopago_link">
+            <g-link :href="$page.curso.mercadopago_link">
               <img :src="`https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=${$page.curso.mercadopago_link}`">
-            </a>
+            </g-link>
           </div>
         </div>
       </div>
