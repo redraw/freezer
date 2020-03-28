@@ -8,6 +8,13 @@ anio: 2020
 fotos:
   archivos:
   - "/v1585281537/2020/-LbzP3GQA_HXnAYw3Xiy_krvljs.jpg"
+  - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
+  - "/v1585281537/2020/-LbzP3GQA_HXnAYw3Xiy_krvljs.jpg"
+  - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
+  - "/v1585281537/2020/-LbzP3GQA_HXnAYw3Xiy_krvljs.jpg"
+  - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
+  - "/v1585281537/2020/-LbzP3GQA_HXnAYw3Xiy_krvljs.jpg"
+  - "2020/01/imagenes_tecnicas_final_ku95qp.jpg"
   link_instagram: true
 project_bg_color: ''
 project_fg_color: ''

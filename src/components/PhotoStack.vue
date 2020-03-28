@@ -22,11 +22,12 @@
           v-for="(photo, key) in photos" 
           :key="key"  
           :href="getLink(photo)"
+          v-show="key <= index"
           class="photo-link"
+          :style="{'z-index': index}"
         >
           <g-image 
             :src="`${$settings.cloudinary_url}/c_scale,w_auto:800/${photo}`"
-            v-show="key <= index"
             :style="styles[key]"
             class="photo"
           />
