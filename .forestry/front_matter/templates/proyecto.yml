@@ -2,36 +2,15 @@
 label: Proyecto
 hide_body: false
 fields:
-- type: file
-  name: thumbnail
-  label: Thumbnail
-  description: This will only show up on the front page
 - type: text
   name: title
   label: Title
   config:
     required: true
-- type: datetime
-  name: date
-  label: Date
-  config:
-    required: true
-    date_format: YYYY-MM-DD
-    time_format: ''
-    export_format: YYYY-MM-DD
-    display_utc: true
-  default: now
-  hidden: true
-- type: color
-  name: bg_color
-  config:
-    color_format: Hex
-  label: Background color
-- type: color
-  name: fg_color
-  config:
-    color_format: Hex
-  label: Foreground color
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: This will only show up on the front page
 - name: galeria
   type: field_group
   config: {}
@@ -60,8 +39,29 @@ fields:
     config:
       min: 
       max: 
-      labelField: 
+      labelField: nombre
     label: autores
-  label: galeria
+  label: Galeria
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    export_format: YYYY-MM-DD
+    display_utc: true
+  default: now
+  hidden: true
+- type: color
+  name: bg_color
+  config:
+    color_format: Hex
+  label: Background color
+- type: color
+  name: fg_color
+  config:
+    color_format: Hex
+  label: Foreground color
 pages:
 - content/proyectos/test.md
