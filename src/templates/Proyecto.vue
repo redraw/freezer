@@ -6,14 +6,24 @@
           <small>proyectos / </small>{{ $page.proyecto.title }} 
         </h2>
         <div v-html="$page.proyecto.content" class="content" />
-        <br>
       </div>
-      <client-only>
-        <photo-stack 
-          :photos="$page.proyecto.fotos.archivos" 
-          :link-instagram="$page.proyecto.fotos.link_instagram"
-        />
-      </client-only>
+      <div class="galeria">
+        <div v-if="$page.proyecto.galeria.stack">
+          <client-only>
+            <photo-stack :data="$page.proyecto.galeria"/>
+          </client-only>
+        </div>
+        <div class="container" v-else>
+          <div v-for="(autor, key) in $page.proyecto.galeria.autores" :key="key">
+            <h3 class="autor">{{ autor.nombre }}</h3>
+            <img
+              v-for="(path, key) in autor.imagenes"
+              v-lazy="getImageUrl(path)"
+              :key="key"
+            />
+          </div>
+        </div>
+      </div>
     </div>
   </Layout>
 </template>
@@ -26,9 +36,13 @@ query Proyecto ($path: String!) {
     content
     bg_color
     fg_color
-    fotos {
-      archivos
-      link_instagram
+    galeria {
+      stack
+      autores {
+        nombre
+        url
+        imagenes
+      }
     }
   }
 }
@@ -62,3 +76,9 @@ export default {
   }
 }
 </script>
+
+<style>
+.autor {
+  margin-top: 2.5em;
+}
+</style>

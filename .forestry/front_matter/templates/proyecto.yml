@@ -23,27 +23,14 @@ fields:
   default: now
   hidden: true
 - type: color
-  name: project_bg_color
+  name: bg_color
   config:
     color_format: Hex
   label: Background color
 - type: color
-  name: project_fg_color
+  name: fg_color
   config:
     color_format: Hex
   label: Foreground color
-- name: fotos
-  type: field_group
-  config: {}
-  fields:
-  - name: archivos
-    type: image_gallery
-    config: {}
-    label: Archivos
-  - name: link_instagram
-    type: boolean
-    label: Link instagram
-    description: El nombre del archivo es el nombre del user de Instagram
-  label: Fotos
 pages:
 - content/proyectos/test.md

@@ -2,56 +2,50 @@
   <Scrollama 
     @step-enter="stepEnter"
     @step-progress="stepProgress"
-    :progress="1"
     :offset="1"
   >
+    <div 
+      slot="graphic" 
+      class="photo-stack"
+      :style="{
+        'background-color': `rgba(0, 0, 0, ${background.opacity})`
+      }"
+    >
+      <g-link
+        v-for="(imagen, key) in imagenes" 
+        v-show="key <= index"
+        :key="key"  
+        :href="imagen.autor.url"
+        :style="styles[key]"
+        class="photo-link"
+      >
+        <img
+          v-lazy="getImageUrl(imagen.path)"
+          class="photo"
+        />
+      </g-link>
+    </div>
     <div
-      v-for="(photo, key) in photos"
+      v-for="(imagen, key) in imagenes"
       :key="key"
       class="photo-step"
-    />
-    <div slot="graphic">
-      <div
-        class="photo-stack" 
-        ref="stack"
-        :style="{
-          'background-color': `rgba(0, 0, 0, ${background.opacity})`
-        }"
-      >
-        <g-link
-          v-for="(photo, key) in photos" 
-          :key="key"  
-          :href="getLink(photo)"
-          v-show="key <= index"
-          class="photo-link"
-          :style="{'z-index': index}"
-        >
-          <g-image 
-            :src="`${$settings.cloudinary_url}/c_scale,w_auto:800/${photo}`"
-            :style="styles[key]"
-            class="photo"
-          />
-        </g-link>
-      </div>
+    >
+      <h3>
+        <i>{{ imagen.autor.nombre }}</i>
+      </h3>
     </div>
   </Scrollama>
 </template>
 
 <script>
 import Scrollama from 'vue-scrollama'
-const URI = require('urijs')
 
 export default {
   components: {
     Scrollama
   },
 
-  props: {
-    photos: {
-      type: Array,
-      required: true
-    }
-  },
+  props: ['data'],
 
   data () {
     return {
@@ -60,6 +54,16 @@ export default {
       background: {
         opacity: 0
       }
+    }
+  },
+
+  computed: {
+    imagenes () {
+      return this.data.autores.flatMap(autor => {
+        return autor.imagenes.map(path => {
+          return {path, autor}
+        })
+      })
     }
   },
 
@@ -82,10 +86,9 @@ export default {
     },
 
     shift () {
-      this.styles = [...Array(this.photos.length).keys()].map(index => {
-        const el = this.$refs.stack.children[index]
-        const ratio = el.width / el.height
-        
+      this.styles = [...Array(this.imagenes.length).keys()].map(index => {
+        // const el = this.$refs.stack.children[index]
+        // const ratio = el.width / el.height
         if (index > 0) {
           return {
             transform: `
@@ -95,33 +98,38 @@ export default {
           }
         }
       })
-    },
-
-    getLink (src) {
-      const filename = URI(src).filename()
-      const link = `https://instagram.com/${filename.split('.')[0]}`
-      return link
     }
   }
 }
 </script>
 
+<style>
+.scrollama-graphic {
+  z-index: 1;
+  overflow-x: hidden;
+}
+</style>
+
 <style scoped>
+.photo-step {
+  height: 20vh; /* espacio vacio */
+  width: auto;
+  padding: 1em;
+  color: lightgray;
+}
+/* .photo-step:first-child {
+  height: 0;
+} */
+
 .photo-stack {
-  position: relative;
+  height: 100vh;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  height: 100vh;
-}
-.photo-step {
-  height: 20vh; /* espacio vacio */
-}
-.photo-step:first-child {
-  height: 0;
 }
 .photo-link {
+  z-index: 999;
   height: 100vh;
   position: absolute;
 }
