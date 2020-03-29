@@ -32,5 +32,36 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: galeria
+  type: field_group
+  config: {}
+  fields:
+  - name: stack
+    type: boolean
+    label: stack
+    default: true
+  - name: autores
+    type: field_group_list
+    fields:
+    - name: nombre
+      type: text
+      config:
+        required: false
+      label: nombre
+    - name: url
+      type: text
+      config:
+        required: false
+      label: url
+    - name: imagenes
+      type: image_gallery
+      config: {}
+      label: imagenes
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: autores
+  label: galeria
 pages:
 - content/proyectos/test.md
