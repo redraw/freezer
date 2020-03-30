@@ -6,9 +6,28 @@ anio: 2020
 galeria:
   stack: true
   autores:
-  - nombre: ''
-    url: ''
-    imagenes: []
+  - nombre: Luciana Maedje
+    url: https://www.instagram.com/lulamaedje/
+    imagenes:
+    - "/v1585593661/2020/maedjeluciana_2_nq7gqv.jpg"
+    - "/v1585593659/2020/maedjeluciana_1_fsvccy.jpg"
+    - "/v1585593662/2020/maedjelu1_i9bvio.jpg"
+    - "/v1585593656/2020/maedjeluciana_3_e1pdgr.jpg"
+  - nombre: Lisandro Hafford
+    url: https://www.instagram.com/lisandrohafford/
+    imagenes:
+    - "/v1585593626/2020/lisandro_hafford_3_mxyiyr.jpg"
+    - "/v1585593626/2020/lisandro_hafford_2_yp4i5l.jpg"
+    - "/v1585593626/2020/lisandro_hafford_5_gtrdsp.jpg"
+  - nombre: Florencia Berdichevsky
+    url: https://www.instagram.com/flor.berdi/
+    imagenes:
+    - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
+    - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
+  - nombre: Flor Quercia
+    url: https://www.instagram.com/vibrando.jpg/
+    imagenes:
+    - "/v1585593494/2020/Florencia_Quercia_1_vib3c7.jpg"
   - nombre: Fernando Verón
     url: https://www.instagram.com/fehrve/
     imagenes:
