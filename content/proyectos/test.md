@@ -6,6 +6,25 @@ anio: 2020
 galeria:
   stack: true
   autores:
+  - nombre: ''
+    url: ''
+    imagenes: []
+  - nombre: Fernando Verón
+    url: https://www.instagram.com/fehrve/
+    imagenes:
+    - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
+  - nombre: Feli Carrizo
+    url: https://www.instagram.com/felicarrizo.fc/
+    imagenes:
+    - "/v1585593402/2020/DECONSTRUCCION_Y_RECONSTRUCCION_by_felipe_carrizo_teszpi.jpg"
+  - nombre: Eli Portela
+    url: https://www.instagram.com/elii.portela/
+    imagenes:
+    - "/v1585593369/2020/4_tf5d10.jpg"
+    - "/v1585593370/2020/3_mcfi8g.jpg"
+    - "/v1585593368/2020/2_je3pyk.jpg"
+    - "/v1585593368/2020/1_qioxtu.jpg"
+    - "/v1585593370/2020/5_xsx0i6.jpg"
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
