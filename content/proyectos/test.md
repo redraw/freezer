@@ -22,7 +22,6 @@ galeria:
   - nombre: Sofia Alfageme
     url: https://www.instagram.com/sofialfageme.fotos/
     imagenes:
-    - "/v1585594921/2020/Sofia-alfageme_cuoemd.jpg"
     - "/v1585594922/2020/Sofia-alfageme1_jcrn1u.jpg"
   - nombre: Trinidad Godoy
     url: https://www.instagram.com/trinigodoy.ph/
