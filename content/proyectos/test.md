@@ -6,10 +6,12 @@ anio: 2020
 galeria:
   stack: true
   autores:
-  - nombre: Trinidad Godoy
-    url: https://www.instagram.com/trinigodoy.ph/
+  - nombre: Sophia Di Girolamo
+    url: https://www.instagram.com/sophiadigirolamo/
     imagenes:
-    - "/v1585595012/2020/Trinidad_02_yjurrs.jpg"
+    - "/v1585594982/2020/Sophia_Di_Girolamo_3_xdhhqf.jpg"
+    - "/v1585594972/2020/Sophia_Di_Girolamo_1_v8utjr.jpg"
+    - "/v1585594969/2020/Sophia_Di_Girolamo_4_qw7ce2.jpg"
   - nombre: Luciana Maedje
     url: https://www.instagram.com/lulamaedje/
     imagenes:
@@ -17,30 +19,24 @@ galeria:
     - "/v1585593659/2020/maedjeluciana_1_fsvccy.jpg"
     - "/v1585593662/2020/maedjelu1_i9bvio.jpg"
     - "/v1585593656/2020/maedjeluciana_3_e1pdgr.jpg"
-  - nombre: Sophia Di Girolamo
-    url: https://www.instagram.com/sophiadigirolamo/
+  - nombre: Sofia Alfageme
+    url: https://www.instagram.com/sofialfageme.fotos/
     imagenes:
-    - "/v1585594982/2020/Sophia_Di_Girolamo_3_xdhhqf.jpg"
-    - "/v1585594972/2020/Sophia_Di_Girolamo_1_v8utjr.jpg"
-    - "/v1585594969/2020/Sophia_Di_Girolamo_4_qw7ce2.jpg"
-  - nombre: Paula Dominguez
-    url: https://www.instagram.com/paula_dominguezzzz/
+    - "/v1585594921/2020/Sofia-alfageme_cuoemd.jpg"
+    - "/v1585594922/2020/Sofia-alfageme1_jcrn1u.jpg"
+  - nombre: Trinidad Godoy
+    url: https://www.instagram.com/trinigodoy.ph/
     imagenes:
-    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
-    - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
+    - "/v1585595012/2020/Trinidad_02_yjurrs.jpg"
+  - nombre: Flor Quercia
+    url: https://www.instagram.com/vibrando.jpg/
+    imagenes:
+    - "/v1585593494/2020/Florencia_Quercia_1_vib3c7.jpg"
   - nombre: Nicolás Rodriguez
     url: ''
     imagenes:
     - "/v1585594582/2020/Nicolas_Rodriguez_III_chc6rx.jpg"
-    - "/v1585594583/2020/Nicolas_Rodriguez_V_i8va3l.jpg"
     - "/v1585594582/2020/Nicolas_Rodriguez_IV_pywmrn.jpg"
-  - nombre: Sofia Alfageme
-    url: https://www.instagram.com/sofialfageme.fotos/
-    imagenes:
-    - "/v1585594939/2020/Sofia-alfageme_jxgyy7.jpg"
-    - "/v1585594939/2020/Sofia-alfageme1_ulrk55.jpg"
-    - "/v1585594921/2020/Sofia-alfageme_cuoemd.jpg"
-    - "/v1585594922/2020/Sofia-alfageme1_jcrn1u.jpg"
   - nombre: Martin Gonzalez
     url: https://www.instagram.com/tinpersian/
     imagenes:
@@ -59,15 +55,16 @@ galeria:
     - "/v1585593626/2020/lisandro_hafford_3_mxyiyr.jpg"
     - "/v1585593626/2020/lisandro_hafford_2_yp4i5l.jpg"
     - "/v1585593626/2020/lisandro_hafford_5_gtrdsp.jpg"
+  - nombre: Paula Dominguez
+    url: https://www.instagram.com/paula_dominguezzzz/
+    imagenes:
+    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
+    - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
   - nombre: Florencia Berdichevsky
     url: https://www.instagram.com/flor.berdi/
     imagenes:
     - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
     - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
-  - nombre: Flor Quercia
-    url: https://www.instagram.com/vibrando.jpg/
-    imagenes:
-    - "/v1585593494/2020/Florencia_Quercia_1_vib3c7.jpg"
   - nombre: Fernando Verón
     url: https://www.instagram.com/fehrve/
     imagenes:
@@ -89,6 +86,11 @@ galeria:
     imagenes:
     - "/v1585445009/2020/L%C3%B3pez_Aldana_3_fbw7ed.jpg"
     - "/v1585445009/2020/L%C3%B3pez_Aldana_m6uvtp.jpg"
+  - nombre: Barbara Figoli
+    url: https://www.instagram.com/barbarafigoli/
+    imagenes:
+    - "/v1585445096/2020/BARBARA_FIGOLI_001_nrzhgj.jpg"
+    - "/v1585445076/2020/BARBARA_FIGOLI_0001_kxjahw.jpg"
   - nombre: Macarena Malaga Porris
     url: https://www.instagram.com/arenaagaris/
     imagenes:
@@ -113,12 +115,7 @@ galeria:
     - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
     - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
     - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
-  - nombre: Barbara Figoli
-    url: https://www.instagram.com/barbarafigoli/
-    imagenes:
-    - "/v1585445096/2020/BARBARA_FIGOLI_001_nrzhgj.jpg"
-    - "/v1585445076/2020/BARBARA_FIGOLI_0001_kxjahw.jpg"
 bg_color: "#C5C3EA"
-fg_color: "#FFFFFF"
+fg_color: "#000000"
 
 ---
