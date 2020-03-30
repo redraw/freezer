@@ -28,10 +28,12 @@ galeria:
     url: https://www.instagram.com/trinigodoy.ph/
     imagenes:
     - "/v1585595012/2020/Trinidad_02_yjurrs.jpg"
-  - nombre: Flor Quercia
-    url: https://www.instagram.com/vibrando.jpg/
+  - nombre: Romeo Flamini
+    url: https://www.instagram.com/flaminiromeo/
     imagenes:
-    - "/v1585593494/2020/Florencia_Quercia_1_vib3c7.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.54.59_uqmlzj.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.55.38_nk1esi.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.55.18_qppdeq.jpg"
   - nombre: Nicolás Rodriguez
     url: ''
     imagenes:
