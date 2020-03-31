@@ -62,6 +62,7 @@ h1 {
 }
 
 .container {
+  width: 100%;
   max-width: 980px;
   margin: 0 auto;
 }
@@ -99,7 +100,8 @@ img[lazy=loaded] {
 .titulo {
   color: white;
   background: black;
-  padding: 1rem 2rem;
+  padding: 2rem;
+  margin-top: 0;
 }
 
 @media screen and (min-width: 720px) {

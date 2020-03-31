@@ -1,33 +1,43 @@
 <template>
-  <header class="header">
-    <div class="container">
+  <header class="container">
+    <div class="menu">
       <g-link :to="{ name: 'home' }" class="home-link">
         <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
         <h2 class="site-name">freezer</h2>
       </g-link>
-      <nav class="nav right">
-        <g-link 
-          v-for="link in $settings.menu" 
-          :key="link.url" 
-          :to="link.url"
-        >
-          {{ link.name }}
-        </g-link>
-      </nav>
+      <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
     </div>
+    <nav class="nav right" :class="{'nav-expand': collapse}">
+      <g-link 
+        v-for="link in $settings.menu" 
+        :key="link.url" 
+        :to="link.url"
+      >
+        {{ link.name }}
+      </g-link>
+    </nav>
   </header>
 </template>
 
-<style scoped>
-.header {
-  margin-bottom: 1rem;
+<script>
+export default {
+  data () {
+    return {
+      collapse: false
+    }
+  },
+
+  methods: {
+    toggleMenu () {
+      this.collapse = !this.collapse
+    }
+  }
 }
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  z-index: 10;
+</script>
+
+<style scoped>
+.menu {
+  padding: 1em;
 }
 .home-link {
   display: flex;
@@ -49,18 +59,52 @@
 .site-name {
   display: none;
 }
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.menu-icon {
+  font-weight: bold;
+  text-decoration: none;
+  padding: 1em;
+  font-size: x-large;
+}
 .nav {
   display: flex;
   flex-flow: column;
+  background: var(--color-contrast);
+  color: var(--color-base);
+  max-height: 0;
+  transition: max-height .2s;
+}
+.nav > * {
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+}
+.nav-expand {
+  max-height: 100%;
 }
 @media screen and (min-width: 720px) {
-  .container {
+  header {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
     justify-content: space-between;
+  }
+  .menu-icon {
+    display: none;
   }
   .nav {
     flex-flow: row;
+    background: var(--color-base);
+    color: var(--color-contrast);
+    max-height: 100%;
   }
   .nav > * {
+    padding: 0;
     font-size: 0.9rem;
     font-weight: 600;
     text-decoration: none;
