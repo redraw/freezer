@@ -73,12 +73,10 @@ export default {
   font-size: x-large;
 }
 .nav {
-  display: flex;
+  display: none;
   flex-flow: column;
   background: var(--color-contrast);
   color: var(--color-base);
-  max-height: 0;
-  transition: max-height .2s;
 }
 .nav > * {
   padding: 1em;
@@ -86,7 +84,8 @@ export default {
   text-decoration: none;
 }
 .nav-expand {
-  max-height: 100%;
+  display: flex;
+  height: auto;
   margin-bottom: 1px;
 }
 @media screen and (min-width: 720px) {
@@ -100,6 +99,7 @@ export default {
     display: none;
   }
   .nav {
+    display: flex;
     flex-flow: row;
     background: inherit;
     color: inherit;
