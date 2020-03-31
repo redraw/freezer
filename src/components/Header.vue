@@ -101,8 +101,8 @@ export default {
   }
   .nav {
     flex-flow: row;
-    background: var(--color-base);
-    color: var(--color-contrast);
+    background: inherit;
+    color: inherit;
     max-height: 100%;
   }
   .nav > * {
