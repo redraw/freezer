@@ -22,16 +22,17 @@ galeria:
   - nombre: Sofia Alfageme
     url: https://www.instagram.com/sofialfageme.fotos/
     imagenes:
-    - "/v1585594921/2020/Sofia-alfageme_cuoemd.jpg"
     - "/v1585594922/2020/Sofia-alfageme1_jcrn1u.jpg"
   - nombre: Trinidad Godoy
     url: https://www.instagram.com/trinigodoy.ph/
     imagenes:
     - "/v1585595012/2020/Trinidad_02_yjurrs.jpg"
-  - nombre: Flor Quercia
-    url: https://www.instagram.com/vibrando.jpg/
+  - nombre: Romeo Flamini
+    url: https://www.instagram.com/flaminiromeo/
     imagenes:
-    - "/v1585593494/2020/Florencia_Quercia_1_vib3c7.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.54.59_uqmlzj.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.55.38_nk1esi.jpg"
+    - "/v1585605628/2020/WhatsApp_Image_2020-03-28_at_20.55.18_qppdeq.jpg"
   - nombre: Nicolás Rodriguez
     url: ''
     imagenes:
@@ -49,12 +50,6 @@ galeria:
     - "/v1585593756/2020/Urretabizkaya_Manuel-03_sxhvdl.jpg"
     - "/v1585593758/2020/Urretabizkaya_Manuel-01_kugqvp.jpg"
     - "/v1585593750/2020/Urretabizkaya_Manuel-04_ylncpx.jpg"
-  - nombre: Lisandro Hafford
-    url: https://www.instagram.com/lisandrohafford/
-    imagenes:
-    - "/v1585593626/2020/lisandro_hafford_3_mxyiyr.jpg"
-    - "/v1585593626/2020/lisandro_hafford_2_yp4i5l.jpg"
-    - "/v1585593626/2020/lisandro_hafford_5_gtrdsp.jpg"
   - nombre: Paula Dominguez
     url: https://www.instagram.com/paula_dominguezzzz/
     imagenes:
@@ -73,6 +68,12 @@ galeria:
     url: https://www.instagram.com/felicarrizo.fc/
     imagenes:
     - "/v1585593402/2020/DECONSTRUCCION_Y_RECONSTRUCCION_by_felipe_carrizo_teszpi.jpg"
+  - nombre: Lisandro Hafford
+    url: https://www.instagram.com/lisandrohafford/
+    imagenes:
+    - "/v1585593626/2020/lisandro_hafford_3_mxyiyr.jpg"
+    - "/v1585593626/2020/lisandro_hafford_2_yp4i5l.jpg"
+    - "/v1585593626/2020/lisandro_hafford_5_gtrdsp.jpg"
   - nombre: Eli Portela
     url: https://www.instagram.com/elii.portela/
     imagenes:
@@ -95,6 +96,14 @@ galeria:
     url: https://www.instagram.com/arenaagaris/
     imagenes:
     - "/v1585592329/2020/macarena_malaga_porris__arenaagaris_iynihu.jpg"
+  - nombre: Clemente Moroni
+    url: https://www.instagram.com/clementinequarentine/
+    imagenes:
+    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
+    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
+    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
+    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
+    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
   - nombre: Clara Marconato
     url: https://www.instagram.com/claramarconato/
     imagenes:
@@ -107,14 +116,6 @@ galeria:
     - "/v1585445326/2020/_MG_0758_qxz4wj.jpg"
     - "/v1585445324/2020/_MG_0732_o7zqnx.jpg"
     - "/v1585445327/2020/_MG_0699_j1oat6.jpg"
-  - nombre: Clemente Moroni
-    url: https://www.instagram.com/clementinequarentine/
-    imagenes:
-    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
-    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
-    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
-    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
-    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
 bg_color: "#C5C3EA"
 fg_color: "#000000"
 
