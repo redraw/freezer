@@ -1,5 +1,5 @@
 ---
-thumbnail: "2020/imagenes_tecnicasweb_g1uz6g.jpg"
+thumbnail: "/2020/imagenes_tecnicasweb_g1uz6g.jpg"
 title: Imágenes Técnicas | Edición Online
 inicio: 2020-04-03T21:00:00Z
 docente: Luciana Demichelis

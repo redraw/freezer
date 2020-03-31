@@ -1,5 +1,5 @@
 ---
-thumbnail: "2020/luzdisponiblebandasweb_dxy53f.jpg"
+thumbnail: "/2020/luzdisponiblebandasweb_dxy53f.jpg"
 title: Luz Disponible | Edición Archivo
 inicio: 2020-04-04T20:00:00Z
 docente: Luciana Demichelis

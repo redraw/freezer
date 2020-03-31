@@ -1,15 +1,11 @@
 <template>
   <Scrollama 
     @step-enter="stepEnter"
-    @step-progress="stepProgress"
     :offset="1"
   >
     <div 
       slot="graphic" 
       class="photo-stack"
-      :style="{
-        'background-color': `rgba(0, 0, 0, ${background.opacity})`
-      }"
     >
       <g-link
         v-for="(imagen, key) in imagenes" 
@@ -21,6 +17,14 @@
       >
         <img
           v-lazy="getImageUrl(imagen.path)"
+          v-tippy="{
+            followCursor: true,
+            popperOptions: {
+              positionFixed: true
+            }
+          }"
+          :content="imagen.autor.nombre"
+          :ref="`img-${key}`"
           class="photo"
         />
       </g-link>
@@ -29,15 +33,12 @@
       v-for="(imagen, key) in imagenes"
       :key="key"
       class="photo-step"
-    >
-      <h3>
-        <i>{{ imagen.autor.nombre }}</i>
-      </h3>
-    </div>
+    />
   </Scrollama>
 </template>
 
 <script>
+import "intersection-observer"
 import Scrollama from 'vue-scrollama'
 
 export default {
@@ -50,10 +51,7 @@ export default {
   data () {
     return {
       index: 0,
-      styles: [],
-      background: {
-        opacity: 0
-      }
+      styles: []
     }
   },
 
@@ -70,14 +68,16 @@ export default {
   methods: {
     stepEnter ({element, index, direction}) {
       this.index = index
+      
       if (index === 0) {
         this.shift()
       }
-    },
 
-    stepProgress({index, progress}) {
-      if (index === 1) {
-        this.background.opacity = progress
+      if (index < this.imagenes.length) {
+        // Load next image
+        // vue-lazyload can't detect next image inside Scrollama's graphic
+        const ref = this.$refs[`img-${index+1}`][0]
+        ref.src = ref.dataset.src
       }
     },
 
@@ -87,12 +87,10 @@ export default {
 
     shift () {
       this.styles = [...Array(this.imagenes.length).keys()].map(index => {
-        // const el = this.$refs.stack.children[index]
-        // const ratio = el.width / el.height
         if (index > 0) {
           return {
             transform: `
-              translateX(${this.random(-25, 25)}vw)
+              translateX(${this.random(-20, 20)}vw)
               scale(${this.random(0.5, 1)})
             `
           }
@@ -115,11 +113,8 @@ export default {
   height: 20vh; /* espacio vacio */
   width: auto;
   padding: 1em;
-  color: lightgray;
+  text-align: right;
 }
-/* .photo-step:first-child {
-  height: 0;
-} */
 
 .photo-stack {
   height: 100vh;
@@ -129,12 +124,11 @@ export default {
   align-items: center;
 }
 .photo-link {
-  z-index: 999;
   height: 100vh;
   position: absolute;
 }
 .photo {
   height: 100vh;
-  object-fit: cover;
+  object-fit: contain;
 }
 </style>

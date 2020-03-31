@@ -1,5 +1,5 @@
 ---
-thumbnail: "2020/01/ficcion_yd78fu.jpg"
+thumbnail: "/2020/01/ficcion_yd78fu.jpg"
 title: ficción y simulacro | curso de producción e investigación a partir de imágenes
   fotográficas
 inicio: 2019-01-04

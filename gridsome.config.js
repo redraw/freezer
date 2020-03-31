@@ -1,12 +1,15 @@
 // This is where project configuration and installed plugin options are located.
 // Learn more: https://gridsome.org/docs/config
 
+const settings = require('./data/theme.json')
+
+
 module.exports = {
-  siteName: "Freezer",
+  siteName: settings.site_name,
   siteUrl: "https://freezer.com.ar",
   host: "0.0.0.0",
-  titleTemplate: "%s - Freezer",
-  siteDescription: "Editora audiovisual",
+  titleTemplate: `%s - ${settings.site_name}`,
+  siteDescription: settings.site_description,
   plugins: [
     {
       use: "@gridsome/source-filesystem",

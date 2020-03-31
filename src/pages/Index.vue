@@ -10,9 +10,9 @@
         class="curso-thumbnail"
       >
         <g-link :to="curso.node.path">
-          <g-image :src="`${$settings.cloudinary_url}/c_scale,w_600/${curso.node.thumbnail}`" 
-                   :class="{'finalizado': curso.node.finalizado}"
-                   class="thumbnail" 
+          <img :src="getImageUrl(curso.node.thumbnail, 'c_scale,w_600')" 
+               :class="{'finalizado': curso.node.finalizado}"
+               class="thumbnail" 
           />
         </g-link>
       </div>
@@ -50,7 +50,7 @@ query Posts {
 .layout, .cursos {
   display: flex;
   flex-flow: column;
-  justify-content: space-around;
+  align-items: center;
 }
 
 .finalizado {
@@ -64,6 +64,7 @@ query Posts {
   }
   .layout {
     flex-flow: row;
+    align-items: inherit;
     justify-content: center;
   }
   .cursos {

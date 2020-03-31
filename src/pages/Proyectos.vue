@@ -9,7 +9,7 @@
           :key="proyecto.node.id"
           class="proyecto"
         >
-          <g-image :src="`${$settings.cloudinary_url}/c_scale,w_400/${proyecto.node.thumbnail}`"/>
+          <img v-lazy="getImageUrl(proyecto.node.thumbnail, 'c_scale,w_400')"/>
           <div class="title">
             <i class="anio">{{ proyecto.node.anio }}</i>
             {{ proyecto.node.title }}

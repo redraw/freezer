@@ -8,14 +8,16 @@
         <div v-html="$page.proyecto.content" class="content" />
       </div>
       <div class="galeria">
-        <div v-if="$page.proyecto.galeria.stack">
+        <div v-if="$page.proyecto.galeria.stack && !isMobile">
           <client-only>
             <photo-stack :data="$page.proyecto.galeria"/>
           </client-only>
         </div>
         <div class="container" v-else>
           <div v-for="(autor, key) in $page.proyecto.galeria.autores" :key="key">
-            <h3 class="autor">{{ autor.nombre }}</h3>
+            <div class="content">
+              <h3 class="autor">{{ autor.nombre }}</h3>
+            </div>
             <img
               v-for="(path, key) in autor.imagenes"
               v-lazy="getImageUrl(path)"
@@ -56,6 +58,12 @@ export default {
   components: {
     ClientOnly,
     PhotoStack
+  },
+
+  computed: {
+    isMobile () {
+      return 'ontouchstart' in document
+    }
   },
 
   metaInfo() {

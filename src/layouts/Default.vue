@@ -67,7 +67,7 @@ h1 {
 }
 
 .content {
-  padding: 0 2rem;
+  padding: 0 1rem;
   margin-bottom: 1rem;
 }
 
@@ -77,6 +77,17 @@ a {
 
 img {
   max-width: 100%;
+  transition: opacity 0.2s;
+}
+
+img[lazy=loading] {
+  opacity: 0;
+  visibility: hidden;
+}
+
+img[lazy=loaded] {
+  opacity: 1;
+  visibility: visible;
 }
 
 .label {
