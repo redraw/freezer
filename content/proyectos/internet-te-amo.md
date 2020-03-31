@@ -46,6 +46,11 @@ galeria:
     - "/v1585593809/2020/Tin_Persian2_znunz5.jpg"
     - "/v1585593808/2020/Tin_Persian1_chwbjy.jpg"
     - "/v1585593804/2020/Tin_Persian5_zau0mf.jpg"
+  - nombre: Florencia Berdichevsky
+    url: https://www.instagram.com/flor.berdi/
+    imagenes:
+    - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
+    - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
   - nombre: Paula Dominguez
     url: https://www.instagram.com/paula_dominguezzzz/
     imagenes:
@@ -61,11 +66,6 @@ galeria:
     url: https://www.instagram.com/fehrve/
     imagenes:
     - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
-  - nombre: Florencia Berdichevsky
-    url: https://www.instagram.com/flor.berdi/
-    imagenes:
-    - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
-    - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
   - nombre: Feli Carrizo
     url: https://www.instagram.com/felicarrizo.fc/
     imagenes:
