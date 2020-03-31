@@ -7,25 +7,25 @@
         </h2>
         <div v-html="$page.proyecto.content" class="content" />
       </div>
-      <div class="galeria">
-        <div v-if="$page.proyecto.galeria.stack && !isMobile">
-          <client-only>
-            <photo-stack :data="$page.proyecto.galeria"/>
-          </client-only>
-        </div>
-        <div class="container" v-else>
-          <div v-for="(autor, key) in $page.proyecto.galeria.autores" :key="key">
-            <div class="content">
-              <h3 class="autor">{{ autor.nombre }}</h3>
+      <client-only>
+        <div class="galeria">
+          <div v-if="$page.proyecto.galeria.stack && !isTouchDevice">
+              <photo-stack :data="$page.proyecto.galeria"/>
+          </div>
+          <div class="container" v-else>
+            <div v-for="(autor, key) in $page.proyecto.galeria.autores" :key="key">
+              <div class="content">
+                <h3 class="autor">{{ autor.nombre }}</h3>
+              </div>
+              <img
+                v-for="(path, key) in autor.imagenes"
+                v-lazy="getImageUrl(path)"
+                :key="key"
+              />
             </div>
-            <img
-              v-for="(path, key) in autor.imagenes"
-              v-lazy="getImageUrl(path)"
-              :key="key"
-            />
           </div>
         </div>
-      </div>
+      </client-only>
     </div>
   </Layout>
 </template>
@@ -61,7 +61,7 @@ export default {
   },
 
   computed: {
-    isMobile () {
+    isTouchDevice () {
       return 'ontouchstart' in document
     }
   },
