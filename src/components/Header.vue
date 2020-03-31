@@ -12,6 +12,7 @@
         v-for="link in $settings.menu" 
         :key="link.url" 
         :to="link.url"
+        @click="collapse = false"
       >
         {{ link.name }}
       </g-link>
@@ -86,6 +87,7 @@ export default {
 }
 .nav-expand {
   max-height: 100%;
+  margin-bottom: 1px;
 }
 @media screen and (min-width: 720px) {
   header {
