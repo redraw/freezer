@@ -1,15 +1,14 @@
 <template>
   <Layout>
     <div class="container content">
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At vero ipsa, iure quaerat laboriosam exercitationem quam minus laudantium dicta, praesentium amet harum sint! Ducimus consequatur sint eos voluptatum sed eligendi.</p>
       <div class="proyectos">
         <g-link 
           v-for="proyecto in $page.proyectos.edges" 
-          :href="proyecto.node.path" 
+          :to="proyecto.node.path" 
           :key="proyecto.node.id"
           class="proyecto"
         >
-          <img v-lazy="getImageUrl(proyecto.node.thumbnail, 'c_scale,w_400')"/>
+          <img v-lazy="getImageUrl(proyecto.node.thumbnail, 'c_fill,w_250,h_250')"/>
           <div class="title">
             <i class="anio">{{ proyecto.node.anio }}</i>
             {{ proyecto.node.title }}

@@ -1,8 +1,8 @@
 <template>
   <div class="layout">
-    <Header />
+    <Header v-if="showHeader" />
     <slot/>
-    <Footer />
+    <Footer v-if="showFooter" />
   </div>
 </template>
 
@@ -11,6 +11,15 @@ import Header from "@/components/Header"
 import Footer from "@/components/Footer"
 
 export default {
+  props: {
+    showHeader: {
+      default: true
+    },
+    showFooter: {
+      default: true
+    }
+  },
+
   components: {
     Header,
     Footer

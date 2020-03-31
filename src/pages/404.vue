@@ -25,7 +25,6 @@ export default {
 
   async mounted () {
     const data = await this.fetchGifs()
-    console.log(data)
     this.gifs = data.map(result => result.images.downsized_large.url)
     this.slideshow()
   },

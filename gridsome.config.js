@@ -50,6 +50,6 @@ module.exports = {
     }
   },
   templates: {
-    SinglePage: "/:title"
+    SinglePage: node => `/${node.title}`
   }
 };
