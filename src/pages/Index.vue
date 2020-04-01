@@ -79,7 +79,7 @@ export default {
   },
 
   async mounted () {
-    const data = await fetchGifs('premiere', 'stickers')
+    const data = await fetchGifs('party', 'stickers')
     const gifs = data.map(item => item.images.downsized.url)
     this.premiereGif = gifs[Math.floor(Math.random() * gifs.length)]
   }
