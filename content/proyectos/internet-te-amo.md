@@ -57,7 +57,7 @@ galeria:
     - "/v1585593758/2020/Urretabizkaya_Manuel-01_kugqvp.jpg"
     - "/v1585593750/2020/Urretabizkaya_Manuel-04_ylncpx.jpg"
   - nombre: Florencia Berdichevsky
-    url: https://www.instagram.com/flor.berdi/
+    url: https://www.instagram.com/florberdi/
     imagenes:
     - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
     - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
