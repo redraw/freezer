@@ -40,6 +40,14 @@ galeria:
     imagenes:
     - "/v1585594582/2020/Nicolas_Rodriguez_III_chc6rx.jpg"
     - "/v1585594582/2020/Nicolas_Rodriguez_IV_pywmrn.jpg"
+  - nombre: Clemente Moroni
+    url: https://www.instagram.com/clementinequarentine/
+    imagenes:
+    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
+    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
+    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
+    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
+    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
   - nombre: Martin Gonzalez
     url: https://www.instagram.com/tinpersian/
     imagenes:
@@ -51,25 +59,25 @@ galeria:
     imagenes:
     - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
     - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
+  - nombre: Fernando Verón
+    url: https://www.instagram.com/fehrve/
+    imagenes:
+    - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
   - nombre: Paula Dominguez
     url: https://www.instagram.com/paula_dominguezzzz/
     imagenes:
     - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
     - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
+  - nombre: Feli Carrizo
+    url: https://www.instagram.com/felicarrizo.fc/
+    imagenes:
+    - "/v1585593402/2020/DECONSTRUCCION_Y_RECONSTRUCCION_by_felipe_carrizo_teszpi.jpg"
   - nombre: Manuel Urretabizcaya
     url: https://www.instagram.com/elmurre/
     imagenes:
     - "/v1585593756/2020/Urretabizkaya_Manuel-03_sxhvdl.jpg"
     - "/v1585593758/2020/Urretabizkaya_Manuel-01_kugqvp.jpg"
     - "/v1585593750/2020/Urretabizkaya_Manuel-04_ylncpx.jpg"
-  - nombre: Fernando Verón
-    url: https://www.instagram.com/fehrve/
-    imagenes:
-    - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
-  - nombre: Feli Carrizo
-    url: https://www.instagram.com/felicarrizo.fc/
-    imagenes:
-    - "/v1585593402/2020/DECONSTRUCCION_Y_RECONSTRUCCION_by_felipe_carrizo_teszpi.jpg"
   - nombre: Lisandro Hafford
     url: https://www.instagram.com/lisandrohafford/
     imagenes:
@@ -94,14 +102,6 @@ galeria:
     imagenes:
     - "/v1585445096/2020/BARBARA_FIGOLI_001_nrzhgj.jpg"
     - "/v1585445076/2020/BARBARA_FIGOLI_0001_kxjahw.jpg"
-  - nombre: Clemente Moroni
-    url: https://www.instagram.com/clementinequarentine/
-    imagenes:
-    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
-    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
-    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
-    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
-    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
   - nombre: Camila Flores
     url: https://www.instagram.com/camillee.flores/
     imagenes:
