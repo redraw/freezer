@@ -10,7 +10,11 @@ fields:
 - type: file
   name: thumbnail
   label: Thumbnail
-  description: This will only show up on the front page
+- name: premiere
+  type: boolean
+  label: premiere
+  default: false
+  description: Agrega link de estreno con gifs en pagina de inicio :)
 - name: galeria
   type: field_group
   config: {}
