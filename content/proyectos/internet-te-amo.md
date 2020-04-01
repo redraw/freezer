@@ -112,8 +112,11 @@ galeria:
   - nombre: Paula Dominguez
     url: https://www.instagram.com/paula_dominguezzzz/
     imagenes:
-    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
+    - "/v1585776601/2020/Paula_Dominguez2_qmdxhi.jpg"
     - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
+    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
+    - "/v1585776612/2020/Paula_Dominguez1_ri9f2s.jpg"
+    - "/v1585776612/2020/Paula_Domimnguez4_i5whwc.jpg"
   - nombre: Macarena Malaga Porris
     url: https://www.instagram.com/arenaagaris/
     imagenes:
