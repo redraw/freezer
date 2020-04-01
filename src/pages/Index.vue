@@ -1,5 +1,14 @@
 <template>
-  <div class="layout">
+  <div class="home-layout">
+    <div class="premiere" v-if="premiere">
+      <div class="premiere-header">
+        <h4>{{ premiere.title }}</h4>
+      </div>
+      <g-link :to="premiere.path">
+        <g-image v-if="premiereGif" class="premiere-gif" :src="premiereGif"/>
+        <g-image :src="getImageUrl(premiere.thumbnail, 'c_fill,w_250,h_250')"/>
+      </g-link>
+    </div>
     <g-link to="/contacto" class="logo flicker-in-1">
       <g-image src="/logo.png" :alt="$settings.site_name"/>
     </g-link>
@@ -10,9 +19,9 @@
         class="curso-thumbnail"
       >
         <g-link :to="curso.node.path">
-          <img :src="getImageUrl(curso.node.thumbnail, 'c_scale,w_600')" 
-               :class="{'finalizado': curso.node.finalizado}"
-               class="thumbnail" 
+          <g-image :src="getImageUrl(curso.node.thumbnail, 'c_scale,w_600')" 
+              :class="{'finalizado': curso.node.finalizado}"
+              class="thumbnail" 
           />
         </g-link>
       </div>
@@ -21,7 +30,7 @@
 </template>
 
 <page-query>
-query Posts {
+query Home {
   cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "inicio", order: ASC}]) {
     edges {
       node {
@@ -34,8 +43,48 @@ query Posts {
       }
     }
   }
+  proyectos: allProyecto (filter: { premiere: { eq: true } }) {
+    edges {
+      node {
+        path
+        title
+        thumbnail
+      }
+    }
+  }
 }
 </page-query>
+
+<script>
+import { fetchGifs } from '~/utils/giphy'
+import { ClientOnly } from 'vue-client-only'
+
+export default {
+  components: {
+    ClientOnly
+  },
+
+  data () {
+    return {
+      premiereGif: ''
+    }
+  },
+
+  computed: {
+    premiere () {
+      if (this.$page.proyectos && this.$page.proyectos.edges.length) {
+        return this.$page.proyectos.edges[0].node
+      }
+    }
+  },
+
+  async mounted () {
+    const data = await fetchGifs('premiere', 'stickers')
+    const gifs = data.map(item => item.images.downsized.url)
+    this.premiereGif = gifs[Math.floor(Math.random() * gifs.length)]
+  }
+}
+</script>
 
 <style scoped>
 .logo {
@@ -47,7 +96,13 @@ query Posts {
   max-width: 40vw;
 }
 
-.layout, .cursos {
+.home-layout {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.cursos {
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -57,21 +112,37 @@ query Posts {
   opacity: 0.4;
 }
 
+.premiere {
+  position: relative;
+}
+
+.premiere-header {
+  margin: 1em;
+}
+
+.premiere-gif {
+  position: absolute;
+  width: 100%;
+}
+
 @media screen and (min-width: 720px) {
   .logo {
     position: sticky;
     top: 10vw;
   }
-  .layout {
+  .home-layout {
     flex-flow: row;
     align-items: inherit;
-    justify-content: center;
+    justify-content: space-between;
   }
   .cursos {
     justify-content: center;
   }
   .thumbnail {
     height: 100vh;
+  }
+  .premiere {
+    padding: 2em;
   }
 }
 .flicker-in-1{-webkit-animation:flicker-in-1 2s linear both;animation:flicker-in-1 2s linear both}
