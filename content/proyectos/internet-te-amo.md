@@ -6,10 +6,6 @@ anio: 2020
 galeria:
   stack: true
   autores:
-  - nombre: 'encuentro online | Jitsi Meet '
-    url: " https://meet.jit.si/OrangeParrotsRhymeMagnificently"
-    imagenes:
-    - "/v1585775154/2020/paraelsitio_kdrezf.jpg"
   - nombre: Sophia Di Girolamo
     url: https://www.instagram.com/sophiadigirolamo/
     imagenes:
@@ -122,6 +118,10 @@ galeria:
     url: https://www.instagram.com/arenaagaris/
     imagenes:
     - "/v1585592329/2020/macarena_malaga_porris__arenaagaris_iynihu.jpg"
+  - nombre: encuentro online | 1 de abril 19-21 hs.
+    url: " https://meet.jit.si/OrangeParrotsRhymeMagnificently"
+    imagenes:
+    - "/v1585775154/2020/paraelsitio_kdrezf.jpg"
 bg_color: "#C5C3EA"
 fg_color: "#000000"
 
