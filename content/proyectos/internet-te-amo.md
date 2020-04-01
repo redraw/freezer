@@ -19,6 +19,10 @@ galeria:
     - "/v1585593659/2020/maedjeluciana_1_fsvccy.jpg"
     - "/v1585593662/2020/maedjelu1_i9bvio.jpg"
     - "/v1585593656/2020/maedjeluciana_3_e1pdgr.jpg"
+  - nombre: Fernando Verón
+    url: https://www.instagram.com/fehrve/
+    imagenes:
+    - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
   - nombre: Sofia Alfageme
     url: https://www.instagram.com/sofialfageme.fotos/
     imagenes:
@@ -46,15 +50,17 @@ galeria:
     - "/v1585593809/2020/Tin_Persian2_znunz5.jpg"
     - "/v1585593808/2020/Tin_Persian1_chwbjy.jpg"
     - "/v1585593804/2020/Tin_Persian5_zau0mf.jpg"
+  - nombre: Manuel Urretabizcaya
+    url: https://www.instagram.com/elmurre/
+    imagenes:
+    - "/v1585593756/2020/Urretabizkaya_Manuel-03_sxhvdl.jpg"
+    - "/v1585593758/2020/Urretabizkaya_Manuel-01_kugqvp.jpg"
+    - "/v1585593750/2020/Urretabizkaya_Manuel-04_ylncpx.jpg"
   - nombre: Florencia Berdichevsky
     url: https://www.instagram.com/flor.berdi/
     imagenes:
     - "/v1585593533/2020/FlorenciaBerdichevsky_3_sgk1vq.jpg"
     - "/v1585593533/2020/FlorenciaBerdichevsky_5_ehwbvt.jpg"
-  - nombre: Fernando Verón
-    url: https://www.instagram.com/fehrve/
-    imagenes:
-    - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
@@ -67,12 +73,6 @@ galeria:
     url: https://www.instagram.com/felicarrizo.fc/
     imagenes:
     - "/v1585593402/2020/DECONSTRUCCION_Y_RECONSTRUCCION_by_felipe_carrizo_teszpi.jpg"
-  - nombre: Manuel Urretabizcaya
-    url: https://www.instagram.com/elmurre/
-    imagenes:
-    - "/v1585593756/2020/Urretabizkaya_Manuel-03_sxhvdl.jpg"
-    - "/v1585593758/2020/Urretabizkaya_Manuel-01_kugqvp.jpg"
-    - "/v1585593750/2020/Urretabizkaya_Manuel-04_ylncpx.jpg"
   - nombre: Lisandro Hafford
     url: https://www.instagram.com/lisandrohafford/
     imagenes:
