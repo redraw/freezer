@@ -8,6 +8,10 @@
   "hero_subtitle": "",
   "menu": [
     {
+      "name": "Proyectos",
+      "url": "/proyectos"
+    },
+    {
       "name": "Cursos",
       "url": "/"
     },
