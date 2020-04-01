@@ -6,6 +6,10 @@ anio: 2020
 galeria:
   stack: true
   autores:
+  - nombre: 'encuentro online | Jitsi Meet '
+    url: " https://meet.jit.si/OrangeParrotsRhymeMagnificently"
+    imagenes:
+    - "/v1585775154/2020/paraelsitio_kdrezf.jpg"
   - nombre: Sophia Di Girolamo
     url: https://www.instagram.com/sophiadigirolamo/
     imagenes:
