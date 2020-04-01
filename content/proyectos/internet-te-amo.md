@@ -40,14 +40,6 @@ galeria:
     imagenes:
     - "/v1585594582/2020/Nicolas_Rodriguez_III_chc6rx.jpg"
     - "/v1585594582/2020/Nicolas_Rodriguez_IV_pywmrn.jpg"
-  - nombre: Clemente Moroni
-    url: https://www.instagram.com/clementinequarentine/
-    imagenes:
-    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
-    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
-    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
-    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
-    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
   - nombre: Martin Gonzalez
     url: https://www.instagram.com/tinpersian/
     imagenes:
@@ -63,11 +55,14 @@ galeria:
     url: https://www.instagram.com/fehrve/
     imagenes:
     - "/v1585593434/2020/IMG-20191019-WA0022-01_srcqoy.jpg"
-  - nombre: Paula Dominguez
-    url: https://www.instagram.com/paula_dominguezzzz/
+  - nombre: Clemente Moroni
+    url: https://www.instagram.com/clementinequarentine/
     imagenes:
-    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
-    - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
+    - "/v1585592365/2020/ClementeMoroni2_bur4lw.jpg"
+    - "/v1585592364/2020/ClementeMoroni1_dkzhyq.jpg"
+    - "/v1585592364/2020/ClementeMoroni5_j4tolb.jpg"
+    - "/v1585592365/2020/ClementeMoroni4_xnlrj8.jpg"
+    - "/v1585592364/2020/ClementeMoroni3_h92tep.jpg"
   - nombre: Feli Carrizo
     url: https://www.instagram.com/felicarrizo.fc/
     imagenes:
@@ -92,6 +87,12 @@ galeria:
     - "/v1585593368/2020/2_je3pyk.jpg"
     - "/v1585593368/2020/1_qioxtu.jpg"
     - "/v1585593370/2020/5_xsx0i6.jpg"
+  - nombre: Clara Marconato
+    url: https://www.instagram.com/claramarconato/
+    imagenes:
+    - "/v1585592266/2020/Clara_Marconato_4_bv5emu.jpg"
+    - "/v1585592265/2020/Clara_Marconato_3_jsr7g5.jpg"
+    - "/v1585592266/2020/Clara_Marconato_1_cjqj5s.jpg"
   - nombre: Lopez Aldana
     url: https://www.instagram.com/aaldanalopez/
     imagenes:
@@ -108,16 +109,15 @@ galeria:
     - "/v1585445326/2020/_MG_0758_qxz4wj.jpg"
     - "/v1585445324/2020/_MG_0732_o7zqnx.jpg"
     - "/v1585445327/2020/_MG_0699_j1oat6.jpg"
+  - nombre: Paula Dominguez
+    url: https://www.instagram.com/paula_dominguezzzz/
+    imagenes:
+    - "/v1585594849/2020/Paula_Dominguez3_epv2az.jpg"
+    - "/v1585594849/2020/Paula_Dominguez5_ln8ypm.jpg"
   - nombre: Macarena Malaga Porris
     url: https://www.instagram.com/arenaagaris/
     imagenes:
     - "/v1585592329/2020/macarena_malaga_porris__arenaagaris_iynihu.jpg"
-  - nombre: Clara Marconato
-    url: https://www.instagram.com/claramarconato/
-    imagenes:
-    - "/v1585592266/2020/Clara_Marconato_4_bv5emu.jpg"
-    - "/v1585592265/2020/Clara_Marconato_3_jsr7g5.jpg"
-    - "/v1585592266/2020/Clara_Marconato_1_cjqj5s.jpg"
 bg_color: "#C5C3EA"
 fg_color: "#000000"
 
