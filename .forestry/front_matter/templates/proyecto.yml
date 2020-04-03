@@ -14,7 +14,11 @@ fields:
   type: boolean
   label: premiere
   default: false
-  description: Agrega link de estreno con gifs en pagina de inicio :)
+  description: Agrega thumbnail del proyecto en la pagina de inicio
+- name: gifs_hashtag
+  type: text
+  label: premiere (GIFs)
+  description: Termino de búsqueda en GIPHY (por ej. party)
 - name: galeria
   type: field_group
   config: {}

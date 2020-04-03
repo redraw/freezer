@@ -60,6 +60,7 @@ query Home {
         path
         title
         thumbnail
+        gifs_hashtag
       }
     }
   }
@@ -68,13 +69,8 @@ query Home {
 
 <script>
 import { fetchGifs } from '~/utils/giphy'
-import { ClientOnly } from 'vue-client-only'
 
 export default {
-  components: {
-    ClientOnly
-  },
-
   data () {
     return {
       premiereGif: ''
@@ -90,9 +86,11 @@ export default {
   },
 
   async mounted () {
-    const data = await fetchGifs('party', 'stickers')
-    const gifs = data.map(item => item.images.downsized.url)
-    this.premiereGif = gifs[Math.floor(Math.random() * gifs.length)]
+    if (this.premiere && this.premiere.gifs_hashtag) {
+      const data = await fetchGifs(this.premiere.gifs_hashtag, 'stickers')
+      const gifs = data.map(item => item.images.downsized.url)
+      this.premiereGif = gifs[Math.floor(Math.random() * gifs.length)]
+    }
   }
 }
 </script>
