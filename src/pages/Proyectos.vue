@@ -21,7 +21,7 @@
 
 <page-query>
 query {
-  proyectos: allProyecto {
+  proyectos: allProyecto (filter: { listado: { eq: true } }) {
     edges {
       node {
         id
