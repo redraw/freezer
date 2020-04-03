@@ -10,6 +10,7 @@ galeria:
     imagenes: []
 date: 2020-04-03
 title: 'Luz Disponible '
+listado: false
 thumbnail: ''
 premiere: false
 gifs_hashtag: ''

@@ -7,6 +7,11 @@ fields:
   label: Title
   config:
     required: true
+- name: listado
+  type: boolean
+  label: listado
+  default: true
+  description: Listado en la seccion Proyectos
 - type: file
   name: thumbnail
   label: Thumbnail
