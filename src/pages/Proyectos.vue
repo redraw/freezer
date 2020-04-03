@@ -8,10 +8,10 @@
           :key="proyecto.node.id"
           class="proyecto"
         >
-          <img v-lazy="getImageUrl(proyecto.node.thumbnail, 'c_fill,w_250,h_250')"/>
+          <g-image class="thumb" :src="getImageUrl(proyecto.node.thumbnail, 'c_fill,w_500,h_500')"/>
           <div class="title">
             <i class="anio">{{ proyecto.node.anio }}</i>
-            {{ proyecto.node.title }}
+            / {{ proyecto.node.title }}
           </div>
         </g-link>
       </div>
@@ -43,14 +43,25 @@ query {
     width: 100%;
   }
   .proyecto:hover {
-    color: white;
-    background: black;
+    background: rgb(240, 240, 240);
   }
   .title {
     padding: 1em;
     font-size: x-large;
   }
-  .thumbnail {
-    flex-basis: 250px;
+  .thumb {
+    width: 100%;
+  }
+  .title {
+    display: none;
+  }
+  @media screen and (min-width: 720px) {
+    .title {
+      display: inherit;
+    }
+    .thumb {
+      width: 150px;
+      height: 150px;
+    }
   }
 </style>

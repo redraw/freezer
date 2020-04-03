@@ -1,13 +1,24 @@
 <template>
   <div class="home-layout">
-    <div class="premiere" v-if="premiere">
-      <div class="premiere-header">
-        <h4>{{ premiere.title }}</h4>
+    <div class="home-left">
+      <div class="menu">
+        <g-link 
+          v-for="link in $settings.menu" 
+          :key="link.url" 
+          :to="link.url"
+        >
+          {{ link.name }}
+        </g-link>
       </div>
-      <g-link :to="premiere.path">
-        <g-image v-if="premiereGif" class="premiere-gif" :src="premiereGif"/>
-        <g-image :src="getImageUrl(premiere.thumbnail, 'c_fill,w_250,h_250')"/>
-      </g-link>
+      <div class="premiere" v-if="premiere">
+        <div class="premiere-header">
+          <h4>{{ premiere.title }}</h4>
+        </div>
+        <g-link :to="premiere.path">
+          <g-image v-if="premiereGif" class="premiere-gif" :src="premiereGif"/>
+          <g-image :src="getImageUrl(premiere.thumbnail, 'c_fill,w_250,h_250')"/>
+        </g-link>
+      </div>
     </div>
     <g-link to="/contacto" class="logo flicker-in-1">
       <g-image src="/logo.png" :alt="$settings.site_name"/>
@@ -43,7 +54,7 @@ query Home {
       }
     }
   }
-  proyectos: allProyecto (filter: { premiere: { eq: true } }) {
+  premieres: allProyecto (filter: { premiere: { eq: true } }) {
     edges {
       node {
         path
@@ -72,8 +83,8 @@ export default {
 
   computed: {
     premiere () {
-      if (this.$page.proyectos && this.$page.proyectos.edges.length) {
-        return this.$page.proyectos.edges[0].node
+      if (this.$page.premieres && this.$page.premieres.edges.length) {
+        return this.$page.premieres.edges[0].node
       }
     }
   },
@@ -100,6 +111,16 @@ export default {
   display: flex;
   flex-flow: column;
   align-items: center;
+}
+
+.menu {
+  display: flex;
+  flex-flow: column;
+  padding: 2em;
+}
+
+.menu a {
+  padding: 0.2em;
 }
 
 .cursos {
