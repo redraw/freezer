@@ -22,8 +22,8 @@ export default function(Vue, { head }) {
     observer: true
   })
 
-  Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_scale,w_auto:800") => {
-    return `${settings.cloudinary_url}/${cloudinaryParams}${path}`
+  Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_limit,w_1280,h_920") => {
+    return `${settings.cloudinary_url}/${cloudinaryParams + ",q_85"}${path}`
   }
 
   // misc
