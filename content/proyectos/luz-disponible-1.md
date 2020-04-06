@@ -101,12 +101,12 @@ galeria:
     - "/v1585965041/2020/2_stkfsh.jpg"
     - "/v1585965080/2020/3_u0vl3b.jpg"
 date: 2020-04-03
-title: 'Luz Disponible '
+title: 'Luz Disponible #1'
 listado: false
 thumbnail: ''
 premiere: false
 gifs_hashtag: ''
 bg_color: "#1D1D1D"
-fg_color: ''
+fg_color: "#FFFFFF"
 
 ---
