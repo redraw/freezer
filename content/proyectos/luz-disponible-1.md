@@ -2,9 +2,12 @@
 galeria:
   stack: true
   autores:
-  - nombre: ''
-    url: ''
-    imagenes: []
+  - nombre: Clemente Moroni
+    url: https://www.instagram.com/clementinequarentine/
+    imagenes:
+    - "/v1586189114/2020/002_y8bueq.jpg"
+    - "/v1586189122/2020/1_gg2hpw.jpg"
+    - "/v1586189118/2020/3_qe7amg.jpg"
   - nombre: Flor Nieves
     url: https://www.instagram.com/flornieves__/
     imagenes:
