@@ -2,6 +2,16 @@
 galeria:
   stack: true
   autores:
+  - nombre: 'Denise Gay '
+    url: ''
+    imagenes:
+    - "/v1586194005/2020/14_fkee0j.jpg"
+    - "/v1586193999/2020/13_mv5tuz.jpg"
+    - "/v1586193236/2020/10_vy1vjp.jpg"
+    - "/v1586193244/2020/5_adus9q.png"
+    - "/v1586193029/2020/2_wxaxbu.png"
+    - "/v1586193031/2020/1_cmi8tu.png"
+    - "/v1586193027/2020/3_v93pi6.png"
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
