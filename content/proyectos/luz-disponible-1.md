@@ -3,8 +3,15 @@ galeria:
   stack: true
   autores:
   - nombre: 'Denise Gay '
-    url: ''
+    url: https://www.instagram.com/denise.gay/
     imagenes:
+    - "/v1586194727/2020/nopal-101_fxwolb.jpg"
+    - "/v1586194723/2020/14_wmlvcl.jpg"
+    - "/v1586194720/2020/nopal-87_rjsfnr.jpg"
+    - "/v1586194702/2020/9_lqmztr.jpg"
+    - "/v1586194702/2020/13_e0iril.jpg"
+    - "/v1586194686/2020/2_ym0di0.jpg"
+    - "/v1586194686/2020/8_a78wd5.jpg"
     - "/v1586194005/2020/14_fkee0j.jpg"
     - "/v1586193999/2020/13_mv5tuz.jpg"
     - "/v1586193236/2020/10_vy1vjp.jpg"
@@ -71,7 +78,7 @@ listado: false
 thumbnail: ''
 premiere: false
 gifs_hashtag: ''
-bg_color: ''
+bg_color: "#1D1D1D"
 fg_color: ''
 
 ---
