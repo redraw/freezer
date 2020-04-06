@@ -2,6 +2,21 @@
 galeria:
   stack: true
   autores:
+  - nombre: Bruno Genchi
+    url: https://www.instagram.com/br1_gen/
+    imagenes:
+    - "/v1586198105/2020/2_ndpcoj.jpg"
+    - "/v1586198076/2020/1_xiwqbe.jpg"
+    - "/v1586197695/2020/4_c8ia3m.jpg"
+    - "/v1586197697/2020/3_pyivrm.jpg"
+    - "/v1586197487/2020/5_rjbte2.jpg"
+    - "/v1586197486/2020/6_g2yof7.jpg"
+    - "/v1586197398/2020/8_ky6rir.jpg"
+    - "/v1586197398/2020/7_g7lcuy.jpg"
+    - "/v1586197365/2020/10_bufm7r.jpg"
+    - "/v1586197365/2020/9_xnews9.jpg"
+    - "/v1586197234/2020/12_dofcop.jpg"
+    - "/v1586197234/2020/11_xnjnmv.jpg"
   - nombre: Valentina Gaggiotti
     url: https://www.instagram.com/valgax_/
     imagenes:
