@@ -5,8 +5,8 @@ galeria:
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
-    - "/v1586191529/2020/15_smto10.jpg"
     - "/v1586191513/2020/16_kwn56w.jpg"
+    - "/v1586191529/2020/15_smto10.jpg"
     - "/v1586191472/2020/13_iwvzy3.jpg"
     - "/v1586191470/2020/14_kvblt4.jpg"
     - "/v1586191143/2020/11_mlggnn.jpg"
