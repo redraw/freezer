@@ -2,6 +2,19 @@
 galeria:
   stack: true
   autores:
+  - nombre: Valentina Gaggiotti
+    url: https://www.instagram.com/valgax_/
+    imagenes:
+    - "/v1586196327/2020/5_jhej7x.jpg"
+    - "/v1586196327/2020/5a_u0d1an.jpg"
+    - "/v1586196305/2020/4a_nezk2t.jpg"
+    - "/v1586196305/2020/4_l0hnvw.jpg"
+    - "/v1586196279/2020/3_cmstom.jpg"
+    - "/v1586196279/2020/3a_hzqlxr.jpg"
+    - "/v1586196221/2020/2_rubhwr.jpg"
+    - "/v1586196222/2020/2a_lxp3qe.jpg"
+    - "/v1586195056/2020/1_fcdpa0.jpg"
+    - "/v1586195057/2020/1a_hbyfwe.jpg"
   - nombre: 'Denise Gay '
     url: https://www.instagram.com/denise.gay/
     imagenes:
