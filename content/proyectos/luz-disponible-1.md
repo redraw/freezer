@@ -5,8 +5,10 @@ galeria:
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
-    - "/v1586189114/2020/002_y8bueq.jpg"
+    - "/v1586189739/2020/4_dtnmgg.jpg"
+    - "/v1586189749/2020/6_bm8s48.jpg"
     - "/v1586189122/2020/1_gg2hpw.jpg"
+    - "/v1586189114/2020/002_y8bueq.jpg"
     - "/v1586189118/2020/3_qe7amg.jpg"
   - nombre: Flor Nieves
     url: https://www.instagram.com/flornieves__/
