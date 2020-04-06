@@ -7,7 +7,20 @@ galeria:
     imagenes: []
   - nombre: Flor Nieves
     url: https://www.instagram.com/flornieves__/
-    imagenes: []
+    imagenes:
+    - "/v1586188454/2020/13_n8fxid.jpg"
+    - "/v1586188265/2020/11_spnm6w.jpg"
+    - "/v1586188264/2020/10_ojiy8z.jpg"
+    - "/v1586188281/2020/12_y7w9st.jpg"
+    - "/v1586188187/2020/8_saxo9k.jpg"
+    - "/v1586188187/2020/7_g9gzsk.jpg"
+    - "/v1586188187/2020/9_xzcm4o.jpg"
+    - "/v1586188173/2020/4_jgmel7.jpg"
+    - "/v1586188173/2020/6_turbly.jpg"
+    - "/v1586188173/2020/5_jzqupu.jpg"
+    - "/v1586188141/2020/2_hbyjnm.jpg"
+    - "/v1586188141/2020/1_jwjkmn.jpg"
+    - "/v1586188141/2020/3_x74d0p.jpg"
   - nombre: Julian Sancholuz
     url: https://www.behance.net/sancholuzjulian
     imagenes:
