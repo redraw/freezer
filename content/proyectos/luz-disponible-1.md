@@ -49,19 +49,19 @@ galeria:
   - nombre: 'Denise Gay '
     url: https://www.instagram.com/denise.gay/
     imagenes:
-    - "/v1586194727/2020/nopal-101_fxwolb.jpg"
-    - "/v1586194723/2020/14_wmlvcl.jpg"
-    - "/v1586194720/2020/nopal-87_rjsfnr.jpg"
-    - "/v1586194702/2020/9_lqmztr.jpg"
-    - "/v1586194702/2020/13_e0iril.jpg"
-    - "/v1586194686/2020/2_ym0di0.jpg"
-    - "/v1586194686/2020/8_a78wd5.jpg"
-    - "/v1586194005/2020/14_fkee0j.jpg"
-    - "/v1586193236/2020/10_vy1vjp.jpg"
-    - "/v1586193244/2020/5_adus9q.png"
-    - "/v1586193029/2020/2_wxaxbu.png"
-    - "/v1586193031/2020/1_cmi8tu.png"
-    - "/v1586193027/2020/3_v93pi6.png"
+    - "/v1586379494/2020/1_mvuuvp.jpg"
+    - "/v1586379593/2020/2_sjapoc.jpg"
+    - "/v1586379612/2020/3_gyoiva.jpg"
+    - "/v1586379596/2020/4_kgpsqq.jpg"
+    - "/v1586380115/2020/5_u8wktu.jpg"
+    - "/v1586380193/2020/6_hoqnjf.jpg"
+    - "/v1586380304/2020/9_v9tg2k.jpg"
+    - "/v1586380431/2020/10_tgxr9c.jpg"
+    - "/v1586380904/2020/12_dqpsov.jpg"
+    - "/v1586380744/2020/11_hiewh3.jpg"
+    - "/v1586381428/2020/12_t6esc1.jpg"
+    - "/v1586381538/2020/13_zka2uk.jpg"
+    - "/v1586381593/2020/14-2_fwxdvw.jpg"
   - nombre: Julian Sancholuz
     url: https://www.behance.net/sancholuzjulian
     imagenes:
