@@ -101,7 +101,7 @@ galeria:
     - "/v1586191513/2020/16_kwn56w.jpg"
     - "/v1586382019/2020/DSC_0108_h8apks.jpg"
 date: 2020-04-03
-title: '2020 / Luz Disponible #1'
+title: 'Luz Disponible #1'
 listado: true
 thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
 premiere: false
