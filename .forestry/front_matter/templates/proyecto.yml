@@ -12,6 +12,11 @@ fields:
   label: listado
   default: true
   description: Listado en la seccion Proyectos
+- name: anio
+  type: text
+  config:
+    required: false
+  label: anio
 - type: file
   name: thumbnail
   label: Thumbnail
