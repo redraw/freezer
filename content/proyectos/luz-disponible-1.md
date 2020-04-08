@@ -102,7 +102,7 @@ galeria:
     - "/v1586382019/2020/DSC_0108_h8apks.jpg"
 date: 2020-04-03
 title: 'Luz Disponible #1'
-listado: false
+listado: true
 thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
 premiere: false
 gifs_hashtag: ''
