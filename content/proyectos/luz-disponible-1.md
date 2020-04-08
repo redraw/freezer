@@ -103,7 +103,7 @@ galeria:
 date: 2020-04-03
 title: 'Luz Disponible #1'
 listado: false
-thumbnail: ''
+thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: "#141414"
