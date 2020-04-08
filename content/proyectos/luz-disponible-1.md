@@ -106,7 +106,7 @@ listado: false
 thumbnail: ''
 premiere: false
 gifs_hashtag: ''
-bg_color: "#000000"
+bg_color: "#141414"
 fg_color: "#FFFFFF"
 
 ---
