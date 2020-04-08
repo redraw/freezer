@@ -99,6 +99,7 @@ galeria:
     - "/v1586191470/2020/14_kvblt4.jpg"
     - "/v1586191529/2020/15_smto10.jpg"
     - "/v1586191513/2020/16_kwn56w.jpg"
+    - "/v1586382019/2020/DSC_0108_h8apks.jpg"
 date: 2020-04-03
 title: 'Luz Disponible #1'
 listado: false
