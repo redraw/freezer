@@ -107,6 +107,6 @@ premiere: false
 gifs_hashtag: ''
 bg_color: "#141414"
 fg_color: "#FFFFFF"
-anio: ''
+anio: "2020"
 
 ---
