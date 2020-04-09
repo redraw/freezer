@@ -104,7 +104,7 @@ title: 'luz disponible #1'
 listado: true
 thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
 premiere: true
-gifs_hashtag: music
+gifs_hashtag: ''
 bg_color: "#121212"
 fg_color: "#FFFFFF"
 anio: "2020"
