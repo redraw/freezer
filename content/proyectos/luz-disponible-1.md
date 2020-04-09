@@ -101,10 +101,10 @@ galeria:
     - "/v1586382019/2020/DSC_0108_h8apks.jpg"
 date: 2020-04-03
 title: 'luz disponible #1'
-listado: false
+listado: true
 thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
-premiere: false
-gifs_hashtag: ''
+premiere: true
+gifs_hashtag: photography
 bg_color: "#121212"
 fg_color: "#FFFFFF"
 anio: "2020"
