@@ -17,18 +17,24 @@ galeria:
     - "/v1586197365/2020/10_bufm7r.jpg"
     - "/v1586197365/2020/9_xnews9.jpg"
     - "/v1586197234/2020/11_xnjnmv.jpg"
-  - nombre: Valentina Gaggiotti
-    url: https://www.instagram.com/valgax_/
+  - nombre: Julian Sancholuz
+    url: https://www.behance.net/sancholuzjulian
     imagenes:
-    - "/v1586195056/2020/1_fcdpa0.jpg"
-    - "/v1586195057/2020/1a_hbyfwe.jpg"
-    - "/v1586196222/2020/2a_lxp3qe.jpg"
-    - "/v1586196279/2020/3a_hzqlxr.jpg"
-    - "/v1586196327/2020/5a_u0d1an.jpg"
-    - "/v1586196305/2020/4_l0hnvw.jpg"
-    - "/v1586196305/2020/4a_nezk2t.jpg"
-    - "/v1586196327/2020/5_jhej7x.jpg"
-    - "/v1586196221/2020/2_rubhwr.jpg"
+    - "/v1586185173/2020/21_alqjtt.jpg"
+    - "/v1585966515/2020/20_njxb8x.jpg"
+    - "/v1585966287/2020/18_blppz7.jpg"
+    - "/v1585966238/2020/17_e99bkj.jpg"
+    - "/v1585966188/2020/16_bcwet3.jpg"
+    - "/v1585966180/2020/15_phffch.jpg"
+    - "/v1585966044/2020/14_zjz8q7.jpg"
+    - "/v1585965908/2020/13_yilvh8.jpg"
+    - "/v1585965764/2020/11_vvpl83.jpg"
+    - "/v1585965370/2020/9_trh8jl.jpg"
+    - "/v1585965148/2020/7_enainf.jpg"
+    - "/v1585965126/2020/5_yx4kba.jpg"
+    - "/v1585965019/2020/1_cyu3jt.jpg"
+    - "/v1585965041/2020/2_stkfsh.jpg"
+    - "/v1585965080/2020/3_u0vl3b.jpg"
   - nombre: Flor Nieves
     url: https://www.instagram.com/flornieves__/
     imagenes:
@@ -61,24 +67,18 @@ galeria:
     - "/v1586381428/2020/12_t6esc1.jpg"
     - "/v1586381538/2020/13_zka2uk.jpg"
     - "/v1586381593/2020/14-2_fwxdvw.jpg"
-  - nombre: Julian Sancholuz
-    url: https://www.behance.net/sancholuzjulian
+  - nombre: Valentina Gaggiotti
+    url: https://www.instagram.com/valgax_/
     imagenes:
-    - "/v1586185173/2020/21_alqjtt.jpg"
-    - "/v1585966515/2020/20_njxb8x.jpg"
-    - "/v1585966287/2020/18_blppz7.jpg"
-    - "/v1585966238/2020/17_e99bkj.jpg"
-    - "/v1585966188/2020/16_bcwet3.jpg"
-    - "/v1585966180/2020/15_phffch.jpg"
-    - "/v1585966044/2020/14_zjz8q7.jpg"
-    - "/v1585965908/2020/13_yilvh8.jpg"
-    - "/v1585965764/2020/11_vvpl83.jpg"
-    - "/v1585965370/2020/9_trh8jl.jpg"
-    - "/v1585965148/2020/7_enainf.jpg"
-    - "/v1585965126/2020/5_yx4kba.jpg"
-    - "/v1585965019/2020/1_cyu3jt.jpg"
-    - "/v1585965041/2020/2_stkfsh.jpg"
-    - "/v1585965080/2020/3_u0vl3b.jpg"
+    - "/v1586195056/2020/1_fcdpa0.jpg"
+    - "/v1586195057/2020/1a_hbyfwe.jpg"
+    - "/v1586196222/2020/2a_lxp3qe.jpg"
+    - "/v1586196279/2020/3a_hzqlxr.jpg"
+    - "/v1586196327/2020/5a_u0d1an.jpg"
+    - "/v1586196305/2020/4_l0hnvw.jpg"
+    - "/v1586196305/2020/4a_nezk2t.jpg"
+    - "/v1586196327/2020/5_jhej7x.jpg"
+    - "/v1586196221/2020/2_rubhwr.jpg"
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
     imagenes:
