@@ -28,6 +28,7 @@ fields:
   label: finalizado
 pages:
 - content/cursos/diseño-de-montaje.md
+- content/cursos/edición-y-autopublicación.md
 - content/cursos/estudio-iluminación-para-fotógrafxs-avanzadxs.md
 - content/cursos/estudio-iluminación-para-fotógrafxs.md
 - content/cursos/imágenes-técnicas-edición-online.md
