@@ -42,7 +42,7 @@
 
 <page-query>
 query Home {
-  cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "inicio", order: ASC}]) {
+  cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "dateModified"}]) {
     edges {
       node {
         id
