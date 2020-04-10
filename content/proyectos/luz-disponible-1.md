@@ -103,7 +103,7 @@ date: 2020-04-03
 title: 'luz disponible #1'
 listado: true
 thumbnail: "/v1586383290/2020/luzzportada_w80n5z.jpg"
-premiere: true
+premiere: false
 gifs_hashtag: ''
 bg_color: "#121212"
 fg_color: "#FFFFFF"
