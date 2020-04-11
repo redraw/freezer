@@ -1,11 +1,12 @@
 ---
 thumbnail: "/2020/03/estudioavanzadonadiaa3opcionb_snjw33.jpg"
 title: Estudio | Iluminación para fotógrafxs avanzadxs
-inicio: 2020-04-10T21:00:00Z
+inicio: 2020-04-10T21:00:00.000+00:00
 docente: Nadia Abal
 lugar: 'La Playa Estudios '
 mercadopago_link: ''
-finalizado: false
+finalizado: true
+date: 
 
 ---
 Este curso busca brindar las herramientas básicas para el desarrollo de una toma fotográfica en estudio, haciendo énfasis en la técnica y en los usos creativos de luz. También se pensará acerca de las opciones relacionadas con la organización de los contenidos, orientado a fotógrafxs en actividad que ya hayan realizado prácticas en estudio.
