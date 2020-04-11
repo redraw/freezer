@@ -1,11 +1,12 @@
 ---
 thumbnail: "/v1586550730/2020/edicionyauto_rq4lrr.jpg"
 title: Edición y autopublicación
-inicio: 2020-04-16T20:00:00Z
+inicio: 2020-04-16T20:00:00.000+00:00
 docente: Maxi Magnano
 lugar: Online
 mercadopago_link: http://mpago.la/3oWMb3
 finalizado: false
+date: 
 
 ---
 El objetivo del curso es recorrer el proceso que va desde el cúmulo de fotos sueltas hasta la publicación física de un grupo coherente de fotos. Para esto, haremos un primer acercamiento a dos programas fundamentales para  
@@ -13,13 +14,13 @@ la actividad fotográfica: Adobe Lightroom y Adobe InDesign. A través de estas 
 
 El curso es inicial y no es necesario tener conocimientos previos del software.
 
-Unidad uno:  
+_Unidad uno_  
 Del archivo a la publicación  
 Revista/fanzine vs. libro, dos formatos distintos para dos materiales distintos  
 La fotografía oriental contra la fotografía occidental, la idea de museo-galería plasmada en el libro  
 Boring Postcards/Eggleston's Guide vs. revista Provoke y Farewell Photography de Daido Moriyama
 
-Unidad dos:  
+_Unidad dos_  
 Lightroom:  
 Módulo biblioteca, organización del archivo  
 Módulo de revelado, edición digital del archivo de imagen (.raw, .jpg, etc)  
@@ -28,7 +29,7 @@ Photoshop:
 Manejo del tamaño de imagen  
 Preparación de imágenes para impresión
 
-Unidad tres:  
+_Unidad tres_  
 InDesign:  
 Armado de la maqueta digital  
 Herramientas gráficas y tipográficas  
