@@ -1,11 +1,12 @@
 ---
 thumbnail: "/2020/03/estudiobasicnadiaa3_fcqfyt.jpg"
 title: Estudio | Iluminación para fotógrafxs
-inicio: 2020-04-07T21:00:00Z
+inicio: 2020-04-07T21:00:00.000+00:00
 docente: Nadia Abal
 lugar: 'La Playa Estudios '
 mercadopago_link: ''
-finalizado: false
+finalizado: true
+date: 
 
 ---
 Este curso busca brindar las herramientas básicas de iluminación en estudio, haciendo énfasis en la técnica y las diferentes opciones de investigación acerca de la luz. Orientado a fotógrafxs que deseen iniciarse en este universo, sin antecedentes de pruebas en dichas condiciones.
