@@ -6,7 +6,7 @@ docente: Maxi Magnano
 lugar: Online
 mercadopago_link: http://mpago.la/3oWMb3
 finalizado: false
-date: 
+date: 2020-04-11T20:00:00.000+00:00
 
 ---
 El objetivo del curso es recorrer el proceso que va desde el cúmulo de fotos sueltas hasta la publicación física de un grupo coherente de fotos. Para esto, haremos un primer acercamiento a dos programas fundamentales para  
