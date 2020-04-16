@@ -5,7 +5,8 @@ inicio: 2020-04-09T21:00:00.000+00:00
 docente: Nadia Abal
 lugar: La Playa Estudios
 mercadopago_link: http://mpago.la/34PDLB
-finalizado: false
+finalizado: true
+date: 
 
 ---
 En el Laboratorio Digital crearemos las condiciones necesarias para aprender las herramientas básicas de retoque de imágenes. A través del revelado, vamos a buscar dar vida a nuestras fotografías para generar el clima que buscamos a través de una gran variedad de opciones. Orientado a todxs aquellxs interesadxs en la edición virtual de fotografías, creadores de imágenes en actividad y artistas visuales.
