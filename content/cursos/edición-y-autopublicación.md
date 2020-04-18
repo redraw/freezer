@@ -5,7 +5,7 @@ inicio: 2020-04-16T20:00:00.000+00:00
 docente: Maxi Magnano
 lugar: Online
 mercadopago_link: http://mpago.la/3oWMb3
-finalizado: false
+finalizado: true
 date: 2020-04-11T20:00:00.000+00:00
 
 ---
