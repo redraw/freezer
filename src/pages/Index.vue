@@ -6,6 +6,7 @@
           v-for="link in $settings.menu" 
           :key="link.url" 
           :to="link.url"
+          :title="link.url"
         >
           {{ link.name }}
         </g-link>
@@ -118,7 +119,9 @@ export default {
 }
 
 .menu a {
-  padding: 0.2em;
+  padding: 0.3em;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .cursos {
