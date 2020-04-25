@@ -102,7 +102,7 @@ export default {
     top: 1em;
   }
   .right {
-    flex-basis: 80%;
+    flex-basis: 60%;
   }
 }
 </style>
