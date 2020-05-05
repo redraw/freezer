@@ -9,15 +9,13 @@ mercadopago_link: http://mpago.la/21CaAXk
 finalizado: false
 
 ---
-  
-  
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
 
 En este taller online haremos un recorrido por las partes fundamentales de la fotografía analógica: la exposición, las cámaras, los rollos y qué pasa cuando revelamos. También hablaremos sobre diferentes formas de experimentar con lo analógico a través del uso de filtros, doble exposición y rollos vencidos.
 
-Además en cada encuentro veremos el trabajo de diferentes fotógrafes, algo sumamente importante al momento de buscar inspiración y referencias. 
+Además en cada encuentro veremos el trabajo de diferentes fotógrafes, algo sumamente importante al momento de buscar inspiración y referencias.
 
-Haremos hincapié en:   
+Haremos hincapié en:  
 • Los básicos de la exposición. ISO + diafragma + velocidad  
 • Las cámaras y los objetivos.  
 • Rollos vencidos - forzado - proceso cruzado  
@@ -31,3 +29,5 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 El curso puede ser abonado a través de MercadoPago.
 
 Duración 5 encuentros.
+
+#### **Inscribite a través del** [**formulario de inscripción**](https://forms.gle/gaTQHfExsLHRY4Rr8 "formulario de inscripción")**.**
