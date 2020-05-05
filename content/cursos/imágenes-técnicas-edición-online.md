@@ -21,7 +21,7 @@ Son necesarios una buena conexión a internet y una PC con micrófono y cámara 
 
 **Con motivo del aislamiento por el COVID-19, este curso pasa a ser online durante abril, mayo y junio.**
 
-Durante ese período podés inscribirte en cualquier momento, vamos a estar organizando los grupos según la cantidad de gente inscripta y orden de llegada. 
+Durante ese período podés inscribirte en cualquier momento, vamos a estar organizando los grupos según la cantidad de gente inscripta y orden de llegada.
 
 Duración | 3 encuentros
 
