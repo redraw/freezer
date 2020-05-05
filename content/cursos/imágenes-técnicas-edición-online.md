@@ -1,7 +1,7 @@
 ---
 thumbnail: "/2020/imagenes_tecnicasweb_g1uz6g.jpg"
 title: Imágenes Técnicas | Edición Online
-inicio: 2020-04-03T21:00:00.000+00:00
+inicio: 2020-05-23T21:00:00Z
 docente: Luciana Demichelis
 lugar: WWW
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f
@@ -19,7 +19,7 @@ Se trabajará con una presentación a la postproducción en Lightroom: primeras 
 
 Son necesarios una buena conexión a internet y una PC con micrófono y cámara (puede reemplazarse por un celular)
 
-**Con motivo del aislamiento por el COVID-19, este curso pasa a ser online durante abril, mayo y junio.**
+**Con motivo del aislamiento por el COVID-19, este curso pasa a ser online durante mayo y junio.**
 
 Durante ese período podés inscribirte en cualquier momento, vamos a estar organizando los grupos según la cantidad de gente inscripta y orden de llegada.
 
