@@ -19,7 +19,7 @@ Esta edición está pensada para trabajar en contexto de aislamiento social, por
 
 Costo | $1100
 
-Inicio | 2 de mayo a las 18 hs. *
+Inicio | 9 de mayo a las 18 hs. *
 
 Si querés inscribirte pero el curso ya inició, escribinos a freezerfoto@gmail.com, vamos a estar creando nuevos grupos de trabajo.
 
