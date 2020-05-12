@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'entre lo que es '
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589327182/2020/3_or5u11.jpg"
   - nombre: y lo que deja de ser
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
