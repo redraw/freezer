@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: y lo ajeno
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589326522/2020/dfsf_iutgso.jpg"
   - nombre: Magdalena Felli & Ariadna Barrios
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
