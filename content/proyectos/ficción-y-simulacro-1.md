@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'entre lo propio '
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589326813/2020/7_etb7w0.jpg"
   - nombre: y lo ajeno
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
