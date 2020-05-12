@@ -3,6 +3,11 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: Magdalena Felli & Ariadna Barrios
+    url: https://www.instagram.com/ariadnaylenb/
+    imagenes:
+    - "/v1589326230/2020/01_l0lrm0.jpg"
+    - "/v1589326124/2020/0_tv1qic.jpg"
   - nombre: Ainhoa Errobidart Visvequi
     url: https://www.instagram.com/aiervi/
     imagenes:
