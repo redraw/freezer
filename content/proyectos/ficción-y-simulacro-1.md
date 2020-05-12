@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: de la permanente confluencia
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589326930/2020/6_scajk7.jpg"
   - nombre: 'entre lo propio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
