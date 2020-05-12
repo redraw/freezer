@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: y lo que deja de ser
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589327013/2020/5_ajf9mq.jpg"
   - nombre: de la permanente confluencia
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
