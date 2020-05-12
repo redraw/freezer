@@ -3,6 +3,14 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'dícese del principio '
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589327482/2020/1_____wuib12.jpg"
+  - nombre: 'o final '
+    url: https://www.instagram.com/lib_er_tad/
+    imagenes:
+    - "/v1589327328/2020/2_euozde.jpg"
   - nombre: 'entre lo que es '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
