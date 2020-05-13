@@ -35,7 +35,6 @@ galeria:
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
     - "/v1589326319/2020/2_birvwp.jpg"
-    - "/v1589326327/2020/okcolor_gliutp.jpg"
   - nombre: Magdalena Felli & Ariadna Barrios
     url: https://www.instagram.com/ariadnaylenb/
     imagenes:
