@@ -3,10 +3,6 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: LE PENDU
-    url: https://www.instagram.com/aiervi/
-    imagenes:
-    - "/v1589328040/2020/RNI-Films-IMG-25B3C5D7-93F6-477D-B8FE-0222DA58B3AE_ra9z7u.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
@@ -57,6 +53,10 @@ galeria:
     url: https://www.instagram.com/aiervi/
     imagenes:
     - "/v1589327907/2020/RNI-Films-IMG-E59DB254-FBD6-4817-A0A1-067AE2328AD4_iecs8j.jpg"
+  - nombre: LE PENDU
+    url: https://www.instagram.com/aiervi/
+    imagenes:
+    - "/v1589328040/2020/RNI-Films-IMG-25B3C5D7-93F6-477D-B8FE-0222DA58B3AE_ra9z7u.jpg"
 date: 2020-05-12
 title: 'ficción y simulacro #1'
 anio: "2020"
