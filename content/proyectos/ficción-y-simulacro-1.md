@@ -39,14 +39,14 @@ galeria:
     url: https://www.instagram.com/ariadnaylenb/
     imagenes:
     - "/v1589328582/2020/01_r7exkr.jpg"
-  - nombre: frágil
-    url: https://www.instagram.com/ariadnaylenb/
-    imagenes:
-    - "/v1589328682/2020/okcolor_oefoif.jpg"
   - nombre: silencio
     url: https://www.instagram.com/ariadnaylenb/
     imagenes:
     - "/v1589326124/2020/0_tv1qic.jpg"
+  - nombre: frágil
+    url: https://www.instagram.com/ariadnaylenb/
+    imagenes:
+    - "/v1589328682/2020/okcolor_oefoif.jpg"
   - nombre: LE BATELEUR
     url: https://www.instagram.com/aiervi/
     imagenes:
