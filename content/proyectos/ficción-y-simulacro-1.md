@@ -31,7 +31,7 @@ galeria:
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
     - "/v1589326522/2020/dfsf_iutgso.jpg"
-  - nombre: Magdalena Felli & Ariadna Barrios
+  - nombre: ruido
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
     - "/v1589326319/2020/2_birvwp.jpg"
