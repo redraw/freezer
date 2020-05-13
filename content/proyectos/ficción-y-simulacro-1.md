@@ -3,10 +3,6 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: vértigo
-    url: https://www.instagram.com/ariadnaylenb/
-    imagenes:
-    - "/v1589328582/2020/01_r7exkr.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
@@ -39,7 +35,11 @@ galeria:
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
     - "/v1589326319/2020/2_birvwp.jpg"
-  - nombre: frágil
+  - nombre: vértigo
+    url: https://www.instagram.com/ariadnaylenb/
+    imagenes:
+    - "/v1589328582/2020/01_r7exkr.jpg"
+  - nombre: silencio
     url: https://www.instagram.com/ariadnaylenb/
     imagenes:
     - "/v1589326124/2020/0_tv1qic.jpg"
