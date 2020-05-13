@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: vértigo
+    url: https://www.instagram.com/ariadnaylenb/
+    imagenes:
+    - "/v1589328582/2020/01_r7exkr.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
