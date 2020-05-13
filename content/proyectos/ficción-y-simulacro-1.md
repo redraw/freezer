@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: frágil
+    url: https://www.instagram.com/ariadnaylenb/
+    imagenes:
+    - "/v1589328682/2020/okcolor_oefoif.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
