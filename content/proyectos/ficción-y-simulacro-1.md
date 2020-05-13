@@ -35,7 +35,7 @@ galeria:
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
     - "/v1589326319/2020/2_birvwp.jpg"
-  - nombre: Magdalena Felli & Ariadna Barrios
+  - nombre: frágil
     url: https://www.instagram.com/ariadnaylenb/
     imagenes:
     - "/v1589326124/2020/0_tv1qic.jpg"
