@@ -22,15 +22,15 @@ galeria:
   - nombre: de la permanente confluencia
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
-    - "/v1589326930/2020/6_scajk7.jpg"
+    - "/v1589576915/2020/5_n5hmxs.jpg"
   - nombre: 'entre lo propio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
-    - "/v1589326813/2020/7_etb7w0.jpg"
+    - "/v1589576979/2020/6_twz2so.jpg"
   - nombre: y lo ajeno
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
-    - "/v1589326522/2020/dfsf_iutgso.jpg"
+    - "/v1589577118/2020/7_njig9p.jpg"
   - nombre: ruido
     url: 'https://www.instagram.com/mmaguifelli/ '
     imagenes:
