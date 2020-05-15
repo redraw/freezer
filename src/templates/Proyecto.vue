@@ -17,11 +17,14 @@
               <div class="content">
                 <h3 class="autor">{{ autor.nombre }}</h3>
               </div>
-              <img
+              <g-link
                 v-for="(path, key) in autor.imagenes"
-                v-lazy="getImageUrl(path)"
+                :to="autor.url"
                 :key="key"
-              />
+                width="100%"
+              >
+                <img v-lazy="getImageUrl(path)"/>
+              </g-link>
             </div>
           </div>
         </div>

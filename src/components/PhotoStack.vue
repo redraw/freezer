@@ -104,7 +104,7 @@ export default {
 <style>
 .scrollama-graphic {
   z-index: 1;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 </style>
 
