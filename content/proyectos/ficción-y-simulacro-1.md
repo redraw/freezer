@@ -3,10 +3,6 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: charla con las autoras | Jitsi Meet
-    url: https://meet.jit.si/OrangeParrotsRhymeMagnificently
-    imagenes:
-    - "/v1589578657/2020/conversation_x7ly7q.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
@@ -67,6 +63,10 @@ galeria:
     url: https://www.instagram.com/aiervi/
     imagenes:
     - "/v1589328040/2020/RNI-Films-IMG-25B3C5D7-93F6-477D-B8FE-0222DA58B3AE_ra9z7u.jpg"
+  - nombre: charla con las autoras | Jitsi Meet
+    url: https://meet.jit.si/OrangeParrotsRhymeMagnificently
+    imagenes:
+    - "/v1589578657/2020/conversation_x7ly7q.jpg"
 date: 2020-05-12
 title: 'ficción y simulacro #1'
 anio: "2020"
