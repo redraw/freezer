@@ -3,6 +3,10 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: charla con las autoras | Jitsi Meet
+    url: https://meet.jit.si/OrangeParrotsRhymeMagnificently
+    imagenes:
+    - "/v1589578657/2020/conversation_x7ly7q.jpg"
   - nombre: 'dícese del principio '
     url: https://www.instagram.com/lib_er_tad/
     imagenes:
