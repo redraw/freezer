@@ -68,7 +68,7 @@ title: 'ficción y simulacro #1'
 anio: "2020"
 thumbnail: "/v1589576140/2020/Secuencia_030_noccqg.jpg"
 premiere: true
-gifs_hashtag: art
+gifs_hashtag: processing
 bg_color: ''
 fg_color: ''
 
