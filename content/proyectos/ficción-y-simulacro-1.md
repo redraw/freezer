@@ -63,8 +63,8 @@ galeria:
     url: https://www.instagram.com/aiervi/
     imagenes:
     - "/v1589328040/2020/RNI-Films-IMG-25B3C5D7-93F6-477D-B8FE-0222DA58B3AE_ra9z7u.jpg"
-  - nombre: charla con las autoras | Jitsi Meet
-    url: https://meet.jit.si/OrangeParrotsRhymeMagnificently
+  - nombre: charla con las autoras | Google Meet
+    url: https://meet.google.com/xfh-yhzi-anm
     imagenes:
     - "/v1589578657/2020/conversation_x7ly7q.jpg"
 date: 2020-05-12
