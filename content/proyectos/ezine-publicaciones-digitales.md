@@ -3,6 +3,17 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'martina skretkowicz '
+    url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
+    imagenes: []
+  - nombre: montserrat saiz
+    url: https://issuu.com/mmontserrat.saiz/docs/verano_roto_04a84581ea1b51
+    imagenes:
+    - "/v1590943553/2020/001_d3g1nw.jpg"
+    - "/v1590943553/2020/003_tuv2uy.jpg"
+    - "/v1590943553/2020/002_klhvje.jpg"
+    - "/v1590943551/2020/005_kc7a7k.jpg"
+    - "/v1590943553/2020/004_fd11ol.jpg"
   - nombre: roberta valente
     url: https://issuu.com/credores/docs/sin_t_tulo
     imagenes:
