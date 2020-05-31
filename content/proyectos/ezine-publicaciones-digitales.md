@@ -3,7 +3,7 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: ayelén rodriguez
+  - nombre: ayelén rodriguez / abitarh
     url: 'https://issuu.com/pensar.en.imagenes/docs/abitarh '
     imagenes:
     - "/v1590954128/2020/1_lyen7f.jpg"
@@ -11,7 +11,7 @@ galeria:
     - "/v1590954131/2020/3_fo3das.jpg"
     - "/v1590954131/2020/3b_qsbptl.jpg"
     - "/v1590954128/2020/4_xsrjzp.jpg"
-  - nombre: Diego Stickar
+  - nombre: diego stickar / A
     url: https://issuu.com/diegostickar/docs/a-diego_stickar
     imagenes:
     - "/v1590953759/2020/001_ukcfcy.jpg"
@@ -20,7 +20,8 @@ galeria:
     - "/v1590953760/2020/004_xezegy.jpg"
     - "/v1590953760/2020/003_cuvxbw.jpg"
     - "/v1590953759/2020/unnamed_nfppwc.png"
-  - nombre: eliana tujschinaider
+  - nombre: eliana tujschinaider / creo que los domingos soy la mejor versión de mi
+      misma
     url: https://issuu.com/elituchis/docs/v2-pdf_20final
     imagenes:
     - "/v1590952996/2020/001_pgxoyb.jpg"
@@ -32,7 +33,7 @@ galeria:
     - "/v1590953012/2020/tujschinaider04_o3xwoo.jpg"
     - "/v1590953002/2020/tujschinaider03_bhxmys.jpg"
     - "/v1590953013/2020/tujschinaider05_hmfhbh.jpg"
-  - nombre: emmanuel mannini
+  - nombre: emmanuel mannini / 2001
     url: https://issuu.com/emamannini/docs/2001_version_2
     imagenes:
     - "/v1590952146/2020/1_zcxmkq.jpg"
@@ -46,7 +47,7 @@ galeria:
     - "/v1590952157/2020/Esc%C3%A1ner_20191025_5_owssk4.jpg"
     - "/v1590952145/2020/5_vvpby0.jpg"
     - "/v1590952142/2020/Esc%C3%A1ner_20191026_30_p9ndmi.jpg"
-  - nombre: 'francis bernal meseguer '
+  - nombre: francis bernal meseguer / frío
     url: https://issuu.com/franciscobm12/docs/frio-francis_bernal
     imagenes:
     - "/v1590949307/2020/001_prylmm.jpg"
@@ -54,7 +55,7 @@ galeria:
     - "/v1590949314/2020/004_lae1c0.jpg"
     - "/v1590949304/2020/003_ht8ftv.jpg"
     - "/v1590949355/2020/006_ea3wcn.jpg"
-  - nombre: gabriela de echave
+  - nombre: gabriela de echave / chinkana
     url: https://issuu.com/gabrieladeechave/docs/chinkana_con_tapa_lineal
     imagenes:
     - "/v1590945770/2020/001_duj1hd.jpg"
@@ -64,7 +65,7 @@ galeria:
     - "/v1590945768/2020/003_gsonos.jpg"
     - "/v1590945770/2020/Sin_t%C3%ADtulo-006_m1c1wx.jpg"
     - "/v1590945768/2020/006_ffy8ol.jpg"
-  - nombre: lucho cagliardi
+  - nombre: lucho cagliardi / No sabíamos qué hacer en Navidad entonces hicimos esto
     url: https://issuu.com/luchocagliardi/docs/nsqhenehe_v2
     imagenes:
     - "/v1590944793/2020/Sin_t%C3%ADtulo-7_blblyn.jpg"
@@ -74,7 +75,7 @@ galeria:
     - "/v1590944795/2020/Sin_t%C3%ADtulo-5_mcyk8d.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-4_k1gn0d.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-9_jhwkhi.jpg"
-  - nombre: 'martina skretkowicz '
+  - nombre: martina skretkowicz / la cercanía con lo real
     url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
     imagenes:
     - "/v1590944026/2020/Sin_t%C3%ADtulo-5_bwg5jd.jpg"
@@ -82,7 +83,7 @@ galeria:
     - "/v1590944028/2020/002_gruvii.jpg"
     - "/v1590945114/2020/009_w0icff.jpg"
     - "/v1590945110/2020/Sin_t%C3%ADtulo-7_twive0.jpg"
-  - nombre: montserrat saiz
+  - nombre: montserrat saiz / verano roto
     url: https://issuu.com/mmontserrat.saiz/docs/verano_roto_04a84581ea1b51
     imagenes:
     - "/v1590943553/2020/001_d3g1nw.jpg"
@@ -90,7 +91,7 @@ galeria:
     - "/v1590943553/2020/002_klhvje.jpg"
     - "/v1590943551/2020/005_kc7a7k.jpg"
     - "/v1590943553/2020/004_fd11ol.jpg"
-  - nombre: roberta valente
+  - nombre: roberta valente / Claudia Falcone
     url: https://issuu.com/credores/docs/sin_t_tulo
     imagenes:
     - "/v1590941997/2020/001_ctchpx.jpg"
@@ -98,12 +99,12 @@ galeria:
     - "/v1590942277/2020/casa_con_luz_br9ken.jpg"
     - "/v1590942053/2020/004_mowcou.jpg"
     - "/v1590942275/2020/tifon_kwagiq.jpg"
-  - nombre: victoria ellero
+  - nombre: victoria ellero / mi belleza no es tu hegemonía
     url: https://issuu.com/v1k4/docs/jpg2pdf
     imagenes:
     - "/v1590941332/2020/001_f1yrlh.jpg"
     - "/v1590941271/2020/Sin_t%C3%ADtulo-2_nv9kmu.jpg"
-  - nombre: yonivoy
+  - nombre: yonivoy / testimonio de la luz
     url: https://issuu.com/larajuanm/docs/testimonio_de_la_luz
     imagenes:
     - "/v1590939698/2020/Sin_t%C3%ADtulo-2_b7qcbu.jpg"
