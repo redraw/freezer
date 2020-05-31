@@ -13,7 +13,7 @@ galeria:
     - "/v1590939714/2020/5_ttjlcn.jpg"
     - "/v1590939708/2020/2_cw6ksu.jpg"
 date: 2020-05-31
-title: ezine | publicaciones digitales
+title: ezine, publicaciones digitales
 anio: "2020"
 thumbnail: "/v1590940737/2020/4x555_ay8oib.jpg"
 premiere: false
