@@ -7,29 +7,32 @@ import "vue-scrollama/dist/vue-scrollama.css"
 
 import VueLazyload from "vue-lazyload"
 import VueTippy from "vue-tippy"
+import VueMasonry from 'vue-masonry-css'
+
 
 
 export default function(Vue, { head }) {
   Vue.component("Layout", DefaultLayout)
-
+  
   // settings
   Vue.prototype.$settings = settings
-
+  
   // imagenes
   Vue.use(VueLazyload, {
     preLoad: 1.5,
     lazyComponent: true,
     observer: true
   })
-
+  
   Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_limit,w_1280,h_920") => {
     return `${settings.cloudinary_url}/${cloudinaryParams + ",q_85"}${path}`
   }
 
-  // misc
   Vue.use(VueTippy, {
     flipDuration: 0
   })
+  
+  Vue.use(VueMasonry)
 
   // Vue-scrollama issue (https://github.com/vgshenoy/vue-scrollama/issues/9)
   if (process.isServer) {
