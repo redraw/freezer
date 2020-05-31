@@ -3,6 +3,11 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: victoria ellero
+    url: https://issuu.com/v1k4/docs/jpg2pdf
+    imagenes:
+    - "/v1590941332/2020/001_f1yrlh.jpg"
+    - "/v1590941271/2020/Sin_t%C3%ADtulo-2_nv9kmu.jpg"
   - nombre: yonivoy
     url: https://issuu.com/larajuanm/docs/testimonio_de_la_luz
     imagenes:
