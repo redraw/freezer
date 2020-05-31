@@ -65,7 +65,7 @@ galeria:
     - "/v1590945768/2020/003_gsonos.jpg"
     - "/v1590945770/2020/Sin_t%C3%ADtulo-006_m1c1wx.jpg"
     - "/v1590945768/2020/006_ffy8ol.jpg"
-  - nombre: lucho cagliardi / No sabíamos qué hacer en Navidad entonces hicimos esto
+  - nombre: lucho cagliardi / no sabíamos qué hacer en Navidad entonces hicimos esto
     url: https://issuu.com/luchocagliardi/docs/nsqhenehe_v2
     imagenes:
     - "/v1590944793/2020/Sin_t%C3%ADtulo-7_blblyn.jpg"
