@@ -3,6 +3,17 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: lucho cagliardi
+    url: https://issuu.com/luchocagliardi/docs/nsqhenehe_v2
+    imagenes:
+    - "/v1590944793/2020/Sin_t%C3%ADtulo-7_blblyn.jpg"
+    - "/v1590944794/2020/Sin_t%C3%ADtulo-2_llayua.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-6_x7bgke.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-3_kcwrva.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-5_mcyk8d.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-8_ulvqwd.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-4_k1gn0d.jpg"
+    - "/v1590944795/2020/Sin_t%C3%ADtulo-9_jhwkhi.jpg"
   - nombre: 'martina skretkowicz '
     url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
     imagenes:
