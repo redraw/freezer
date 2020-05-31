@@ -3,6 +3,18 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: eliana tujschinaider
+    url: https://issuu.com/elituchis/docs/v2-pdf_20final
+    imagenes:
+    - "/v1590952996/2020/001_pgxoyb.jpg"
+    - "/v1590952999/2020/002_gpd9py.jpg"
+    - "/v1590953002/2020/004_zmjmuy.jpg"
+    - "/v1590953000/2020/tujschinaider02_bbclly.jpg"
+    - "/v1590953014/2020/tujschinaider01_z5st4o.jpg"
+    - "/v1590953005/2020/003_whjsud.jpg"
+    - "/v1590953012/2020/tujschinaider04_o3xwoo.jpg"
+    - "/v1590953002/2020/tujschinaider03_bhxmys.jpg"
+    - "/v1590953013/2020/tujschinaider05_hmfhbh.jpg"
   - nombre: emmanuel mannini
     url: https://issuu.com/emamannini/docs/2001_version_2
     imagenes:
