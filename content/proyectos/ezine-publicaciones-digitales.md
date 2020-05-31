@@ -75,14 +75,6 @@ galeria:
     - "/v1590944795/2020/Sin_t%C3%ADtulo-5_mcyk8d.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-4_k1gn0d.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-9_jhwkhi.jpg"
-  - nombre: martina skretkowicz / la cercanía con lo real
-    url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
-    imagenes:
-    - "/v1590944026/2020/Sin_t%C3%ADtulo-5_bwg5jd.jpg"
-    - "/v1590944028/2020/Sin_t%C3%ADtulo-6_oscrvm.jpg"
-    - "/v1590944028/2020/002_gruvii.jpg"
-    - "/v1590945114/2020/009_w0icff.jpg"
-    - "/v1590945110/2020/Sin_t%C3%ADtulo-7_twive0.jpg"
   - nombre: montserrat saiz / verano roto
     url: https://issuu.com/mmontserrat.saiz/docs/verano_roto_04a84581ea1b51
     imagenes:
@@ -99,6 +91,14 @@ galeria:
     - "/v1590942277/2020/casa_con_luz_br9ken.jpg"
     - "/v1590942053/2020/004_mowcou.jpg"
     - "/v1590942275/2020/tifon_kwagiq.jpg"
+  - nombre: martina skretkowicz / la cercanía con lo real
+    url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
+    imagenes:
+    - "/v1590944026/2020/Sin_t%C3%ADtulo-5_bwg5jd.jpg"
+    - "/v1590944028/2020/Sin_t%C3%ADtulo-6_oscrvm.jpg"
+    - "/v1590944028/2020/002_gruvii.jpg"
+    - "/v1590945114/2020/009_w0icff.jpg"
+    - "/v1590945110/2020/Sin_t%C3%ADtulo-7_twive0.jpg"
   - nombre: victoria ellero / mi belleza no es tu hegemonía
     url: https://issuu.com/v1k4/docs/jpg2pdf
     imagenes:
@@ -113,6 +113,10 @@ galeria:
     - "/v1590940590/2020/Sin_t%C3%ADtulo-244_dfinlt.jpg"
     - "/v1590939714/2020/5_ttjlcn.jpg"
     - "/v1590939708/2020/2_cw6ksu.jpg"
+  - url: https://meet.google.com/ngm-qgbs-tcd
+    imagenes:
+    - "/v1590962400/2020/014_ckuylg.jpg"
+    nombre: google meet / charla abierta
 date: 2020-05-31
 title: ezine, publicaciones digitales
 anio: "2020"
