@@ -3,6 +3,14 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: ayelén rodriguez
+    url: 'https://issuu.com/pensar.en.imagenes/docs/abitarh '
+    imagenes:
+    - "/v1590954128/2020/1_lyen7f.jpg"
+    - "/v1590954129/2020/2_de0tvy.jpg"
+    - "/v1590954131/2020/3_fo3das.jpg"
+    - "/v1590954131/2020/3b_qsbptl.jpg"
+    - "/v1590954128/2020/4_xsrjzp.jpg"
   - nombre: Diego Stickar
     url: https://issuu.com/diegostickar/docs/a-diego_stickar
     imagenes:
