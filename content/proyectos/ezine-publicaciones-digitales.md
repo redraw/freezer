@@ -3,6 +3,20 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: emmanuel mannini
+    url: https://issuu.com/emamannini/docs/2001_version_2
+    imagenes:
+    - "/v1590952146/2020/1_zcxmkq.jpg"
+    - "/v1590952142/2020/Esc%C3%A1ner_20191026_28_kkfu2d.jpg"
+    - "/v1590952155/2020/4_rrdfaw.jpg"
+    - "/v1590952153/2020/Esc%C3%A1ner_20191026_14_jpemv2.jpg"
+    - "/v1590952154/2020/2_u2hzyd.jpg"
+    - "/v1590952149/2020/Esc%C3%A1ner_20191026_28_-2_aumqtx.jpg"
+    - "/v1590952155/2020/3_tf2sdb.jpg"
+    - "/v1590952145/2020/Esc%C3%A1ner_20191025_16_vafmmn.jpg"
+    - "/v1590952157/2020/Esc%C3%A1ner_20191025_5_owssk4.jpg"
+    - "/v1590952145/2020/5_vvpby0.jpg"
+    - "/v1590952142/2020/Esc%C3%A1ner_20191026_30_p9ndmi.jpg"
   - nombre: 'francis bernal meseguer '
     url: https://issuu.com/franciscobm12/docs/frio-francis_bernal
     imagenes:
