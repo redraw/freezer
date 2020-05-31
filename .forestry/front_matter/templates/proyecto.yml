@@ -82,5 +82,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- content/proyectos/ezine-publicaciones-digitales.md
 - content/proyectos/ficción-y-simulacro-1.md
 - content/proyectos/luz-disponible-1.md
