@@ -15,7 +15,7 @@ galeria:
 date: 2020-05-31
 title: ezine | publicaciones digitales
 anio: "2020"
-thumbnail: "/v1590940403/2020/Sin_t%C3%ADtulo-2_nfp2qo.jpg"
+thumbnail: "/v1590940737/2020/4x555_ay8oib.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: "#111111"
