@@ -3,6 +3,11 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: roberta valente
+    url: https://issuu.com/credores/docs/sin_t_tulo
+    imagenes:
+    - "/v1590941755/2020/002_ezmfzs.jpg"
+    - "/v1590941807/2020/003_tbdlbf.jpg"
   - nombre: victoria ellero
     url: https://issuu.com/v1k4/docs/jpg2pdf
     imagenes:
