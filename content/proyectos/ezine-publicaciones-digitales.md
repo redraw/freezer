@@ -22,4 +22,3 @@ bg_color: "#353535"
 fg_color: "#FFFFFF"
 
 ---
-sdfsfsdf
