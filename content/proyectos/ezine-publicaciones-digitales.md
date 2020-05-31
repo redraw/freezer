@@ -17,9 +17,11 @@ galeria:
   - nombre: 'martina skretkowicz '
     url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
     imagenes:
-    - "/v1590944028/2020/002_gruvii.jpg"
-    - "/v1590944028/2020/Sin_t%C3%ADtulo-6_oscrvm.jpg"
     - "/v1590944026/2020/Sin_t%C3%ADtulo-5_bwg5jd.jpg"
+    - "/v1590944028/2020/Sin_t%C3%ADtulo-6_oscrvm.jpg"
+    - "/v1590944028/2020/002_gruvii.jpg"
+    - "/v1590945114/2020/009_w0icff.jpg"
+    - "/v1590945110/2020/Sin_t%C3%ADtulo-7_twive0.jpg"
   - nombre: montserrat saiz
     url: https://issuu.com/mmontserrat.saiz/docs/verano_roto_04a84581ea1b51
     imagenes:
