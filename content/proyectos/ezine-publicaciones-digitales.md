@@ -117,7 +117,7 @@ date: 2020-05-31
 title: ezine, publicaciones digitales
 anio: "2020"
 thumbnail: "/v1590954799/2020/010_ekipq1.jpg"
-premiere: false
+premiere: true
 gifs_hashtag: ''
 bg_color: "#111111"
 fg_color: "#FFFFFF"
