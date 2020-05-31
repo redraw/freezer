@@ -17,7 +17,6 @@ galeria:
     - "/v1590953759/2020/001_ukcfcy.jpg"
     - "/v1590953760/2020/002_rtw7os.jpg"
     - "/v1590953760/2020/Captura_de_pantalla_2019-12-30_a_las_11.58.35_a.m._arw6uv.png"
-    - "/v1590953760/2020/unnamed_1_ygjsk5.png"
     - "/v1590953760/2020/004_xezegy.jpg"
     - "/v1590953760/2020/003_cuvxbw.jpg"
     - "/v1590953759/2020/unnamed_nfppwc.png"
