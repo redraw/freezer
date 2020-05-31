@@ -18,7 +18,7 @@ anio: "2020"
 thumbnail: "/v1590940403/2020/Sin_t%C3%ADtulo-2_nfp2qo.jpg"
 premiere: false
 gifs_hashtag: ''
-bg_color: "#353535"
+bg_color: "#111111"
 fg_color: "#FFFFFF"
 
 ---
