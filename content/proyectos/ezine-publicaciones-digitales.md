@@ -3,6 +3,16 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: gabriela de echave
+    url: https://issuu.com/gabrieladeechave/docs/chinkana_con_tapa_lineal
+    imagenes:
+    - "/v1590945770/2020/001_duj1hd.jpg"
+    - "/v1590945770/2020/005_q2qnf4.jpg"
+    - "/v1590945768/2020/004_aykzxn.jpg"
+    - "/v1590945766/2020/002_mvjt41.jpg"
+    - "/v1590945768/2020/003_gsonos.jpg"
+    - "/v1590945770/2020/Sin_t%C3%ADtulo-006_m1c1wx.jpg"
+    - "/v1590945768/2020/006_ffy8ol.jpg"
   - nombre: lucho cagliardi
     url: https://issuu.com/luchocagliardi/docs/nsqhenehe_v2
     imagenes:
@@ -11,7 +21,6 @@ galeria:
     - "/v1590944795/2020/Sin_t%C3%ADtulo-6_x7bgke.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-3_kcwrva.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-5_mcyk8d.jpg"
-    - "/v1590944795/2020/Sin_t%C3%ADtulo-8_ulvqwd.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-4_k1gn0d.jpg"
     - "/v1590944795/2020/Sin_t%C3%ADtulo-9_jhwkhi.jpg"
   - nombre: 'martina skretkowicz '
