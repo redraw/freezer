@@ -44,8 +44,10 @@ query {
     margin-top: 1em;
   }
   .proyecto {
+    display: block;
     position: relative;
     z-index: 1;
+    margin-bottom: 15px;
   }
   .title {
     position: absolute;
@@ -66,5 +68,8 @@ query {
     width: 100%;
   }
   @media screen and (min-width: 720px) {
+    .proyecto {
+      margin-bottom: 30px;
+    }
   }
 </style>
