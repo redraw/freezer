@@ -8,7 +8,6 @@ galeria:
     imagenes:
     - "/v1590941997/2020/001_ctchpx.jpg"
     - "/v1590941652/2020/002_xkmi9w.jpg"
-    - "/v1590941635/2020/003_uv0xc0.jpg"
     - "/v1590942277/2020/casa_con_luz_br9ken.jpg"
     - "/v1590942053/2020/004_mowcou.jpg"
     - "/v1590942275/2020/tifon_kwagiq.jpg"
