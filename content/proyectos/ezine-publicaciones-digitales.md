@@ -3,6 +3,14 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'francis bernal meseguer '
+    url: https://issuu.com/franciscobm12/docs/frio-francis_bernal
+    imagenes:
+    - "/v1590949307/2020/001_prylmm.jpg"
+    - "/v1590949307/2020/002_tgujdk.jpg"
+    - "/v1590949314/2020/004_lae1c0.jpg"
+    - "/v1590949304/2020/003_ht8ftv.jpg"
+    - "/v1590949355/2020/006_ea3wcn.jpg"
   - nombre: gabriela de echave
     url: https://issuu.com/gabrieladeechave/docs/chinkana_con_tapa_lineal
     imagenes:
