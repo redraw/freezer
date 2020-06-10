@@ -71,7 +71,7 @@ date: 2020-05-12
 title: 'ficción y simulacro #1'
 anio: "2020"
 thumbnail: "/v1589576140/2020/Secuencia_030_noccqg.jpg"
-premiere: true
+premiere: false
 gifs_hashtag: ''
 bg_color: ''
 fg_color: ''
