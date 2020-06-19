@@ -34,8 +34,8 @@ galeria:
     - "/v1592595015/2020/0026_mkwq9y.jpg"
 date: 2020-06-19
 title: 'vedia bakia / luz disponible '
-anio: ''
-thumbnail: ''
+anio: "2020"
+thumbnail: "/v1592595069/2020/0015_jlxemf.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: ''
