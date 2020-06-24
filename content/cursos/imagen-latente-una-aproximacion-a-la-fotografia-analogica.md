@@ -26,11 +26,12 @@ No es necesario tener experiencia en fotografía analógica para hacer este tall
 
 Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, ¡te esperamos!
 
-Duración: 5 encuentros.
+Duración: 5 encuentros. 
+
+[Anotate a través de nuestro formulario de inscripción](https://bit.ly/imagenlatentejulio).
 
 Inscripción abierta hasta el 22/7
 
-  
-$ 1.000,00. 
+Costo | $ 1.000,00
 
 Pagalo con este link de Mercado Pago: [http://mpago.la/1MM3wQr](http://mpago.la/1MM3wQr "http://mpago.la/1MM3wQr")
