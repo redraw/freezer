@@ -1,6 +1,6 @@
 ---
 date: 2020-06-28T01:24:34Z
-thumbnail: ''
+thumbnail: "/v1593307957/2020/ficcion_y_simulacro_3_iida1w.jpg"
 title: ficción y simulacro | proyectos de fotografía
 inicio: 2020-07-17T21:00:00Z
 docente: Luciana Demichelis
