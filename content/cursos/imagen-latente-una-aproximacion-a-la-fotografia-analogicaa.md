@@ -1,8 +1,8 @@
 ---
-date: 2020-06-22T18:35:51Z
+date: 2020-06-22T18:35:51.000+00:00
 thumbnail: "/v1592851816/2020/dani_img_latente_freezer_2_eg641h.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2020-07-23T21:00:00Z
+inicio: 2020-07-23T21:00:00.000+00:00
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: " http://mpago.la/1MM3wQr"

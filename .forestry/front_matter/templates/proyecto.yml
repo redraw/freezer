@@ -61,8 +61,8 @@ fields:
       config: {}
       label: imagenes
     config:
-      min:
-      max:
+      min: 
+      max: 
       labelField: nombre
     label: autores
   label: Galeria
