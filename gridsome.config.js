@@ -8,7 +8,7 @@ module.exports = {
   siteName: settings.site_name,
   siteUrl: "https://freezer.com.ar",
   host: "0.0.0.0",
-  titleTemplate: `%s - ${settings.site_name}`,
+  titleTemplate: `%s | ${settings.site_name}`,
   siteDescription: settings.site_description,
   plugins: [
     {

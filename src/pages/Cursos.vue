@@ -24,6 +24,14 @@
   </Layout>
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    title: "Cursos"
+  }
+}
+</script>
+
 <page-query>
 query {
   cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "date"}]) {

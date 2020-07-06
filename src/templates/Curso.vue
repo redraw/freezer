@@ -56,7 +56,18 @@ query Curso ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.curso.title
+      title: this.$page.curso.title,
+      meta: [
+        {
+          key: "image",
+          property: "og:image",
+          content: this.getImageUrl(this.$page.curso.thumbnail),
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image"
+        }
+      ]
     };
   }
 };

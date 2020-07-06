@@ -23,6 +23,14 @@
   </Layout>
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    title: "Proyectos"
+  }
+}
+</script>
+
 <page-query>
 query {
   proyectos: allProyecto (filter: { listado: { eq: true } }) {

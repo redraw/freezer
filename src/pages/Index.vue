@@ -20,18 +20,6 @@
   </div>
 </template>
 
-<script>
-export default {
-  mounted () {
-    if (process.isClient) {
-      [...this.$refs.menu.children].forEach(item => {
-        console.log(item)
-      })
-    }
-  }
-}
-</script>
-
 <style scoped>
 .home-layout {
   display: flex;

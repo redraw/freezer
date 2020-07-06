@@ -45,6 +45,7 @@
 query Proyecto ($path: String!) {
   proyecto (path: $path) {
     title
+    thumbnail
     date (format: "YYYY")
     content
     bg_color
@@ -81,6 +82,17 @@ export default {
   metaInfo() {
     return {
       title: this.$page.proyecto.title,
+      meta: [
+        {
+          key: "image",
+          property: "og:image",
+          content: this.getImageUrl(this.$page.proyecto.thumbnail),
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image"
+        }
+      ],
       bodyAttrs: {
         style: `background-color: ${
           this.$page.proyecto.bg_color

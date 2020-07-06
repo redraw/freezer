@@ -3,9 +3,7 @@
   "cloudinary_url": "https://res.cloudinary.com/freezer",
   "dark_mode": false,
   "site_name": "Freezer",
-  "site_description": "Freezer Fotoclub",
-  "hero_title": "",
-  "hero_subtitle": "",
+  "site_description": "Freezer es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.",
   "menu": [
     {
       "name": "Proyectos",
