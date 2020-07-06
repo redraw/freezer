@@ -1,39 +1,50 @@
 <template>
-  <Scrollama 
+  <Scrollama
     @step-enter="stepEnter"
     :offset="1"
   >
-    <div 
-      slot="graphic" 
+    <div
+      slot="graphic"
       class="photo-stack"
     >
       <g-link
-        v-for="(imagen, key) in imagenes" 
+        v-for="(item, key) in media"
         v-show="key <= index"
-        :key="key"  
-        :href="imagen.autor.url"
+        :key="key"
+        :href="item.autor.url"
         :style="styles[key]"
         class="photo-link"
       >
+        <iframe
+          v-if="item.autor.video"
+          :src="item.autor.video"
+          width="700"
+          height="400"
+          frameborder="0"
+          allowfullscreen
+        />
         <img
-          v-lazy="getImageUrl(imagen.path)"
+          v-else
+          v-lazy="getImageUrl(item.path)"
           v-tippy="{
             followCursor: true,
             popperOptions: {
               positionFixed: true
             }
           }"
-          :content="imagen.autor.nombre"
+          :content="item.autor.nombre"
           :ref="`img-${key}`"
           class="photo"
         />
       </g-link>
     </div>
     <div
-      v-for="(imagen, key) in imagenes"
+      v-for="(item, key) in media"
       :key="key"
       class="photo-step"
-    />
+    >
+      <a href="#" @click="scrollTop">↑</a>
+    </div>
   </Scrollama>
 </template>
 
@@ -56,7 +67,7 @@ export default {
   },
 
   computed: {
-    imagenes () {
+    media () {
       return this.data.autores.flatMap(autor => {
         return autor.imagenes.map(path => {
           return {path, autor}
@@ -68,12 +79,12 @@ export default {
   methods: {
     stepEnter ({element, index, direction}) {
       this.index = index
-      
+
       if (index === 0) {
         this.shift()
       }
 
-      if (index < this.imagenes.length) {
+      if (index < this.media.length) {
         // Load next image
         // vue-lazyload can't detect next image inside Scrollama's graphic
         const ref = this.$refs[`img-${index+1}`][0]
@@ -86,7 +97,7 @@ export default {
     },
 
     shift () {
-      this.styles = [...Array(this.imagenes.length).keys()].map(index => {
+      this.styles = [...Array(this.media.length).keys()].map(index => {
         if (index > 0) {
           return {
             transform: `
@@ -96,6 +107,10 @@ export default {
           }
         }
       })
+    },
+
+    scrollTop () {
+      window.scrollTo(0, 0)
     }
   }
 }
@@ -110,10 +125,14 @@ export default {
 
 <style scoped>
 .photo-step {
-  height: 20vh; /* espacio vacio */
+  height: 30vh; /* espacio vacio */
   width: auto;
-  padding: 1em;
-  text-align: right;
+}
+.photo-step a {
+  text-decoration: none;
+  position: absolute;
+  right: 1em;
+  z-index: 10;
 }
 
 .photo-stack {

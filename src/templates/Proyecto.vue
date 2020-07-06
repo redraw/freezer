@@ -3,14 +3,14 @@
     <div class="proyecto">
       <div class="container">
         <h2 class="titulo">
-          <small>proyectos / </small>{{ $page.proyecto.title }} 
+          proyectos / {{ $page.proyecto.title }}
         </h2>
         <div v-html="$page.proyecto.content" class="content" />
       </div>
       <client-only>
         <div class="galeria">
           <div v-if="$page.proyecto.galeria.stack && !isTouchDevice">
-              <photo-stack :data="$page.proyecto.galeria"/>
+            <photo-stack :data="$page.proyecto.galeria"/>
           </div>
           <div class="container" v-else>
             <div v-for="(autor, key) in $page.proyecto.galeria.autores" :key="key">
@@ -46,6 +46,7 @@ query Proyecto ($path: String!) {
       autores {
         nombre
         url
+        video
         imagenes
       }
     }
