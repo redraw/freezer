@@ -3,7 +3,7 @@
     <div class="proyecto">
       <div class="container">
         <h2 class="titulo">
-          proyectos / {{ $page.proyecto.title }}
+          <span class="anio">{{ $page.proyecto.date }}</span> / {{ $page.proyecto.title }}
         </h2>
         <div v-html="$page.proyecto.content" class="content" />
       </div>
@@ -17,6 +17,14 @@
               <div class="content">
                 <h3 class="autor">{{ autor.nombre }}</h3>
               </div>
+              <iframe
+                v-if="autor.video"
+                :src="autor.video"
+                width="700"
+                height="400"
+                frameborder="0"
+                allowfullscreen
+              />
               <g-link
                 v-for="(path, key) in autor.imagenes"
                 :to="autor.url"

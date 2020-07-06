@@ -4,6 +4,7 @@ galeria:
   autores:
   - nombre: Bruno Genchi
     url: https://www.instagram.com/br1_gen/
+    video: ""
     imagenes:
     - "/v1586198076/2020/1_xiwqbe.jpg"
     - "/v1586198105/2020/2_ndpcoj.jpg"
@@ -19,6 +20,7 @@ galeria:
     - "/v1586197234/2020/11_xnjnmv.jpg"
   - nombre: Julian Sancholuz
     url: https://www.behance.net/sancholuzjulian
+    video: ""
     imagenes:
     - "/v1586185173/2020/21_alqjtt.jpg"
     - "/v1585966515/2020/20_njxb8x.jpg"
@@ -37,6 +39,7 @@ galeria:
     - "/v1585965080/2020/3_u0vl3b.jpg"
   - nombre: Flor Nieves
     url: https://www.instagram.com/flornieves__/
+    video: ""
     imagenes:
     - "/v1586188454/2020/13_n8fxid.jpg"
     - "/v1586188265/2020/11_spnm6w.jpg"
@@ -53,6 +56,7 @@ galeria:
     - "/v1586188141/2020/3_x74d0p.jpg"
   - nombre: 'Denise Gay '
     url: https://www.instagram.com/denise.gay/
+    video: ""
     imagenes:
     - "/v1586379494/2020/1_mvuuvp.jpg"
     - "/v1586379593/2020/2_sjapoc.jpg"
@@ -69,6 +73,7 @@ galeria:
     - "/v1586381593/2020/14-2_fwxdvw.jpg"
   - nombre: Valentina Gaggiotti
     url: https://www.instagram.com/valgax_/
+    video: ""
     imagenes:
     - "/v1586195056/2020/1_fcdpa0.jpg"
     - "/v1586195057/2020/1a_hbyfwe.jpg"
@@ -81,6 +86,7 @@ galeria:
     - "/v1586196221/2020/2_rubhwr.jpg"
   - nombre: Clemente Moroni
     url: https://www.instagram.com/clementinequarentine/
+    video: ""
     imagenes:
     - "/v1586189122/2020/1_gg2hpw.jpg"
     - "/v1586190429/2020/5_i0riwd.jpg"

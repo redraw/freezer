@@ -5,6 +5,7 @@ galeria:
   autores:
   - nombre: ayelén rodriguez / abitarh
     url: 'https://issuu.com/pensar.en.imagenes/docs/abitarh '
+    video: ""
     imagenes:
     - "/v1590954128/2020/1_lyen7f.jpg"
     - "/v1590954129/2020/2_de0tvy.jpg"
@@ -13,6 +14,7 @@ galeria:
     - "/v1590954128/2020/4_xsrjzp.jpg"
   - nombre: diego stickar / A
     url: https://issuu.com/diegostickar/docs/a-diego_stickar
+    video: ""
     imagenes:
     - "/v1590953759/2020/001_ukcfcy.jpg"
     - "/v1590953760/2020/002_rtw7os.jpg"
@@ -23,6 +25,7 @@ galeria:
   - nombre: eliana tujschinaider / creo que los domingos soy la mejor versión de mi
       misma
     url: https://issuu.com/elituchis/docs/v2-pdf_20final
+    video: ""
     imagenes:
     - "/v1590952996/2020/001_pgxoyb.jpg"
     - "/v1590952999/2020/002_gpd9py.jpg"
@@ -35,6 +38,7 @@ galeria:
     - "/v1590953013/2020/tujschinaider05_hmfhbh.jpg"
   - nombre: emmanuel mannini / 2001
     url: https://issuu.com/emamannini/docs/2001_version_2
+    video: ""
     imagenes:
     - "/v1590952146/2020/1_zcxmkq.jpg"
     - "/v1590952142/2020/Esc%C3%A1ner_20191026_28_kkfu2d.jpg"
@@ -49,6 +53,7 @@ galeria:
     - "/v1590952142/2020/Esc%C3%A1ner_20191026_30_p9ndmi.jpg"
   - nombre: francis bernal meseguer / frío
     url: https://issuu.com/franciscobm12/docs/frio-francis_bernal
+    video: ""
     imagenes:
     - "/v1590949307/2020/001_prylmm.jpg"
     - "/v1590949307/2020/002_tgujdk.jpg"
@@ -57,6 +62,7 @@ galeria:
     - "/v1590949355/2020/006_ea3wcn.jpg"
   - nombre: gabriela de echave / chinkana
     url: https://issuu.com/gabrieladeechave/docs/chinkana_con_tapa_lineal
+    video: ""
     imagenes:
     - "/v1590945770/2020/001_duj1hd.jpg"
     - "/v1590945770/2020/005_q2qnf4.jpg"
@@ -67,6 +73,7 @@ galeria:
     - "/v1590945768/2020/006_ffy8ol.jpg"
   - nombre: lucho cagliardi / no sabíamos qué hacer en Navidad entonces hicimos esto
     url: https://issuu.com/luchocagliardi/docs/nsqhenehe_v2
+    video: ""
     imagenes:
     - "/v1590944793/2020/Sin_t%C3%ADtulo-7_blblyn.jpg"
     - "/v1590944794/2020/Sin_t%C3%ADtulo-2_llayua.jpg"
@@ -77,6 +84,7 @@ galeria:
     - "/v1590944795/2020/Sin_t%C3%ADtulo-9_jhwkhi.jpg"
   - nombre: montserrat saiz / verano roto
     url: https://issuu.com/mmontserrat.saiz/docs/verano_roto_04a84581ea1b51
+    video: ""
     imagenes:
     - "/v1590943553/2020/001_d3g1nw.jpg"
     - "/v1590943553/2020/003_tuv2uy.jpg"
@@ -85,6 +93,7 @@ galeria:
     - "/v1590943553/2020/004_fd11ol.jpg"
   - nombre: roberta valente / Claudia Falcone
     url: https://issuu.com/credores/docs/sin_t_tulo
+    video: ""
     imagenes:
     - "/v1590941997/2020/001_ctchpx.jpg"
     - "/v1590941652/2020/002_xkmi9w.jpg"
@@ -93,6 +102,7 @@ galeria:
     - "/v1590942275/2020/tifon_kwagiq.jpg"
   - nombre: martina skretkowicz / la cercanía con lo real
     url: https://issuu.com/mrszmrsz/docs/la_cercan_a_con_lo_real?fbclid=IwAR07tA4A5MJXLjylOov7h32OJOSz9ECKTy86mh690j7Dmsw4cXLR7VJU56Q
+    video: ""
     imagenes:
     - "/v1590944026/2020/Sin_t%C3%ADtulo-5_bwg5jd.jpg"
     - "/v1590944028/2020/Sin_t%C3%ADtulo-6_oscrvm.jpg"
@@ -101,11 +111,13 @@ galeria:
     - "/v1590945110/2020/Sin_t%C3%ADtulo-7_twive0.jpg"
   - nombre: victoria ellero / mi belleza no es tu hegemonía
     url: https://issuu.com/v1k4/docs/jpg2pdf
+    video: ""
     imagenes:
     - "/v1590941332/2020/001_f1yrlh.jpg"
     - "/v1590941271/2020/Sin_t%C3%ADtulo-2_nv9kmu.jpg"
   - nombre: yonivoy / testimonio de la luz
     url: https://issuu.com/larajuanm/docs/testimonio_de_la_luz
+    video: ""
     imagenes:
     - "/v1590939698/2020/Sin_t%C3%ADtulo-2_b7qcbu.jpg"
     - "/v1590939703/2020/003_mp1cf6.jpg"
@@ -114,6 +126,7 @@ galeria:
     - "/v1590939714/2020/5_ttjlcn.jpg"
     - "/v1590939708/2020/2_cw6ksu.jpg"
   - url: https://meet.google.com/ngm-qgbs-tcd
+    video: ""
     imagenes:
     - "/v1590962400/2020/014_ckuylg.jpg"
     nombre: google meet / charla abierta

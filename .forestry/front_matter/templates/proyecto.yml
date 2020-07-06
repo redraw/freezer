@@ -50,13 +50,19 @@ fields:
       config:
         required: false
       label: url
+    - name: video
+      type: text
+      config:
+        required: false
+      label: video
+      decription: Link formato embed (por ejemplo, https://www.youtube.com/embed/0ng--2sqdDo)
     - name: imagenes
       type: image_gallery
       config: {}
       label: imagenes
     config:
-      min: 
-      max: 
+      min:
+      max:
       labelField: nombre
     label: autores
   label: Galeria
