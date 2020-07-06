@@ -57,6 +57,7 @@ export default {
 .menu a {
   text-decoration: none;
   font-size: 10vh;
+  text-transform: lowercase;
 }
 .menu a:hover {
   text-decoration: underline;

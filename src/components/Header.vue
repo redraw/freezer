@@ -8,9 +8,9 @@
       <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
     </div>
     <nav class="nav right" :class="{'nav-expand': collapse}">
-      <g-link 
-        v-for="link in $settings.menu" 
-        :key="link.url" 
+      <g-link
+        v-for="link in $settings.menu"
+        :key="link.url"
         :to="link.url"
         @click="collapse = false"
       >
@@ -77,6 +77,7 @@ export default {
   flex-flow: column;
   background: var(--color-contrast);
   color: var(--color-base);
+  text-transform: lowercase;
 }
 .nav > * {
   padding: 1em;
