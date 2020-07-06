@@ -6,9 +6,9 @@
         :cols="{default: 3, 1000: 3, 700: 2, 400: 1}"
         :gutter="{default: '30px', 700: '15px'}"
       >
-        <g-link 
-          v-for="proyecto in $page.proyectos.edges" 
-          :to="proyecto.node.path" 
+        <g-link
+          v-for="proyecto in $page.proyectos.edges"
+          :to="proyecto.node.path"
           :key="proyecto.node.id"
           class="proyecto"
         >
@@ -63,11 +63,11 @@ query {
   .proyecto:hover .thumb {
     filter: none;
   }
-  .thumb {
-    filter: grayscale();
-    width: 100%;
-  }
   @media screen and (min-width: 720px) {
+    .thumb {
+      filter: grayscale();
+      width: 100%;
+    }
     .proyecto {
       margin-bottom: 30px;
     }
