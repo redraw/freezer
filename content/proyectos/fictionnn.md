@@ -6,7 +6,8 @@ galeria:
   - nombre: ''
     url: ''
     video: https://www.youtube.com/embed/ustdrzSf8AY
-    imagenes: []
+    imagenes:
+    - "/v1592595069/2020/0015_jlxemf.jpg"
 date: 2020-07-07
 title: fictionnn
 anio: ''
