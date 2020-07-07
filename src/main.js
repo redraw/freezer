@@ -46,6 +46,6 @@ export default function(Vue, { head }) {
   head.meta.push({
     key: "image",
     property: "og:image",
-    content: "https://freezer.com.ar/logo.png"
+    content: "https://freezer.com.ar/logo2x.png"
   })
 }
