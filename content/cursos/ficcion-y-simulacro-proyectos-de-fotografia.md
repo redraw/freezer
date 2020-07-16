@@ -15,14 +15,14 @@ Orientado a todxs aquellos interesados ​​en trabajar con sus fotografías co
 
 Esta edición está pensada para trabajar en contexto de aislamiento social, por lo que se piensaán proyectos a desarrollar con material de archivo (propio o de algún proyecto de investigación) autorretratos e imágenes que pueden llegar a generarse (y modificarse) durante el encierro.
 
-#### **Inscriba a través del** [**formulario de inscripción**](https://docs.google.com/forms/d/1cx7mw6fU5Hhpc2Z6k24ZDO9cb85IBmm4GTX7is266BU/edit "formulario de inscripción") **.**
+#### **Inscribite a través del** [**formulario de inscripción**](https://docs.google.com/forms/d/1cx7mw6fU5Hhpc2Z6k24ZDO9cb85IBmm4GTX7is266BU/edit "formulario de inscripción") **.**
 
 Costo | $ 1500
 
-Inicio | 17 de julio a las 18 hs. 
+Inicio | 17 de julio a las 18 hs.
 
 Si querés inscribirte pero el curso ya comenzó, escribinos a freezerfoto@gmail.com, vamos a estar creando nuevos grupos de trabajo.
 
 Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12.
 
-El curso puede ser abonado por transferencia oa través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f)
+El curso puede ser abonado por transferencia oa través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024)
