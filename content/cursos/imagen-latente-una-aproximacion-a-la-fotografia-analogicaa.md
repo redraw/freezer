@@ -2,7 +2,7 @@
 date: 2020-06-22T18:35:51.000+00:00
 thumbnail: "/v1592851816/2020/dani_img_latente_freezer_2_eg641h.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2020-07-23T21:00:00.000+00:00
+inicio: 2020-08-23T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: " http://mpago.la/1MM3wQr"
@@ -26,11 +26,11 @@ No es necesario tener experiencia en fotografía analógica para hacer este tall
 
 Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, ¡te esperamos!
 
-Duración: 5 encuentros. 
+Duración: 5 encuentros.
 
-[Anotate a través de nuestro formulario de inscripción](https://bit.ly/imagenlatentejulio).
+[Anotate a través de nuestro formulario de inscripción](https://docs.google.com/forms/d/1x7zj8e1-7dOKEZld-CjWY8-7AFaRMjVg5qjrnpOz5vU/edit).
 
-Inscripción abierta hasta el 22/7
+Inscripción abierta hasta el 22/8
 
 Costo | $ 1.000,00
 
