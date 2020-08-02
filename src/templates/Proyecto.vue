@@ -2,9 +2,9 @@
   <Layout>
     <div class="proyecto">
       <div class="container">
-        <h2 class="titulo">
+        <h1 class="titulo">
           <span class="anio">{{ $page.proyecto.date }}</span> / {{ $page.proyecto.title }}
-        </h2>
+        </h1>
         <div v-html="$page.proyecto.content" class="content" />
       </div>
       <client-only>
@@ -91,6 +91,10 @@ export default {
         {
           name: "twitter:card",
           content: "summary_large_image"
+        },
+        {
+          name: "robots",
+          content: this.$page.proyecto.listado ? "all" : "noindex"
         }
       ],
       bodyAttrs: {

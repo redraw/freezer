@@ -1,22 +1,24 @@
 <template>
-  <header class="container">
-    <div class="menu">
-      <g-link :to="{ name: 'home' }" class="home-link">
-        <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-        <h2 class="site-name">freezer</h2>
-      </g-link>
-      <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
+  <header>
+    <div class="header container">
+      <div class="menu">
+        <g-link :to="{ name: 'home' }" class="home-link">
+          <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
+          <h2 class="site-name">freezer</h2>
+        </g-link>
+        <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
+      </div>
+      <nav class="nav right" :class="{'nav-expand': collapse}">
+        <g-link
+          v-for="link in $settings.menu"
+          :key="link.url"
+          :to="link.url"
+          @click="collapse = false"
+        >
+          {{ link.name }}
+        </g-link>
+      </nav>
     </div>
-    <nav class="nav right" :class="{'nav-expand': collapse}">
-      <g-link
-        v-for="link in $settings.menu"
-        :key="link.url"
-        :to="link.url"
-        @click="collapse = false"
-      >
-        {{ link.name }}
-      </g-link>
-    </nav>
   </header>
 </template>
 
@@ -90,7 +92,7 @@ export default {
   margin-bottom: 1px;
 }
 @media screen and (min-width: 720px) {
-  header {
+  .header {
     display: flex;
     flex-flow: row;
     align-items: center;

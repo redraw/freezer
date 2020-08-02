@@ -31,6 +31,14 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         baseDir: "content",
+        path: "notas/**/*.md",
+        typeName: "Nota"
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        baseDir: "content",
         path: "pages/**/*.md",
         typeName: "SinglePage"
       }

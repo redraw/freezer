@@ -1,5 +1,6 @@
 <template>
   <div class="layout">
+    <!-- <marquee class="aviso">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae consequatur ea facilis aliquam amet, vero animi est aspernatur et? Nobis, facere aspernatur sunt quisquam temporibus possimus voluptates recusandae accusantium reprehenderit!</marquee> -->
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
@@ -26,7 +27,6 @@ export default {
   }
 }
 </script>
-
 
 <style>
 * {
@@ -106,11 +106,19 @@ img[lazy=loaded] {
   margin-bottom: 0.5rem;
 }
 
-.titulo {
+.titulo, .titulo-zarpado {
   color: white;
   background: black;
   padding: 2rem;
   margin-top: 0;
+}
+
+.aviso {
+  background: black;
+  color: white;
+  padding: 0.2em;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 @media screen and (min-width: 720px) {
@@ -121,8 +129,7 @@ img[lazy=loaded] {
     color: inherit;
     background: inherit;
     line-height: inherit;
-    margin: 0;
-    padding-top: 0;
+    padding: 0;
   }
 }
 </style>

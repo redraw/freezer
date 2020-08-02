@@ -6,10 +6,10 @@
           <img v-lazy="getImageUrl($page.curso.thumbnail, 'c_scale,w_400')" :alt="$page.curso.title" />
         </div>
         <div class="right">
-          <h2 class="titulo">
+          <h1 class="titulo">
             {{ $page.curso.title }}
             <small class="finalizado" v-if="$page.curso.finalizado"><br>🕑 finalizado</small>
-          </h2>
+          </h1>
           <div class="meta">
             <div class="docente">
               <span class="label">coordina</span>
@@ -111,6 +111,9 @@ export default {
   .thumbnail img {
     position: sticky;
     top: 1em;
+  }
+  .titulo {
+    padding: 0 2rem;
   }
   .right {
     flex-basis: 60%;

@@ -6,6 +6,10 @@
         :key="link.url"
         :to="link.url"
         :title="link.url"
+        :style="{
+          'font-size': `${Math.floor(100 / $settings.menu.length) * 0.5}vh`,
+          'line-height': '1.5'
+        }"
       >
         {{ link.name }}
       </g-link>
@@ -40,11 +44,9 @@
   flex-flow: column;
   height: 100%;
   padding: 1em;
-  line-height: 1.5;
 }
 .menu a {
   text-decoration: none;
-  font-size: 10vh;
   text-transform: lowercase;
 }
 .menu a:hover {
