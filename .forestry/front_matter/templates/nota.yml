@@ -1,0 +1,22 @@
+---
+label: Nota
+hide_body: false
+fields:
+- type: boolean
+  name: listado
+  label: listado
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: bg_color
+  label: bg_color
+- type: text
+  name: fg_color
+  label: fg_color
