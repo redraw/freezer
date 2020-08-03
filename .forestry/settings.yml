@@ -9,6 +9,8 @@ sections:
   label: Notas
   create: all
   match: "**/*.md"
+  templates:
+  - nota
 - type: directory
   path: content/pages
   label: Pages
