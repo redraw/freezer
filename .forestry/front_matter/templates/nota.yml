@@ -2,15 +2,17 @@
 label: Nota
 hide_body: false
 fields:
-- type: boolean
-  name: listado
-  label: listado
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
   label: title
+- type: datetime
+  name: date
+  label: date
+  hidden: false
+  default: now
 - type: file
   name: thumbnail
   label: thumbnail
+- type: boolean
+  name: listado
+  label: listado
