@@ -7,7 +7,7 @@ bg_color: "#111111"
 fg_color: "#FFFFFF"
 
 ---
-Por [Luciana Demichelis](www.instagram.com/demichelisluciana)
+Por[ Luciana Demichelis](www.instagram.com/demichelisluciana)
 
 Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra presenta '**dos cuerpos indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro**'. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
