@@ -1,6 +1,6 @@
 ---
 listado: true
-date: 2020-08-04T03:00:00Z
+date: 2020-08-06T03:00:00Z
 title: 5 preguntas a Felipe Romero Beltrán
 thumbnail: "/v1596549575/2020/Reduccion-FR1_wczdop.jpg"
 bg_color: "#111111"
