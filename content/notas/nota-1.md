@@ -9,4 +9,4 @@ fg_color: "#FFFFFF"
 ---
 Por [Luciana Demichelis](www.instagram.com/demichelisluciana)
 
-![](https://res.cloudinary.com/freezer/c_scale,w_800/v1585274827/v1596549721/2020/Reduccion-FR2_snsxi0.jpg)
+![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)
