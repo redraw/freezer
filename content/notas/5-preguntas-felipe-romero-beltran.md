@@ -9,12 +9,12 @@ fg_color: "#FFFFFF"
 ---
 Por [Luciana Demichelis](www.instagram.com/demichelisluciana)
 
-vLa condición legal del (cuerpo) inmigrante determina si puede o no transitar regularmente todas las calles de la ciudad. Los recorridos diarios del (cuerpo) inmigrante se ven afectados si este no posee documentos de identificación o una residencia justificada en el país. Esto, en términos legales, se conoce como (cuerpo) indocumentado. El cuerpo policial realiza periódicamente una revisión del estado legal de los (cuerpos) residentes en zonas donde estadísticamente pueden encontrar más irregularidades. Si el (cuerpo) inmigrante es interceptado, se le reduce y es trasladado al CIE (Centro de Internamiento de Extranjeros). La reducción y el sometimiento del (cuerpo) indocumentado se rige por el Manual de Defensa Policial que establece el Cuerpo Nacional de Policía. El manual explica detalladamente cómo reducir a otro cuerpo, o dicho de otro modo, cómo neutralizar al (cuerpo) indocumentado a través de técnicas de combate.  
-![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)  
-  
-Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra, muestra a dos (cuerpos) indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
-
 Hicimos 5 preguntas a Felipe Romero Beltrán (1992), artista visual colombiano que reside y estudia en Madrid. Debido a los procedimientos burocráticos, tuvo que esperar documentos oficiales que le permitieron continuar su doctorado. Al experimentar el peligro claro y presente de un arresto policial, decidió aplicar su conocimiento sobre los controles de rutina a un proyecto: Reducción.
+
+  
+![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)
+
+Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra, muestra a dos (cuerpos) indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596682254/2020/Reduccion-FR2_iyfc6o.jpg)
 
@@ -28,8 +28,8 @@ Reducción es un proyecto que indaga en los procedimientos de reducción y somet
 
 \-
 
-**¿Cómo fue el proceso de investigación y creación de la serie?**  
-  
+**¿Cómo fue el proceso de investigación y creación de la serie?**
+
 Luego el proceso vino de una manera más o menos intuitiva. Mi educación como fotógrafo en países como Colombia, Argentina e Israel, (lugares donde residí antes de venir a España), están muy ligados con una tradición fotográfica política y social. He trabajado insistentemente en estas tensiones, en algunas de manera más evidente como Colombia o Israel, y en otras las tensiones son menos evidentes, como es el caso de Reducción.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684014/2020/Reduccion-FR5_lsjyzo.jpg)
@@ -39,7 +39,6 @@ Luego el proceso vino de una manera más o menos intuitiva. Mi educación como f
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684134/2020/Reduccion-FR6_tykviy.jpg "https://feliperomerobeltran.com/")
 
-  
 Es por esto que decidí dividir el proyecto en estas tres partes. Las calles donde han ocurrido procesos requerimiento de documentación y de reducción, como evidencia latente de lo que ha sucedido. Los esquemas de reducción practicados por dos inmigrantes indocumentados, exploran no solo la relación de violencia entre cuerpos sino también los roles de poder implícitos en la acción producida y dirigida en este caso por un Policía en activo del Cuerpo Nacional de Policía. El archivo tomado de los manuales de la Policía, donde también se evidencia esta tensión entre cuerpo que somete y cuerpo que es sometido.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684167/2020/Reduccion-FR7_chdzgi.jpg "https://feliperomerobeltran.com/")
@@ -68,7 +67,6 @@ Además, creo que se está gestando una manera de hacer muy especifica que dialo
 
 **¿Un consejo para unx joven fotógrafx a otrx joven fotógrafx, desde tu experiencia?**
 
-  
 \- Tiendo a hablar siempre desde la falta, es decir, desde mi propia necesidad. Mi consejo sería, si es posible alguno, que ame la fotografía. Desde la cultura y el misterio que el propio medio entraña.
 
 Muchas gracias Felipe. Conocé más de este trabajo [en su web](https://feliperomerobeltran.com/).
