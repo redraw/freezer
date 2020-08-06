@@ -9,16 +9,20 @@ fg_color: "#FFFFFF"
 ---
 Por [Luciana Demichelis](www.instagram.com/demichelisluciana)
 
-Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra, muestra a dos (cuerpos) indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
+Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra presenta dos cuerpos indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
 Hicimos 5 preguntas a Felipe Romero Beltrán (1992), artista visual colombiano que reside y estudia en Madrid. Debido a los procedimientos burocráticos, tuvo que esperar documentos oficiales que le permitieron continuar su doctorado. Al experimentar el peligro claro y presente de un arresto policial, decidió aplicar su conocimiento sobre los controles de rutina a un proyecto: Reducción.
+
+En Madrid, el arresto de personas indocumentadas está regulado por el Manual de Defensa de la Policía. Este manual, establecido por la Policía Nacional, explica en detalle cómo someter a una persona indocumentada con una gama de técnicas de combate específicas. La reducción, un trabajo en progreso, consiste en interpretaciones escenificadas de las diversas acciones policiales, su 'coreografía' para hacer arrestos, como la llegada de la capacitación.
+
+Ubicados en entornos neutralizados (fondos blancos), dos actores negros, con el torso desnudo pero vestidos como si fueran uniformes, se "combaten" en "esquemas" en miniatura. De hecho, estos 'actores' son aficionados reclutados a través de un anuncio publicado por el artista, y los procedimientos fueron instruidos por un oficial de policía nacional (amigo). Las imágenes en blanco y negro que resultaron de esas sesiones sirven como una apropiación de arrestos reales, interpretando así escenas aparentemente mundanas (y desoladas) que Romero Beltrán también documentó sistemáticamente con su cámara; no lugares que, una vez contextualizados, vibran una extraña sensación de incomodidad.
 
   
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596682254/2020/Reduccion-FR2_iyfc6o.jpg)
 
-«La condición legal del (cuerpo) inmigrante determina si puede o no transitar regularmente todas las calles de la ciudad. Los recorridos diarios del (cuerpo) inmigrante se ven afectados si este no posee documentos de identificación o una residencia justificada en el país. Esto, en términos legales, se conoce como (cuerpo) indocumentado. El cuerpo policial realiza periódicamente una revisión del estado legal de los (cuerpos) residentes en zonas donde estadísticamente pueden encontrar más irregularidades. Si el (cuerpo) inmigrante es interceptado, se le reduce y es trasladado al CIE (Centro de Internamiento de Extranjeros). La reducción y el sometimiento del (cuerpo) indocumentado se rige por el Manual de Defensa Policial que establece el Cuerpo Nacional de Policía. El manual explica detalladamente cómo reducir a otro cuerpo, o dicho de otro modo, cómo neutralizar al (cuerpo) indocumentado a través de técnicas de combate.
+«La condición legal del (cuerpo) inmigrante determina si puede o no transitar regularmente todas las calles de la ciudad. Los recorridos diarios del (cuerpo) inmigrante se ven afectados si este no posee documentos de identificación o una residencia justificada en el país. Esto, en términos legales, se conoce como (cuerpo) indocumentado. El cuerpo policial realiza periódicamente una revisión del estado legal de los (cuerpos) residentes en zonas donde estadísticamente pueden encontrar más irregularidades. Si el (cuerpo) inmigrante es interceptado, se le reduce y es trasladado al CIE (Centro de Internamiento de Extranjeros). La reducción y el sometimiento del (cuerpo) indocumentado se rige por el Manual de Defensa Policial que establece el Cuerpo Nacional de Policía. El manual explica detalladamente cómo reducir a otro cuerpo, o dicho de otro modo, cómo neutralizar al (cuerpo) indocumentado a través de técnicas de combate.»
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596683923/2020/Reduccion-FR3_lootdu.jpg)
 
