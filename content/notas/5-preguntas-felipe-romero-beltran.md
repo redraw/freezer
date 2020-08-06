@@ -52,6 +52,10 @@ Es por esto que decidí dividir el proyecto en estas tres partes. Las calles don
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596685494/2020/Reduccion-FR10_jhwfuh.jpg)
 
+![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1596725193/2020/Reduccion-FR11_lsoppq.jpg)
+
+![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1596725227/2020/Reduccion-FR12_tlkzgp.jpg)
+
 **¿Cómo ves hoy a la fotografía latinoamericana?**
 
 Creo (más allá de regionalismos) que la fotografía Latinoamericana atraviesa un momento muy interesante. La progresiva democratización de la información y de los accesos a la educación visual son cada vez más evidentes. Con esto no quiero decir que la producción de la imagen fotográfica se haya democratizado horizontalmente, es decir, es evidente que sigue siendo un espacio de producción en el exceso de las sociedades. Sin embargo, el acceso a un oficio y tradición como lo es la fotografía es mas permeable.
@@ -68,8 +72,10 @@ Además, creo que se está gestando una manera de hacer muy especifica que dialo
 
 **¿Un consejo para unx joven fotógrafx a otrx joven fotógrafx, desde tu experiencia?**
 
-\- Tiendo a hablar siempre desde la falta, es decir, desde mi propia necesidad. Mi consejo sería, si es posible alguno, que ame la fotografía. Desde la cultura y el misterio que el propio medio entraña.
+\- Tiendo a hablar siempre desde la falta, es decir, desde mi propia necesidad. **Mi consejo sería, si es posible alguno, que ame la fotografía. Desde la cultura y el misterio que el propio medio entraña.**
 
-Muchas gracias Felipe. Conocé más de su trabajo [en su web](https://feliperomerobeltran.com/).
+Muchas gracias Felipe :)
+
+Conocé más de su trabajo [en su web](https://feliperomerobeltran.com/).
 
 **_Felipe Romero Beltrán_** _(Bogotá, 1992), doctorando por la Universidad Complutense de Madrid, fotógrafo y artista visual. Realizó un Grado Universitario en fotografía en Buenos Aires, Argentina. Durante su estadía, ganó una beca en la universidad Bezalel (Jerusalén) para desarrollar proyectos de orden documental en Medio Oriente, acentuando su interés en Egipto, Israel y Palestina. En 2016, Felipe decide trasladarse a la ciudad de Madrid, donde actualmente reside y trabaja. Con sus proyectos fotográficos, Felipe ha sido ganador en distintos certámenes internacionales (Torres Hedjuk Cidade da Cultura Galicia, Photoespaña HACER 2019, Tabacalera Cantera 2019, VIPHOTO FEST, Feria ARTBO artecamara 2019, Encontros da imagem, New York Times Call 2019, Sony Photography Awards, Canon Student program Visa pour ĺimage, Burn Magazine Magnum Foundation, Luca Dolega París, World Nomads Japón.)_
