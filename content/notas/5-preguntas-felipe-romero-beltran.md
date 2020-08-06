@@ -31,7 +31,7 @@ En fondo blanco dos actores negros, con el torso desnudo pero vestidos como si l
 
 **¿Cómo fue el proceso de investigación y creación de la serie?**
 
-Luego el proceso vino de una manera más o menos intuitiva. Mi educación como fotógrafo en países como Colombia, Argentina e Israel, (lugares donde residí antes de venir a España), están muy ligados con una tradición fotográfica política y social. He trabajado insistentemente en estas tensiones, en algunas de manera más evidente como Colombia o Israel, y en otras las tensiones son menos evidentes, como es el caso de Reducción.
+El proceso vino de una manera más o menos intuitiva. Mi educación como fotógrafo en países como Colombia, Argentina e Israel, (lugares donde residí antes de venir a España), están muy ligados con una tradición fotográfica política y social. He trabajado insistentemente en estas tensiones, en algunas de manera más evidente como Colombia o Israel, y en otras las tensiones son menos evidentes, como es el caso de Reducción.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684014/2020/Reduccion-FR5_lsjyzo.jpg)
 
