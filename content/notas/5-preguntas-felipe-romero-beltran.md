@@ -50,7 +50,7 @@ Es por esto que decidí dividir el proyecto en estas tres partes. Las calles don
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684233/2020/Reduccion-FR8_kmq8gv.jpg)![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684260/2020/Reduccion-FR9_w4kdka.jpg "https://feliperomerobeltran.com/")
 
-![](https://freight.cargo.site/w/750/i/f95b09d1b51c4fa42a6740e9b9ef03a7e350fa1d19201c090163697176303af1/Armadodossier12.jpg)
+![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596685494/2020/Reduccion-FR10_jhwfuh.jpg)
 
 **¿Cómo ves hoy a la fotografía latinoamericana?**
 
@@ -62,9 +62,13 @@ Además, creo que se está gestando una manera de hacer muy especifica que dialo
 
 ![](https://freight.cargo.site/w/750/i/d84cf2c3fd802e2164888e5d8ee485ff4e3fb745084dc8c5f924c62c79133190/Archivo-reduccion071.jpg)
 
+![](https://freight.cargo.site/w/750/i/1849daefc7a28a640da402318de951eea683a92569a6bf37903e6c9986b64fd7/Archivo-reduccion056.jpg)
+
+![](https://freight.cargo.site/w/750/i/3dd1d19b54882038eff48ce16c6d4edd7cb895346aadd85ecfc99625df5a99d3/Archivo-reduccion070.jpg)
+
 **¿Un consejo para unx joven fotógrafx a otrx joven fotógrafx, desde tu experiencia?**
 
   
 \- Tiendo a hablar siempre desde la falta, es decir, desde mi propia necesidad. Mi consejo sería, si es posible alguno, que ame la fotografía. Desde la cultura y el misterio que el propio medio entraña.
 
-Conocé más del trabajo de Felipe [en su web](https://feliperomerobeltran.com/).
+Muchas gracias Felipe. Conocé más de este trabajo [en su web](https://feliperomerobeltran.com/).
