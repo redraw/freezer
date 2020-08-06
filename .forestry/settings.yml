@@ -40,7 +40,7 @@ sections:
   label: Status
   read_only: true
 upload_dir: ''
-public_path: https://res.cloudinary.com/freezer/c_scale,w_1200
+public_path: https://res.cloudinary.com/freezer/c_limit,w_1280,h_920
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":year:/:filename:"
