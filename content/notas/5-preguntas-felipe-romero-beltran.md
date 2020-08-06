@@ -21,7 +21,9 @@ En fondo blanco dos actores negros, con el torso desnudo pero vestidos como si l
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596682254/2020/Reduccion-FR2_iyfc6o.jpg)
 
-«La condición legal del (cuerpo) inmigrante determina si puede o no transitar regularmente todas las calles de la ciudad. Los recorridos diarios del (cuerpo) inmigrante se ven afectados si este no posee documentos de identificación o una residencia justificada en el país. Esto, en términos legales, se conoce como (cuerpo) indocumentado. El cuerpo policial realiza periódicamente una revisión del estado legal de los (cuerpos) residentes en zonas donde estadísticamente pueden encontrar más irregularidades. Si el (cuerpo) inmigrante es interceptado, se le reduce y es trasladado al CIE (Centro de Internamiento de Extranjeros). La reducción y el sometimiento del (cuerpo) indocumentado se rige por el Manual de Defensa Policial que establece el Cuerpo Nacional de Policía. El manual explica detalladamente cómo reducir a otro cuerpo, o dicho de otro modo, cómo neutralizar al (cuerpo) indocumentado a través de técnicas de combate.»
+«La condición legal del (cuerpo) inmigrante determina si puede o no transitar regularmente todas las calles de la ciudad. Los recorridos diarios del (cuerpo) inmigrante se ven afectados si este no posee documentos de identificación o una residencia justificada en el país. Esto, en términos legales, se conoce como (cuerpo) indocumentado. El cuerpo policial realiza periódicamente una revisión del estado legal de los (cuerpos) residentes en zonas donde estadísticamente pueden encontrar más irregularidades. Si el (cuerpo) inmigrante es interceptado, se le reduce y es trasladado al CIE (Centro de Internamiento de Extranjeros). La reducción y el sometimiento del (cuerpo) indocumentado se rige por el Manual de Defensa Policial que establece el Cuerpo Nacional de Policía. 
+
+El manual explica detalladamente cómo reducir a otro cuerpo, o dicho de otro modo, cómo neutralizar al (cuerpo) indocumentado a través de técnicas de combate»
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596683923/2020/Reduccion-FR3_lootdu.jpg)
 
@@ -35,8 +37,9 @@ Luego el proceso vino de una manera más o menos intuitiva. Mi educación como f
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684014/2020/Reduccion-FR5_lsjyzo.jpg)
 
-**¿Cómo fue la decisión (y el interés) de dividir el proyecto en tres partes?**  
-\- La decisión fue, como en casi todos los casos, de absoluta necesidad. Yo empecé el proyecto documentando situaciones directas de agresiones policiales a inmigrantes indocumentados. Esta decisión me trajo dos problemas estructurales. Primero, a la hora de encontrar dichos casos en el barrio, las ocasiones aleatorias y poco fotografiables por su propia naturaleza. Segundo, el acercamiento desde una fotografía de prensa o fotoperiodismo dejaba varias cuestiones que me interesan en un segundo plano.
+**¿Cómo fue la decisión (y el interés) de dividir el proyecto en tres partes?**
+
+\- La decisión fue, como en casi todos los casos, de absoluta necesidad. **Yo empecé el proyecto documentando situaciones directas de agresiones policiales a inmigrantes indocumentados.** Esta decisión me trajo dos problemas estructurales. Primero, a la hora de encontrar dichos casos en el barrio, las ocasiones aleatorias y poco fotografiables por su propia naturaleza. Segundo, el acercamiento desde una fotografía de prensa o fotoperiodismo dejaba varias cuestiones que me interesan en un segundo plano.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684134/2020/Reduccion-FR6_tykviy.jpg "https://feliperomerobeltran.com/")
 
