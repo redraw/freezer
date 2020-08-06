@@ -11,7 +11,7 @@ Por[ Luciana Demichelis](www.instagram.com/demichelisluciana)
 
 Reducción es un proyecto que indaga en los procedimientos de reducción y sometimiento policial a indocumentados en Madrid. La obra presenta '**dos cuerpos indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro**'. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
-Hicimos 5 preguntas a Felipe Romero Beltrán (1992), artista visual colombiano que reside y estudia en Madrid. Debido a los procedimientos burocráticos, tuvo que esperar documentos oficiales que le permitieron continuar su doctorado. Al experimentar el peligro claro y presente de un arresto policial, decidió aplicar su conocimiento sobre los controles de rutina a un proyecto: Reducción.
+**Hicimos 5 preguntas a Felipe Romero Beltrán** (1992), artista visual colombiano que reside y estudia en Madrid. Debido a los procedimientos burocráticos, tuvo que esperar documentos oficiales que le permitieron continuar su doctorado. Al experimentar el peligro claro y presente de un arresto policial, decidió aplicar su conocimiento sobre los controles de rutina a un proyecto: Reducción.
 
 En Madrid, el arresto de personas indocumentadas está regulado por el Manual de Defensa de la Policía. Este manual, establecido por la Policía Nacional, explica en detalle cómo someter a una persona indocumentada con una gama de técnicas de combate específicas. La reducción, un trabajo en progreso, consiste en interpretaciones escenificadas de las diversas acciones policiales, su 'coreografía' para hacer arrestos, como la llegada de la capacitación.
 
