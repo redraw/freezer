@@ -10,6 +10,10 @@
       "url": "/proyectos"
     },
     {
+      "name": "Notas",
+      "url": "/notas"
+    },
+    {
       "name": "Cursos",
       "url": "/cursos"
     },
