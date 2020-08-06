@@ -15,9 +15,8 @@ Reducción es un proyecto que indaga en los procedimientos de reducción y somet
 
 En Madrid, el arresto de personas indocumentadas está regulado por el Manual de Defensa de la Policía. Este manual, establecido por la Policía Nacional, explica en detalle cómo someter a una persona indocumentada con una gama de técnicas de combate específicas. La reducción, un trabajo en progreso, consiste en interpretaciones escenificadas de las diversas acciones policiales, su 'coreografía' para hacer arrestos, como la llegada de la capacitación.
 
-Ubicados en entornos neutralizados (fondos blancos), dos actores negros, con el torso desnudo pero vestidos como si fueran uniformes, se "combaten" en "esquemas" en miniatura. De hecho, estos 'actores' son aficionados reclutados a través de un anuncio publicado por el artista, y los procedimientos fueron instruidos por un oficial de policía nacional (amigo). Las imágenes en blanco y negro que resultaron de esas sesiones sirven como una apropiación de arrestos reales, interpretando así escenas aparentemente mundanas (y desoladas) que Romero Beltrán también documentó sistemáticamente con su cámara; no lugares que, una vez contextualizados, vibran una extraña sensación de incomodidad.
+En fondo blanco dos actores negros, con el torso desnudo pero vestidos como si llevaran uniformes, se "combaten" en "esquemas" en miniatura. De hecho, estos 'actores' son aficionados reclutados a través de un anuncio publicado por el artista, y los procedimientos fueron instruidos por un oficial de policía nacional (amigo). Las imágenes en blanco y negro que resultaron de esas sesiones sirven como una apropiación de arrestos reales, interpretando así escenas aparentemente mundanas (y desoladas) que Romero Beltrán también documentó sistemáticamente con su cámara; no lugares que, una vez contextualizados, vibran una extraña sensación de incomodidad.
 
-  
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596682254/2020/Reduccion-FR2_iyfc6o.jpg)
@@ -71,4 +70,6 @@ Además, creo que se está gestando una manera de hacer muy especifica que dialo
 
 \- Tiendo a hablar siempre desde la falta, es decir, desde mi propia necesidad. Mi consejo sería, si es posible alguno, que ame la fotografía. Desde la cultura y el misterio que el propio medio entraña.
 
-Muchas gracias Felipe. Conocé más de este trabajo [en su web](https://feliperomerobeltran.com/).
+Muchas gracias Felipe. Conocé más de su trabajo [en su web](https://feliperomerobeltran.com/).
+
+**_Felipe Romero Beltrán_** _(Bogotá, 1992), doctorando por la Universidad Complutense de Madrid, fotógrafo y artista visual. Realizó un Grado Universitario en fotografía en Buenos Aires, Argentina. Durante su estadía, ganó una beca en la universidad Bezalel (Jerusalén) para desarrollar proyectos de orden documental en Medio Oriente, acentuando su interés en Egipto, Israel y Palestina. En 2016, Felipe decide trasladarse a la ciudad de Madrid, donde actualmente reside y trabaja. Con sus proyectos fotográficos, Felipe ha sido ganador en distintos certámenes internacionales (Torres Hedjuk Cidade da Cultura Galicia, Photoespaña HACER 2019, Tabacalera Cantera 2019, VIPHOTO FEST, Feria ARTBO artecamara 2019, Encontros da imagem, New York Times Call 2019, Sony Photography Awards, Canon Student program Visa pour ĺimage, Burn Magazine Magnum Foundation, Luca Dolega París, World Nomads Japón.)_
