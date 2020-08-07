@@ -7,7 +7,7 @@ bg_color: "#111111"
 fg_color: "#FFFFFF"
 
 ---
-Por[ Luciana Demichelis](http://www.instagram.com/demichelisluciana)
+Por [Luciana Demichelis](http://instagram.com/demichelisluciana)
 
 Reducción es un proyecto que estudia los procedimientos de  sometimiento policial a indocumentados en Madrid. La obra presenta '**dos cuerpos indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro**'. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
@@ -15,7 +15,7 @@ Reducción es un proyecto que estudia los procedimientos de  sometimiento polici
 
 En Madrid, el arresto de personas indocumentadas está regulado por el Manual de Defensa de la Policía. Este manual, establecido por la Policía Nacional, explica en detalle cómo someter a una persona indocumentada con una gama de técnicas de combate específicas. La reducción, un trabajo en progreso, consiste en interpretaciones escenificadas de las diversas acciones policiales, su 'coreografía' para hacer arrestos.
 
-En fondo blanco dos actores negros, con el torso desnudo pero vestidos como si llevaran uniformes, se "combaten" en "esquemas" en miniatura. De hecho, estos 'actores' son aficionados reclutados a través de un anuncio publicado por el artista, y los procedimientos fueron instruidos por un oficial de policía nacional (amigo). Las imágenes en blanco y negro que resultaron de esas sesiones sirven como una apropiación de arrestos reales, interpretando así escenas aparentemente mundanas (y desoladas) que Felipe también documentó sistemáticamente con su cámara. 
+En fondo blanco dos actores negros, con el torso desnudo pero vestidos como si llevaran uniformes, se "combaten" en "esquemas" en miniatura. De hecho, estos 'actores' son aficionados reclutados a través de un anuncio publicado por el artista, y los procedimientos fueron instruidos por un oficial de policía nacional (amigo). Las imágenes en blanco y negro que resultaron de esas sesiones sirven como una apropiación de arrestos reales, interpretando así escenas aparentemente mundanas (y desoladas) que Felipe también documentó sistemáticamente con su cámara.
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596549575/2020/Reduccion-FR1_wczdop.jpg)
 
@@ -49,7 +49,9 @@ Es por esto que decidí dividir el proyecto en estas tres partes. Las calles don
 
 \-Te puedo responder desde mi educación fotográfica. En los últimos años, la fotografía de corte documental ha sufrido un desplazamiento ante el agotamiento de ciertos lenguajes. Mis intereses siempre han estado muy ligados a la imagen fotográfica documental pero soy consciente de dicho agotamiento. Mi pretensión primera no fue realizar una performance sino registrar fotográficamente un suceso. Es claro también que hay decisiones sobre la superficie de la imagen que acentúan la performatividad del registro. (Decisión de luz, indumentaria, fondo)
 
-![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684233/2020/Reduccion-FR8_kmq8gv.jpg)![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684260/2020/Reduccion-FR9_w4kdka.jpg "https://feliperomerobeltran.com/")
+![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684233/2020/Reduccion-FR8_kmq8gv.jpg)
+
+![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684260/2020/Reduccion-FR9_w4kdka.jpg "https://feliperomerobeltran.com/")
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596685494/2020/Reduccion-FR10_jhwfuh.jpg)
 
