@@ -1,11 +1,11 @@
 ---
 date: 2020-06-22T18:35:51.000+00:00
-thumbnail: "/v1592851816/2020/dani_img_latente_freezer_2_eg641h.jpg"
+thumbnail: "/v1597161665/2020/daniflyer_septiembre_awmw5o.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2020-08-23T21:00:00Z
+inicio: 2020-09-07T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: " http://mpago.la/1MM3wQr"
+mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=138657285-0b21ea43-1902-4dea-aee1-06e3f3946d46
 finalizado: false
 
 ---
@@ -28,10 +28,10 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 
 Duración: 5 encuentros.
 
-[Anotate a través de nuestro formulario de inscripción](https://docs.google.com/forms/d/1x7zj8e1-7dOKEZld-CjWY8-7AFaRMjVg5qjrnpOz5vU/edit).
+[Anotate a través de nuestro formulario de inscripción](https://docs.google.com/forms/d/1x7zj8e1-7dOKEZld-CjWY8-7AFaRMjVg5qjrnpOz5vU/viewform?edit_requested=true).
 
-Inscripción abierta hasta el 22/8
+Inscripción abierta hasta el 7/9
 
-Costo | $ 1.000,00
+Costo | $ 1.050,00
 
-Pagalo con este link de Mercado Pago: [http://mpago.la/1MM3wQr](http://mpago.la/1MM3wQr "http://mpago.la/1MM3wQr")
+Pagalo con este link de Mercado Pago: [http://mpago.la/1MM3wQr](https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=138657285-0b21ea43-1902-4dea-aee1-06e3f3946d46 "http://mpago.la/1MM3wQr")
