@@ -23,4 +23,4 @@ Inicio | Viernes 11 de septiembre de 18 a 20.30 hs.
 
 Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12.
 
-El curso puede ser abonado por transferencia o a través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024)
+El curso puede ser abonado por transferencia o a través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024) Este QR sirve para abonar el taller directamente con tu celular:
