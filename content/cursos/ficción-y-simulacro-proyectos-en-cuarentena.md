@@ -6,7 +6,7 @@ inicio: 2020-05-02T21:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-d6f0f828-c8ae-4bd6-afeb-64690e97ad3f
-finalizado: false
+finalizado: true
 
 ---
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias. Se busca que le alumnx pueda poner en discusión las imágenes propias como también los textos y los autores que se charlarán en el taller, viendo sus fotografías por fuera de la idea de ‘registro’ y alentando la creación de nuevos inventos a través de su dispositivo.
