@@ -1,12 +1,12 @@
 ---
-date: 2020-06-10T00:29:15Z
+date: 2020-06-10T00:29:15.000+00:00
 thumbnail: "/v1593402828/2020/juliooo_kmmzqe.jpg"
 title: lightroom | intensivo de edición y postproducción fotográfica
-inicio: 2020-06-25T19:00:00Z
+inicio: 2020-06-25T19:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-0b819c27-fcec-44d4-b8ac-7680648019a2
-finalizado: false
+finalizado: true
 
 ---
 Dos encuentros sobre Adobe Lightroom, programa de edición y postproducción de imágenes. El curso está orientado a todxs aquellxs que deseen investigar más acerca de diferentes maneras de reeditar archivos fotográficos. La búsqueda está pensada en el trabajo del flujo del color, creación de presets personales de acuerdo a los intereses visuales de cada alumnx, ajustes de exposición, contraste, temperatura y máscaras.
