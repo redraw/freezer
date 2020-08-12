@@ -25,6 +25,8 @@ Durante ese período podés inscribirte en cualquier momento, vamos a estar orga
 
 Duración | 4 encuentros
 
+Viernes de 11 a 13 hs. via Google Meet desde el 4 de septiembre.
+
 Costo | $1500
 
 #### **Inscribite a través del** [**formulario de inscripción**](https://docs.google.com/forms/u/1/d/1-Hy2mW-MFr7nSV7qDi0ETH6h51jEwdqny7qcDQj0a-U/edit?usp=drive_web "formulario de inscripción")**.**
