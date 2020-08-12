@@ -5,7 +5,7 @@ inicio: 2020-09-04T14:00:00Z
 docente: Luciana Demichelis
 lugar: WWW
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-86ec02af-0ab5-4b72-98b4-ea0efd3c4774
-finalizado: true
+finalizado: false
 date: 
 
 ---
