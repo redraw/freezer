@@ -13,11 +13,15 @@ En este curso vas a aprender todas las herramientas básicas de Blender para que
 
 Vasa aprender a modelar a partir de figuras básicas, iluminación, materialidad y texturizado, utilizar la cámara, a crear animaciones simple y renderizar y exportar tus composiciones.
 
-El curso está dirigido a aquellxs que nunca utilizaron el programa, o intentaron usarlo y les resultó agobiante. 
+El curso está dirigido a aquellxs que nunca utilizaron el programa, o intentaron usarlo y les resultó agobiante.
 
-Coordina[ Santiago Bardi,]() creador digital, diseñador y fotógrafo.
+Coordina[ Santiago Bardi,](https://www.instagram.com/bardinamita/) creador digital, diseñador y fotógrafo.
 
-Arranca el Lunes 23/8 de 18 a 20.
+Dos horarios:
+
+Lunes de 18 a 20 a partir del 23/8
+
+Viernes de 16 a 18 a partir del 28/8
 
 Duración: 5 encuentros
 
