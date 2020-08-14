@@ -13,7 +13,7 @@ En este curso vas a aprender todas las herramientas básicas de Blender para que
 
 Constará de cinco clases de dos horas en grupos reducidos de no más de 5 personas, en las que vamos a desarrollar un proyecto que va a involucrar todas las herramientas fundamentales.
 
-Vasa aprender a modelar a partir de figuras básicas, iluminación, materialidad y texturizado, utilizar la cámara, a crear animaciones simple y renderizar y exportar tus composiciones.
+Vas a aprender a modelar a partir de figuras básicas, iluminación, materialidad y texturizado, utilizar la cámara, a crear animaciones simple y renderizar y exportar tus composiciones.
 
 El curso está dirigido a aquellxs que nunca utilizaron el programa, o intentaron usarlo y les resultó agobiante.
 
