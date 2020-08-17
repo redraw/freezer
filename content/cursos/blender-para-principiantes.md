@@ -6,7 +6,7 @@ inicio: 2020-08-24T21:00:00Z
 docente: Santiago Bardi
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 En este curso vas a aprender todas las herramientas básicas de Blender para que te puedas desenvolver cómodamente en el software y seguir practicando y aprendiendo por tu cuenta. 
