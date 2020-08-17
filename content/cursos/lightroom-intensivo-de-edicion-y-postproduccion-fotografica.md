@@ -37,10 +37,10 @@ Reedición fotográfica y contenidos
 Inspiración de diferentes autorxs a través del uso del color.  
 Perspectivas y puesta en común de diferentes maneras de organizar nuestros catálogos
 
-La inscripción está abierta en nuestra web hasta el 15/7
+La inscripción está abierta en nuestra web hasta el 29/8
 
 Por favor, para inscribirte[ completá nuestro formulario de inscripción](https://docs.google.com/forms/u/1/d/1-Hy2mW-MFr7nSV7qDi0ETH6h51jEwdqny7qcDQj0a-U/edit?usp=drive_web)
 
-[Regalá este curso enviandonos un mail](freezerfoto@gmail.com) y abonandolo por [MercadoPago ](https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024)  
-  
+[Regalá este curso enviandonos un mail](freezerfoto@gmail.com) y abonandolo por [MercadoPago ](https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024)
+
 Este QR sirve para abonar el taller directamente con tu celular:
