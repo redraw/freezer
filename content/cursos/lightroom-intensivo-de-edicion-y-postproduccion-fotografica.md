@@ -1,6 +1,6 @@
 ---
 date: 2020-06-10T00:29:15.000+00:00
-thumbnail: "/v1593402828/2020/juliooo_kmmzqe.jpg"
+thumbnail: "/v1597629049/2020/reedit2020-3069_nknnqn.jpg"
 title: lightroom | intensivo de edición y postproducción fotográfica
 inicio: 2020-08-29T21:00:00Z
 docente: Luciana Demichelis
