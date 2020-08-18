@@ -1,9 +1,9 @@
 ---
 thumbnail: "/v1597238481/2020/flyer_vfrip0.jpg"
-title: Imágenes Técnicas | Edición Online
-inicio: 2020-09-04T14:00:00Z
+title: Imágenes Técnicas | Iniciación a la fotografía
+inicio: 2020-09-19T14:00:00Z
 docente: Luciana Demichelis
-lugar: WWW
+lugar: Online
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-86ec02af-0ab5-4b72-98b4-ea0efd3c4774
 finalizado: false
 date: 
@@ -15,7 +15,7 @@ El curso es para todxs aquellos sin experiencia que quieran aprender las herrami
 
 Se van a revisar los conceptos básicos de uso manual: diafragma, velocidad de obturación, sensibilidad y el manejo de la luz disponible. También tipos de lentes y sus usos comunes.
 
-Se trabajará con una presentación a la postproducción en Lightroom: primeras observaciones, formas de retoque, usos y características. También se revisarán autores fotográficos. 
+Se trabajará con una presentación a la postproducción en Lightroom: primeras observaciones, formas de retoque, usos y características. También se revisarán autores fotográficos.
 
 Son necesarios una buena conexión a internet y una PC con micrófono y cámara (puede reemplazarse por un celular)
 
@@ -25,9 +25,9 @@ Durante ese período podés inscribirte en cualquier momento, vamos a estar orga
 
 Duración | 4 encuentros
 
-Viernes de 11 a 13 hs. via Google Meet desde el 4 de septiembre.
+Sábados de 11 a 13 hs. via Google Meet desde el 19 de septiembre.
 
-Costo | $1500
+Costo | $2000
 
 #### **Inscribite a través del** [**formulario de inscripción**](https://docs.google.com/forms/u/1/d/1-Hy2mW-MFr7nSV7qDi0ETH6h51jEwdqny7qcDQj0a-U/edit?usp=drive_web "formulario de inscripción")**.**
 
