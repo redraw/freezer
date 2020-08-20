@@ -5,7 +5,7 @@ thumbnail: "/v1597933284/2020/image99999ddsdds_erlqkr.png"
 listado: true
 
 ---
-Por Lucía Alegría y Luciana Demichelis
+Por[ Lucía Alegría ](https://www.instagram.com/lanadediamante/)y [Luciana Demichelis](https://www.instagram.com/demichelisluciana/)
 
 El trabajo de Diana Cano se centra en la reconfiguración del **error como recurso creativo**, **la memoria como detonante** y la **percepción del color.**
 
