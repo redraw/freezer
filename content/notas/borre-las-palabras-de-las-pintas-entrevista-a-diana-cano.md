@@ -21,7 +21,7 @@ Este proyecto de Diana se llama **_Borré las paredes de las pintas_** y alude a
 
 Desde el año pasado (2019), en México fueron creciendo y siendo más violentos los casos de violencia de género. Para el mes de agosto hubo dos marchas muy significativas donde condenaron tajantemente las pintas en el espacio público y esa fue la prioridad de los medios de comunicación y del gobierno de la Ciudad de México. Participé en una de esas marchas junto con una amiga, y sentíamos mucho cansancio y enojo por todo lo que provocaban los reclamos, ese día vimos vidrios rotos y pintas hechas por las compañeras, era tarde. Al día siguiente me tocaba ir a trabajar y pasé por donde habían sido las protestas, me impactó mucho ver que el sitio había sido limpiado a una velocidad increíble, **me pareció sumamente violenta la idea de borrar con urgencia estos espacios**, como si no hubiera habido miles de mujeres manifestándose el día anterior. Esa sensación de enojo al ver borradas las pintas me acompañó en las siguientes marchas que asistí, en las notas que revisaba de periódicos, una y otra vez repitiendo casos de violencia de género. Hasta que decidí hacer algo con el registro de pintas que había tomado. La idea de presentar solo las pintas parte de una posición frente a esta problemática, **elegir que se queda en la fotografía a partir de la acción de borrar.**
 
-![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1597934456/2020/image99999ddsdds_j7jtja.png)
+![](http://www.dianaecano.com/wp-content/uploads/2020/06/17-1536x1024.jpg)
 
 **- Queremos conocer cómo fue tu búsqueda dentro de este tema. Vimos unas pruebas con filtros rojos... ¿cómo fue eso?**
 
