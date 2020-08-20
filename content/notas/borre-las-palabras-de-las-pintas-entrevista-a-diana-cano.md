@@ -2,7 +2,7 @@
 date: 2020-08-20T13:23:08Z
 title: Borré las palabras de las pintas | Entrevista a Diana Cano
 thumbnail: "/v1597933284/2020/image99999ddsdds_erlqkr.png"
-listado: false
+listado: true
 
 ---
 Por Lucía Alegría y Luciana Demichelis  
