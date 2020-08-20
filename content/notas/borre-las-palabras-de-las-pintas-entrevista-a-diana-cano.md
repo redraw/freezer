@@ -21,15 +21,15 @@ Este proyecto de Diana se llama **_Borré las paredes de las pintas_** y alude a
 
 Desde el año pasado (2019), en México fueron creciendo y siendo más violentos los casos de violencia de género. Para el mes de agosto hubo dos marchas muy significativas donde condenaron tajantemente las pintas en el espacio público y esa fue la prioridad de los medios de comunicación y del gobierno de la Ciudad de México. Participé en una de esas marchas junto con una amiga, y sentíamos mucho cansancio y enojo por todo lo que provocaban los reclamos, ese día vimos vidrios rotos y pintas hechas por las compañeras, era tarde. Al día siguiente me tocaba ir a trabajar y pasé por donde habían sido las protestas, me impactó mucho ver que el sitio había sido limpiado a una velocidad increíble, **me pareció sumamente violenta la idea de borrar con urgencia estos espacios**, como si no hubiera habido miles de mujeres manifestándose el día anterior. Esa sensación de enojo al ver borradas las pintas me acompañó en las siguientes marchas que asistí, en las notas que revisaba de periódicos, una y otra vez repitiendo casos de violencia de género. Hasta que decidí hacer algo con el registro de pintas que había tomado. La idea de presentar solo las pintas parte de una posición frente a esta problemática, **elegir que se queda en la fotografía a partir de la acción de borrar.**
 
-![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1597931635/2020/image111___fxti5c.png)
-
-![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1597931669/2020/image99999_lhjy3n.png)
+![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1597934456/2020/image99999ddsdds_j7jtja.png)
 
 **- Queremos conocer cómo fue tu búsqueda dentro de este tema. Vimos unas pruebas con filtros rojos... ¿cómo fue eso?**
 
 ![](http://www.dianaecano.com/wp-content/uploads/2020/06/URGENCIA-DE-BORRAR.gif)
 
 El proyecto de "Borré las paredes de las pintas" se desprende del proyecto de los filtros que se titula "La urgencia de borrar", en este último (que sigue en proceso) buscó emular el borrado inmediato que hacen las autoridades, los filtros anulan el color de las pintas que se encuentran en las fotografías, éstos funcionan como un intermediario de esta acción (la del borrado) pero la pinta permanece en la imagen, de la misma forma que los feminicidios y la violencia hacia la mujer, que ahí siguen sin solucionarse. La búsqueda de este tema va de la mano del intentar posicionarnos en otros sitios que no hemos experimentado, ver otras posibilidades más allá de la postura "oficial" que se promueve en medios de comunicación principalmente.
+
+![](http://www.dianaecano.com/wp-content/uploads/2020/06/9-1536x1024.jpg)
 
 **- Queríamos consultarte por el panorama actual en cuánto a mujeres y disidencias y varones cisgénero en la fotografía. Sentís que aún hoy estos últimos tienen un lugar de privilegio?**
 
@@ -43,7 +43,11 @@ La fotografía mexicana tiene un panorama amplio, hay muchas maneras en las que 
 
 No dejen de crear, busquen los medios para que lo que están haciendo llegue a más personas. Crean en su trabajo, generen redes y espacios que les permitan apoyar y apoyarse de otras creadoras. **Lo que tienen que decir es importante.**
 
-_Diana Cano (1988)_
+![](http://www.dianaecano.com/wp-content/uploads/2020/06/2-1024x683.jpg)
+
+![](http://www.dianaecano.com/wp-content/uploads/2020/06/15-1536x1024.jpg)
+
+**_Diana Cano (1988)_**
 
 _Originaria de Ecatepec, Estado de México. Cursó la licenciatura en sociología (FES-A, UNAM, 2007) y la maestría en Artes Visuales con enfoque en Estudios de la Imagen (PAD-UNAM, 2016). Inició sus estudios artísticos en Gimnasio de Arte y Cultura (2013). Cursó el Seminario de Producción Fotográfica del Centro de la Imagen (SPF, 2016) bajo la tutoría de Verónica Gerber Bicceci. Su obra fue seleccionada en la Bienal de ARTEMERGENTE de Monterrey (2019) y en la XI Bienal de Puebla de los Ángeles (2017), obteniendo el tercer premio de adquisición. Sus piezas han sido expuestas en el Centro de la Imagen, Museo de Arte Carrillo Gil, MUCA-Roma, CONARTE, Centro Cultural Brasil-México, Faro Tláhuac, Centro de Cultura Digital, entre otros. Su trabajo forma parte de plataformas digitales como Panorama Fotográfico, PICS, Mal d3 ojo y Letras explícitas. Su trabajo se centra en la reconfiguración del error como recurso creativo, la memoria como detonante y la percepción del color. Actualmente se desempeña como docente de artes e instructora de fotografía en la Escuela Activa de Fotografía y Gimnasio de Arte y Cultura._
 
