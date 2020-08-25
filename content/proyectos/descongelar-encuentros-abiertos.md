@@ -21,11 +21,11 @@ _
 
 Nos reunimos para compartir portfolios, trabajos terminados o en desarrollo.  
 
-Traé las fotos que quieras mostrar y preparate para el intercambio de ideas. Las sesiones son de una hora y el cupo es de 5 personas, cada participante presenta su material.  Pueden sumarse también hasta 10 oyentes, con inscripción previa.
+Traé las fotos que quieras mostrar y preparate para el intercambio de ideas. Las sesiones son de una hora y el cupo es de 5 personas, cada participante presenta su material.  Pueden sumarse también hasta 10 oyentes, con inscripción previa. 
 
 [Anotate en el formulario para participar. ](https://docs.google.com/forms/d/e/1FAIpQLSeQuq5pMFCFz0zuP27BfGpwsceNT1M16S8bajIhrxz_2XN2Xw/formResponse)
 
-**Los encuentros son gratuitos.** 
+**Los encuentros son gratuitos.** Los mismos estarán moderados por **Mireya Golstein**, fotógrafa argentina que forma parte de la Colectiva Audiovisual Feminista (La Plata, Argentina)
 
 **Les dejamos abierta la instancia de realizar una colaboración de $100 para ayudar a que continuemos creando Freezer** [**a través de este link**](https://cafecito.app/freezerfoto)  **de Cafecito** 🌌
 
