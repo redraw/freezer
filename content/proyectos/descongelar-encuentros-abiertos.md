@@ -15,7 +15,9 @@ fg_color: ''
 ---
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598380935/2020/001_xjce1m.jpg)
 
-Arranca septiembre y descongelamos el freezer para recargarlo.
+_
+
+**Arranca septiembre y descongelamos el freezer para recargarlo.**
 
 Nos reunimos para compartir portfolios, trabajos terminados o en desarrollo.  
 
@@ -23,4 +25,6 @@ Traé las fotos que quieras mostrar y preparate para el intercambio de ideas. La
 
 [Anotate en el formulario para participar. ](https://docs.google.com/forms/d/e/1FAIpQLSeQuq5pMFCFz0zuP27BfGpwsceNT1M16S8bajIhrxz_2XN2Xw/formResponse)
 
-Dejamos abierta la instancia de realizar una colaboración de $100 para ayudar a que continuemos creando Freezer [a través de este link ](https://cafecito.app/freezerfoto)
+**Dejamos abierta la instancia de realizar una colaboración de $100 para ayudar a que continuemos creando Freezer** [**a través de este link**](https://cafecito.app/freezerfoto) 
+
+Inscripción abierta hasta el 15/9 o hasta llenar todos los cupos de oyentes y participantes por sesión.
