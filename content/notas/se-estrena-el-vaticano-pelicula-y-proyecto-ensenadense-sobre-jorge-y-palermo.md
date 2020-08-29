@@ -9,7 +9,7 @@ listado: true
 
 Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
-###### **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
+### **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
 
 La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse.
 
@@ -53,6 +53,6 @@ Todo este proyecto logra coronar, de alguna manera, con la aprobación por parte
 
 La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires).
 
-La ópera prima ya está disponible para apreciarla de manera online [a través del siguiente link](http://www.fidba.com.ar/2020/programa/el-vaticano/) con validez hasta este lunes 31 de agosto.
+La ópera prima ya está disponible para apreciarla de manera online [**a través de este link**](http://www.fidba.com.ar/2020/programa/el-vaticano/) **con validez hasta este lunes 31 de agosto**.
 
 [_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_]() _e hincha acérrimo de Boca._ 
