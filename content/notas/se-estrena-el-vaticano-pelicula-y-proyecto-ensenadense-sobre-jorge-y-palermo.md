@@ -11,9 +11,7 @@ Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
 ## **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
 
-La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse.
-
-**No hay un mismo lenguaje entre ambos protagonistas:** Palermo es analfabeto, y vivió toda su vida en la calle. En cambio Jorge sufrió en su pasado pero de otro modo, y aún tiene marcas que jamás podrá borrar. No hay concordancia entre ambos protagonistas. Un hecho desafortunado los distancia aún más. **El Vaticano es una lucha de superación de dos personas totalmente opuestas**, en un lugar agreste, y ante una sociedad que decide marginarlos.
+La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse. **No hay un mismo lenguaje entre ambos protagonistas:** Palermo es analfabeto, y vivió toda su vida en la calle. En cambio Jorge sufrió en su pasado pero de otro modo, y aún tiene marcas que jamás podrá borrar. No hay concordancia entre ambos protagonistas. Un hecho desafortunado los distancia aún más. **El Vaticano es una lucha de superación de dos personas totalmente opuestas**, en un lugar agreste, y ante una sociedad que decide marginarlos.
 
 Corría el año 2014 y me encontraba realizando un taller de Fotoperiodismo en un espacio cultural del barrio de Boedo llamado "La Pajarera". El taller lo dictaban fotografxs miembros de SUB Cooperativa, y luego de varios encuentros llegó el turno de conocer a la fotografa Gisela Volá. Ella vino para abordar la temática del retrato, y nos propuso su desafío: "Retrato a un desconocido". Básicamente, el ejercicio constaba de buscar una conexión con alguien que desconociéramos para poder reflejarlo a través de la fotografía.
 
