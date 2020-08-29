@@ -2,7 +2,7 @@
 title: Contacto
 
 ---
-Con sede en la ciudad de La Plata, FREEZER es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.
+Con sede en la ciudad de La Plata, FREEZER es un proyecto coordinado por [Luciana Demichelis ](https://www.instagram.com/demichelisluciana/)que se vincula a la investigación, formación y encuentro a partir de la imagen fotográfica.
 
 Creamos cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran pensar, fortalecer y producir nuevas propuestas a partir de su imaginario visual.
 
