@@ -35,7 +35,7 @@ En el lugar se encontraba Jorge, una persona de aproximadamente 65 años que ofi
 
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598674322/2020/4-Espaldas_r0mugd.jpg)
 
-En el año 2015, comencé un taller sobre retrato en la TAE coordinado por Luciana Demichelis. La relación con Jorge creció. Iba a visitarlo a menudo, semanalmente, y le llevaba algunos libros ya que le gustaba leer. Jorge no estaba solo en su estadía, vivía acompañado de Jorge. Si, dos Jorges, totalmente opuestos en su idiosincrasia, con 30 años de diferencia entre sí, y con acceso a oportunidades diferentes se cruzan en una confusa situación y comienzan a convivir.
+En el año 2015, comencé un taller sobre retrato en la TAE coordinado por Luciana Demichelis. La relación con Jorge creció. Iba a visitarlo a menudo, semanalmente, y le llevaba algunos libros ya que le gustaba leer. Jorge no estaba solo en su estadía, vivía acompañado de Jorge. Si, **dos Jorges, totalmente opuestos en su idiosincrasia, con 30 años de diferencia entre sí**, y con acceso a oportunidades diferentes se cruzan en una confusa situación y comienzan a convivir.
 
 A raíz del retrato al Ruso Sandoval, aparece Gonzalo Almeida, amigo y cineasta, quien se muestra sumamente interesado en poder narrar audiovisualmente la historia del Ruso, sin saber que en definitiva, **serían Los Jorges quienes terminarían contando su historia.**
 
@@ -51,8 +51,6 @@ En paralelo, la serie **_Los Jorges_** surge del taller coordinado por Luciana D
 
 Todo este proyecto logra coronar, de alguna manera, con la aprobación por parte del INCAA y la posterior realización del documental de manera profesional, cumpliendo cuestiones legales y requisitos inexorables para poder ser.
 
-La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires).
-
-La ópera prima ya está disponible para apreciarla de manera online [**a través de este link**](http://www.fidba.com.ar/2020/programa/el-vaticano/) **con validez hasta este lunes 31 de agosto**.
+La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires). La ópera prima ya está disponible para apreciarla de manera online [**a través de este link**](http://www.fidba.com.ar/2020/programa/el-vaticano/) **con validez hasta este lunes 31 de agosto**.
 
 [_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_](https://www.instagram.com/p/B-KvbzQHS7h5m78cps0WKRTKVI3l6E9H6qoO7g0/) _e hincha acérrimo de Boca._
