@@ -9,7 +9,7 @@ listado: true
 
 Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
-### **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
+## **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
 
 La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse.
 
