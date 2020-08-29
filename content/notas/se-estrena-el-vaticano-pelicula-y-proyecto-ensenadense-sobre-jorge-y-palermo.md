@@ -9,7 +9,7 @@ listado: true
 
 Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
-###### **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.** 
+###### **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
 
 La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse.
 
@@ -35,7 +35,7 @@ En el lugar se encontraba Jorge, una persona de aproximadamente 65 años que ofi
 
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598674322/2020/4-Espaldas_r0mugd.jpg)
 
-En el año 2015, comencé un taller sobre retrato en la TAE coordinado por Luciana Demichelis. La relación con Jorge creció. Iba a visitarlo a menudo, semanalmente, y le llevaba algunos libros ya que le gustaba leer. Jorge no estaba solo en su estadía, vivía acompañado de Jorge. Si, dos Jorges, totalmente opuestos en su idiosincrasia, con 30 años de diferencia entre sí, y con acceso a oportunidades diferentes se cruzan en una confusa situación y comienzan a convivir. 
+En el año 2015, comencé un taller sobre retrato en la TAE coordinado por Luciana Demichelis. La relación con Jorge creció. Iba a visitarlo a menudo, semanalmente, y le llevaba algunos libros ya que le gustaba leer. Jorge no estaba solo en su estadía, vivía acompañado de Jorge. Si, dos Jorges, totalmente opuestos en su idiosincrasia, con 30 años de diferencia entre sí, y con acceso a oportunidades diferentes se cruzan en una confusa situación y comienzan a convivir.
 
 A raíz del retrato al Ruso Sandoval, aparece Gonzalo Almeida, amigo y cineasta, quien se muestra sumamente interesado en poder narrar audiovisualmente la historia del Ruso, sin saber que en definitiva, **serían Los Jorges quienes terminarían contando su historia.**
 
@@ -43,14 +43,16 @@ A raíz del retrato al Ruso Sandoval, aparece Gonzalo Almeida, amigo y cineasta,
 
 Fue un proceso de conexión arduo, en donde la confianza mutua se hizo eje en el grupo y desde allí el proyecto fue tomando forma en el propio tránsito del mismo. Más allá del proyecto audiovisual en si, la conexión humana es prioritaria. Compartir el entorno común, un plato de comida, **vivir historias muy íntimas que afloran en contextos adversos**, son el sustento para abordar el compromiso que implica dicha conexión.
 
-**_El Vaticano_**, como el joven Jorge, más conocido por Palermo, denomina a la construcción que los cobija, devino en el título para el documental que narra la relación entre ambos protagonistas en su día a día. 
+**_El Vaticano_**, como el joven Jorge, más conocido por Palermo, denomina a la construcción que los cobija, devino en el título para el documental que narra la relación entre ambos protagonistas en su día a día.
 
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598675201/2020/5-Jorge_kc9ts4.jpg)
 
 En paralelo, la serie **_Los Jorges_** surge del taller coordinado por Luciana Demichelis como un trabajo que intenta enfocarse en lo que rodea a los protagonistas del film, realizado íntegramente con cámara analógica y películas de diversas sensibilidades. Allí, puede observarse una mirada diferente a la abordada en el documental, desde un lugar más contextual haciendo eje en los objetos y el entorno.
 
-Todo este proyecto logra coronar, de alguna manera, con la aprobación por parte del INCAA y la posterior realización del documental de manera profesional, cumpliendo cuestiones legales y requisitos inexorables para poder ser. 
+Todo este proyecto logra coronar, de alguna manera, con la aprobación por parte del INCAA y la posterior realización del documental de manera profesional, cumpliendo cuestiones legales y requisitos inexorables para poder ser.
 
-La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires).  
+La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires).
 
-La ópera prima ya está disponible para apreciarla de manera online [a través del siguiente link](http://www.fidba.com.ar/2020/programa/el-vaticano/) con validez hasta este lunes 31 de agosto. 
+La ópera prima ya está disponible para apreciarla de manera online [a través del siguiente link](http://www.fidba.com.ar/2020/programa/el-vaticano/) con validez hasta este lunes 31 de agosto.
+
+[_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_]() _e hincha acérrimo de Boca._ 
