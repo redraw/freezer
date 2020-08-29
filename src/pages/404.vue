@@ -25,7 +25,7 @@ export default {
     }
   },
 
-  async mounted () {
+  async created () {
     const data = await fetchGifs("error 404")
     this.gifs = data.map(result => result.images.downsized_large.url)
     this.slideshow()
