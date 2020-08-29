@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29T01:04:59Z
-title: Se estrena El Vaticano, película y proyecto ensenadense sobre Jorge y Palermo
+title: Se estrena El Vaticano, película ensenadense sobre Jorge y Palermo
 thumbnail: "/v1598675339/2020/arbol_rnhjkd.jpg"
 listado: true
 
@@ -13,7 +13,7 @@ Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
 La concepción temporal del lugar no es la misma dentro que fuera del vaticano. La falta de electricidad y gas hace que, tengan que recurrir a prácticas casi medievales para abastecerse.
 
-No hay un mismo lenguaje entre ambos protagonistas: Palermo es analfabeto, y vivió toda su vida en la calle. En cambio Jorge sufrió en su pasado pero de otro modo, y aún tiene marcas que jamás podrá borrar. No hay concordancia entre ambos protagonistas. Un hecho desafortunado los distancia aún más. **El Vaticano es una lucha de superación de dos personas totalmente opuestas**, en un lugar agreste, y ante una sociedad que decide marginarlos.
+**No hay un mismo lenguaje entre ambos protagonistas:** Palermo es analfabeto, y vivió toda su vida en la calle. En cambio Jorge sufrió en su pasado pero de otro modo, y aún tiene marcas que jamás podrá borrar. No hay concordancia entre ambos protagonistas. Un hecho desafortunado los distancia aún más. **El Vaticano es una lucha de superación de dos personas totalmente opuestas**, en un lugar agreste, y ante una sociedad que decide marginarlos.
 
 Corría el año 2014 y me encontraba realizando un taller de Fotoperiodismo en un espacio cultural del barrio de Boedo llamado "La Pajarera". El taller lo dictaban fotografxs miembros de SUB Cooperativa, y luego de varios encuentros llegó el turno de conocer a la fotografa Gisela Volá. Ella vino para abordar la temática del retrato, y nos propuso su desafío: "Retrato a un desconocido". Básicamente, el ejercicio constaba de buscar una conexión con alguien que desconociéramos para poder reflejarlo a través de la fotografía.
 
@@ -55,4 +55,4 @@ La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, q
 
 La ópera prima ya está disponible para apreciarla de manera online [**a través de este link**](http://www.fidba.com.ar/2020/programa/el-vaticano/) **con validez hasta este lunes 31 de agosto**.
 
-[_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_]() _e hincha acérrimo de Boca._ 
+[_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_](https://www.instagram.com/p/B-KvbzQHS7h5m78cps0WKRTKVI3l6E9H6qoO7g0/) _e hincha acérrimo de Boca._
