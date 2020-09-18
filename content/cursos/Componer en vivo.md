@@ -1,7 +1,7 @@
 ---
 date: 2020-09-18T20:13:58Z
 thumbnail: "/v1600460052/2020/flaier_web2_flonav.jpg"
-title: 'Componer en vivo: Estudios sobre Resolume Arena'
+title: 'Componer en vivo: Resolume Arena'
 inicio: 2020-10-15T19:00:00Z
 docente: Mecha Herrera
 lugar: Online
