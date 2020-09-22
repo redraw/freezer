@@ -29,7 +29,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-Jueves 15 - 22 - 29 de Octubre
+Jueves 15 - 22 - 29 de Octubre de 18 a 19.30hs
 
 **Costo**
 
@@ -37,4 +37,4 @@ $1500
 
 **Reservá tu lugar** [**inscribiendote en este formulario**](https://docs.google.com/forms/d/16ajxBT7GxyiHc4kAzgccetthUaXmyTtnD9ZrrGxf-IQ/edit)**.**
 
-El curso puede ser abonado por transferencia o a través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024) Este QR sirve para abonar el taller directamente con tu celular: 
+El curso puede ser abonado por transferencia o a través de [MercadoPago.](https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024) Este QR sirve para abonar el taller directamente con tu celular:
