@@ -32,7 +32,7 @@ Duración: 5 encuentros.
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
-Inscripción abierta hasta el 7/9
+Inscripción abierta hasta el 9 de noviembre. 
 
 Costo | $ 1.050,00
 
