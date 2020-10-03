@@ -37,3 +37,5 @@ Inscripción abierta hasta el 7/9
 Costo | $ 1.050,00
 
 Pagalo con este link de Mercado Pago: [http://mpago.la/1MM3wQr](http://mpago.la/1MM3wQr "http://mpago.la/1MM3wQr")
+
+Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com!
