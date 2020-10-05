@@ -9,7 +9,7 @@ mercadopago_link: https://mpago.la/2uua3Q3
 finalizado: false
 
 ---
-Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias. 
+Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias.
 
 Se busca que le alumnx puede poner en discusión las imágenes propias como también los textos y los autores que se charlarán en el taller, viendo sus fotografías por fuera de la idea de 'registro' y alentando la creación de nuevos inventos a través de su dispositivo .
 
@@ -26,5 +26,7 @@ Para sumarte:
 Costo Nacional | $ 1700
 
 Costo Internacional | 35 USD
+
+Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com
 
 Este QR sirve para abonar el taller directamente con tu celular:
