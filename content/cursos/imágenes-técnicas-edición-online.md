@@ -1,11 +1,11 @@
 ---
 thumbnail: "/v1597238481/2020/flyer_vfrip0.jpg"
 title: Imágenes Técnicas | Iniciación a la fotografía
-inicio: 2020-09-19T14:00:00Z
+inicio: 2020-09-19T14:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-86ec02af-0ab5-4b72-98b4-ea0efd3c4774
-finalizado: false
+finalizado: true
 date: 
 
 ---
