@@ -1,7 +1,7 @@
 ---
 date: 2020-10-05T20:25:49Z
 thumbnail: "/v1601929578/2020/web_fkt1ld.jpg"
-title: ficción y simulacro | proyectos en cuarentena
+title: ficción y simulacro | proyectos en cuarentena_
 inicio: 2020-11-12T21:00:00Z
 docente: Luciana Demichelis
 lugar: Online
