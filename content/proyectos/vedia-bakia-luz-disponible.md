@@ -5,7 +5,7 @@ galeria:
   autores:
   - nombre: vedia bakia
     url: https://www.instagram.com/vediabakia/
-    video: ""
+    video: ''
     imagenes:
     - "/v1592594068/2020/001_wopny6.jpg"
     - "/v1592593554/2020/002_k7tz0g.jpg"
@@ -43,3 +43,4 @@ bg_color: ''
 fg_color: ''
 
 ---
+jjjjjjjjjjj
