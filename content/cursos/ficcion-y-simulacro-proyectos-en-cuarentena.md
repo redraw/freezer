@@ -6,7 +6,7 @@ inicio: 2020-11-12T21:00:00Z
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://mpago.la/2uua3Q3
-finalizado: false
+finalizado: true
 
 ---
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias.
