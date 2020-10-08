@@ -28,11 +28,11 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 
 Duración: 5 encuentros.
 
-• [Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1g3On0WsDG_G21zUpTE88oP29yGwuHUQ_-7GdNYcuUAA/edit?usp=drive_web)
+• [Anotate en este formulario de inscripción](https://forms.gle/tFeoK3EewXXtsK12A)
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
-Inscripción abierta hasta el 9 de noviembre. 
+Inscripción abierta hasta el 9 de noviembre.
 
 Costo | $ 1.700
 
