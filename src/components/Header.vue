@@ -3,12 +3,10 @@
     <div class="header container">
       <div class="menu">
         <g-link v-if="$route.path.startsWith('/bazar')" to="/bazar" class="home-link">
-          <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-          <span class="bazar">bazar</span>
+          <img src="../../static/logo-bazar.png" :alt="$settings.site_name" class="logo" />
         </g-link>
         <g-link v-else :to="{ name: 'home' }" class="home-link">
           <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-          <h2 class="site-name">freezer</h2>
         </g-link>
         <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
       </div>
@@ -65,15 +63,6 @@ export default {
 }
 .site-name {
   display: none;
-}
-.bazar {
-  position: absolute;
-  font-weight: bold;
-  font-style: italic;
-  font-size: 2em;
-  bottom: 1em;
-  color: blue;
-  right: -0.2em;
 }
 .menu {
   display: flex;
