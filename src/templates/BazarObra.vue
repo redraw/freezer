@@ -3,7 +3,7 @@
     <div class="container">
       <div class="obra">
         <div class="thumbnail">
-          <img v-lazy="getImageUrl($page.obra.thumbnail, 'w_500,h_500,c_fill,g_auto')" :alt="$page.obra.title" />
+          <img v-lazy="getImageUrl($page.obra.thumbnail, 'w_500,c_fill,g_auto')" :alt="$page.obra.title" />
         </div>
         <div class="right">
           <h1 class="titulo">
@@ -100,7 +100,7 @@ export default {
     flex-flow: row nowrap;
   }
   .thumbnail {
-    width: 300px;
+    width: 500px;
   }
   .thumbnail img {
     position: sticky;

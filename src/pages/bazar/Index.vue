@@ -106,6 +106,8 @@ export default {
   }
   select[name="autor"] {
     width: 100%;
+    font-family: 'Space Grotesk';
+    font-size: medium;
   }
   @media screen and (min-width: 720px) {
     .bazar {
