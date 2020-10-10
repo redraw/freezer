@@ -18,6 +18,10 @@
       "url": "/cursos"
     },
     {
+      "name": "Bazar",
+      "url": "/bazar"
+    },
+    {
       "name": "Contacto",
       "url": "/contacto"
     },

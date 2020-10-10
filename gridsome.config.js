@@ -39,6 +39,20 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         baseDir: "content",
+        path: "bazar/obras/*.md",
+        typeName: "BazarObra",
+        refs: {
+          autor: {
+            typeName: "BazarAutor",
+            create: true
+          }
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        baseDir: "content",
         path: "pages/**/*.md",
         typeName: "SinglePage"
       }

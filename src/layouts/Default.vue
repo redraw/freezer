@@ -67,6 +67,7 @@ h1 {
   padding: 0;
   width: 100%;
   display: flex;
+  position: relative;
   flex-flow: column;
 }
 

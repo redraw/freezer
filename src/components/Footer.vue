@@ -13,7 +13,8 @@
 
 @media screen and (min-width: 720px) {
   .footer {
-    display: block;
+    position: absolute;
+    bottom: 0;
     margin-top: 5em;
     padding: 1rem 2rem;
   }
