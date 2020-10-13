@@ -20,7 +20,7 @@ Destinataries:
 Fotógrafxs, musicxs, diseñadorxs, artistas plásticxs, curiosxs que deseen aprender las herramientas necesarias para apropiarse del video y utilizarlo en sus proyectos personales.
 
 [  
-]()Coordina [@anadelmar__](www.instagram.com/anadelmar__)
+]()Coordina [@anadelmar__](www.instagram.com/anadelmar__) 
 
 Encuentros:
 
