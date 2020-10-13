@@ -24,11 +24,11 @@ Fotógrafxs, musicxs, diseñadorxs, artistas plásticxs, curiosxs que deseen apr
 
 Encuentros:
 
-4 de 1 hora y media cada uno.
+4 de 1 hora y media cada uno a través de Google Meet.
 
 Fechas:
 
-Miércoles de Noviembre (4, 11, 18, 25)
+Miércoles de Noviembre (4, 11, 18, 25) a las 18 hs. 
 
 Para sumarte:
 
