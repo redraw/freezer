@@ -21,9 +21,6 @@
             </div>
           </div>
           <div class="content" v-html="$page.obra.content" />
-          <div class="content" v-if="$page.obra.form">
-            📝 <g-link :href="$page.obra.form">Consultar</g-link>
-          </div>
         </div>
       </div>
     </div>
@@ -38,7 +35,6 @@ query ($path: String!) {
     thumbnail
     content
     listado
-    form
     autor {
       title
     }

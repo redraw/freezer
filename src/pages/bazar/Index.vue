@@ -8,7 +8,6 @@
             {{ autor.node.title }}
           </option>
         </select>
-        <p>Demora: 7 a 10 días.</p>
       </div>
       <masonry
         class="obras"

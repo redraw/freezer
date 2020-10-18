@@ -45,6 +45,10 @@ module.exports = {
           autor: {
             typeName: "BazarAutor",
             create: true
+          },
+          categorias: {
+            typeName: "BazarCategoria",
+            create: true
           }
         }
       }
