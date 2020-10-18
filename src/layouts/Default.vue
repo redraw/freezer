@@ -122,6 +122,12 @@ img[lazy=loaded] {
   text-transform: uppercase;
 }
 
+select {
+  width: 100%;
+  font-family: 'Space Grotesk';
+  font-size: medium;
+}
+
 @media screen and (min-width: 720px) {
   .content {
     padding: 0;

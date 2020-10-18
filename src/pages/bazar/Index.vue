@@ -21,7 +21,7 @@
           :key="obra.node.id"
           class="obra"
         >
-          <g-image class="thumb" :src="getImageUrl(obra.node.thumbnail, 'w_500,h_500,c_fill,g_auto')"/>
+          <img class="thumb" v-lazy="getImageUrl(obra.node.thumbnail, 'w_500,h_500,c_fill,g_auto')"/>
           <div class="title">
             <span v-if="obra.node.precio">{{ obra.node.precio }}</span>
             <span v-else>Consultar</span>
@@ -103,11 +103,6 @@ export default {
     background: rgba(0, 0, 0, 0.5);
     bottom: 0;
     margin: 0;
-  }
-  select[name="autor"] {
-    width: 100%;
-    font-family: 'Space Grotesk';
-    font-size: medium;
   }
   @media screen and (min-width: 720px) {
     .bazar {
