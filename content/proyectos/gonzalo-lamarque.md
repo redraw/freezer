@@ -3,7 +3,7 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: Gonzalo Lamarque
+  - nombre: Ficción y simulacro / Gonzalo Lamarque
     url: https://www.instagram.com/gonzalolamarque/
     video: ''
     imagenes:
