@@ -35,7 +35,7 @@ anio: "2020"
 thumbnail: "/v1603323025/2020/12_ezym07.jpg"
 premiere: false
 gifs_hashtag: ''
-bg_color: ''
+bg_color: "#000000"
 fg_color: ''
 
 ---
