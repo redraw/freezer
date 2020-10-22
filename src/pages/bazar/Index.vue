@@ -2,12 +2,28 @@
   <Layout>
     <div class="container content bazar">
       <div class="bazar-menu">
-        <select required v-model="autor" name="autor">
+        <select class="autor" required v-model="autor" name="autor">
           <option selected value>Autorxs</option>
           <option href="#" v-for="autor in $page.autores.edges" :key="autor.node.title" :value="autor.node.title">
             {{ autor.node.title }}
           </option>
         </select>
+        <select class="categoria" required v-model="categoria" name="categoria">
+          <option selected value>Categoria</option>
+          <option href="#" v-for="categoria in $page.categorias.edges" :key="categoria.node.title" :value="categoria.node.title">
+            {{ categoria.node.title }}
+          </option>
+        </select>
+        <ul class="categorias">
+          <li v-for="c in $page.categorias.edges" :key="c.node.title" :value="c.node.title">
+            <a
+              :class="{'active': categoria === c.node.title}"
+              @click.prevent="categoria = categoria === c.node.title ? '' : c.node.title"
+            >
+              + {{ c.node.title }}
+            </a>
+          </li>
+        </ul>
       </div>
       <masonry
         class="obras"
@@ -52,10 +68,20 @@ query {
         autor {
           title
         }
+        categorias {
+          title
+        }
       }
     }
   }
   autores: allBazarAutor {
+    edges {
+      node {
+        title
+      }
+    }
+  }
+  categorias: allBazarCategoria {
     edges {
       node {
         title
@@ -69,15 +95,20 @@ query {
 export default {
   data () {
     return {
-      autor: ""
+      autor: "",
+      categoria: ""
     }
   },
   computed: {
     obras () {
-      if (!this.autor) return this.$page.obras.edges
-      return this.$page.obras.edges.filter(obra => {
-        return obra.node.autor.title === this.autor
-      })
+      let obras = this.$page.obras.edges
+      if (this.autor) {
+        obras = obras.filter(obra => this.autor === obra.node.autor.title)
+      }
+      if (this.categoria) {
+        obras = obras.filter(obra => obra.node.categorias.map(c => c.title).includes(this.categoria))
+      }
+      return obras
     }
   }
 }
@@ -103,7 +134,34 @@ export default {
     bottom: 0;
     margin: 0;
   }
+  select.categoria {
+    margin: 1em 0;
+  }
+  ul.categorias {
+    display: none;
+  }
+  ul.categorias {
+    list-style: none;
+    padding: 0;
+  }
+  ul.categorias li {
+    padding: .2em;
+  }
+  ul.categorias li a {
+    text-decoration: none;
+    cursor: pointer;
+    line-height: 1em;
+  }
+  ul.categorias li a.active {
+    font-weight: bold;
+  }
   @media screen and (min-width: 720px) {
+    ul.categorias {
+      display: block;
+    }
+    select.categoria {
+      display: none;
+    }
     .bazar {
       display: flex;
       flex-flow: row;

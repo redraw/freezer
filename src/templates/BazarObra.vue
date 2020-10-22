@@ -15,9 +15,13 @@
               <span class="label">autor</span>
               <span class="autor-name" v-text="$page.obra.autor.title" />
             </div>
+            <div class="categorias" v-if="$page.obra.categorias">
+              <span class="label">categorias</span>
+              <div v-text="$page.obra.categorias.map(c => c.title).join(', ')" />
+            </div>
             <div class="precio">
               <span class="label">precio</span>
-              <div v-text="$page.obra.precio" />
+              <div v-text="$page.obra.precio || 'Consultar'" />
             </div>
           </div>
           <div class="content" v-html="$page.obra.content" />
@@ -36,6 +40,9 @@ query ($path: String!) {
     content
     listado
     autor {
+      title
+    }
+    categorias {
       title
     }
   }
