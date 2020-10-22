@@ -67,6 +67,7 @@ h1 {
   padding: 0;
   width: 100%;
   display: flex;
+  position: relative;
   flex-flow: column;
 }
 
@@ -119,6 +120,12 @@ img[lazy=loaded] {
   padding: 0.2em;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+select {
+  width: 100%;
+  font-family: 'Space Grotesk';
+  font-size: medium;
 }
 
 @media screen and (min-width: 720px) {

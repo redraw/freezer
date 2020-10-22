@@ -2,9 +2,11 @@
   <header>
     <div class="header container">
       <div class="menu">
-        <g-link :to="{ name: 'home' }" class="home-link">
+        <g-link v-if="$route.path.startsWith('/bazar')" to="/bazar" class="home-link">
+          <img src="../../static/logo-bazar.png" :alt="$settings.site_name" class="logo" />
+        </g-link>
+        <g-link v-else :to="{ name: 'home' }" class="home-link">
           <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
-          <h2 class="site-name">freezer</h2>
         </g-link>
         <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
       </div>
@@ -48,7 +50,7 @@ export default {
   justify-content: center;
   padding: 1rem;
   text-decoration: none;
-  position: sticky;
+  position: relative;
   top: 0;
 }
 .home-link h2 {
@@ -123,7 +125,10 @@ export default {
     border-color: inherit;
   }
   .nav > .active--exact {
-    border-color: inherit;
+    border-color: inherit !important;
+  }
+  .nav > .active {
+    border-color: lightgrey;
   }
 }
 </style>
