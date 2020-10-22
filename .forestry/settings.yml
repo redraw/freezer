@@ -30,6 +30,8 @@ sections:
   label: Bazar
   create: all
   match: bazar/obras/**/*.md
+  templates:
+  - bazar-obra
 - type: directory
   path: content/pages
   label: Single Pages
