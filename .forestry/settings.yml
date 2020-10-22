@@ -26,6 +26,11 @@ sections:
   templates:
   - nota
 - type: directory
+  path: content
+  label: Bazar
+  create: all
+  match: bazar/obras/**/*.md
+- type: directory
   path: content/pages
   label: Single Pages
   create: all
