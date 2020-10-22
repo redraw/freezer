@@ -1,0 +1,25 @@
+---
+label: Bazar - Obra
+hide_body: false
+fields:
+- type: text
+  name: autor
+  label: autor
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: precio
+  label: precio
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: boolean
+  name: listado
+  label: listado
+- type: list
+  name: categorias
+  label: categorias
