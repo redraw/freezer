@@ -26,10 +26,10 @@ sections:
   templates:
   - nota
 - type: directory
-  path: content
+  path: content/bazar/obras
   label: Bazar
   create: all
-  match: bazar/obras/**/*.md
+  match: "**/*.md"
   templates:
   - bazar-obra
 - type: directory
