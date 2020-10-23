@@ -6,7 +6,7 @@ title: Cuaderno Neptuno
 thumbnail: "/v1603415630/2020/Cuaderno_Neptuno_2mb_-_Clara_Marconato_uddjva.jpg"
 listado: true
 categorias:
-- Cuadernos
+- cuadernos
 
 ---
 Cuaderno hecho a mano 11 x 16cm. 
