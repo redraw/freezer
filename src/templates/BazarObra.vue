@@ -73,7 +73,7 @@ export default {
 <style scoped>
 .obra {
   display: flex;
-  flex-flow: row wrap-reverse;
+  flex-flow: row wrap;
   justify-content: center;
 }
 .right {
@@ -81,6 +81,7 @@ export default {
 }
 .thumbnail {
   width: 100vw;
+  line-height: 0;
 }
 .listado {
   color: red;

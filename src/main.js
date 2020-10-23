@@ -19,8 +19,7 @@ export default function(Vue, { head }) {
   // imagenes
   Vue.use(VueLazyload, {
     preLoad: 1.5,
-    lazyComponent: true,
-    observer: true
+    observer: true,
   })
 
   Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_limit,w_1280,h_920") => {
