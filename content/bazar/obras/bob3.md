@@ -13,7 +13,9 @@ Fotografía A4 (20 cm x 30 cm)
 
 Enmarcada de forma artesanal en La Playa Estudios
 
-Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. El retiro en La Plata se realiza en el atelier de La Playa Estudios (12 N° 1618 e 65 y 66 | La Plata) y que podemos coordinar el envío a CABA.
+Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. El retiro en La Plata se realiza en el atelier de La Playa Estudios (12 N° 1618 e 65 y 66 | La Plata)
+
+Podemos coordinar el envío a CABA.
 
 [Reservá esta foto a Clara en este enlace.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
 
