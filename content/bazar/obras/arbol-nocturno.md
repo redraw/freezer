@@ -5,7 +5,7 @@ title: Árbol nocturno
 autor: Clara Marconato
 thumbnail: "/v1603421830/2020/Cuaderno_%C3%81rbol_nocturno_2mb_-_Clara_Marconato_nl67gk.jpg"
 categorias: []
-listado: false
+listado: true
 
 ---
 Cuaderno hecho a mano 11 x 16cm. 
