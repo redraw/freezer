@@ -15,4 +15,4 @@ Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especia
 
 [Reservá esta foto a Luciana en este enlace. ](https://docs.google.com/forms/d/1jmyGErjRGRAS5j3GffN_pvH8cyRNMz5lsXPpwT-SAMk/edit)
 
-Podés ya dejarla pago[ con este link de MercadoPago.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
+Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/1oo1Rt6)
