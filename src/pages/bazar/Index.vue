@@ -2,13 +2,13 @@
   <Layout>
     <div class="container content bazar">
       <div class="bazar-menu">
-        <select class="autor" required v-model="autor" name="autor">
+        <select required v-model="autor" name="autor">
           <option selected value>Autorxs</option>
           <option href="#" v-for="autor in $page.autores.edges" :key="autor.node.title" :value="autor.node.title">
             {{ autor.node.title }}
           </option>
         </select>
-        <select class="categoria" required v-model="categoria" name="categoria">
+        <select required v-model="categoria" name="categoria">
           <option selected value>Categoria</option>
           <option href="#" v-for="categoria in $page.categorias.edges" :key="categoria.node.title" :value="categoria.node.title">
             {{ categoria.node.title }}
@@ -134,7 +134,7 @@ export default {
     bottom: 0;
     margin: 0;
   }
-  select.categoria {
+  select[name="categoria"] {
     margin: 1em 0;
   }
   ul.categorias {
@@ -159,7 +159,7 @@ export default {
     ul.categorias {
       display: block;
     }
-    select.categoria {
+    select[name="categoria"] {
       display: none;
     }
     .bazar {
