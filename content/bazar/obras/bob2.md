@@ -9,7 +9,7 @@ categorias:
 - obras
 
 ---
-Fotografía A4 (20 cm x 30 cm) 
+Fotografía A4 (20 cm x 30 cm)
 
 Enmarcada de forma artesanal en La Playa Estudios
 
@@ -17,4 +17,4 @@ Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especia
 
 [Reservá esta foto a Gonzalo en este enlace.](https://docs.google.com/forms/d/10fHF0ASVijrzqLWWqPIWy7ywpd6uPsMWNGkoIpS1aYw/edit)
 
-Podés ya dejarla pago[ con este link de MercadoPago.](https://mpago.la/24ySLbk)
+Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/24ySLbk)
