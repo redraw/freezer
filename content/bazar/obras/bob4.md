@@ -1,12 +1,18 @@
 ---
-autor: Juan Vremo
-date: 2020-10-10T03:00:00Z
-precio: $800
-title: bob 4
-thumbnail: "/v1602347256/bazar-test/bob1_fqm4rr.jpg"
+autor: Luciana Demichelis
+date: 2020-10-10T03:00:00.000+00:00
+precio: "$2500"
+title: 'Axis Mundi '
+thumbnail: "/v1603418655/2020/PSX_20200723_173119_gfoqdf.jpg"
 listado: true
 categorias:
-    - retratos
----
+- Obras
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur eius, quas vero aliquid fuga vitae quasi unde voluptatem itaque nam dolores facere asperiores consectetur error laborum, doloremque veniam maxime ut!  
+---
+Fotografía en A3 (20 cm x 30 cm)
+
+Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. Los repartos son en La Plata, con posibilidad de envío a CABA.
+
+[Reservá esta foto a Luciana en este enlace. ](https://docs.google.com/forms/d/1jmyGErjRGRAS5j3GffN_pvH8cyRNMz5lsXPpwT-SAMk/edit)
+
+Podés ya dejarla pago[ con este link de MercadoPago.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
