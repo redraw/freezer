@@ -1,7 +1,7 @@
 ---
-date: 2020-10-23T02:59:26Z
+date: 2020-10-23T02:59:26.000+00:00
 precio: "$2500"
-title: Divinidad
+title: Axis Mundi II
 autor: Luciana Demichelis
 thumbnail: "/v1603422228/2020/lu__k5ju2a.jpg"
 categorias:
