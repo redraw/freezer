@@ -27,3 +27,5 @@ fields:
 - type: boolean
   name: listado
   label: listado
+pages:
+- content/bazar/obras/arbol-nocturno.md
