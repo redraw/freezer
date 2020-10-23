@@ -6,7 +6,7 @@ title: 'Axis Mundi '
 thumbnail: "/v1603418655/2020/PSX_20200723_173119_gfoqdf.jpg"
 listado: true
 categorias:
-- Obras
+- obras
 
 ---
 Fotografía en A3 (20 cm x 30 cm)
