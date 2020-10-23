@@ -6,7 +6,7 @@ autor: Luciana Demichelis
 thumbnail: "/v1603422228/2020/lu__k5ju2a.jpg"
 categorias:
 - obras
-listado: false
+listado: true
 
 ---
 Fotografía en A3 (20 cm x 30 cm)
