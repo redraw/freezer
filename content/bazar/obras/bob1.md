@@ -9,10 +9,12 @@ categorias:
 - Cuadernos
 
 ---
-Cuaderno hecho a mano 11 x 16cm. Tapas duras, 80 hojas lisas bookcel 80gr.
+Cuaderno hecho a mano 11 x 16cm. 
 
-Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. Los repartos son en La Plata, con posibilidad de envío a CABA.
+Tapas duras, 80 hojas lisas bookcel 80gr.
 
-[Reservá y comprale tu cuaderno a Clara en este enlace.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
+En nuestra plataforma cada obra se crea especialmente para vos. Los repartos son en La Plata, con posibilidad de envío a CABA.
 
-Podés ya dejarlo pago[ con este link de MercadoPago.](https://mpago.la/2zaLD7V)
+[Reservale tu cuaderno a Clara en este enlace.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
+
+Podés ya dejarlo pago[ con este link de MercadoPago.](https://mpago.la/2zaLD7V) 
