@@ -76,6 +76,7 @@ module.exports = {
     }
   },
   templates: {
-    SinglePage: node => `/${node.title}`
+    SinglePage: "/:title",
+    BazarObra: "/:autor/:title"
   }
 };
