@@ -1,10 +1,11 @@
 ---
 date: 2020-10-23T02:56:02Z
 precio: "$550"
-title: Árbol nocturno
+title: Cuaderno Árbol nocturno
 autor: Clara Marconato
 thumbnail: "/v1603421830/2020/Cuaderno_%C3%81rbol_nocturno_2mb_-_Clara_Marconato_nl67gk.jpg"
-categorias: []
+categorias:
+- cuadernos
 listado: true
 
 ---
