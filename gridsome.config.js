@@ -77,6 +77,6 @@ module.exports = {
   },
   templates: {
     SinglePage: "/:title",
-    BazarObra: "/:autor/:title"
+    BazarObra: "/bazar/:autor/:title"
   }
 };

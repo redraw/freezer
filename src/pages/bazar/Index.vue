@@ -49,8 +49,10 @@
 
 <script>
 export default {
-  metaInfo: {
-    title: "Bazar"
+  metaInfo () {
+    return {
+      title: "Bazar"
+    }
   }
 }
 </script>

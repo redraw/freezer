@@ -53,7 +53,7 @@ query ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.obra.title,
+      title: `${this.$page.obra.title} | Bazar`,
       meta: [
         {
           key: "image",
