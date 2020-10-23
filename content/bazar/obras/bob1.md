@@ -1,12 +1,18 @@
 ---
-autor: Juan Vremo
-date: 2020-10-10T03:00:00Z
-precio:
-title: bob 1
-thumbnail: "/v1602347256/bazar-test/bob4_kb2zbf.webp"
+autor: Clara Marconato
+date: 2020-10-10T03:00:00.000+00:00
+precio: "$550"
+title: Cuaderno Neptuno
+thumbnail: "/v1603415630/2020/Cuaderno_Neptuno_2mb_-_Clara_Marconato_uddjva.jpg"
 listado: true
 categorias:
-    - otoño
----
+- Cuadernos
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur eius, quas vero aliquid fuga vitae quasi unde voluptatem itaque nam dolores facere asperiores consectetur error laborum, doloremque veniam maxime ut!
+---
+Cuaderno hecho a mano 11 x 16cm. Tapas duras, 80 hojas lisas bookcel 80gr.
+
+Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. Los repartos son en La Plata, con posibilidad de envío a CABA.
+
+[Reservá y comprale tu cuaderno a Clara en este enlace.](https://docs.google.com/forms/d/1oVFJmYawrgo4DT1HK_Jp2Y344FOxC8FssvAa-raNFpI/edit)
+
+Podés ya dejarlo pago[ con este link de MercadoPago.](https://mpago.la/2zaLD7V)
