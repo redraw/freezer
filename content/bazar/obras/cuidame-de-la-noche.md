@@ -1,15 +1,15 @@
 ---
-date: 2020-10-23T03:14:09Z
-precio: "$1500"
+date: 2020-10-23T03:14:09.000+00:00
+precio: "$1800"
 title: Cuidame de la noche
 autor: Gonzalo Lamarque
-thumbnail: "/v1603422931/2020/CuidameDeLaNoche_-_Gonzalo_Lamarque_k7wfyu.jpg"
+thumbnail: "/v1603683718/2020/CuidameDeLaNoche_-_Gonzalo_Lamarqueaaa_uxxzxe.jpg"
 categorias:
 - obras
 listado: true
 
 ---
-Fotografía A4 (20 cm x 30 cm)
+Obra A3 (FotoA4: 29,7 cm x 21 cm)
 
 Enmarcada de forma artesanal en La Playa Estudios
 
