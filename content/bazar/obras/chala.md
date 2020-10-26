@@ -3,12 +3,12 @@ date: 2020-10-23T03:46:32Z
 precio: "$1800"
 title: Chala
 autor: Gonzalo Lamarque
-thumbnail: "/v1603424813/2020/Chala_-_Gonzalo_Lamarque_ggpukd.jpg"
+thumbnail: "/v1603683833/2020/Chala_-_Gonzalo_Lamarque___zukqyv.jpg"
 categorias: []
 listado: true
 
 ---
-Fotografía A4 (20 cm x 30 cm)
+Obra A3 (FotoA4: 29,7 cm x 21 cm)
 
 Enmarcada de forma artesanal en La Playa Estudios
 
@@ -16,4 +16,4 @@ Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especia
 
 [Reservá esta foto a Gonzalo en este enlace.](https://docs.google.com/forms/d/10fHF0ASVijrzqLWWqPIWy7ywpd6uPsMWNGkoIpS1aYw/edit)
 
-Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/24ySLbk)
+Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/14eveFY)
