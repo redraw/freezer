@@ -3,7 +3,7 @@ date: 2020-10-26T03:56:32Z
 precio: "$1800"
 title: Si no puedo mirar hacia adentro
 autor: Gonzalo Lamarque
-thumbnail: "/v1603684631/2020/SiNoPuedoMirarHaciaAdentro_-_Gonzalo_Lamarque___h6fz7s.jpg"
+thumbnail: "/v1603685253/2020/WhatsApp_Image_2020-10-24_at_22.22.22_mksov0.jpg"
 categorias: []
 listado: true
 
