@@ -17,4 +17,4 @@ Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especia
 
 [Reservá esta foto a Gonzalo en este enlace.](https://docs.google.com/forms/d/10fHF0ASVijrzqLWWqPIWy7ywpd6uPsMWNGkoIpS1aYw/edit)
 
-Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/24ySLbk)
+Podés ya dejarla pago [con este link de MercadoPago.](https://mpago.la/1BwKXFs)
