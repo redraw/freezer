@@ -3,8 +3,9 @@ date: 2020-10-23T03:46:32Z
 precio: "$1800"
 title: Chala
 autor: Gonzalo Lamarque
-thumbnail: "/v1603683833/2020/Chala_-_Gonzalo_Lamarque___zukqyv.jpg"
-categorias: []
+thumbnail: "/v1603685471/2020/WhatsApp_Image_2020-10-24_at_22.22.15_km7gpd.jpg"
+categorias:
+- obras
 listado: true
 
 ---
