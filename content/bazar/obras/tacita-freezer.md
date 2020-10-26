@@ -3,7 +3,7 @@ date: 2020-10-26T03:59:57Z
 precio: "$550"
 title: Tacita Freezer
 autor: Freezer
-thumbnail: "/v1603685022/2020/tacitafreezer_wprusj.jpg"
+thumbnail: "/v1603685179/2020/tacitafreezer_ttquos.jpg"
 categorias: []
 listado: true
 
