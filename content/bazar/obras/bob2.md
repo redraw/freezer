@@ -9,7 +9,7 @@ categorias:
 - obras
 
 ---
-Fotografía A4 (20 cm x 30 cm)
+Obra A2 (FotoA3: 42 cm x 29,7 cm)
 
 Enmarcada de forma artesanal en La Playa Estudios
 
