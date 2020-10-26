@@ -3,7 +3,7 @@ date: 2020-10-23T03:14:09.000+00:00
 precio: "$1800"
 title: Cuidame de la noche
 autor: Gonzalo Lamarque
-thumbnail: "/v1603683718/2020/CuidameDeLaNoche_-_Gonzalo_Lamarqueaaa_uxxzxe.jpg"
+thumbnail: "/v1603684773/2020/WhatsApp_Image_2020-10-24_at_22.22.18_yuatpg.jpg"
 categorias:
 - obras
 listado: true
