@@ -4,7 +4,8 @@ precio: "$550"
 title: Tacita Freezer
 autor: Freezer
 thumbnail: "/v1603685179/2020/tacitafreezer_ttquos.jpg"
-categorias: []
+categorias:
+- tazas
 listado: true
 
 ---
