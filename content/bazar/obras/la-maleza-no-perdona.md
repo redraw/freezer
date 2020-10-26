@@ -5,7 +5,7 @@ title: 'La maleza no perdona '
 autor: Gonzalo Lamarque
 thumbnail: "/v1603684462/2020/LaMalezaNoPerdona_-_Gonzalo_Lamarque_llrd2t.jpg"
 categorias: []
-listado: false
+listado: true
 
 ---
 Obra A2 (Foto A3: 42 cm x 29,7 cm)
