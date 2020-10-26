@@ -8,9 +8,11 @@ categorias: []
 listado: true
 
 ---
-Taza sublimada Freezer, plataforma latinoamericana de fotografía.
+Taza sublimada. De un lado tiene el logo, del otro dice Freezer, plataforma latinoamericana de fotografía.
 
-La más pedida de todo el bazar. 
+La más pedida de todo el bazar.
+
+Diagramación del logo Freezer encontrado un catálogo de electrodomésticos rusos, mayo de 2017.
 
 Nuestra plataforma trabaja con un sistema de reservas, cada obra se crea especialmente para vos. Los repartos son en La Plata, con posibilidad de envío a CABA.
 
