@@ -75,7 +75,7 @@ Aguja e hilo.
 
 Costo: $1500 ARS
 
-[**Inscribite completando este formulario de inscripción.**]()
+[**Inscribite completando este formulario de inscripción.**](https://forms.gle/3YavjojyTS8RKALZ9)
 
 Luego aboná el taller en [este enlace de MercadoPago](https://mpago.la/1nEYQGH).
 
