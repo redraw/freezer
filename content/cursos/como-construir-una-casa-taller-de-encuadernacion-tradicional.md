@@ -69,9 +69,11 @@ Plasticola (cola vinílica preferentemente)
 
 Aguja e hilo.
 
-Días y horarios: Lunes 7 de diciembre 18 a 19.30hs.
+**Días y horarios: Lunes 7 de diciembre 18 a 19.30hs.**
 
-Lunes 14 de diciembre 18 a 20.30hs.
+**Lunes 14 de diciembre 18 a 20.30hs.**
+
+Costo: $1500 ARS
 
 [**Inscribite completando este formulario de inscripción.**]()
 
