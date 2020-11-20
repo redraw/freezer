@@ -1,12 +1,12 @@
 ---
-date: 2020-10-13T21:25:37Z
+date: 2020-10-13T21:25:37.000+00:00
 thumbnail: "/v1602624347/2020/palaweb_muvvob.jpg"
 title: La suma de las partes / El montaje audiovisual como herramienta creativa
-inicio: 2020-11-04T03:00:00Z
+inicio: 2020-11-04T03:00:00.000+00:00
 docente: Ana Del Mar
 lugar: Online
 mercadopago_link: https://mpago.la/31tdVtX
-finalizado: false
+finalizado: true
 
 ---
 Nos introduciremos a una caja de herramientas técnicas para la edición de video en Premiere, donde aprenderemos las funciones básicas del programa: interfaz, flujo de trabajo, formato, codecs, herramientas, efectos, compresión y renderización para distintas plataformas.
