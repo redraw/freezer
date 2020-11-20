@@ -2,7 +2,7 @@
 date: 2020-09-30T23:10:14.000+00:00
 thumbnail: "/v1605900628/2020/marlax_gpsw5u.jpg"
 title: 'Materializar la serie: Herramientas de indesign para publicaciones urgentes '
-inicio: 2020-11-05T21:01:00.000+00:00
+inicio: 2020-12-16T21:01:00Z
 docente: Marla Zakai
 lugar: Online
 mercadopago_link: https://mpago.la/1HijzQY
@@ -21,7 +21,7 @@ Materializar la serie es un espacio en el que facilitaremos el encuentro con el 
 
 **Fechas:**
 
-Jueves 5, 12 y 19 de noviembre de 18 a 20 hs.
+Martes 16 y 23 de diciembre de 18 a 20.30 hs.
 
 **Destinataries**
 
