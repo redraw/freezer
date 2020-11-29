@@ -25,11 +25,7 @@ Buena conexión wifi & computadora. Es ideal tener el programa instalado pero no
 
 **Fechas:**
 
-Martes 10 , 17, 24 de noviembre.
-
-**Horarios:**
-
-17hs a 19hs
+Martes 10 , 17, 24 de diciembre de 17hs a 19hs
 
 **Costo: $2500**
 
