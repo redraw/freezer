@@ -1,12 +1,12 @@
 ---
-date: 2020-10-03T22:13:25Z
+date: 2020-10-03T22:13:25.000+00:00
 thumbnail: "/v1601763237/2020/xalaweb_c4gzrt.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2020-11-16T10:00:00Z
+inicio: 2020-11-16T10:00:00.000+00:00
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: https://mpago.la/1hNsNh2
-finalizado: false
+finalizado: true
 
 ---
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
