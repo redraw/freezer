@@ -1,8 +1,8 @@
 ---
-date: 2020-09-22T02:16:09Z
-thumbnail: "/v1600740982/2020/flyerweb2_kfvmix.jpg"
+date: 2020-09-22T02:16:09.000+00:00
+thumbnail: "/v1606674167/2020/juli_web_qbugqa.jpg"
 title: 'Desde el deseo: enlaces entre fotografía y escritura'
-inicio: 2020-10-15T03:00:00Z
+inicio: 2020-11-09T21:00:00Z
 docente: Julietamor
 lugar: Online
 mercadopago_link: https://mpago.la/344u7QQ
@@ -29,12 +29,12 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-Jueves 15 - 22 - 29 de Octubre de 18 a 19.30hs
+Miércoles 9 - 16 - 23 de Diciembre a las 18 hs. 
 
 **Costo**
 
 $1500
 
-**Reservá tu lugar** [**inscribiendote en este formulario**](https://docs.google.com/forms/d/16ajxBT7GxyiHc4kAzgccetthUaXmyTtnD9ZrrGxf-IQ/edit)**.**
+**Reservá tu lugar** [**inscribiendote en este formulario**](https://docs.google.com/forms/d/e/1FAIpQLScY_EetA9ve5OKBGI4EJpFC2M_pu1qPdRhTzqWx1vw83e4hYw/viewform)**.**
 
 El curso puede ser abonado por transferencia o [a través de MercadoPago. ](https://mpago.la/344u7QQ)Este QR sirve para abonar el taller directamente con tu celular:
