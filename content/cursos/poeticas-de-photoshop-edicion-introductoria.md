@@ -25,7 +25,7 @@ Buena conexión wifi & computadora. Es ideal tener el programa instalado pero no
 
 **Fechas:**
 
-Martes 10 , 17, 24 de diciembre de 17hs a 19hs
+Martes 8, 15 y 22 de diciembre de 17hs a 19hs
 
 **Costo: $2500**
 
@@ -35,6 +35,6 @@ Para sumarte:
 
 • Pagá el taller a través [de este link de MercadoPago.](https://mpago.la/2CUCphb)
 
-Acordate también que podés regalar este taller enviandonos un mail a freezerfoto@gmail.com! 
+Acordate también que podés regalar este taller enviandonos un mail a freezerfoto@gmail.com!
 
 Con este QR podés pagar directamente con tu celular:
