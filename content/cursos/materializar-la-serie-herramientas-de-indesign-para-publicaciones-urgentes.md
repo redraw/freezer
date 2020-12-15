@@ -31,7 +31,7 @@ A Fotograf_s que no tengan conocimiento sobre la herramienta indesign y deseen h
 
 Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por teléfono celular. Mail para mantener comunicación de clase a clase.
 
-Costo: ARS $1000
+Costo: ARS $1500
 
 Para inscribirte:
 
