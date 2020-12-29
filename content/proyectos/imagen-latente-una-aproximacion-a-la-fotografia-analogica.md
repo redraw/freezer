@@ -342,7 +342,7 @@ anio: "2020"
 thumbnail: "/v1609192958/2020/985f614b-6025-4e65-9cb7-58e9d2840dd9asdasd_tyb8mu.jpg"
 premiere: false
 gifs_hashtag: ''
-bg_color: ''
-fg_color: "#000000"
+bg_color: "#000000"
+fg_color: "#FFFFFF"
 
 ---
