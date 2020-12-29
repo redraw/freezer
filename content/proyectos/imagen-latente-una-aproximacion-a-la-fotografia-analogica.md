@@ -4,7 +4,7 @@ galeria:
   stack: true
   autores:
   - nombre: yanina gimenez
-    url: www.instagram.com/yayanalogica/
+    url: http://www.instagram.com/yayanalogica/
     video: ''
     imagenes:
     - "/v1609202599/2020/AA028_lyfxdg.jpg"
@@ -13,7 +13,7 @@ galeria:
     - "/v1609202598/2020/AA030_qhyl63.jpg"
     - "/v1609202597/2020/AA029_tizpsp.jpg"
   - nombre: vanessa durini
-    url: www.instagram.com/lasundari
+    url: http://www.instagram.com/lasundari
     video: ''
     imagenes:
     - "/v1609202510/2020/01D1A1D8-B396-44B0-9ADB-7544CD7DA133_-_Vanessa_Durini_her0r5.jpg"
@@ -27,7 +27,7 @@ galeria:
     - "/v1609202509/2020/5EDF7B3F-91C1-4DDD-80CF-B470A99455E7_-_Vanessa_Durini_ctmbv1.jpg"
     - "/v1609202509/2020/03DB440E-9FD9-416D-8508-A5B186EDD348_-_Vanessa_Durini_q7ufav.jpg"
   - nombre: valentina ramirez
-    url: ''
+    url: http://www.instagram.com/vallramirez
     video: ''
     imagenes:
     - "/v1609202422/2020/AA012_w0jzhw.jpg"
