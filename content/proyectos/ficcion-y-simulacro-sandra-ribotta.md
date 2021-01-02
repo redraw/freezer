@@ -22,7 +22,7 @@ anio: ''
 thumbnail: "/v1609593391/2021/4_-_Sandra_Ribotta_n0delp.jpg"
 premiere: false
 gifs_hashtag: ''
-bg_color: ''
+bg_color: "#94B4BB"
 fg_color: ''
 
 ---
