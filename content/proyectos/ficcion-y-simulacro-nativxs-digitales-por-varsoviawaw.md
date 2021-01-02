@@ -38,6 +38,6 @@ thumbnail: "/v1609561536/2021/19_cimhe4.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: "#212121"
-fg_color: ''
+fg_color: "#FFFFFF"
 
 ---
