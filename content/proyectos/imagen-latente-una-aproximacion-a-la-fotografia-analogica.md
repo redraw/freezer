@@ -339,7 +339,7 @@ galeria:
 date: 2020-12-28
 title: Imagen Latente, una aproximación a la fotografía analógica
 anio: "2020"
-thumbnail: "/v1609192958/2020/985f614b-6025-4e65-9cb7-58e9d2840dd9asdasd_tyb8mu.jpg"
+thumbnail: "/v1609192080/2020/E338C423-D66E-4FDA-98CD-9123A34691EF_1_te5fro.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: "#000000"
