@@ -88,6 +88,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- content/proyectos/alterar-lo-visible-experimentacion-en-collage-digital.md
 - content/proyectos/desde-el-deseo-enlaces-entre-fotografia-y-escritura.md
 - content/proyectos/ezine-publicaciones-digitales.md
 - content/proyectos/ficcion-y-simulacro-guillermina-muller.md
