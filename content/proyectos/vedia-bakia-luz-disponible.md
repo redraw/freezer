@@ -43,3 +43,4 @@ bg_color: ''
 fg_color: ''
 
 ---
+Imágenes de Vedia Bakia para Luz Disponible, investigaciones en torno al archivo personal de diferentes escenarios con fotografía analógica. Coordinó[ Luciana Demichelis](www.instagram.com/demichelisluciana).
