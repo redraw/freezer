@@ -17,7 +17,7 @@
       >
         <iframe
           v-if="item.autor.video"
-          :src="item.autor.video"
+          :src="`https://youtube.com/embed/${getYoutubeID(item.autor.video)}`"
           width="700"
           height="400"
           frameborder="0"
@@ -51,6 +51,7 @@
 <script>
 import "intersection-observer"
 import Scrollama from 'vue-scrollama'
+import { getYoutubeID } from '~/utils/youtube'
 
 export default {
   components: {
@@ -111,7 +112,9 @@ export default {
 
     scrollTop () {
       window.scrollTo(0, 0)
-    }
+    },
+
+    getYoutubeID
   }
 }
 </script>
