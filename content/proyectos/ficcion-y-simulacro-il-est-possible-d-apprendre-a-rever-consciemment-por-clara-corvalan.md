@@ -22,7 +22,7 @@ galeria:
 date: 2021-01-02
 title: ficción y simulacro / il est possible d'apprendre à rêver consciemment por
   Clara Corvalán
-anio: ''
+anio: '2020'
 thumbnail: "/v1609562395/2021/12_bebrsa.jpg"
 premiere: false
 gifs_hashtag: ''

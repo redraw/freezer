@@ -3,7 +3,7 @@
     <div class="container content">
       <masonry
         class="proyectos"
-        :cols="{default: 3, 1000: 3, 700: 2, 400: 1}"
+        :cols="{default: 3, 1000: 3, 700: 1}"
         :gutter="{default: '30px', 700: '15px'}"
       >
         <g-link
@@ -13,8 +13,9 @@
           class="proyecto"
         >
           <div class="title">
-            <i class="anio">{{ proyecto.node.anio }}</i>
-            / {{ proyecto.node.title }}
+            <h2>
+              {{ proyecto.node.title }}
+            </h2>
           </div>
           <g-image class="thumb" :src="getImageUrl(proyecto.node.thumbnail, 'w_500')"/>
         </g-link>
@@ -57,17 +58,21 @@ query {
     z-index: 1;
     margin-bottom: 15px;
   }
-  .title {
+  .proyecto .title {
     position: absolute;
-    padding: 0.5em;
-    display: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
     width: 100%;
-  }
-  /* .proyecto:hover .title {
-    display: block;
-    background: black;
     color: white;
-  } */
+    padding: 0.5em;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    text-transform: lowercase;
+    font-size: 3vh;
+    line-height: 1.2;
+  }
   .proyecto:hover .thumb {
     filter: none;
   }

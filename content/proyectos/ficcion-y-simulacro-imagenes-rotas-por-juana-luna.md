@@ -26,7 +26,7 @@ galeria:
     video: https://youtu.be/Q_TSiMNlluw
 date: 2021-01-02
 title: ficción y simulacro / imágenes rotas por Juana Luna
-anio: ''
+anio: '2020'
 thumbnail: "/v1609590860/2021/13_lrsrvq.jpg"
 premiere: false
 gifs_hashtag: ''

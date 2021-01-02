@@ -20,7 +20,7 @@ galeria:
 date: 2021-01-02
 title: ficción y simulacro / cristobal ascencio
 anio: "2020"
-thumbnail: ''
+thumbnail: "/v1609567933/2021/2_-_cristobal_ascencio_lcbjy8.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: ''

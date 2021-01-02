@@ -45,7 +45,7 @@ galeria:
     - "/v1609564681/2021/segundo_intento_-_Aldana_Anal%C3%ADa_Figueroa_dqhyul.png"
 date: 2021-01-02
 title: alterar lo visible / experimentación en collage digital
-anio: ''
+anio: '2020'
 thumbnail: "/v1609564556/2021/Apuesto-que-ahora-mismo..._-_Yamila_Bonetti_llmfxu.jpg"
 premiere: false
 gifs_hashtag: ''

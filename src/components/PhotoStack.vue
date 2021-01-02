@@ -43,7 +43,7 @@
       :key="key"
       class="photo-step"
     >
-      <a href="#" @click="scrollTop">↑</a>
+      <a href="#" @click="scrollTop">🡩</a>
     </div>
   </Scrollama>
 </template>
@@ -133,6 +133,7 @@ export default {
   position: absolute;
   right: 1em;
   z-index: 10;
+  font-size: 2em;
 }
 
 .photo-stack {

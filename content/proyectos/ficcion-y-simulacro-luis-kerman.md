@@ -29,7 +29,7 @@ galeria:
     - "/v1609591459/2021/88046_mirror6_-_Luis_Matias_Kerman_uneet1.jpg"
 date: 2021-01-02
 title: ficcion y simulacro / luis kerman
-anio: ''
+anio: '2020'
 thumbnail: "/v1609591490/2021/88036_mirror3_-_Luis_Matias_Kerman_ejydn0.jpg"
 premiere: false
 gifs_hashtag: ''

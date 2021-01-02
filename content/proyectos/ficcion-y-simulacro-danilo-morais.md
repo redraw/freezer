@@ -32,7 +32,7 @@ galeria:
     - "/v1609568127/2021/24_c7aesr.jpg"
 date: 2021-01-02
 title: ficcion y simulacro / danilo morais
-anio: ''
+anio: '2020'
 thumbnail: "/v1609569914/2021/7_jv5m1k.jpg"
 premiere: false
 gifs_hashtag: ''
