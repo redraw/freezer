@@ -30,7 +30,7 @@ galeria:
     - "/v1603323030/2020/20_r0y8xi.jpg"
     - "/v1603322728/2020/21_qpowez.jpg"
 date: 2020-10-21
-title: 'Ficción y simulacro / Gonzalo Lamarque '
+title: 'ficción y simulacro / gonzalo lamarque '
 anio: "2020"
 thumbnail: "/v1603323025/2020/12_ezym07.jpg"
 premiere: false
