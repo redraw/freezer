@@ -86,7 +86,7 @@ galeria:
 date: 2020-05-12
 title: ficción y simulacro | primera generación
 anio: "2020"
-thumbnail: "/v1589576140/2020/Secuencia_030_noccqg.jpg"
+thumbnail: "/v1609559085/2021/ficcion_y_simulacro_1_tnbxvc.jpg"
 premiere: false
 gifs_hashtag: ''
 bg_color: ''
