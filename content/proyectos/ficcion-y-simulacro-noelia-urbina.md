@@ -23,7 +23,7 @@ anio: "2020"
 thumbnail: "/v1609592512/2021/9_-_Noelia_Urbina_jq24re.jpg"
 premiere: false
 gifs_hashtag: ''
-bg_color: ''
+bg_color: "#E80000"
 fg_color: ''
 
 ---
