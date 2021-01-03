@@ -346,3 +346,6 @@ bg_color: "#000000"
 fg_color: "#FFFFFF"
 
 ---
+fotografías tomadas en diferentes partes de Latinoamérica de participantes de nuestro curso Imagen Latente, una aproximación a la fotografía analógica con[ Daniela Eliana Flores](https://www.instagram.com/danielaelianaflores/) durante mayo y diciembre de 2020. 
+
+ana centeno • aylen barrios • brad borja • daniel esperben • dévora peñaloza • fer aliciardi • flor agliano • flor berdichevsky • francesca bertoglio • guadalupe bellegia • irene orlandoni • isabella montalbano • ivana ibazeta • jerónimo guzman • juan martin argoitia • lara olin • luciana belén cardozo • manu sabbadini • marce damian •  marcos cuomo • maria del valle tello • mariano gutierrez • matias orzi • melina otero • natalia hurtado • nicolas schulze • ody reynoso • paloma isasmendi • paula a. reynoso • silvina de la guadalupe onetti •  una chica acuario • valentina ramirez • valentina ruiz • vanesa durini • yago gonzalez • yanina gimenez 
