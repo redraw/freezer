@@ -1,5 +1,5 @@
 ---
-listado: false
+listado: true
 galeria:
   stack: true
   autores:

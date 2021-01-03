@@ -19,8 +19,8 @@
               </div>
               <iframe
                 v-if="autor.video"
-                :src="autor.video"
-                width="700"
+                :src="`https://youtube.com/embed/${getYoutubeID(autor.video)}`"
+                width="100%"
                 height="400"
                 frameborder="0"
                 allowfullscreen
@@ -66,6 +66,7 @@ query Proyecto ($path: String!) {
 <script>
 import ClientOnly from 'vue-client-only'
 import PhotoStack from "~/components/PhotoStack.vue"
+import { getYoutubeID } from "~/utils/youtube"
 
 export default {
   components: {
@@ -109,12 +110,18 @@ export default {
         }`
       }
     };
+  },
+  methods: {
+    getYoutubeID
   }
 }
 </script>
 
-<style>
+<style scoped>
 .autor {
+  margin-top: 2.5em;
+}
+.galeria {
   margin-top: 2.5em;
 }
 </style>

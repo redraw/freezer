@@ -16,8 +16,9 @@
         class="photo-link"
       >
         <iframe
-          v-if="item.autor.video"
-          :src="`https://youtube.com/embed/${getYoutubeID(item.autor.video)}`"
+          class="video"
+          v-if="item.video"
+          :src="`https://youtube.com/embed/${getYoutubeID(item.path)}`"
           width="700"
           height="400"
           frameborder="0"
@@ -74,9 +75,13 @@ export default {
   computed: {
     media () {
       return this.data.autores.flatMap(autor => {
-        return autor.imagenes.map(path => {
-          return {path, autor}
-        })
+        return [{
+          autor,
+          path: autor.video,
+          video: true
+        }, ...autor.imagenes.map(path => {
+          return {path, autor, video: false}
+        })]
       })
     },
     flechaColor () {
@@ -159,7 +164,7 @@ export default {
   height: 100vh;
   position: absolute;
 }
-.photo {
+.photo, .video {
   height: 100vh;
   object-fit: contain;
 }
