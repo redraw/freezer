@@ -45,7 +45,7 @@ galeria:
     - "/v1609564681/2021/segundo_intento_-_Aldana_Anal%C3%ADa_Figueroa_dqhyul.png"
 date: 2021-01-02
 title: alterar lo visible / experimentación en collage digital
-anio: '2020'
+anio: "2020"
 thumbnail: "/v1609564556/2021/Apuesto-que-ahora-mismo..._-_Yamila_Bonetti_llmfxu.jpg"
 premiere: false
 gifs_hashtag: ''
@@ -53,4 +53,6 @@ bg_color: ''
 fg_color: ''
 
 ---
-imágenes de los encuentros online del curso con[ F3Millenial](https://www.instagram.com/f3millennial/) durante noviembre y diciembre 2020 en nuestra plataforma.
+ediciones desde diferentes partes de Latinoamérica por participantes del curso[ Alterar lo visible / experimentación en collage digital ](https://freezer.com.ar/cursos/alterar-lo-visible-experimentacion-en-collage-digital/)con[ F3Millenial](https://www.instagram.com/f3millennial/) durante noviembre y diciembre 2020 en nuestra plataforma.
+
+creaciones de maria eugenia samartin • ana belen gaona • alan irastorza • catalina garcía laval • yamila bonetti • aldana analía figueroa 
