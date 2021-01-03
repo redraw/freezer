@@ -5,15 +5,15 @@ galeria:
   autores:
   - nombre: 'nacho aimetta '
     url: ''
-    video: https://youtu.be/UMPXxXJuB5w
+    video: https://www.youtube.com/watch?v=Q_pzqczFEF8&feature=youtu.be
     imagenes: []
   - nombre: laura barcia
-    video: https://youtu.be/Q_pzqczFEF8
+    video: https://www.youtube.com/watch?v=UMPXxXJuB5w&feature=youtu.be
     imagenes: []
     url: ''
   - nombre: " laura barcia"
     url: ''
-    video: https://youtu.be/vT3P9C5_j1g
+    video: https://www.youtube.com/watch?v=vT3P9C5_j1g
     imagenes: []
 date: 2021-01-03
 title: la suma de las partes
