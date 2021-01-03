@@ -4,15 +4,15 @@ galeria:
   stack: true
   autores:
   - nombre: 'nacho aimetta '
-    url: ''
+    url: https://www.youtube.com/watch?v=Q_pzqczFEF8&feature=youtu.be
     video: https://www.youtube.com/watch?v=Q_pzqczFEF8&feature=youtu.be
     imagenes: []
   - nombre: laura barcia
     video: https://www.youtube.com/watch?v=UMPXxXJuB5w&feature=youtu.be
     imagenes: []
-    url: ''
+    url: https://www.youtube.com/watch?v=UMPXxXJuB5w&feature=youtu.be
   - nombre: " laura barcia"
-    url: ''
+    url: https://www.youtube.com/watch?v=vT3P9C5_j1g
     video: https://www.youtube.com/watch?v=vT3P9C5_j1g
     imagenes: []
 date: 2021-01-03
