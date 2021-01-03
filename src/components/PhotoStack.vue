@@ -75,11 +75,15 @@ export default {
   computed: {
     media () {
       return this.data.autores.flatMap(autor => {
-        return [{
-          autor,
-          path: autor.video,
-          video: true
-        }, ...autor.imagenes.map(path => {
+        let items = []
+        if (!!autor.video) {
+          items.push({
+            path: autor.video,
+            autor,
+            video: true
+          })
+        }
+        return [...items, ...autor.imagenes.map(path => {
           return {path, autor, video: false}
         })]
       })
