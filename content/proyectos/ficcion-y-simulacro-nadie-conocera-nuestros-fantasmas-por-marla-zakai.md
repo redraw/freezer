@@ -4,7 +4,7 @@ galeria:
   stack: true
   autores:
   - nombre: Rita Pavone " Que me importa el Mundo " Español (HD)
-    url: www.youtube.com/watch?v=UwvQ7sdDCPE
+    url: https://www.youtube.com/watch?v=UwvQ7sdDCPE
     video: ''
     imagenes:
     - "/v1609699490/2021/ada0_crunhp.jpg"
