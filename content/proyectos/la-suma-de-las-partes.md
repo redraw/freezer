@@ -3,15 +3,15 @@ listado: true
 galeria:
   stack: true
   autores:
-  - nombre: ''
+  - nombre: 'nacho aimetta '
     url: ''
     video: https://youtu.be/UMPXxXJuB5w
     imagenes: []
-  - nombre: ''
+  - nombre: laura barcia
     video: https://youtu.be/Q_pzqczFEF8
     imagenes: []
     url: ''
-  - nombre: ''
+  - nombre: " laura barcia"
     url: ''
     video: https://youtu.be/vT3P9C5_j1g
     imagenes: []
