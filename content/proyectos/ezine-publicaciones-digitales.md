@@ -140,3 +140,4 @@ bg_color: "#111111"
 fg_color: "#FFFFFF"
 
 ---
+convocatoria abierta y online de publicaciones digitales en contexto pandémico, ediciones por ayelén rodriguez • diego stickar • eliana tujschinaider • emmanuel mannini • francis bernal meseguer • gabriela de echave • lucho cagliardi • montserrat saiz • roberta valente • martina skretkowicz • victoria ellero • yonivoy
