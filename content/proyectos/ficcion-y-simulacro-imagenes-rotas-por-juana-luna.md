@@ -4,7 +4,7 @@ galeria:
   stack: true
   autores:
   - nombre: Juana Luna
-    url: ''
+    url: https://youtu.be/Q_TSiMNlluw
     imagenes:
     - "/v1609590898/2021/1_vkoixp.jpg"
     - "/v1609590903/2021/2_ljhrna.jpg"
@@ -26,7 +26,7 @@ galeria:
     video: https://youtu.be/Q_TSiMNlluw
 date: 2021-01-02
 title: ficción y simulacro / imágenes rotas por Juana Luna
-anio: '2020'
+anio: "2020"
 thumbnail: "/v1609590860/2021/13_lrsrvq.jpg"
 premiere: false
 gifs_hashtag: ''
