@@ -31,3 +31,4 @@ bg_color: "#E7D4D4"
 fg_color: ''
 
 ---
+proyecto fotográfico por Bhercad para el curso [Ficción y simulacro](https://freezer.com.ar/cursos/ficcion-y-simulacro-proyectos-en-cuarentena-ii/) con [Luciana Demichelis]()
