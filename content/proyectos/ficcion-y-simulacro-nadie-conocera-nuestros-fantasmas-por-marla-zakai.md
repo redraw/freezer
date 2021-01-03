@@ -53,7 +53,7 @@ galeria:
     - "/v1609699976/2021/ada34_saxiv9.jpg"
     - "/v1609699977/2021/ada32_ifxyxx.jpg"
 date: 2021-01-03
-title: ficción y simulacro / Nadie conocerá nuestros fantasmas por marla zakai
+title: ficción y simulacro / nadie conocerá nuestros fantasmas por marla zakai
 anio: "2020"
 thumbnail: "/v1609700127/2021/ada15_m1559m.jpg"
 premiere: false
