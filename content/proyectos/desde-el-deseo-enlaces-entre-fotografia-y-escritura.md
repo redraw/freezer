@@ -33,3 +33,4 @@ bg_color: "#FFFFFF"
 fg_color: ''
 
 ---
+textos e imágenes desde Argentina con el curso Desde el deseo, enlaces entre fotografía y escritura con[ Julietamor](https://www.instagram.com/_julietamor/) durante noviembre y diciembre 2020 en nuestra plataforma.
