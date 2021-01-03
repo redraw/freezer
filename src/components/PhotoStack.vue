@@ -43,7 +43,11 @@
       :key="key"
       class="photo-step"
     >
-      <a href="#" @click="scrollTop">🡩</a>
+      <a href="#" @click="scrollTop">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+          <path :fill="flechaColor" d="M12 0l8 9h-6v15h-4v-15h-6z"/>
+        </svg>
+      </a>
     </div>
   </Scrollama>
 </template>
@@ -74,6 +78,11 @@ export default {
           return {path, autor}
         })
       })
+    },
+    flechaColor () {
+      return this.$page.proyecto.fg_color
+        ? this.$page.proyecto.fg_color
+        : "var(--color-contrast)"
     }
   },
 

@@ -70,7 +70,7 @@ query {
     padding: 0.5em;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
     text-transform: lowercase;
-    font-size: 3vh;
+    font-size: 1.2em;
     line-height: 1.2;
   }
   .proyecto:hover .thumb {
