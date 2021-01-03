@@ -25,3 +25,6 @@ bg_color: "#000000"
 fg_color: ''
 
 ---
+creaciones audiovisuales por autorxs de diferentes partes de Argentina para nuestro curso [La suma de las partes,  El montaje audiovisual como herramienta creativa](https://freezer.com.ar/cursos/la-suma-de-las-partes-el-montaje-audiovisual-como-herramienta-creativa/) coordinado por la fotógrafa y editora [Ana del mar](https://www.instagram.com/anadelmar__/) en noviembre y diciembre de 2020.
+
+videos por nacho aimetta y laura barcia
