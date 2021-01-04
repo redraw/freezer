@@ -23,7 +23,7 @@ export default function(Vue, { head }) {
   })
 
   Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_limit,w_1280,h_920") => {
-    return `${settings.cloudinary_url}/${cloudinaryParams + ",q_85"}${path}`
+    return `${settings.cloudinary_url}/${cloudinaryParams + ",q_80,f_auto"}${path}`
   }
 
   Vue.use(VueTippy, {
