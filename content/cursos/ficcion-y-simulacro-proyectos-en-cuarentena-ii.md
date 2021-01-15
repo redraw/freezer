@@ -1,12 +1,12 @@
 ---
 date: 2020-10-05T20:25:49.000+00:00
-thumbnail: "/v1601929578/2020/web_fkt1ld.jpg"
-title: ficción y simulacro | proyectos en cuarentena II
-inicio: 2020-11-12T21:00:00.000+00:00
+thumbnail: "/v1610739020/2021/webb_wihggg.jpg"
+title: ficción y simulacro | proyectos fotográficos
+inicio: 2021-02-11T21:00:00Z
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://mpago.la/2uua3Q3
-finalizado: true
+finalizado: false
 
 ---
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias.
@@ -19,13 +19,13 @@ Esta edición está pensada para trabajar en contexto de aislamiento social, por
 
 Para sumarte:
 
-#### **• Inscribite a través del** [**formulario de inscripción**](https://forms.gle/e2DwsX2ehxsQmmSy8)
+#### **•** [**Inscribite a través del** **formulario de inscripción**](https://docs.google.com/forms/d/1Ku55b_P0tARSyBd2JNmUtIT5WMF0FNSSH9ZVMcTiLCU/edit)
 
 • Aboná el taller por transferencia o [a través de MercadoPago](https://mpago.la/2uua3Q3)
 
 Costo Nacional | $ 1700
 
-Costo Internacional | 35 USD
+Costo Internacional | 35 USD (Pago via Paypal, consultar) 
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com
 
