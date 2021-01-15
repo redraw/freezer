@@ -29,12 +29,12 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-Miércoles 9 - 16 - 23 de Diciembre a las 18 hs. 
+Febrero, a definir. 
 
 **Costo**
 
 $1500
 
-**Reservá tu lugar** [**inscribiendote en este formulario**](https://docs.google.com/forms/d/e/1FAIpQLScY_EetA9ve5OKBGI4EJpFC2M_pu1qPdRhTzqWx1vw83e4hYw/viewform)**.**
+**Reservá tu lugar**[ **inscribiendote en este formulario.**](https://docs.google.com/forms/d/1NuzX-dtS3vPRKcIDTxNPLovBELPZKqMwyd82HtVHc1s/edit)
 
 El curso puede ser abonado por transferencia o [a través de MercadoPago. ](https://mpago.la/344u7QQ)Este QR sirve para abonar el taller directamente con tu celular:
