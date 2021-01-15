@@ -17,6 +17,8 @@ Orientado **a todxs aquellos interesados ​​en trabajar con sus fotografías 
 
 Esta edición está pensada para trabajar en contexto de aislamiento social, por lo que se piensarán proyectos a desarrollar con material de archivo (propio o de algún proyecto de investigación) autorretratos e imágenes que pueden llegar a generarse (y modificarse) durante el encierro.
 
+Fotografías: Luis Kerman, para Ficción y simulacro #4  (2020)
+
 Para sumarte:
 
 • Iniciamos los 6 encuentros el 11 de febrero a las 18 hs.
@@ -27,7 +29,7 @@ Para sumarte:
 
 Costo Nacional | $ 1700
 
-Costo Internacional | 35 USD (Pago via Paypal, consultar) 
+Costo Internacional | 35 USD (Pago via Paypal, consultar)
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com
 
