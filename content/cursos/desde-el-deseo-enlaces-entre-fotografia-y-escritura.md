@@ -1,8 +1,8 @@
 ---
 date: 2020-09-22T02:16:09.000+00:00
-thumbnail: "/v1606674167/2020/juli_web_qbugqa.jpg"
+thumbnail: "/v1610739595/2021/juli_d7tykj.jpg"
 title: 'Desde el deseo: enlaces entre fotografía y escritura'
-inicio: 2020-11-09T21:00:00Z
+inicio: 2020-11-09T21:00:00.000+00:00
 docente: Julietamor
 lugar: Online
 mercadopago_link: https://mpago.la/344u7QQ
