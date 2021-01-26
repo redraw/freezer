@@ -29,7 +29,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-Febrero, a definir. 
+12, 19 y 26 de Febrero
 
 **Costo**
 
