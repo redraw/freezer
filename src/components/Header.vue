@@ -6,7 +6,7 @@
           <img src="../../static/logo-bazar.png" :alt="$settings.site_name" class="logo" />
         </g-link>
         <g-link v-else :to="{ name: 'home' }" class="home-link">
-          <img src="../../static/logo.png" :alt="$settings.site_name" class="logo" />
+          <img src="../../static/logo2x.png" :alt="$settings.site_name" width="65" class="logo" />
         </g-link>
         <a class="menu-icon" href="#" @click.prevent="toggleMenu">&#9776;</a>
       </div>
@@ -57,9 +57,6 @@ export default {
   color: lightgrey;
   padding: 1rem;
   line-height: 0rem;
-}
-.logo {
-  height: 6rem;
 }
 .site-name {
   display: none;

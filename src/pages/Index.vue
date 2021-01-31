@@ -17,7 +17,8 @@
     <div class="logo">
       <g-image
         class="flicker-in-1"
-        src="/logo.png"
+        src="../../static/logo2x.png"
+        width="250"
         :alt="$settings.site_name"
       />
     </div>
