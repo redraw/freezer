@@ -45,6 +45,7 @@
 query Proyecto ($path: String!) {
   proyecto (path: $path) {
     title
+    listado
     thumbnail
     date (format: "YYYY")
     content
