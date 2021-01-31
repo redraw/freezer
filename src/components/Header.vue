@@ -3,7 +3,7 @@
     <div class="header container">
       <div class="menu">
         <g-link v-if="$route.path.startsWith('/bazar')" to="/bazar" class="home-link">
-          <img src="../../static/logo-bazar.png" :alt="$settings.site_name" class="logo" />
+          <img src="../../static/logo-bazar.png" :alt="$settings.site_name" width="65" class="logo" />
         </g-link>
         <g-link v-else :to="{ name: 'home' }" class="home-link">
           <img src="../../static/logo2x.png" :alt="$settings.site_name" width="65" class="logo" />
