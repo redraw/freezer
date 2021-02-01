@@ -21,7 +21,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Duración de cada clase:**
 
-1 hora y media. 
+1 hora y media.
 
 **Cantidad de encuentros:**
 
@@ -33,7 +33,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Horarios disponibles:**
 
-17 a 19:30 hs. 
+17 a 19:30 hs.
 
 **Costo:**
 
