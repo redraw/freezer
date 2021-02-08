@@ -25,7 +25,7 @@ Buena conexión wifi & computadora. Es ideal tener el programa instalado pero no
 
 **Fechas:**
 
-Martes 8, 15 y 22 de febrero de 19:30 a 21:00
+Martes 9, 15 y 22 de febrero de 19:30 a 21:00
 
 **Costo: $2500**
 
