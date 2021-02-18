@@ -29,7 +29,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-19, 23 y 26 de febrero de 2021
+Martes 23, jueves 25 y viernes 26 de febrero
 
 **Horarios disponibles:**
 
