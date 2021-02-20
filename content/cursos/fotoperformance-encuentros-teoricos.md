@@ -45,7 +45,7 @@ Martes 23, jueves 25 y viernes 26 de febrero
 
 • Anotate [en este formulario de inscripción](https://docs.google.com/forms/d/1IPs4UuUQCyeOgKPfF3_weYp66nrow3Sgt9LvHr1wRRU/edit)
 
-• Para reservar el taller, [aboná por MercadoPago](https://docs.google.com/forms/d/1IPs4UuUQCyeOgKPfF3_weYp66nrow3Sgt9LvHr1wRRU/edit) o [via PayPal](https://www.paypal.me/altaperfo )
+• Para reservar el taller, [aboná por MercadoPago](https://docs.google.com/forms/d/1IPs4UuUQCyeOgKPfF3_weYp66nrow3Sgt9LvHr1wRRU/edit) o [via PayPal](paypal.me/fotoperformance)
 
 Pagalo con este link de Mercado Pago: [https://mpago.la/2hqNCqC](https://mpago.la/2hqNCqC "https://mpago.la/2hqNCqC")
 
