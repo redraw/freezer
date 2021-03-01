@@ -2,7 +2,7 @@
 date: 2020-09-30T23:10:14.000+00:00
 thumbnail: "/v1610735793/2021/marlax_r2drjf.jpg"
 title: 'Materializar la serie: Herramientas de indesign para publicaciones urgentes '
-inicio: 2021-01-28T21:01:00Z
+inicio: 2021-03-18T21:01:00Z
 docente: Marla Zakai
 lugar: Online
 mercadopago_link: https://mpago.la/1HijzQY
@@ -21,17 +21,22 @@ Materializar la serie es un espacio en el que facilitaremos el encuentro con el 
 
 **Fechas:**
 
-Jueves 28 de enero y jueves 4 de febrero a las 18 hs.
+Jueves 18 y 25 de marzo de 18hs a 20hs. (Argentina)
 
-**Destinataries**
+  
+**Destinataries**:
 
-A Fotograf_s que no tengan conocimiento sobre la herramienta indesign y deseen hacer publicaciones.
+A Fotograf_s que no tengan conocimiento sobre la herramienta InDesign y deseen hacer publicaciones.
 
 **Elementos necesarios**
 
 Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por teléfono celular. Mail para mantener comunicación de clase a clase.
 
 Costo: ARS $1500
+
+Costo internacional: 
+
+***
 
 Para inscribirte:
 
