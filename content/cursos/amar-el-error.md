@@ -39,12 +39,6 @@ Interesades en explorar sus imágenes de archivo y volver a descubrir nuevas pos
 
 Buena conexión WIFI. Computadora o teléfono celular y material de archivo digital para trabajar.
 
-**Costo Nacional | $ 2400 ARS**
+***
 
-Para inscribirte:
-
-• Completá [nuestro formulario de inscripción](https://docs.google.com/forms/d/1G1e_T8dlR3blGuodp-i6zJmRNjMFFLbzPinWAVMygG4/edit)
-
-• Para reservar tu lugar realizá el pago [con este enlace de MercadoPago.](https://mpago.la/2urtfbQ)
-
-Con este QR podés pagar con tu celular:
+**Cupos llenos para esta edición, muy pronto información para un nuevo intensivo en MAYO.** 
