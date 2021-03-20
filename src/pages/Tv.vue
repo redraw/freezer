@@ -19,6 +19,18 @@ export default {
 
   metaInfo () {
     return {
+      title: "Freezer TV",
+      meta: [
+        {
+          key: "image",
+          property: "og:image",
+          content: "https://freezer.com.ar/logo-tierradelfuego.png",
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image"
+        },
+      ],
       script: [
         { src: "https://www.youtube.com/iframe_api", id: "youtube-api" }
       ],
