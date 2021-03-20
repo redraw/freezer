@@ -1,7 +1,7 @@
 <template>
   <Layout :show-footer="false" :show-header="false">
     <a href="#" class="logo" @click="next">
-      <g-image src="/logo-tierradelfuego-glitch.gif"></g-image>
+      <g-image :src="logo"></g-image>
     </a>
     <div class="overlay"></div>
     <div id="tv-player"></div>
@@ -12,7 +12,8 @@
 export default {
   data () {
     return {
-      player: null,
+      player: undefined,
+      logo: undefined
     }
   },
 
@@ -24,9 +25,14 @@ export default {
     }
   },
 
+  created () {
+    this.logo = Math.random() > 0.5 ? '/logo-tierradelfuego-glitch.gif' : '/logo-tierradelfuego.gif'
+  },
+
   async mounted () {
     window.addEventListener("load", () => {
       this.player = new YT.Player('tv-player', {
+        width: "100%",
         playerVars: {
           controls: 0,
           rel: 0,
@@ -76,10 +82,15 @@ export default {
   position: fixed;
   top: 0;
   bottom: 0;
-  width: 100vw;
-  height: 100vh;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
   transform: scale(1.25);
 }
+</style>
+
+<style scoped>
 .logo {
   position: fixed;
   top: 2em;
