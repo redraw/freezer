@@ -37,7 +37,7 @@ export default {
     }
   },
 
-  created () {
+  mounted () {
     window.addEventListener("load", () => {
       this.player = new YT.Player('tv-player', {
         width: "100%",
