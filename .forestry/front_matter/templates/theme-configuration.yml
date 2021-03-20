@@ -34,5 +34,11 @@ fields:
     max: 
     labelField: 
   label: Menu
+- name: tv_playlist
+  type: text
+  config:
+    required: false
+  label: TV playlist
+  description: El <strong>ID</strong> de la playlist. Por ejemplo, https://www.youtube.com/watch?v=rtgGol-I4gA&amp;list=<strong>PL12DC9A161D8DC5DC</strong>&amp;index=1
 pages:
 - data/theme.json
