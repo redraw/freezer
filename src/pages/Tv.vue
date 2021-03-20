@@ -1,9 +1,9 @@
 <template>
   <Layout :show-footer="false" :show-header="false">
     <a href="#" class="logo" @click="next">
-      <g-image :src="logo"></g-image>
+      <g-image src="/logo-tierradelfuego.gif" />
     </a>
-    <div class="overlay"></div>
+    <div class="overlay" @click="play"></div>
     <div id="tv-player"></div>
   </Layout>
 </template>
@@ -13,13 +13,13 @@ export default {
   data () {
     return {
       player: undefined,
-      logo: undefined
+      playing: false
     }
   },
 
   metaInfo () {
     return {
-      title: "Freezer TV",
+      title: "TV",
       meta: [
         {
           key: "image",
@@ -38,10 +38,6 @@ export default {
   },
 
   created () {
-    this.logo = Math.random() > 0.5 ? '/logo-tierradelfuego-glitch.gif' : '/logo-tierradelfuego.gif'
-  },
-
-  async mounted () {
     window.addEventListener("load", () => {
       this.player = new YT.Player('tv-player', {
         width: "100%",
@@ -60,7 +56,6 @@ export default {
         }
       })
     })
-
   },
 
   methods: {
@@ -79,6 +74,13 @@ export default {
         setTimeout(() => {
           player.playVideoAt(0);
         }, 500) // YT bug fix
+      }
+      this.playing = event.data === YT.PlayerState.PLAYING
+    },
+
+    play() {
+      if (!this.playing) {
+        this.player.playVideo()
       }
     },
 
