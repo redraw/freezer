@@ -47,6 +47,7 @@ export default {
           showinfo: 0,
           enablejsapi: 1,
           autoplay: 1,
+          loop:1,
           modestbranding: 1,
           origin: window.location.host,
         },
