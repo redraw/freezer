@@ -42,6 +42,7 @@ body {
   --color-base-1: rgb(243, 243, 243);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(43, 43, 43);
+  --color-link: #2742c9;
   font-family: "Space Grotesk",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
@@ -63,12 +64,17 @@ h1 {
   letter-spacing: -0.01em;
 }
 
+a {
+  color: var(--color-link);
+}
+
 .layout {
   padding: 0;
   width: 100%;
   display: flex;
   position: relative;
   flex-flow: column;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), transparent 15em) !important;
 }
 
 .container {
@@ -80,10 +86,6 @@ h1 {
 .content {
   padding: 0 1rem;
   margin-bottom: 1rem;
-}
-
-a {
-  color: inherit;
 }
 
 img {

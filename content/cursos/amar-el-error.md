@@ -13,7 +13,7 @@ Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegar
 
 La modalidad es virtual. Usamos el mail para enviar las actividades y la plataforma de google drive para las entregas.
 
-También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](http://instagram.com/amar.el.error.)
+También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](https://instagram.com/amar.el.error)
 
 Coordinadora **Roberta Valente y Rayelen Baridon**
 

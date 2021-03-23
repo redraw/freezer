@@ -55,6 +55,7 @@ query {
     display: block;
     position: relative;
     text-decoration: none;
+    color: inherit;
     min-height: 400px;
     margin-bottom: 15px;
   }

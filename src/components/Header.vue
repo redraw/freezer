@@ -80,6 +80,9 @@ export default {
   color: var(--color-base);
   text-transform: lowercase;
 }
+.nav a {
+  color: var(--color-contrast);
+}
 .nav > * {
   padding: 1em;
   text-align: center;
@@ -125,7 +128,7 @@ export default {
     border-color: inherit !important;
   }
   .nav > .active {
-    border-color: lightgrey;
+    border-color: inherit;
   }
 }
 </style>

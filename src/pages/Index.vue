@@ -49,6 +49,7 @@
 .menu a {
   text-decoration: none;
   text-transform: lowercase;
+  color: inherit;
 }
 .menu a:hover {
   text-decoration: underline;
