@@ -1,8 +1,8 @@
 ---
-date: 2021-02-01T12:54:51Z
-thumbnail: "/v1612184111/2021/web-marian_qqvpdd.jpg"
+date: 2021-02-01T12:54:51.000+00:00
+thumbnail: "/v1616543536/2021/editablefotoperfo_tla8lq.jpg"
 title: Fotoperformance | Encuentros teóricos
-inicio: 2021-02-22T20:00:00Z
+inicio: 2021-02-22T20:00:00.000+00:00
 docente: Mariana Moreno
 lugar: Online
 mercadopago_link: " https://mpago.la/2hqNCqC "
@@ -29,7 +29,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Fechas:**
 
-Martes 23, jueves 25 y viernes 26 de febrero
+19, 20 y 22 de abril de 17 a 19:30h
 
 **Horarios disponibles:**
 
