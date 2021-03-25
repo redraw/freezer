@@ -1,8 +1,8 @@
 ---
-date: 2021-02-19T01:34:33Z
-thumbnail: "/v1613698827/2021/web_amarelerror_u47dbr.jpg"
+date: 2021-02-19T01:34:33.000+00:00
+thumbnail: "/v1616686559/2021/flyerweb_wt2jq1.jpg"
 title: Amar el error
-inicio: 2021-03-10T21:00:00Z
+inicio: 2021-04-08T21:00:00Z
 docente: Roberta Valente y Rayelen Baridon
 lugar: Online
 mercadopago_link: https://mpago.la/2urtfbQ
@@ -13,7 +13,7 @@ Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegar
 
 La modalidad es virtual. Usamos el mail para enviar las actividades y la plataforma de google drive para las entregas.
 
-También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](https://instagram.com/amar.el.error)
+También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](http://instagram.com/amar.el.error.)
 
 Coordinadora **Roberta Valente y Rayelen Baridon**
 
@@ -29,7 +29,7 @@ Coordinadora **Roberta Valente y Rayelen Baridon**
 
 **Fecha de inicio:**
 
-Miércoles 16 a 18 hs. 
+Jueves 18 a 20.30 hs.  desde el 8 de abril
 
 **Destinatarios**
 
@@ -39,6 +39,15 @@ Interesades en explorar sus imágenes de archivo y volver a descubrir nuevas pos
 
 Buena conexión WIFI. Computadora o teléfono celular y material de archivo digital para trabajar.
 
+**Costo**
+
+$2400 ARS
+
 ***
 
-**Cupos llenos para esta edición, muy pronto información para un nuevo intensivo en MAYO.** 
+**Para inscribirte:**
+
+* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1G1e_T8dlR3blGuodp-i6zJmRNjMFFLbzPinWAVMygG4/edit)
+* Aboná el taller [por MercadoPago](https://mpago.la/2urtfbQ)
+
+  Con este QR podés pagar directamente desde tu celular: 
