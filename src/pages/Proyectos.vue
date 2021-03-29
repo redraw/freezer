@@ -20,21 +20,31 @@
           <g-image class="thumb" :src="getImageUrl(proyecto.node.thumbnail, 'w_500')"/>
         </g-link>
       </masonry>
+      <Pager :info="$page.proyectos.pageInfo"/>
     </div>
   </Layout>
 </template>
 
 <script>
+import { Pager } from 'gridsome'
+
 export default {
   metaInfo: {
     title: "Proyectos"
+  },
+  components: {
+    Pager
   }
 }
 </script>
 
 <page-query>
-query {
-  proyectos: allProyecto (filter: { listado: { eq: true } }) {
+query ($page: Int) {
+  proyectos: allProyecto (perPage: 10, page: $page, filter: { listado: { eq: true } }) @paginate {
+    pageInfo {
+      totalPages
+      currentPage
+    }
     edges {
       node {
         id

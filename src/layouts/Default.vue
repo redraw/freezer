@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <!-- <marquee class="aviso">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae consequatur ea facilis aliquam amet, vero animi est aspernatur et? Nobis, facere aspernatur sunt quisquam temporibus possimus voluptates recusandae accusantium reprehenderit!</marquee> -->
+    <!-- <div class="aviso">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae consequatur ea facilis</div> -->
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
@@ -118,10 +118,11 @@ img[lazy=loaded] {
 
 .aviso {
   background: black;
+  text-align: center;
   color: white;
-  padding: 0.2em;
+  padding: 0.5em;
   font-weight: bold;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 select {
@@ -140,5 +141,21 @@ select {
     line-height: inherit;
     padding: 0;
   }
+}
+
+nav[role="navigation"] {
+  text-align: center;
+  margin-bottom: 2em;
+}
+nav[role="navigation"] a {
+  margin: 0.25em;
+  padding: 0.6em;
+  text-decoration: none;
+  font-weight: bold;
+  background: var(--color-base);
+  color: var(--color-contrast);
+}
+nav[role="navigation"] a.active {
+  font-size: 1.5em;
 }
 </style>

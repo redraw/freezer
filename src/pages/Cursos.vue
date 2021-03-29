@@ -20,21 +20,31 @@
           <g-image class="thumb" :src="getImageUrl(curso.node.thumbnail, 'w_500')"/>
         </g-link>
       </masonry>
+      <Pager :info="$page.cursos.pageInfo"/>
     </div>
   </Layout>
 </template>
 
 <script>
+import { Pager } from 'gridsome'
+
 export default {
   metaInfo: {
     title: "Cursos"
+  },
+  components: {
+    Pager
   }
 }
 </script>
 
 <page-query>
-query {
-  cursos: allCurso (sort: [{by: "finalizado", order: ASC}, {by: "date"}]) {
+query ($page: Int) {
+  cursos: allCurso (perPage: 10, page: $page, sort: [{by: "finalizado", order: ASC}, {by: "date"}]) @paginate {
+    pageInfo {
+      totalPages
+      currentPage
+    }
     edges {
       node {
         id

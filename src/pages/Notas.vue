@@ -20,21 +20,31 @@
           </div>
         </g-link>
       </masonry>
+      <Pager :info="$page.notas.pageInfo"/>
     </div>
   </Layout>
 </template>
 
 <script>
+import { Pager } from 'gridsome'
+
 export default {
   metaInfo: {
     title: "Notas"
+  },
+  components: {
+    Pager
   }
 }
 </script>
 
 <page-query>
-query {
-  notas: allNota (filter: { listado: { eq: true } }) {
+query ($page: Int) {
+  notas: allNota (perPage: 6, page: $page, filter: { listado: { eq: true } }) @paginate {
+    pageInfo {
+      totalPages
+      currentPage
+    }
     edges {
       node {
         id
