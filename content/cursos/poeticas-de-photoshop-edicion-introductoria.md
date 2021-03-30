@@ -6,7 +6,7 @@ inicio: 2020-12-10T20:00:00.000+00:00
 docente: Rocío Frigerio
 lugar: Online
 mercadopago_link: https://mpago.la/2CUCphb
-finalizado: false
+finalizado: true
 
 ---
 Un curso para aprender a utilizar photoshop desde cero:
