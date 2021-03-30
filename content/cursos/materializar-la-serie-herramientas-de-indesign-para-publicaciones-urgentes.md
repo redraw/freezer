@@ -2,11 +2,11 @@
 date: 2020-09-30T23:10:14.000+00:00
 thumbnail: "/v1610735793/2021/marlax_r2drjf.jpg"
 title: 'Materializar la serie: Herramientas de indesign para publicaciones urgentes '
-inicio: 2021-03-18T21:01:00Z
+inicio: 2021-03-18T21:01:00.000+00:00
 docente: Marla Zakai
 lugar: Online
 mercadopago_link: https://mpago.la/1HijzQY
-finalizado: false
+finalizado: true
 
 ---
 Materializar la serie es un espacio en el que facilitaremos el encuentro con el programa InDesign, analizando los elementos básicos de la interfaz para que los trabajos fotográficos que venimos realizando puedan devenir en una publicación, ya sea virtual o impresa. Esta herramienta abre la posibilidad además de armar carpetas y presentaciones para concursos y becas. Veremos algunas de sus características y observaremos referencias, haremos ejercicios y resolveremos las preguntas que surjan en el camino.
