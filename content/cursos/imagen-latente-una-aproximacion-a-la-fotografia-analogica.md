@@ -1,11 +1,11 @@
 ---
 date: 2020-10-03T22:13:25.000+00:00
-thumbnail: "/v1610737234/2021/editablex_k0nmgz.jpg"
+thumbnail: "/v1617069956/2021/daniweb_qezzyo.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2021-02-15T21:00:00Z
+inicio: 2021-02-15T21:00:00.000+00:00
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: https://mpago.la/1hNsNh2
+mercadopago_link: https://mpago.la/1rXCBgL
 finalizado: false
 
 ---
@@ -28,14 +28,14 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 
 Duración: 5 encuentros.
 
-Inicia el 15 de febrero a las 18 hs. 
+Inicia el lunes 12 de abril a las 19 hs, hora Argentina. 
 
 [• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1qAI4nE1hbguAxM7z1nneYAdTDwvGEQSiZPt1RbJEx3Y/edit)
 
-Costo | $ 1.700
+Costo | $ 2000
 
-• Para reservar el taller, aboná por MercadoPago o transferencia bancaria 
+• Para reservar el taller, aboná por MercadoPago o transferencia bancaria
 
-Pagalo con este link de Mercado Pago: [https://mpago.la/1hNsNh2](https://mpago.la/1hNsNh2 "https://mpago.la/1hNsNh2")
+Pagalo con este link de Mercado Pago: [https://mpago.la/1rXCBgL](https://mpago.la/1rXCBgL "https://mpago.la/1rXCBgL")
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com! Con tu celular podés abonar con este QR:
