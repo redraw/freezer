@@ -2,11 +2,11 @@
 date: 2020-10-05T20:25:49.000+00:00
 thumbnail: "/v1610739020/2021/webb_wihggg.jpg"
 title: ficción y simulacro | proyectos fotográficos
-inicio: 2021-02-11T21:00:00Z
+inicio: 2021-02-11T21:00:00.000+00:00
 docente: Luciana Demichelis
 lugar: Online
 mercadopago_link: https://mpago.la/2uua3Q3
-finalizado: false
+finalizado: true
 
 ---
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias.
