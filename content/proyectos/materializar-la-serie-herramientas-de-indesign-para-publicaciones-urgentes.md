@@ -3,6 +3,13 @@ listado: true
 galeria:
   stack: true
   autores:
+  - nombre: 'clara corvalán / l.o.q.p.i.e.n.s.o.  '
+    url: " https://issuu.com/c.l.a.r.i/docs/l.o.q.p.i.e.n.s.o"
+    video: ''
+    imagenes:
+    - "/v1617222948/2021/loqpiensoyno_1_h6vnue.jpg"
+    - "/v1617222948/2021/loqpiensoyno2_bjhuap.jpg"
+    - "/v1617222947/2021/loqpiensoyno_4_rwxdgt.jpg"
   - nombre: unapolenta
     url: https://issuu.com/freezerfoto/docs/unapolenta
     video: ''
