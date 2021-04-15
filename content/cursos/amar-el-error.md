@@ -3,7 +3,7 @@ date: 2021-02-19T01:34:33.000+00:00
 thumbnail: "/v1616686559/2021/flyerweb_wt2jq1.jpg"
 title: Amar el error
 inicio: 2021-04-08T21:00:00Z
-docente: Roberta Valente y Rayelen Baridon
+docente: 'Roberta Valente '
 lugar: Online
 mercadopago_link: https://mpago.la/2urtfbQ
 finalizado: false
@@ -15,7 +15,7 @@ La modalidad es virtual. Usamos el mail para enviar las actividades y la platafo
 
 También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](http://instagram.com/amar.el.error.)
 
-Coordinadora **Roberta Valente y Rayelen Baridon**
+Coordinadora **Roberta Valente**
 
 ***
 
@@ -29,7 +29,7 @@ Coordinadora **Roberta Valente y Rayelen Baridon**
 
 **Fecha de inicio:**
 
-Jueves 18 a 20.30 hs.  desde el 8 de abril
+Miércoles de 18 a 20.30 hs. desde el 28 de abril.
 
 **Destinatarios**
 
@@ -50,4 +50,4 @@ $2400 ARS
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1G1e_T8dlR3blGuodp-i6zJmRNjMFFLbzPinWAVMygG4/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/2urtfbQ)
 
-  Con este QR podés pagar directamente desde tu celular: 
+  Con este QR podés pagar directamente desde tu celular:
