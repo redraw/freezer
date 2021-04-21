@@ -33,9 +33,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 Costo: ARS $1500
 
-Costo internacional: 30 USD via PayPal
-
-[https://www.paypal.com/invoice/p/#MHXBHVQAK8KJVE6Z](https://www.paypal.com/invoice/p/#MHXBHVQAK8KJVE6Z "https://www.paypal.com/invoice/p/#MHXBHVQAK8KJVE6Z")
+Costo internacional: [30 USD via PayPal](https://www.paypal.com/invoice/p/#MHXBHVQAK8KJVE6Z)
 
 ***
 
