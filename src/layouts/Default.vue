@@ -78,7 +78,6 @@ a {
 }
 
 .container {
-  width: 100%;
   max-width: 980px;
   margin: 0 auto;
 }
@@ -86,6 +85,8 @@ a {
 .content {
   padding: 0 1rem;
   margin-bottom: 1rem;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 
 img {

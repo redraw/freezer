@@ -72,6 +72,7 @@ export default {
   text-decoration: none;
   padding: 1em;
   font-size: x-large;
+  color: inherit;
 }
 .nav {
   display: none;
@@ -81,7 +82,7 @@ export default {
   text-transform: lowercase;
 }
 .nav a {
-  color: var(--color-contrast);
+  color: var(--color-base);
 }
 .nav > * {
   padding: 1em;
@@ -109,6 +110,9 @@ export default {
     background: inherit;
     color: inherit;
     max-height: 100%;
+  }
+  .nav a {
+    color: var(--color-constrast);
   }
   .nav > * {
     padding: 0;
