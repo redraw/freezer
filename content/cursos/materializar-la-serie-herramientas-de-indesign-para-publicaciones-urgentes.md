@@ -41,7 +41,7 @@ Costo internacional: 30 USD via PayPal
 
 Para inscribirte:
 
-• Completá [nuestro formulario de inscripción ](https://docs.google.com/forms/d/1RhDzeF1odvRAk5BRAHQtZBL2LjXZd1H81fV54NRRL6w/edit)
+• Completá [nuestro formulario de inscripción ](https://docs.google.com/forms/d/1AQ0pJcpcDX8uHAIxvl-IPCg43rebmfqFSJeVgEtPH-Q/edit)
 
 • Para reservar tu lugar realizá el pago[ con este link de MercadoPago.](https://mpago.la/1HijzQY)
 
