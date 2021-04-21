@@ -6,7 +6,7 @@ inicio: 2021-03-18T21:01:00.000+00:00
 docente: Marla Zakai
 lugar: Online
 mercadopago_link: https://mpago.la/1HijzQY
-finalizado: true
+finalizado: false
 
 ---
 Materializar la serie es un espacio en el que facilitaremos el encuentro con el programa InDesign, analizando los elementos básicos de la interfaz para que los trabajos fotográficos que venimos realizando puedan devenir en una publicación, ya sea virtual o impresa. Esta herramienta abre la posibilidad además de armar carpetas y presentaciones para concursos y becas. Veremos algunas de sus características y observaremos referencias, haremos ejercicios y resolveremos las preguntas que surjan en el camino.
