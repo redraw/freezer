@@ -27,7 +27,7 @@ Para sumarte:
 
 #### **•** [**Inscribite a través del** **formulario de inscripción**](https://docs.google.com/forms/d/1Ku55b_P0tARSyBd2JNmUtIT5WMF0FNSSH9ZVMcTiLCU/edit)
 
-• Aboná el taller por transferencia o [a través de MercadoPago](https://mpago.la/2uua3Q3)
+• Aboná el taller por transferencia o [a través de MercadoPago](https://mpago.la/2Wb52kc)
 
 Costo Nacional | $ 2000
 
