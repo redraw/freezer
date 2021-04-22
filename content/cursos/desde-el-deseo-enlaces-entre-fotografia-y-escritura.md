@@ -6,7 +6,7 @@ inicio: 2020-11-09T21:00:00.000+00:00
 docente: Julietamor
 lugar: Online
 mercadopago_link: https://mpago.la/344u7QQ
-finalizado: false
+finalizado: true
 
 ---
 Desde el deseo es un taller que busca generar diálogos entre fotografía y escritura. Fotografiaremos desde lo escrito, y escribiremos desde lo retratado. Está sentipensado en pos de suscitar proyectos creativos viables en un contexto de encierro, y traspolable a un futuro más ameno. Será un espacio principalmente práctico, en donde veremos formas de yuxtaponer las dos disciplinas. También analizaremos autores, haciendo hincapié en la emocionalidad de las creaciones.
