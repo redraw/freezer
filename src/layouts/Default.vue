@@ -78,6 +78,7 @@ a {
 }
 
 .container {
+  width: 100%;
   max-width: 980px;
   margin: 0 auto;
 }
