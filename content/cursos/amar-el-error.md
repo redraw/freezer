@@ -27,9 +27,9 @@ Coordinadora **Roberta Valente**
 
 1 encuentro asincrónico y 4 sincrónicos.
 
-**Fecha de inicio:**
+**Fecha de inicio (¡Nuevo horario!)**
 
-Miércoles de 18 a 20.30 hs. desde el 28 de abril.
+Miércoles de 18 a 20.30 hs. desde el 12 de mayo
 
 **Destinatarios**
 
