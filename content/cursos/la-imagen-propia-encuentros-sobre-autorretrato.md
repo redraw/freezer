@@ -9,7 +9,7 @@ mercadopago_link: https://mpago.la/1ke4jM2
 finalizado: false
 
 ---
-¿Es posible que el autorretrato sea reconstrucción de unx mismx? ¿Un lugar para crear ficciones? ¿Puede ser el autorretrato un paisaje? ¿Cuántas versiones de la propia imagen podemos inventar? 
+¿Es posible que el autorretrato sea reconstrucción de unx mismx? ¿Un lugar para crear ficciones? ¿Puede ser el autorretrato un paisaje? ¿Cuántas versiones de la propia imagen podemos inventar?
 
 La imagen propia es un espacio de experimentación y acción en torno al autorretrato. Investigaremos, realizaremos ejercicios con imágenes y palabras y miraremos referentes. Proponemos una serie de ejercicios prácticos para movilizar un registro de nosotrxs mismxs rompiendo un poco los sentidos de todo aquello que cohabita con nuestros cuerpxs en casa.
 
@@ -17,9 +17,9 @@ La imagen propia es un espacio de experimentación y acción en torno al autorre
 
 ***
 
-Inicio: 
+Inicio:
 
-**Miércoles de 11 a 13hs (hora Argentina) a partir del 12 de mayo**
+**Miércoles de 11 a 12.30hs (hora Argentina) a partir del 12 de mayo**
 
 **Para inscribirte:**
 
@@ -30,7 +30,7 @@ Inicio:
 
 **Duración de cada clase:**
 
-2 hs
+1 hs 1/2
 
 **Cantidad de encuentros:**
 
@@ -52,7 +52,7 @@ Costo Internacional | 60USD (enviando via PayPal a florr.ms@gmail.com)
 
 Sobre las coordinadoras:
 
-**Elisa Portela** vive entre La Plata y Tilcara. Es fotógrafa, realizadora audiovisual y docente en fotografía. Cursó Artes Audiovisuales en la Facultad de Artes (UNLP), y está en constante formación fotográfica con docentes como Guadalupe Miles, Julieta Escardó, Julia Sbriller y Rosana Simonassi entre otres. Además, coordina junto a Savia el taller de Autorretrato Fotográfico La Imagen Propia; y trabaja en Creadores de Imágenes, taller de experimentación e investigación fotográfica con sedes a lo largo de Argentina, Montevideo, Bogotá, Oaxaca y Barcelona. 
+**Elisa Portela** vive entre La Plata y Tilcara. Es fotógrafa, realizadora audiovisual y docente en fotografía. Cursó Artes Audiovisuales en la Facultad de Artes (UNLP), y está en constante formación fotográfica con docentes como Guadalupe Miles, Julieta Escardó, Julia Sbriller y Rosana Simonassi entre otres. Además, coordina junto a Savia el taller de Autorretrato Fotográfico La Imagen Propia; y trabaja en Creadores de Imágenes, taller de experimentación e investigación fotográfica con sedes a lo largo de Argentina, Montevideo, Bogotá, Oaxaca y Barcelona.
 
 **Savia Flor** reside desde 2012 en la ciudad de La Plata. Es Profesora y Licenciada en Artes Plásticas, con orientación en Grabado y Arte Impreso (FBA, UNLP). Se desarrolla como docente de Fotografía y artes visuales para niñxs, jóvenes y adultxs y desde 2018 a 2020 coordinó El Fotoclub, espacio de enseñanza en artes (La Plata). Desde 2017 forma parte de “Constructorxs Club” colectivo de artistas (La Plata); desde 2018 coordina”La imagen propia”, taller de autorretrato junto a Eli Portela, desde 2019 conforma la dupla de investigación y producción “Recolectoras” junto a Mari Sanguinetti y desde 2020 colabora en el ciclo audiovisual “Musiquita en la cocina” y forma parte de la productora "Nicoletta Films"
 
