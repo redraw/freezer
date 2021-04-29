@@ -85,8 +85,8 @@ a {
 .content {
   padding: 0 1rem;
   margin-bottom: 1rem;
-  word-break: break-all;
-  word-wrap: break-word;
+  word-break: break-word;
+  word-wrap: normal;
 }
 
 img {
