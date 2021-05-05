@@ -21,7 +21,7 @@ date: 2021-01-02
 title: ficción y simulacro / noelia urbina
 anio: "2020"
 thumbnail: "/v1609592512/2021/9_-_Noelia_Urbina_jq24re.jpg"
-premiere: false
+premiere: true
 gifs_hashtag: ''
 bg_color: "#E80000"
 fg_color: ''
