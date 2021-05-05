@@ -27,3 +27,7 @@ bg_color: "#E80000"
 fg_color: ''
 
 ---
+En el verano de 1982 la banda Drag latinoamericana The Sugar Mamma’s, realizó una gira por el sur de Estados Unidos que incluyó las ciudades de Miami, New Orleans, Dallas, Houston, San Antonio, Las Vegas, entre otras. Las siguientes imágenes son un registro de esa gira, momentos captados en baños improvisados como camerinos, escenarios hechos con cajones de cerveza, bares de mala muerte y un público que oscilaba entre la hostilidad y la necesidad de liberación del colectivo LGBT+ en sociedades conservadoras.
+
+  
+Proyecto de [Noelia Urbina ](https://www.instagram.com/colo_color_naranja/)para Ficción y simulacro (2020) curso de creación fotográfica coordinado por [Luciana Demichelis ]()
