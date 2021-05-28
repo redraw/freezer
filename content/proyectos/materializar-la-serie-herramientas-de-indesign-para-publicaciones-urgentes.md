@@ -33,15 +33,6 @@ galeria:
     - "/v1609629828/2021/Sin_t%C3%ADtulo-4_yrxdca.jpg"
     - "/v1609629811/2021/Sin_t%C3%ADtulo-5_imou7k.jpg"
     - "/v1609629828/2021/Sin_t%C3%ADtulo-6_dp5vpe.jpg"
-  - nombre: maqueta | carolina milano
-    url: https://issuu.com/freezerfoto/docs/maqueta
-    video: ''
-    imagenes:
-    - "/v1609626528/2021/Sin_t%C3%ADtulo-4_lgcaqq.jpg"
-    - "/v1609626528/2021/Sin_t%C3%ADtulo-2_by9hj3.jpg"
-    - "/v1609626526/2021/Sin_t%C3%ADtulo-3_z4bysn.jpg"
-    - "/v1609626527/2021/Sin_t%C3%ADtulo-5_gvfvbr.jpg"
-    - "/v1609626526/2021/Sin_t%C3%ADtulo-6_nam4c1.jpg"
   - nombre: trasmundos | carmina burana
     url: https://issuu.com/freezerfoto/docs/trasmundos_1
     video: ''
