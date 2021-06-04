@@ -6,7 +6,7 @@ inicio: 2021-04-19T20:00:00Z
 docente: Mariana Moreno
 lugar: Online
 mercadopago_link: " https://mpago.la/2hqNCqC "
-finalizado: false
+finalizado: true
 
 ---
 Curso teórico que recorre una historia de la performance desde el registro fotográfico. Se analizarán artistas como Harry Shunk, Janos Kender, Hans Namuth, fotoperformance/fotoperiodismo en Gutai y Fluxus, Orlan, Ana Mendieta, Cindy Sherman, Dennis Oppenheim, Tehching Hsieh, Vitto Acconci, Bruce Naumann, Klaus Rinke, Bas Jan Ader, Hannah Wilke, John Baldessari, accionismo vienés, Valie Export, Lorna Simpson, Lourdes Grobet, Laura Aguilar, Liliana Maresca, entre otres.
