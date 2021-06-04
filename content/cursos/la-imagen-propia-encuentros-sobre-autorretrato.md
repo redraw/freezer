@@ -6,7 +6,7 @@ inicio: 2021-05-12T14:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: https://mpago.la/1ke4jM2
-finalizado: false
+finalizado: true
 
 ---
 ¿Es posible que el autorretrato sea reconstrucción de unx mismx? ¿Un lugar para crear ficciones? ¿Puede ser el autorretrato un paisaje? ¿Cuántas versiones de la propia imagen podemos inventar?
