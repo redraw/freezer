@@ -6,7 +6,7 @@ inicio: 2021-05-07T13:00:00Z
 docente: Martina Izeta
 lugar: Online
 mercadopago_link: https://mpago.la/2qL4RRV
-finalizado: false
+finalizado: true
 
 ---
 El taller propone entender la iluminación en la fotografía desde su lado creativo mediante un abordaje teórico- practico. En las clases nos centramos en explorar las distintas fuentes de luz, ya sean naturales o artificiales, utilizando recursos tanto profesionales como caseros.
