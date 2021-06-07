@@ -1,6 +1,6 @@
 ---
 date: 2021-06-03T15:54:47Z
-thumbnail: "/v1622739088/2021/web5_ox5ghi.jpg"
+thumbnail: "/v1623078274/2021/web_k5mus1.jpg"
 title: ERRAR LOS APARATOS
 inicio: 2021-07-07T03:00:00Z
 docente: Martín Bollati
