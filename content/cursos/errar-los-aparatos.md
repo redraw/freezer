@@ -5,13 +5,13 @@ title: ERRAR LOS APARATOS
 inicio: 2021-07-07T03:00:00Z
 docente: Martín Bollati
 lugar: Online
-mercadopago_link: ''
+mercadopago_link: https://mpago.la/1LY2t1N
 finalizado: false
 
 ---
-Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas. 
+Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas.
 
-Algunos pensamientos de Vilem Flusser (y de otrxs) servirán de guía para enredar nuestras reflexiones. La metodología de trabajo será la siguiente: acción y pensamiento como un simultáneo. Teoría y práctica como formas de pensar a la vez. En cada encuentro pondremos nuestras lecturas en común y de ellas surgirán ejercicios que nos ayudarán a problematizar esos textos y a producir imágenes para ponerlos en acción. 
+Algunos pensamientos de Vilem Flusser (y de otrxs) servirán de guía para enredar nuestras reflexiones. La metodología de trabajo será la siguiente: acción y pensamiento como un simultáneo. Teoría y práctica como formas de pensar a la vez. En cada encuentro pondremos nuestras lecturas en común y de ellas surgirán ejercicios que nos ayudarán a problematizar esos textos y a producir imágenes para ponerlos en acción.
 
 Nada es verdad, todo está permitido.
 
@@ -23,7 +23,13 @@ Nada es verdad, todo está permitido.
 
 [Anotate ahora en este formulario de inscripción](https://docs.google.com/forms/d/1-aSAmmPXyzh7uCDCMXODoCAETk3JlY9K4Aq29dxTV90/edit "Anotate ahora en este formulario de inscripción")
 
-Inscripción abierta hasta el 30 de junio. 
+Inscripción abierta hasta el 30 de junio.
+
+Costo | $4000 ARS 
+
+[Pagá con este enlace de MercadoPago](https://mpago.la/1LY2t1N) (Argentina)
+
+60 USD | Via Paypal enviando a martinbollati@gmail.com
 
 ***
 
