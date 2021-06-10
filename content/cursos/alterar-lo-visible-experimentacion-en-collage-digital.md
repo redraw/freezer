@@ -5,7 +5,7 @@ title: Alterar lo visible | Experimentación en collage digital
 inicio: 2021-06-23T22:00:00Z
 docente: F3millennial
 lugar: Online
-mercadopago_link: https://mpago.la/3162d2E
+mercadopago_link: https://mpago.la/1LswdpK
 finalizado: false
 
 ---
@@ -37,8 +37,8 @@ Para inscribirte, seguí estos pasos:
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
-Costo Nacional | $ 1500
+Costo Nacional | $ 2000
 
-Pagalo con este link de Mercado Pago: [https://mpago.la/2cY9tVp](https://mpago.la/2cY9tVp "https://mpago.la/2cY9tVp")
+Pagalo con este link de Mercado Pago: [https://mpago.la/1LswdpK](https://mpago.la/1LswdpK "https://mpago.la/1LswdpK")
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com!
