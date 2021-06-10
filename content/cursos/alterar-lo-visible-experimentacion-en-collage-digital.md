@@ -1,8 +1,8 @@
 ---
 date: 2020-10-08T19:18:45.000+00:00
-thumbnail: "/v1610978169/2021/web_bwyshl.jpg"
+thumbnail: "/v1623288781/2021/web_psd_f3_azswdc.jpg"
 title: Alterar lo visible | Experimentación en collage digital
-inicio: 2021-02-12T20:00:00Z
+inicio: 2021-06-23T22:00:00Z
 docente: F3millennial
 lugar: Online
 mercadopago_link: https://mpago.la/3162d2E
@@ -27,17 +27,13 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 6
 
-**Fechas:**
+**Inicio:**
 
-17 de febrero, 19hs
-
-**Horarios disponibles:**
-
-19hs
+Miércoles 23 de junio a las 19hs
 
 Para inscribirte, seguí estos pasos:
 
-•[ Anotate en este formulario de inscripción  ](https://docs.google.com/forms/d/1KLf04AcBp-KSN4gPn-HKld3rDLRAAXoTJAo0TgpdbbA/edit)
+•[ Anotate en este formulario de inscripción  ](https://docs.google.com/forms/d/1rVzNumzsgANhDY9-Y8hvVDJ8LaccHN_XEV2l0lWV4p8/edit)
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
