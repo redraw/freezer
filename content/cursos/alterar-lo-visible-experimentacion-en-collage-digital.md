@@ -6,7 +6,7 @@ inicio: 2021-06-23T22:00:00Z
 docente: F3millennial
 lugar: Online
 mercadopago_link: https://mpago.la/3162d2E
-finalizado: true
+finalizado: false
 
 ---
 Alterar lo visible es un espacio de taller en el que aprenderemos sobre collage digital con el fin de incentivar un proceso creativo individual y grupal. Repasaremos una variedad de temáticas que van desde la historia de la técnica hasta cómo y dónde buscar las imágenes adecuadas, familiarizarse con los elementos y poner en discusión lo aprendido. Observaremos referencias, haremos ejercicios prácticos, debatiremos sobre lo aprendido y resolveremos las preguntas que surjan en el camino.
