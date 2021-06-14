@@ -9,9 +9,11 @@ mercadopago_link: " https://mpago.la/1V8CGRF "
 finalizado: false
 
 ---
-Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que propiamenten hacernos más conscientes de la mirada y de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido. Para realizarlo no es necesario tener conocimientos técnicos de fotografía, ni experiencias previas con el material, ya que abordaremos la imagen desde diferentes perspectivas.
+Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que permitan hacernos más conscientes de la propia mirada y la de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido. 
 
-La modalidad es virtual. Usamos el mail para enviar las actividades y la plataforma de google drive para las entregas.
+Para realizarlo no es necesario tener conocimientos técnicos de fotografía, ni experiencias previas con el material, ya que abordaremos la imagen desde diferentes perspectivas.
+
+La modalidad es virtual. Usamos el mail para enviar las actividades y la plataforma de Google Drive para las entregas.
 
 También usamos el programa de videoconferencias Zoom para los encuentros virtuales. Pueden ver los trabajos realizados y nuestras propuestas en [instagram.com/amar.el.error](http://instagram.com/amar.el.error.)
 
@@ -45,13 +47,13 @@ Buena conexión WIFI. Computadora o teléfono celular y material de archivo digi
 
 $ 2.200 (por Mercado Pago o transferencia bancaria)
 
-$25 USD 
+$25 USD
 
 ***
 
 **Para inscribirte:**
 
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1tGLBy6sfP6KTON0yeG4CMWQI69WbuaCB1J207kW-NTA/edit)
-* Aboná el taller [por MercadoPago]( https://mpago.la/1V8CGRF )
+* Aboná el taller [por MercadoPago](https://mpago.la/1V8CGRF )
 
   Con este QR podés pagar directamente desde tu celular:
