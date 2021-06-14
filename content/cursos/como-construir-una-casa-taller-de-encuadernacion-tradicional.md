@@ -6,7 +6,7 @@ inicio: 2021-02-15T21:00:30.000+00:00
 docente: Clara Marconato
 lugar: Online
 mercadopago_link: https://mpago.la/1nEYQGH
-finalizado: false
+finalizado: true
 
 ---
 Dos encuentros sobre Encuadernación tradicional. El taller propone la producción de una encuadernación tradicional (también llamada cartoné o francesa) tamaño A5, con una costura oculta, tapas duras y lomo recto. Se verán los detalles de materiales, confección y armado. El curso está orientado a todxs aquellxs que deseen incursionar e iniciarse en el arte de la encuadernación y/o estén interesadxs en la producción de cuadernos, libros, fotolibros, fanzines.
