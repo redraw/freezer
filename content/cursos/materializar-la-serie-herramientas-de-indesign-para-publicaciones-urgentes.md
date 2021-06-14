@@ -21,7 +21,7 @@ Materializar la serie es un espacio en el que facilitaremos el encuentro con el 
 
 **Fechas:**
 
-jueves 13 y 20 de mayo de 18hs a 20hs. (Argentina)
+22 y 29 de julio de 18hs a 20hs. (Argentina) 
 
 **Destinataries**:
 
