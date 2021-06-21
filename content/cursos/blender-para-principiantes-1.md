@@ -1,8 +1,8 @@
 ---
 date: 2021-06-15T00:52:34Z
-thumbnail: "/v1623718373/2021/web_blender_vbkdp5.jpg"
+thumbnail: "/v1624286001/2021/web_blender_wkll4z.jpg"
 title: 'Blender para principiantes '
-inicio: 2021-07-01T20:00:00Z
+inicio: 2021-07-08T20:00:00Z
 docente: Joaquin Cavo
 lugar: Online
 mercadopago_link: https://mpago.la/1FLkGsz
