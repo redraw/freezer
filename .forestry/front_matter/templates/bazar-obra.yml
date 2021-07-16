@@ -28,7 +28,6 @@ fields:
   name: listado
   label: listado
 pages:
-- content/bazar/obras/arbol-nocturno.md
 - content/bazar/obras/chala.md
 - content/bazar/obras/cuidame-de-la-noche.md
 - content/bazar/obras/divinidad.md
