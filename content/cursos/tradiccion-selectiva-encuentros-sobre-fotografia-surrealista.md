@@ -6,7 +6,7 @@ inicio: 2021-06-24T21:01:00Z
 docente: Agustina Fernández Agostegui
 lugar: Online
 mercadopago_link: https://mpago.la/2YXwsF3
-finalizado: false
+finalizado: true
 
 ---
 Al partir de la base de que todo conjunto de obras consideradas exponentes de una corriente estética en particular es una “simple” selección hegemónica, proponemos problematizar desde una perspectiva sociológica el canon surrealista. El siguiente taller propone una reconfiguración del corpus. Nuestro presente nos impide seguir reproduciendo los mismos recortes y métodos que hemos heredado.
