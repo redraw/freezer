@@ -6,7 +6,7 @@ inicio: 2021-07-08T20:00:00Z
 docente: Joaquin Cavo
 lugar: Online
 mercadopago_link: https://mpago.la/1FLkGsz
-finalizado: false
+finalizado: true
 
 ---
 En este curso vamos a iniciarnos en el mundo del 3D.
