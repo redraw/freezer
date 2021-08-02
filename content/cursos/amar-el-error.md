@@ -6,7 +6,7 @@ inicio: 2021-07-07T21:00:00Z
 docente: 'Roberta Valente '
 lugar: Online
 mercadopago_link: " https://mpago.la/1V8CGRF "
-finalizado: false
+finalizado: true
 
 ---
 Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que permitan hacernos más conscientes de la propia mirada y la de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido. 
