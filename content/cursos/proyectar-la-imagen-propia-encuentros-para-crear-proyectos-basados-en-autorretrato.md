@@ -6,7 +6,7 @@ inicio: 2021-06-23T13:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 Abrimos un nuevo espacio para _proyectar la imagen propia_ y nos preguntamos ¿hacía dónde podemos llevarla?, ¿dónde aparece el gesto de continuidad ? 
