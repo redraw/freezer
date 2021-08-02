@@ -1,12 +1,12 @@
 ---
 date: 2021-04-28T23:55:20Z
-thumbnail: "/v1619654141/2021/laimgpropia_web3_ffx75f.jpg"
+thumbnail: "/v1627927336/2021/La_Imagen_Propia_-_Web_copia_qddog6.png"
 title: La Imagen Propia | Encuentros sobre autorretrato
-inicio: 2021-05-12T14:00:00Z
+inicio: 2021-08-16T21:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: https://mpago.la/1ke4jM2
-finalizado: true
+finalizado: false
 
 ---
 ¿Es posible que el autorretrato sea reconstrucción de unx mismx? ¿Un lugar para crear ficciones? ¿Puede ser el autorretrato un paisaje? ¿Cuántas versiones de la propia imagen podemos inventar?
@@ -19,7 +19,7 @@ La imagen propia es un espacio de experimentación y acción en torno al autorre
 
 Inicio:
 
-**Miércoles de 11 a 12.30hs (hora Argentina) a partir del 12 de mayo**
+**Lunes de 18 a 19:30** **(hora Argentina) a partir del 16 de agosto**
 
 **Para inscribirte:**
 
