@@ -1,6 +1,6 @@
 ---
 date: 2020-10-03T22:13:25.000+00:00
-thumbnail: "/v1627928896/2021/Imagen_Latente_-_Web_dlq2uy.png"
+thumbnail: "/v1627929426/2021/Imagen_Latente_-_Web_mq6pin.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
 inicio: 2021-08-26T21:00:00Z
 docente: Daniela Eliana Flores
