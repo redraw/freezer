@@ -6,7 +6,7 @@ inicio: 2021-07-08T03:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 En este workshop haremos un recorrido por distintos procesos experimentales en fotografía analógica. El foco de los encuentros estará en que, después de ver teoría y referentes, cada participante se anime a hacer sus propias intervenciones. Veremos algunos procesos más simples como doble exposición, máscaras internas, filtros y redscale; y otros más invasivos para la película como film soup, destrucción del soporte e intervenciones sobre negativos o copias.
