@@ -2,11 +2,11 @@
 date: 2020-10-03T22:13:25.000+00:00
 thumbnail: "/v1617069956/2021/daniweb_qezzyo.jpg"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2021-02-15T21:00:00.000+00:00
+inicio: 2021-08-26T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: https://mpago.la/1rXCBgL
-finalizado: true
+finalizado: false
 
 ---
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
@@ -28,13 +28,15 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 
 Duración: 5 encuentros.
 
-Inicia el lunes 12 de abril a las 19 hs, hora Argentina. 
+Arrancamos este taller de forma online el **26 de agosto, todos los Jueves de 18 a 20 (Horario Argentina)**
 
-[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1qAI4nE1hbguAxM7z1nneYAdTDwvGEQSiZPt1RbJEx3Y/edit)
+[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1QOhecPFFlYL66yxIrrpoMV48lsx7EiyONG3-6sotIKw/edit)
 
-Costo | $ 2000
+Costo Nacional (ARG) | $2500 
 
-• Para reservar el taller, aboná por MercadoPago o transferencia bancaria
+Costo Internacional / 40USD
+
+Para reservar el taller, aboná por MercadoPago o transferencia bancaria (Mercado pago a daniela.eliana.flores@gmail.com o Transferencia al alias ATADO.ESTE.SANTO)
 
 Pagalo con este link de Mercado Pago: [https://mpago.la/1rXCBgL](https://mpago.la/1rXCBgL "https://mpago.la/1rXCBgL")
 
