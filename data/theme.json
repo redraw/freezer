@@ -6,12 +6,12 @@
   "site_description": "Freezer es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.",
   "menu": [
     {
-      "name": "Proyectos",
-      "url": "/proyectos"
-    },
-    {
       "name": "Cursos",
       "url": "/cursos"
+    },
+    {
+      "name": "Proyectos",
+      "url": "/proyectos"
     },
     {
       "name": "Notas",
