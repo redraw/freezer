@@ -1,6 +1,6 @@
 ---
 date: 2021-04-28T23:55:20Z
-thumbnail: "/v1627927336/2021/La_Imagen_Propia_-_Web_copia_qddog6.png"
+thumbnail: "/v1627929473/2021/La_Imagen_Propia_-_Web_copiajpg_uwvbr5.jpg"
 title: La Imagen Propia | Encuentros sobre autorretrato
 inicio: 2021-08-16T21:00:00Z
 docente: Savia Flor & Eli Portela
