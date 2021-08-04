@@ -9,11 +9,9 @@ mercadopago_link: https://mpago.la/1ke4jM2
 finalizado: false
 
 ---
-¿Es posible que el autorretrato sea reconstrucción de unx mismx? ¿Un lugar para crear ficciones? ¿Puede ser el autorretrato un paisaje? ¿Cuántas versiones de la propia imagen podemos inventar?
+La Imagen Propia es un espacio de experimentación y acción en torno al autorretrato, en donde investigamos, miramos referentxs y trabajamos vinculando imágenes y palabras. Nos hacemos preguntas y realizamos ejercicios para movilizar los posibles registros que tenemos de nosotrxs mismxs en el cotidiano.
 
-La imagen propia es un espacio de experimentación y acción en torno al autorretrato. Investigaremos, realizaremos ejercicios con imágenes y palabras y miraremos referentes. Proponemos una serie de ejercicios prácticos para movilizar un registro de nosotrxs mismxs rompiendo un poco los sentidos de todo aquello que cohabita con nuestros cuerpxs en casa.
-
-**El taller está dirigido a toda persona interesada en autorretratarse o en producciones vinculadas al autorretrato; no hace falta contar con conocimientos previos en el campo del autorretrato y/o la fotografía.**
+**El taller está dirigido a toda persona interesada en autorretratarse o realizar producciones autorreferenciales. No es requisito contar con experiencia previa en el campo de la fotografía y/o el autorretrato.**
 
 ***
 
@@ -23,7 +21,7 @@ Inicio:
 
 **Para inscribirte:**
 
-* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/17lic4dKTCgtDRZrkZXIslv1fEfKzjIl1qudJUsNrRjw/edit)
+* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/u/1/d/1eUz50c2H13aDApPXz52EeeamtjNw4ZW58koNNV7g7IA/edit?usp=drive_web)
 * Aboná el taller [por MercadoPago](https://mpago.la/1ke4jM2) / Transferencia / Paypal
 
 ***
