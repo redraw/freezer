@@ -1,12 +1,12 @@
 ---
 date: 2021-06-03T15:54:47Z
-thumbnail: "/v1623078928/2021/web_u8i8nk.jpg"
+thumbnail: "/v1630010586/2021/Errar_los_Aparatos_-_Web_fonszw.jpg"
 title: ERRAR LOS APARATOS
-inicio: 2021-07-07T03:00:00Z
+inicio: 2021-09-09T21:00:00Z
 docente: Martín Bollati
 lugar: Online
 mercadopago_link: https://mpago.la/1LY2t1N
-finalizado: true
+finalizado: false
 
 ---
 Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas.
@@ -19,20 +19,28 @@ Nada es verdad, todo está permitido.
 
 ***
 
-***
-
 [Martín Bollati](https://martinbollati.com/HOME) (1986) editor y docente. Es también co-director de FELIFA, fundador y director de SED editorial y miembro del colectivo artístico 280a. Su obra investiga la relación entre fotografía y ficción con un interés espécifico en las capacidades discursivas que existen en los márgenes del aparato fotográfico y su estructura. En el año 2014 se le otorga la XI Beca Roberto Villagraz para realizar sus estudios de Master en Fotografía Conceptual en EFTI. Lleva publicado los siguientes libros: A Kind of Loop, Riot Books 2015, La Forma Bruta, Kursala (ESP) y La Luminosa (ARG), Vacant Dream State, 280a 2019 y Para describir una flor, Colección AñZ Fotografía Latinoamericana Expandida Raya Editorial (COL). Ha expuesto individualmente en la 3era FotoBienal de Beijing, Centro Cultural Kirchner, Buenos Aires, Galería Cero, Madrid, Galería Hydra, Ciudad de Mexico entre otros. En 2018 fue galardonado con el premio ART TRAIL TESLA en Unseen Festival de Amsterdam por su trabajo junto a 280a y seleccionado como uno de los talentos jovenes a seguir por la revista British Journal of Photography en su número Ones to Watch del 2018.
 
 ***
 
-6 encuentros desde el jueves 8 de julio de 18 a 21 (Hora Argentina) en formato online (Meet / Zoom)
+**Encuentros quincenales desde el  9 de septiembre**
 
-[Anotate ahora en este formulario de inscripción](https://docs.google.com/forms/d/1-aSAmmPXyzh7uCDCMXODoCAETk3JlY9K4Aq29dxTV90/edit "Anotate ahora en este formulario de inscripción")
+Jueves a las 18 hs. (Hora Argentina)
 
-Inscripción abierta hasta el 30 de junio.
+6 sesiones - 3 horas
 
-Costo | $4000 ARS 
+1\.30 hora lecturas / 1.30 hora ejercicios
+
+Cantidad máxima de alumnxs: 12
+
+[Anotate ahora en este formulario de inscripción](https://docs.google.com/forms/d/128daKZYwVrjJfazjLwolIG80LXjjFjYE_zU2VHwYfuU/edit "Anotate ahora en este formulario de inscripción")
+
+**Inscripción abierta hasta el 6 de septiembre.**
+
+Costo | $5500 ARS
 
 60 USD | Via Paypal enviando a martinbollati@gmail.com
+
+***
 
 [Pagá con este enlace de MercadoPago](https://mpago.la/1LY2t1N) (Argentina) o usando en tu celular este QR:
