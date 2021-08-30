@@ -1,15 +1,15 @@
 ---
 date: 2021-02-19T01:34:33.000+00:00
-thumbnail: "/v1623689417/2021/web_Amarelerror_fpqwev.jpg"
+thumbnail: "/v1630332536/2021/Errar_los_Aparatos_-_Web_copia_qcpr3k.jpg"
 title: Amar el error
 inicio: 2021-07-07T21:00:00Z
 docente: 'Roberta Valente '
 lugar: Online
-mercadopago_link: " https://mpago.la/1V8CGRF "
+mercadopago_link: https://mpago.la/1V8CGRF
 finalizado: true
 
 ---
-Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que permitan hacernos más conscientes de la propia mirada y la de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido. 
+Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que permitan hacernos más conscientes de la propia mirada y la de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido.
 
 Para realizarlo no es necesario tener conocimientos técnicos de fotografía, ni experiencias previas con el material, ya que abordaremos la imagen desde diferentes perspectivas.
 
@@ -29,11 +29,11 @@ Coordinadora **Roberta Valente**
 
 1 encuentro asincrónico y 4 sincrónicos.
 
-**Fecha de inicio (¡Nuevo horario!)**
+**Fecha de inicio (¡Dos horarios!)**
 
-Miércoles de 18hs a 20hs (hora Argentina)
+Miércoles de 10hs a 12hs / Miércoles de 18hs a 20hs
 
-Comienzo miércoles 7 de julio
+Comienzo miércoles 6 de octubre
 
 **Destinatarios**
 
@@ -45,15 +45,13 @@ Buena conexión WIFI. Computadora o teléfono celular y material de archivo digi
 
 **Costo**
 
-$ 2.200 (por Mercado Pago o transferencia bancaria)
+$ 2.500 (por Mercado Pago o transferencia bancaria)
 
-$25 USD
-
-***
+Sólo Argentina
 
 **Para inscribirte:**
 
-* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1tGLBy6sfP6KTON0yeG4CMWQI69WbuaCB1J207kW-NTA/edit)
-* Aboná el taller [por MercadoPago](https://mpago.la/1V8CGRF )
+* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/12-OE3ojsgp-AU5I3_i43ctxlPg9RZ2f7m3yfo9GhvGE/edit)
+* Aboná el taller [por MercadoPago](https://mpago.la/1V8CGRF)
 
   Con este QR podés pagar directamente desde tu celular:
