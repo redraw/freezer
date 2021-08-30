@@ -2,7 +2,7 @@
 date: 2021-02-19T01:34:33.000+00:00
 thumbnail: "/v1630332536/2021/Errar_los_Aparatos_-_Web_copia_qcpr3k.jpg"
 title: Amar el error
-inicio: 2021-07-07T21:00:00Z
+inicio: 2021-10-06T21:00:00Z
 docente: 'Roberta Valente '
 lugar: Online
 mercadopago_link: https://mpago.la/1V8CGRF
