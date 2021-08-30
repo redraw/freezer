@@ -54,4 +54,4 @@ Sólo Argentina
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/12-OE3ojsgp-AU5I3_i43ctxlPg9RZ2f7m3yfo9GhvGE/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/1V8CGRF)
 
-  Con este QR podés pagar directamente desde tu celular:
+  Con este QR podés pagar directamente desde tu celular: 
