@@ -1,6 +1,6 @@
 ---
 date: 2020-10-13T21:25:37.000+00:00
-thumbnail: "/v1602624347/2020/palaweb_muvvob.jpg"
+thumbnail: "/v1630540083/2021/La_suma_de_las_partes_-_Web_rdnhzc.jpg"
 title: La suma de las partes / El montaje audiovisual como herramienta creativa
 inicio: 2021-09-14T22:00:00Z
 docente: Ana Del Mar
