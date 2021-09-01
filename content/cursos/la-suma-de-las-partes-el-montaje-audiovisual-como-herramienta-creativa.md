@@ -2,16 +2,14 @@
 date: 2020-10-13T21:25:37.000+00:00
 thumbnail: "/v1602624347/2020/palaweb_muvvob.jpg"
 title: La suma de las partes / El montaje audiovisual como herramienta creativa
-inicio: 2020-11-04T03:00:00.000+00:00
+inicio: 2021-09-14T22:00:00Z
 docente: Ana Del Mar
 lugar: Online
-mercadopago_link: https://mpago.la/31tdVtX
-finalizado: true
+mercadopago_link: https://mpago.la/2NpZweZ
+finalizado: false
 
 ---
-Nos introduciremos a una caja de herramientas técnicas para la edición de video en Premiere, donde aprenderemos las funciones básicas del programa: interfaz, flujo de trabajo, formato, codecs, herramientas, efectos, compresión y renderización para distintas plataformas.
-
-Por otro lado, según las inquietudes de cada tallerista, partiremos de material audiovisual propio o archivo, investigando distintas estrategias creativas para darle sentido a las imágenes en movimiento, donde aplicaremos las herramientas aprendidas.
+Nos introduciremos a una caja de herramientas básicas para la edición de video en Premiere: formatos, códecs, compresión, flujo de trabajo, exports y renderización para distintas plataformas. A partir de material audiovisual propio o archivo, investigaremos distintas estrategias creativas para darle sentido a las imágenes en movimiento. Durante los encuentros del taller, aplicaremos las herramientas aprendidas en propuestas personales de cada tallerista.
 
 La modalidad del taller será online, por lo que se recomienda tener un celular o computadora con micrófono y cámara para compartir. También es importante que cuenten con una computadora donde puedan instalar Premiere, para poner en práctica lo aprendido (aunque no es excluyente).
 
@@ -20,25 +18,23 @@ Destinataries:
 Fotógrafxs, musicxs, diseñadorxs, artistas plásticxs, curiosxs que deseen aprender las herramientas necesarias para apropiarse del video y utilizarlo en sus proyectos personales.
 
 [  
-]()Coordina [@anadelmar__](www.instagram.com/anadelmar__) 
+]()Coordina [@anadelmar__](www.instagram.com/anadelmar__)
 
 Encuentros:
 
 4 de 1 hora y media cada uno a través de Google Meet.
 
-Fechas:
-
-Miércoles de Noviembre (4, 11, 18, 25) a las 18 hs. 
+**Martes a las 19hs desde el 14 de septiembre** 
 
 Para sumarte:
 
-• Inscribite a través de [su formulario de inscripción](https://docs.google.com/forms/d/1ghJxMrWu1aVZ2x-BYaexRYuQmLVmHq9v6wrSdQulWbk/edit)
+• Inscribite a través de [su formulario de inscripción](https://docs.google.com/forms/d/1Enu3uYCDMTC9tltU9xIWH07sFVei9Evy8dOMh06Gafc/edit)
 
-• Aboná el taller por transferencia[ o a través de MercadoPago.](https://mpago.la/31tdVtX)
+• Aboná el taller por transferencia[ o a través de MercadoPago.](https://mpago.la/2NpZweZ)
 
 #### 
 
-**Costo Nacional | $ 1700**
+**Costo Nacional | $ 3000**
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com
 
