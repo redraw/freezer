@@ -5,7 +5,7 @@ title: Intervenciones fotosensibles, workshop sobre procesos analógicos experim
 inicio: 2021-07-08T03:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: ''
+mercadopago_link: https://mpago.la/1Ga5hfG
 finalizado: false
 
 ---
@@ -34,3 +34,5 @@ Para sumarte:
 **•** [**Anotate ahora en este formulario de inscripción**](https://docs.google.com/forms/d/141xXEeWHGFWnS_D9VvlRqBJeRoyED6RU9WEo4RKv1s0/edit "Anotate ahora en este formulario de inscripción")
 
 **• Pagá a través de Transferencia bancaria al alias ATADO.ESTE.SANTO Mercado Pago y Paypal a daniela.eliana.flores@gmail.com**
+
+Con este QR podés pagar directamente con tu celular :)
