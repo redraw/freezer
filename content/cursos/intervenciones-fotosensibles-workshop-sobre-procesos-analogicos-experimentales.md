@@ -1,12 +1,12 @@
 ---
 date: 2021-06-14T17:30:50Z
-thumbnail: "/v1623691870/2021/dani_fotoexperimentales_i4b6tv.jpg"
+thumbnail: "/v1631584123/2021/Intervenciones_Fotosensibles_-_Web_lzlxhj.jpg"
 title: Intervenciones fotosensibles, workshop sobre procesos analógicos experimentales
 inicio: 2021-07-08T03:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: ''
-finalizado: true
+finalizado: false
 
 ---
 En este workshop haremos un recorrido por distintos procesos experimentales en fotografía analógica. El foco de los encuentros estará en que, después de ver teoría y referentes, cada participante se anime a hacer sus propias intervenciones. Veremos algunos procesos más simples como doble exposición, máscaras internas, filtros y redscale; y otros más invasivos para la película como film soup, destrucción del soporte e intervenciones sobre negativos o copias.
@@ -21,16 +21,16 @@ Coordina [Daniela Eliana Flores](https://www.instagram.com/danielaelianaflores/)
 
 **Horario**
 
-Jueves de 18 a 20 a partir del 8 de julio en formato online (Meet / Zoom) 
+Jueves de 18 a 20 desde el 14 de octubre, en formato online (Meet / Zoom)
 
 **Costo**
 
-$2000 - 30USD
+$2500 - 30USD
 
 **Inscripción abierta hasta el 30 de junio**
 
-Para sumarte: 
+Para sumarte:
 
-**•** [**Anotate ahora en este formulario de inscripción**](https://docs.google.com/forms/d/1bLhtssqnwq992A1TWW8FEo5zZxOfOUo86lDRMbBryyw/edit "Anotate ahora en este formulario de inscripción")
+**•** [**Anotate ahora en este formulario de inscripción**](https://docs.google.com/forms/d/141xXEeWHGFWnS_D9VvlRqBJeRoyED6RU9WEo4RKv1s0/edit "Anotate ahora en este formulario de inscripción")
 
 **• Pagá a través de Transferencia bancaria al alias ATADO.ESTE.SANTO Mercado Pago y Paypal a daniela.eliana.flores@gmail.com**
