@@ -27,7 +27,7 @@ Jueves de 18 a 20 desde el 14 de octubre, en formato online (Meet / Zoom)
 
 $2500 - 30USD
 
-**Inscripción abierta hasta el 30 de junio**
+**Inscripción abierta hasta el 30 de septiembre**
 
 Para sumarte:
 
