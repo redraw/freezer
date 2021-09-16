@@ -1,6 +1,6 @@
 ---
 date: 2021-06-04T17:32:05Z
-thumbnail: "/v1622828005/2021/web_cursosurrealismo_wmop4s.jpg"
+thumbnail: "/v1631800766/2021/Tradici%C3%B3n_Selectiva_-_Web_mvqb92.jpg"
 title: 'Tradición selectiva | Encuentros sobre fotografía surrealista '
 inicio: 2021-10-06T21:01:00Z
 docente: Agustina Fernández Agostegui
