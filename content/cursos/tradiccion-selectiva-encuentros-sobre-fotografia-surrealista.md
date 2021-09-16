@@ -6,7 +6,7 @@ inicio: 2021-06-24T21:01:00Z
 docente: Agustina Fernández Agostegui
 lugar: Online
 mercadopago_link: https://mpago.la/2YXwsF3
-finalizado: true
+finalizado: false
 
 ---
 Al partir de la base de que todo conjunto de obras consideradas exponentes de una corriente estética en particular es una “simple” selección hegemónica, proponemos problematizar desde una perspectiva sociológica el canon surrealista. El siguiente taller propone una reconfiguración del corpus. Nuestro presente nos impide seguir reproduciendo los mismos recortes y métodos que hemos heredado.
@@ -21,12 +21,16 @@ Se desarrollarán las técnicas, de dónde vienen muchas de ellas y para qué se
 
 ***
 
-**7 encuentros en formato online**
+**Miércoles de 18.30 a 20.30 (Hora Argentina) en formato online a partir del 6 de octubre**
 
-**Jueves de 18.30 a 20.30 hs (Hora Argentina) en formato online a partir del 24 de junio.**
+7 encuentros.
 
-Costo | $2500 ARS / 35 USD
+**Costo | $3000 ARS / 35 USD**
 
-[Anotate ahora completando este formulario de inscripción](https://docs.google.com/forms/d/1uHL5VXr-yexUUuiBp9q0uW0QuhBBUhV4Rq-s1t9o2GY/edit) así podemos enviarte el enlace de conexión.
+Pagá por Mercadopago en este link | [https://mpago.la/2YXwsF3](https://mpago.la/2YXwsF3 "https://mpago.la/2YXwsF3")
+
+Coordina Agustina Fernández Agostegui
+
+[Anotate ahora completando este formulario de inscripción](https://docs.google.com/forms/d/1v03CPEZ4B6jge2goyIfbI-hjt1rykAW2RB-n-7tz3Fc/edit) así podemos enviarte el enlace de conexión.
 
 Pagá por [MercadoPago en este link ](https://mpago.la/2YXwsF3)o usando este QR:
