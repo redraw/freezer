@@ -1,12 +1,12 @@
 ---
 date: 2020-09-30T23:10:14.000+00:00
-thumbnail: "/v1623692430/2021/web_materializarlaserie_ydi7yf.jpg"
+thumbnail: "/v1631911001/2021/Tradici%C3%B3n_Selectiva_-_Web_copia_epk1rg.jpg"
 title: 'Materializar la serie: Herramientas de indesign para publicaciones urgentes '
-inicio: 2021-03-18T21:01:00.000+00:00
+inicio: 2021-10-08T21:01:00Z
 docente: Marla Zakai
 lugar: Online
-mercadopago_link: https://mpago.la/1HijzQY
-finalizado: true
+mercadopago_link: https://mpago.la/11mxBFh
+finalizado: false
 
 ---
 Materializar la serie es un espacio en el que facilitaremos el encuentro con el programa InDesign, analizando los elementos básicos de la interfaz para que los trabajos fotográficos que venimos realizando puedan devenir en una publicación, ya sea virtual o impresa. Esta herramienta abre la posibilidad además de armar carpetas y presentaciones para concursos y becas. Veremos algunas de sus características y observaremos referencias, haremos ejercicios y resolveremos las preguntas que surjan en el camino.
@@ -21,7 +21,7 @@ Materializar la serie es un espacio en el que facilitaremos el encuentro con el 
 
 **Fechas:**
 
-22 y 29 de julio de 18hs a 20hs. (Argentina) 
+Viernes 8 y 15 de octubre de 18hs a 20hs. (Argentina)
 
 **Destinataries**:
 
@@ -33,7 +33,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 Costo: ARS $2000
 
-Costo internacional: [30 USD via PayPal](https://www.paypal.com/invoice/p/#MHXBHVQAK8KJVE6Z)
+Costo internacional: [30 USD via PayPal](https://www.paypal.com/invoice/p/#A53XQ4EDCDGUNUQE)
 
 ***
 
@@ -41,6 +41,6 @@ Para inscribirte:
 
 • Completá [nuestro formulario de inscripción ](https://docs.google.com/forms/d/1AQ0pJcpcDX8uHAIxvl-IPCg43rebmfqFSJeVgEtPH-Q/edit)
 
-• Para reservar tu lugar realizá el pago[ con este link de MercadoPago.](https://mpago.la/1HijzQY)
+• Para reservar tu lugar realizá el pago[ con este link de MercadoPago.](https://mpago.la/11mxBFh)
 
 Con este QR podés pagar con tu celular:
