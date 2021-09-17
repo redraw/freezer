@@ -6,7 +6,7 @@ inicio: 2021-09-09T21:00:00Z
 docente: Martín Bollati
 lugar: Online
 mercadopago_link: https://mpago.la/1LY2t1N
-finalizado: false
+finalizado: true
 
 ---
 Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas.
@@ -23,7 +23,7 @@ Nada es verdad, todo está permitido.
 
 ***
 
-**Encuentros quincenales desde el  9 de septiembre**
+**Encuentros quincenales desde marzo 2022**
 
 Jueves a las 18 hs. (Hora Argentina)
 
