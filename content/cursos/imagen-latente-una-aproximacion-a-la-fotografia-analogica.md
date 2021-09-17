@@ -6,7 +6,7 @@ inicio: 2021-08-26T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
 mercadopago_link: https://mpago.la/1rXCBgL
-finalizado: false
+finalizado: true
 
 ---
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
