@@ -1,6 +1,6 @@
 ---
 date: 2020-10-08T19:18:45.000+00:00
-thumbnail: "/v1623288781/2021/web_psd_f3_azswdc.jpg"
+thumbnail: "/v1632150986/2021/Alterar_lo_visible_-_Web_zz6xpw.jpg"
 title: Alterar lo visible | Experimentación en collage digital
 inicio: 2021-10-26T22:00:00Z
 docente: F3millennial
