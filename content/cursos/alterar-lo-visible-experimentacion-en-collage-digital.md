@@ -2,11 +2,11 @@
 date: 2020-10-08T19:18:45.000+00:00
 thumbnail: "/v1623288781/2021/web_psd_f3_azswdc.jpg"
 title: Alterar lo visible | Experimentación en collage digital
-inicio: 2021-06-23T22:00:00Z
+inicio: 2021-10-26T22:00:00Z
 docente: F3millennial
 lugar: Online
 mercadopago_link: https://mpago.la/1LswdpK
-finalizado: true
+finalizado: false
 
 ---
 Alterar lo visible es un espacio de taller en el que aprenderemos sobre collage digital con el fin de incentivar un proceso creativo individual y grupal. Repasaremos una variedad de temáticas que van desde la historia de la técnica hasta cómo y dónde buscar las imágenes adecuadas, familiarizarse con los elementos y poner en discusión lo aprendido. Observaremos referencias, haremos ejercicios prácticos, debatiremos sobre lo aprendido y resolveremos las preguntas que surjan en el camino.
@@ -29,15 +29,15 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Inicio:**
 
-Miércoles 23 de junio a las 19hs
+Martes 26 de octubre a las 19hs
 
 Para inscribirte, seguí estos pasos:
 
-•[ Anotate en este formulario de inscripción  ](https://docs.google.com/forms/d/1rVzNumzsgANhDY9-Y8hvVDJ8LaccHN_XEV2l0lWV4p8/edit)
+•[ Anotate en este formulario de inscripción  ](https://forms.gle/BE2tSEH1gTeRbfn2A)
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
-Costo Nacional | $ 2000
+Costo Nacional | $ 2500
 
 Pagalo con este link de Mercado Pago: [https://mpago.la/1LswdpK](https://mpago.la/1LswdpK "https://mpago.la/1LswdpK")
 
