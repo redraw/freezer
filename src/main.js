@@ -8,7 +8,7 @@ import "vue-scrollama/dist/vue-scrollama.css"
 import VueLazyload from "vue-lazyload"
 import VueTippy from "vue-tippy"
 import VueMasonry from 'vue-masonry-css'
-
+import LoadScript from 'vue-plugin-load-script';
 
 export default function(Vue, { head }) {
   Vue.component("Layout", DefaultLayout)
@@ -31,6 +31,7 @@ export default function(Vue, { head }) {
   })
 
   Vue.use(VueMasonry)
+  Vue.use(LoadScript);
 
   // Vue-scrollama issue (https://github.com/vgshenoy/vue-scrollama/issues/9)
   if (process.isServer) {
