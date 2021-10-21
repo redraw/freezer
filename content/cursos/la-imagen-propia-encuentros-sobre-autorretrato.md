@@ -17,9 +17,7 @@ La Imagen Propia es un espacio de experimentación y acción en torno al autorre
 
 Inicio:
 
-**Lunes de 18 a 19:30** **(hora Argentina) a partir del 16 de agosto**
-
-**Para inscribirte:**
+**Lunes de 10 a 11.30** **(hora Argentina) a partir del 3 de noviembre**
 
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1W_bgAiQI6vwq4-U_dsnkd1WMefbxxFIUsbKUUCdj_gE/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/1ke4jM2) / Transferencia / Paypal
