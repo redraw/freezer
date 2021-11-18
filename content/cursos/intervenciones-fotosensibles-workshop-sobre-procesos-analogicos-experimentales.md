@@ -1,11 +1,11 @@
 ---
 date: 2021-06-14T17:30:50Z
-thumbnail: "/v1631584123/2021/Intervenciones_Fotosensibles_-_Web_lzlxhj.jpg"
+thumbnail: "/v1637257899/2021/dani_intervenciones_tb6m02.jpg"
 title: Intervenciones fotosensibles, workshop sobre procesos analógicos experimentales
-inicio: 2021-07-08T03:00:00Z
+inicio: 2021-12-03T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: https://mpago.la/1Ga5hfG
+mercadopago_link: https://mpago.la/1Cwc8xY
 finalizado: false
 
 ---
@@ -21,18 +21,18 @@ Coordina [Daniela Eliana Flores](https://www.instagram.com/danielaelianaflores/)
 
 **Horario**
 
-Jueves de 18 a 20 desde el 14 de octubre, en formato online (Meet / Zoom)
+Todos los viernes a partir del **3 de diciembre a las 18 horas**, en formato online (Meet / Zoom)
 
 **Costo**
 
-$2500 - 30USD
+$3000 - 30USD
 
-**Inscripción abierta hasta el 30 de septiembre**
+**Inscripción abierta hasta el 1 de diciembre**
 
 Para sumarte:
 
-**•** [**Anotate ahora en este formulario de inscripción**](https://docs.google.com/forms/d/141xXEeWHGFWnS_D9VvlRqBJeRoyED6RU9WEo4RKv1s0/edit "Anotate ahora en este formulario de inscripción")
+**•** [**Anotate ahora en este formulario de inscripción**](https://docs.google.com/forms/d/1jq_y3vCadR7amuWq7hq8cFb2AyfTpO9an0W4HrXzVZw/edit "Anotate ahora en este formulario de inscripción")
 
-**• Pagá a través de Transferencia bancaria al alias ATADO.ESTE.SANTO Mercado Pago y Paypal a daniela.eliana.flores@gmail.com**
+**• Pagá a través de Transferencia bancaria al alias ATADO.ESTE.SANTO,** [**en este link de Mercado Pago**](https://mpago.la/1Cwc8xY) **o via Paypal a daniela.eliana.flores@gmail.com**
 
 Con este QR podés pagar directamente con tu celular :)
