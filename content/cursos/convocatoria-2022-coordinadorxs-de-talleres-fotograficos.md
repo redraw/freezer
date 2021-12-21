@@ -19,4 +19,4 @@ Estamos abiertxs a recibir cursos que tengan que ver con la creación visual en 
 
 Esperamos tu proyecto con mucho entusiasmo para nuestra grilla 2022/23 ♥
 
-Te compartimos las bases y condiciones de nuestra convocatoria [en este link](https://tinyurl.com/basesFreezer2022) 
+Te compartimos las bases y condiciones de nuestra convocatoria [en este link](https://tinyurl.com/basesFreezer2022)     
