@@ -1,6 +1,6 @@
 ---
 date: 2021-09-30T21:56:22Z
-thumbnail: "/v1641774958/2022/marlaxweb_x9qaej.png"
+thumbnail: "/v1641775555/2022/marlax_gppx4j.jpg"
 title: Magnetismo | Laboratorio de investigación y acompañamiento creativo  para la
   realización de imágenes
 inicio: 2021-10-18T22:00:00Z
