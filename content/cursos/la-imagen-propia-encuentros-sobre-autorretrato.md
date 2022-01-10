@@ -6,7 +6,7 @@ inicio: 2021-08-16T21:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: " https://mpago.la/1ke4jM2"
-finalizado: false
+finalizado: true
 
 ---
 La Imagen Propia es un espacio de experimentación y acción en torno al autorretrato, en donde investigamos, miramos referentxs y trabajamos vinculando imágenes y palabras. Nos hacemos preguntas y realizamos ejercicios para movilizar los posibles registros que tenemos de nosotrxs mismxs en el cotidiano.
