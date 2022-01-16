@@ -78,7 +78,7 @@ export default {
       const twitch = await axios.get("https://en5l2yzjr6558ar.m.pipedream.net")
       console.log("LIVESTREAM:", twitch.data.online)
       if (twitch.data.online) {
-        window.location.replace("https://twitch.tv/freezerfoto")
+        window.location.replace("https://twitch.tv/freezerfotografia")
       } else {
         setTimeout(() => {
           this.player.playVideoAt(0)
