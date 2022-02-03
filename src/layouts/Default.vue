@@ -1,11 +1,30 @@
 <template>
   <div class="layout">
-    <div v-if="$settings.banner.length" v-html="$settings.banner" class="aviso" />
+    <div class="aviso" v-if="$settings.banner_cursos">
+      <marquee v-html="bannerCursosText"></marquee>
+    </div>
+    <div class="aviso" v-else-if="$settings.banner.length" v-html="$settings.banner" />
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
   </div>
 </template>
+
+<static-query>
+query {
+  cursos: allCurso (filter: {finalizado: {eq: false}}, sort: [{by: "date"}]) {
+    edges {
+      node {
+        id
+        path
+        title
+        inicio (format: "YYYY MM")
+        finalizado
+      }
+    }
+  }
+}
+</static-query>
 
 <script>
 import Header from "@/components/Header"
@@ -24,6 +43,13 @@ export default {
   components: {
     Header,
     Footer
+  },
+
+  computed: {
+    bannerCursosText() {
+      const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
+      return this.$static.cursos.edges.map(link).join(" ~ ")
+    }
   }
 }
 </script>
@@ -119,12 +145,22 @@ img[lazy=loaded] {
 }
 
 .aviso {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: black;
   text-align: center;
   color: white;
   padding: 0.5em;
   font-weight: bold;
   /* text-transform: uppercase; */
+}
+.aviso img {
+  margin: 0 .5em;
+}
+.aviso a {
+  text-decoration: none;
+  color: var(--color-base);
 }
 
 select {

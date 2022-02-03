@@ -48,5 +48,14 @@ fields:
   default: ''
   config:
     wysiwyg: true
+- type: boolean
+  name: banner_cursos
+  label: Banner cursos
+  description: Marquee de los cursos activos. Si se activa, se muestra en lugar del banner
+- type: color
+  name: banner_color
+  label: Banner color
+  config:
+    color_format: Hex
 pages:
 - data/config.json
