@@ -40,7 +40,7 @@ sections:
   templates:
   - single-page
 - type: document
-  path: data/theme.json
+  path: data/config.json
   label: Config
 - type: document
   path: README.md

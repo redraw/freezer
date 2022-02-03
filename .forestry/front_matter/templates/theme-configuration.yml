@@ -1,5 +1,5 @@
 ---
-label: Theme configuration
+label: Config
 hide_body: true
 fields:
 - type: text
@@ -40,5 +40,13 @@ fields:
     required: false
   label: TV playlist
   description: El <strong>ID</strong> de la playlist. Por ejemplo, https://www.youtube.com/watch?v=rtgGol-I4gA&amp;list=<strong>PL12DC9A161D8DC5DC</strong>&amp;index=1
+- type: textarea
+  name: banner
+  label: Banner
+  description: El bannerrrrr
+  hidden: false
+  default: ""
+  config:
+      wysiwyg: true
 pages:
-- data/theme.json
+- data/config.json
