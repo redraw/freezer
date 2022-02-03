@@ -45,8 +45,8 @@ fields:
   label: Banner
   description: El bannerrrrr
   hidden: false
-  default: ""
+  default: ''
   config:
-      wysiwyg: true
+    wysiwyg: true
 pages:
 - data/config.json
