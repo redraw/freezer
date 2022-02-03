@@ -1,5 +1,5 @@
 import DefaultLayout from "~/layouts/Default.vue";
-import settings from "../data/theme.json";
+import settings from "../data/config.json";
 
 import "@/assets/code-highlight.css"
 import "@/assets/fonts/stylesheet.css"

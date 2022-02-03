@@ -1,7 +1,7 @@
 // This is where project configuration and installed plugin options are located.
 // Learn more: https://gridsome.org/docs/config
 
-const settings = require('./data/theme.json')
+const settings = require('./data/config.json')
 
 
 module.exports = {

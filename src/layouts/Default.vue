@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <!-- <div class="aviso">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae consequatur ea facilis</div> -->
+    <div v-if="$settings.banner.length" v-html="$settings.banner" class="aviso" />
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
