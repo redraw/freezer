@@ -65,13 +65,11 @@ query Proyecto ($path: String!) {
 </page-query>
 
 <script>
-import ClientOnly from 'vue-client-only'
 import PhotoStack from "~/components/PhotoStack.vue"
 import { getYoutubeID } from "~/utils/youtube"
 
 export default {
   components: {
-    ClientOnly,
     PhotoStack
   },
 

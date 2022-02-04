@@ -1,9 +1,13 @@
 <template>
   <div class="layout">
-    <div class="aviso" v-if="$settings.banner_cursos">
-      <marquee v-html="bannerCursosText"></marquee>
+    <div class="banner" v-if="$settings.banner_cursos">
+      <client-only>
+        <marquee-text :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
+          <span v-html="bannerCursosText"></span>
+        </marquee-text>
+      </client-only>
     </div>
-    <div class="aviso" v-else-if="$settings.banner.length" v-html="$settings.banner" />
+    <div class="banner" v-else-if="$settings.banner.length" v-html="$settings.banner" />
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
@@ -27,6 +31,9 @@ query {
 </static-query>
 
 <script>
+// https://github.com/EvodiaAut/vue-marquee-text-component/issues/44#issuecomment-993102743
+import MarqueeText from 'vue-marquee-text-component/src/components/MarqueeText.vue'
+
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
 
@@ -42,13 +49,20 @@ export default {
 
   components: {
     Header,
-    Footer
+    Footer,
+    MarqueeText,
+  },
+
+  data() {
+    return {
+      bannerPaused: false
+    }
   },
 
   computed: {
     bannerCursosText() {
       const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
-      return this.$static.cursos.edges.map(link).join(" ~ ")
+      return [...this.$static.cursos.edges.map(link)].join(" ⚡ ")
     }
   }
 }
@@ -144,7 +158,7 @@ img[lazy=loaded] {
   margin-top: 0;
 }
 
-.aviso {
+.banner {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -155,10 +169,10 @@ img[lazy=loaded] {
   font-weight: bold;
   /* text-transform: uppercase; */
 }
-.aviso img {
+.banner img {
   margin: 0 .5em;
 }
-.aviso a {
+.banner a {
   text-decoration: none;
   color: var(--color-base);
 }

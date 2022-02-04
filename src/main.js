@@ -9,9 +9,11 @@ import VueLazyload from "vue-lazyload"
 import VueTippy from "vue-tippy"
 import VueMasonry from 'vue-masonry-css'
 import LoadScript from 'vue-plugin-load-script';
+import ClientOnly from 'vue-client-only'
 
 export default function(Vue, { head }) {
   Vue.component("Layout", DefaultLayout)
+  Vue.component("ClientOnly", ClientOnly)
 
   // settings
   Vue.prototype.$settings = settings
