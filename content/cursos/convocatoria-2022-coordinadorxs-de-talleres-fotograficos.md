@@ -1,12 +1,12 @@
 ---
-date: 2021-12-21T16:25:32Z
+date: 2021-12-21T16:25:32.000+00:00
 thumbnail: "/v1640107947/2021/Untitled_story_v2ifc7.jpg"
 title: 'Convocatoria 2022 | Coordinadorxs de talleres fotográficos '
-inicio: 2021-12-21T03:00:00Z
+inicio: 2021-12-21T03:00:00.000+00:00
 docente: ''
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 ¡Hola! Te invitamos a participar como tallerista en nuestros próximos talleres 2022/23.
@@ -19,4 +19,4 @@ Estamos abiertxs a recibir cursos que tengan que ver con la creación visual en 
 
 Esperamos tu proyecto con mucho entusiasmo para nuestra grilla 2022/23 ♥
 
-Te compartimos las bases y condiciones de nuestra convocatoria [en este link](https://tinyurl.com/basesFreezer2022)     
+Te compartimos las bases y condiciones de nuestra convocatoria [en este link](https://tinyurl.com/basesFreezer2022)
