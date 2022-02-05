@@ -1,13 +1,39 @@
 <template>
   <div class="layout">
-    <div v-if="$settings.banner.length" v-html="$settings.banner" class="aviso" />
+    <div class="banner" v-if="$settings.banner_cursos">
+      <client-only>
+        <marquee-text :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
+          <span v-html="bannerCursosText"></span>
+        </marquee-text>
+      </client-only>
+    </div>
+    <div class="banner" v-else-if="$settings.banner.length" v-html="$settings.banner" />
     <Header v-if="showHeader" />
     <slot/>
     <Footer v-if="showFooter" />
   </div>
 </template>
 
+<static-query>
+query {
+  cursos: allCurso (filter: {finalizado: {eq: false}}, sort: [{by: "date"}]) {
+    edges {
+      node {
+        id
+        path
+        title
+        inicio (format: "YYYY MM")
+        finalizado
+      }
+    }
+  }
+}
+</static-query>
+
 <script>
+// https://github.com/EvodiaAut/vue-marquee-text-component/issues/44#issuecomment-993102743
+import MarqueeText from 'vue-marquee-text-component/src/components/MarqueeText.vue'
+
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
 
@@ -23,7 +49,21 @@ export default {
 
   components: {
     Header,
-    Footer
+    Footer,
+    MarqueeText,
+  },
+
+  data() {
+    return {
+      bannerPaused: false
+    }
+  },
+
+  computed: {
+    bannerCursosText() {
+      const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
+      return [...this.$static.cursos.edges.map(link)].join(" ⚡ ")
+    }
   }
 }
 </script>
@@ -118,13 +158,23 @@ img[lazy=loaded] {
   margin-top: 0;
 }
 
-.aviso {
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: black;
   text-align: center;
   color: white;
   padding: 0.5em;
   font-weight: bold;
   /* text-transform: uppercase; */
+}
+.banner img {
+  margin: 0 .5em;
+}
+.banner a {
+  text-decoration: none;
+  color: var(--color-base);
 }
 
 select {
