@@ -62,7 +62,13 @@ export default {
   computed: {
     bannerCursosText() {
       const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
-      return [...this.$static.cursos.edges.map(link)].join(" ⚡ ")
+      const sep = (text) => `<span style='color: yellow'>&nbsp;&nbsp;${text}&nbsp;&nbsp;</span>`
+      const banner = [
+        "",
+        `freezer cursos ${new Date().getFullYear()}`, 
+        ...this.$static.cursos.edges.map(link)
+      ]
+      return banner.join(sep("⚡"))
     }
   }
 }
