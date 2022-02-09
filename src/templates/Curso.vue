@@ -45,6 +45,7 @@ query Curso ($path: String!) {
     inicio (format: "YYYY MM")
     timeToRead
     content
+    excerpt
     lugar
     mercadopago_link
     finalizado
@@ -62,6 +63,11 @@ export default {
           key: "image",
           property: "og:image",
           content: this.getImageUrl(this.$page.curso.thumbnail),
+        },
+        {
+          key: "description",
+          property: "description",
+          content: this.$page.curso.excerpt,
         },
         {
           name: "twitter:card",

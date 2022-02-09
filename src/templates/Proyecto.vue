@@ -49,6 +49,7 @@ query Proyecto ($path: String!) {
     thumbnail
     date (format: "YYYY")
     content
+    excerpt
     bg_color
     fg_color
     galeria {
@@ -87,6 +88,11 @@ export default {
           key: "image",
           property: "og:image",
           content: this.getImageUrl(this.$page.proyecto.thumbnail),
+        },
+        {
+          key: "description",
+          property: "description",
+          content: `${this.$page.proyecto.title} ~ ${this.$page.proyecto.galeria.autores.flatMap(item => [item.video, ...item.imagenes]).length} visuales ~ ${this.$page.proyecto.excerpt}`
         },
         {
           name: "twitter:card",

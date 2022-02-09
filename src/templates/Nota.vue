@@ -19,6 +19,7 @@ query ($path: String!) {
   nota (path: $path) {
     title
     content
+    excerpt
     listado
     date (format: "YYYY-MM-DD")
     thumbnail
@@ -36,6 +37,11 @@ export default {
           key: "image",
           property: "og:image",
           content: this.getImageUrl(this.$page.nota.thumbnail),
+        },
+        {
+          key: "description",
+          property: "description",
+          content: this.$page.nota.excerpt,
         },
         {
           name: "twitter:card",
