@@ -67,7 +67,7 @@ export default {
         {
           key: "description",
           property: "description",
-          content: this.$page.curso.excerpt,
+          content: `${this.$page.curso.title} / ${this.$page.curso.inicio} ~ coordinado por ${this.$page.curso.docente} ~ lugar: ${this.$page.curso.lugar}`
         },
         {
           name: "twitter:card",
