@@ -2,11 +2,11 @@
 date: 2020-10-13T21:25:37.000+00:00
 thumbnail: "/v1630540083/2021/La_suma_de_las_partes_-_Web_rdnhzc.jpg"
 title: La suma de las partes / El montaje audiovisual como herramienta creativa
-inicio: 2021-09-14T22:00:00Z
+inicio: 2021-09-14T22:00:00.000+00:00
 docente: Ana Del Mar
 lugar: Online
 mercadopago_link: https://mpago.la/2NpZweZ
-finalizado: false
+finalizado: true
 
 ---
 Nos introduciremos a una caja de herramientas básicas para la edición de video en Premiere: formatos, códecs, compresión, flujo de trabajo, exports y renderización para distintas plataformas. A partir de material audiovisual propio o archivo, investigaremos distintas estrategias creativas para darle sentido a las imágenes en movimiento. Durante los encuentros del taller, aplicaremos las herramientas aprendidas en propuestas personales de cada tallerista.
