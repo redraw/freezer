@@ -11,7 +11,7 @@
             <small class="finalizado" v-if="$page.curso.finalizado"><br>🕑 finalizado</small>
           </h1>
           <div class="meta">
-            <div class="docente">
+            <div v-if="$page.curso.docente.length" class="docente">
               <span class="label">coordina</span>
               <span class="docente-name" v-text="$page.curso.docente" />
             </div>
