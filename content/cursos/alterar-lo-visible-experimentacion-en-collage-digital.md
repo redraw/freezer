@@ -33,7 +33,7 @@ Miércoles 16 de marzo a las 19 hs.
 
 Para inscribirte, seguí estos pasos:
 
-•[ Anotate en este formulario de inscripción  ](https://forms.gle/BE2tSEH1gTeRbfn2A)
+•[ Anotate en este formulario de inscripción  ](https://docs.google.com/forms/d/1THx-KihXgRyCNaZAwMUSJlajdNkJFEROZbQtNdgd_pA/edit)
 
 • Para reservar el taller, aboná por MercadoPago o transferencia bancaria.
 
