@@ -2,7 +2,7 @@
   <div class="layout">
     <div class="banner" v-if="$settings.banner_cursos">
       <client-only>
-        <marquee-text :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
+        <marquee-text :repeat="10" :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
           <span v-html="bannerCursosText"></span>
         </marquee-text>
       </client-only>
@@ -172,7 +172,6 @@ img[lazy=loaded] {
   text-align: center;
   color: white;
   padding: 0.5em;
-  font-weight: bold;
   /* text-transform: uppercase; */
 }
 .banner img {
