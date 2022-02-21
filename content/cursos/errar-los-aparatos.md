@@ -1,6 +1,6 @@
 ---
 date: 2021-06-03T15:54:47.000+00:00
-thumbnail: "/v1645455553/2022/Errar_los_Aparatos_-_Web_usjdme.png"
+thumbnail: "/v1645456443/2022/Errar_los_Aparatos_-_Web_xecxez.jpg"
 title: ERRAR LOS APARATOS
 inicio: 2022-03-18T21:30:00Z
 docente: Martín Bollati
