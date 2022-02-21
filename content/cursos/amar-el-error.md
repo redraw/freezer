@@ -2,11 +2,11 @@
 date: 2021-02-19T01:34:33.000+00:00
 thumbnail: "/v1630332536/2021/Errar_los_Aparatos_-_Web_copia_qcpr3k.jpg"
 title: Amar el error
-inicio: 2021-10-06T21:00:00Z
+inicio: 2021-10-06T21:00:00.000+00:00
 docente: 'Roberta Valente '
 lugar: Online
 mercadopago_link: https://mpago.la/1V8CGRF
-finalizado: false
+finalizado: true
 
 ---
 Amar el error (intensivo) es un espacio de cuatro encuentros en el que desplegaremos herramientas para abordar, revisar y re-descubrir cada proceso creativo abriéndolo a nuevas posibilidades. Trabajaremos con estrategias que permitan hacernos más conscientes de la propia mirada y la de los demás, a partir del diálogo grupal, y de las devoluciones individuales sobre cada producción. En este taller trabajaremos con el archivo fotográfico buscando en lo descartado, en lo errado y en los no-resultados la construcción de sentido.
@@ -54,4 +54,4 @@ Sólo Argentina
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/12-OE3ojsgp-AU5I3_i43ctxlPg9RZ2f7m3yfo9GhvGE/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/1V8CGRF)
 
-  Con este QR podés pagar directamente desde tu celular: 
+  Con este QR podés pagar directamente desde tu celular:
