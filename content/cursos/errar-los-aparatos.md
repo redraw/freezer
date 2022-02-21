@@ -1,12 +1,12 @@
 ---
-date: 2021-06-03T15:54:47Z
-thumbnail: "/v1630010586/2021/Errar_los_Aparatos_-_Web_fonszw.jpg"
+date: 2021-06-03T15:54:47.000+00:00
+thumbnail: "/v1645455553/2022/Errar_los_Aparatos_-_Web_usjdme.png"
 title: ERRAR LOS APARATOS
-inicio: 2021-09-09T21:00:00Z
+inicio: 2022-03-18T21:30:00Z
 docente: Martín Bollati
 lugar: Online
 mercadopago_link: https://mpago.la/1LY2t1N
-finalizado: true
+finalizado: false
 
 ---
 Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas.
@@ -23,11 +23,11 @@ Nada es verdad, todo está permitido.
 
 ***
 
-**Encuentros quincenales desde marzo 2022**
+**Encuentros quincenales desde el 17 marzo 2022**
 
 Jueves a las 18 hs. (Hora Argentina)
 
-6 sesiones - 3 horas
+8 sesiones - 3 horas
 
 1\.30 hora lecturas / 1.30 hora ejercicios
 
@@ -35,11 +35,11 @@ Cantidad máxima de alumnxs: 12
 
 [Anotate ahora en este formulario de inscripción](https://docs.google.com/forms/d/128daKZYwVrjJfazjLwolIG80LXjjFjYE_zU2VHwYfuU/edit "Anotate ahora en este formulario de inscripción")
 
-**Inscripción abierta hasta el 6 de septiembre.**
+**Costo | $4000 ARS / Mensual**
 
-Costo | $5500 ARS
+**60 USD | Via Paypal enviando a martinbollati@gmail.com**
 
-60 USD | Via Paypal enviando a martinbollati@gmail.com
+**Iniciamos el Jueves 17 de 18.30 a 21 hs**
 
 ***
 
