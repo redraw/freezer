@@ -5,7 +5,7 @@ title: ERRAR LOS APARATOS
 inicio: 2022-03-18T21:30:00Z
 docente: Martín Bollati
 lugar: Online
-mercadopago_link: https://mpago.la/1LY2t1N
+mercadopago_link: 'https://mpago.la/1LY2t1N '
 finalizado: false
 
 ---
