@@ -39,7 +39,14 @@ Para inscribirte, seguí estos pasos:
 
 Costo Nacional | $ 2500 mensual
 
-Pagalo via transferencia a:
+Pagalo via transferencia a:  
+Juan Manuel Días
 
-Luego, enviá el comprobante a freezerfoto@gmail.com  
+CBU N°: 0170167440000032141580
+
+Alias: aurora.perez.arg
+
+Luego, enviá el comprobante a freezerfoto@gmail.com
+
+  
 Si querés regalar este taller, escribinos un mail a ese correo.
