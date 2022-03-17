@@ -7,7 +7,7 @@ inicio: 2021-10-18T22:00:00.000+00:00
 docente: Mar
 lugar: Online
 mercadopago_link: https://mpago.la/1Qw1NJF
-finalizado: false
+finalizado: true
 
 ---
 Magnetismo es un espacio de acompañamiento creativo para la realización de imágenes. A través de nuestros archivos, ejercicios y referencias investigaremos nuestro propio lenguaje atrayendo las imágenes que nos interpelen para continuar creando.
