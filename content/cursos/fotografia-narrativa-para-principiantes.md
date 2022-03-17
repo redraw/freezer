@@ -15,10 +15,10 @@ La dinámica de los encuentros se divide en visionados, lecturas, ejercicios de 
 
 \*Les autores que se proponen fueron cuidadosamente **seleccionades con perspectiva latinoamericana y de género** con el fin de integrar miradas diferentes a la tradición de la academia.
 
-**Destinatarixs:**   
+**Destinatarixs:**  
 Curiosxs y principiantes de la fotografía.
 
-**Requerimientos:**   
+**Requerimientos:**  
 WIFI, computadora y cualquier dispositivo para sacar fotos.
 
 **Duración de cada clase:**
@@ -33,9 +33,9 @@ WIFI, computadora y cualquier dispositivo para sacar fotos.
 
 Jueves 7 de abril de 18 a 19:30
 
-**Costo:** 
+**Costo (pagá en estos enlaces)**
 
-[Costo Nacional | $4000 por mes]( https://mpago.la/2i9zRcL   )
+[Costo Nacional | $4000 por mes](https://mpago.la/2i9zRcL   )
 
 [Costo Internacional | 40 USD por mes](https://paypal.me/fotografiaalborde?country.x=AR&locale.x=es_XC)
 
@@ -44,3 +44,5 @@ Jueves 7 de abril de 18 a 19:30
 **Coordinadorx**
 
 Jacinta es artista visual con formación en fotografía y collage. Es estudiante avanzada de la Licenciatura en fotografía de la Universidad de San Martín. Dicta talleres de fotografía expresiva y trabaja de manera freelance ilustrando proyectos artísticos. Actualmente estudia jazz y vive en Francia.
+
+Podés pagar el taller con tu celular usando este QR:
