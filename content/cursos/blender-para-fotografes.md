@@ -6,7 +6,7 @@ inicio: 2022-02-16T22:00:00Z
 docente: Juan Dias
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 Blender para fotógrafes busca iniciar desde cero en Blender para luego ver algunas formas de utilizarlo con fotografía, crear elementos para colocar en fotos, recrear escenas para proyectos de exposiciones y más. En las primeras clases veremos conceptos teóricos y prácticos: moverse en el programa, modelar con formas básicas, retocar mallas, materiales, UVs, renderizado, iluminación, etc. El objetivo será adentrarse y motivarse a profundizar en la herramienta para luego vincularla con la fotografía.
@@ -48,5 +48,4 @@ Alias: aurora.perez.arg
 
 Luego, enviá el comprobante a freezerfoto@gmail.com
 
-  
 Si querés regalar este taller, escribinos un mail a ese correo.
