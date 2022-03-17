@@ -1,12 +1,12 @@
 ---
 date: 2020-10-03T22:13:25.000+00:00
-thumbnail: "/v1627929426/2021/Imagen_Latente_-_Web_mq6pin.jpg"
+thumbnail: "/v1647485786/2022/dani_web_lcdrg5.png"
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2021-08-26T21:00:00Z
+inicio: 2022-04-05T21:00:00Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: https://mpago.la/1rXCBgL
-finalizado: true
+mercadopago_link: " https://mpago.la/2XdV5v6 "
+finalizado: false
 
 ---
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
@@ -28,16 +28,16 @@ Cada grupo va a iniciar con 5 inscriptxs y se cierra con un cupo máximo de 12, 
 
 Duración: 5 encuentros.
 
-Arrancamos este taller de forma online el **26 de agosto, todos los Jueves de 18 a 20 (Horario Argentina)**
+Arrancamos este taller de forma online el **5 de abril, todos los martes de 18 a 20 (Horario Argentina)**
 
-[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1QOhecPFFlYL66yxIrrpoMV48lsx7EiyONG3-6sotIKw/edit)
+[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1KSwgfJU8axruCbny8jzLAaLIRWBo72lpyDuzrc46p5o/edit)
 
-Costo Nacional (ARG) | $2500 
+Costo Nacional (ARG) | $3000
 
 Costo Internacional / 40USD
 
 Para reservar el taller, aboná por MercadoPago o transferencia bancaria (Mercado pago a daniela.eliana.flores@gmail.com o Transferencia al alias ATADO.ESTE.SANTO)
 
-Pagalo con este link de Mercado Pago: [https://mpago.la/1rXCBgL](https://mpago.la/1rXCBgL "https://mpago.la/1rXCBgL")
+Pagalo con este link de Mercado Pago: [https://mpago.la/2XdV5v6](https://mpago.la/2XdV5v6 "https://mpago.la/2XdV5v6")
 
 Si querés regalar este taller, escribinos un mail a freezerfoto@gmail.com! Con tu celular podés abonar con este QR:
