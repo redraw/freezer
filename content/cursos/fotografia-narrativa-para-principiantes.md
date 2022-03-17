@@ -33,6 +33,8 @@ WIFI, computadora y cualquier dispositivo para sacar fotos.
 
 Jueves 7 de abril de 18 a 19:30
 
+[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/15vBMeB0K5R0J6TDKiZJ-AyY-zB9z2fz7RLOEK0Poq30/edit)
+
 **Costo (pagá en estos enlaces)**
 
 [Costo Nacional | $4000 por mes](https://mpago.la/2i9zRcL   )
