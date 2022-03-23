@@ -29,7 +29,7 @@ Computadora o notebook con los siguientes requisitos mínimos: 8GB de RAM, proce
 
 Sábado 9 de abril de 15 a 17hs hora ARG
 
-[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/17wQ8RQullpQMb3lev_ZPnwBcNsXJu_I4v1Bblp7fnno/edit)
+[• Anotate en este formulario de inscripción](https://docs.google.com/forms/d/1WJirWOvqqMzxfNx7MRhB0jhFISw7F_6KgfG3J-sN_4E/edit)
 
 **Costo?**
 
