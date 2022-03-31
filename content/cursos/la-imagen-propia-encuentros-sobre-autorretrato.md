@@ -1,8 +1,8 @@
 ---
-date: 2021-04-28T23:55:20Z
+date: 2021-04-28T23:55:20.000+00:00
 thumbnail: "/v1634786408/2021/La_Imagen_Propia_V2_-_Web_cyzo6d.jpg"
 title: La Imagen Propia | Encuentros sobre autorretrato
-inicio: 2021-08-16T21:00:00Z
+inicio: 2022-04-11T21:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: " https://mpago.la/1ke4jM2"
@@ -17,7 +17,7 @@ La Imagen Propia es un espacio de experimentación y acción en torno al autorre
 
 Inicio:
 
-**Lunes de 10 a 11.30** **(hora Argentina) a partir del 3 de noviembre**
+**Lunes de 18 a 19.30** **(hora Argentina) a partir del 11 de abril**
 
 * [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1W_bgAiQI6vwq4-U_dsnkd1WMefbxxFIUsbKUUCdj_gE/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/1ke4jM2) / Transferencia / Paypal
@@ -40,7 +40,7 @@ WIFI. Computadora o celular. Dispositivo para tomar fotos
 
 Costo Nacional (ARG) | $3000 (por transferencia al alias logro.carinio.poesia)
 
-MercadoPago | $3200 [en este enlace]( https://mpago.la/1ke4jM2)
+MercadoPago | $3200 [en este enlace](https://mpago.la/1ke4jM2)
 
 Costo Internacional | 60USD  (enviando via PayPal a florr.ms@gmail.com)
 
