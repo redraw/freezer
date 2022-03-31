@@ -1,12 +1,12 @@
 ---
 date: 2021-04-28T23:55:20.000+00:00
-thumbnail: "/v1634786408/2021/La_Imagen_Propia_V2_-_Web_cyzo6d.jpg"
+thumbnail: "/v1648744901/2022/weblaimagen_roqcrs.jpg"
 title: La Imagen Propia | Encuentros sobre autorretrato
 inicio: 2022-04-11T21:00:00Z
 docente: Savia Flor & Eli Portela
 lugar: Online
-mercadopago_link: " https://mpago.la/1ke4jM2"
-finalizado: true
+mercadopago_link: https://mpago.la/1ke4jM2
+finalizado: false
 
 ---
 La Imagen Propia es un espacio de experimentación y acción en torno al autorretrato, en donde investigamos, miramos referentxs y trabajamos vinculando imágenes y palabras. Nos hacemos preguntas y realizamos ejercicios para movilizar los posibles registros que tenemos de nosotrxs mismxs en el cotidiano.
@@ -19,7 +19,7 @@ Inicio:
 
 **Lunes de 18 a 19.30** **(hora Argentina) a partir del 11 de abril**
 
-* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1W_bgAiQI6vwq4-U_dsnkd1WMefbxxFIUsbKUUCdj_gE/edit)
+* [Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/16oj8OWOlW_ozhrPTp6LyhbEgFda5b_S87PYwSCHr-KU/edit)
 * Aboná el taller [por MercadoPago](https://mpago.la/1ke4jM2) / Transferencia / Paypal
 
 ***
@@ -38,9 +38,9 @@ WIFI. Computadora o celular. Dispositivo para tomar fotos
 
 ***
 
-Costo Nacional (ARG) | $3000 (por transferencia al alias logro.carinio.poesia)
+Costo Nacional (ARG) | $4000 (por transferencia al alias logro.carinio.poesia)
 
-MercadoPago | $3200 [en este enlace](https://mpago.la/1ke4jM2)
+MercadoPago | $4300 [en este enlace](https://www.mercadopago.com.ar/checkout/v1/payment/redirect/64be45f3-b5da-45cf-a11e-84ab722e38fb/payment-option-form/?source=link&router-request-id=3799f142-bdf6-446d-afdb-4fa0abc7d1dc&preference-id=649080404-e78b716b-a2d8-43d2-bcb6-7b3d6442787b&p=1a97ff3f0f449707f20b32fa27f2e454#/)
 
 Costo Internacional | 60USD  (enviando via PayPal a florr.ms@gmail.com)
 
