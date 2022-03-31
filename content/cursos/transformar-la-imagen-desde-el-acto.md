@@ -33,7 +33,7 @@ Sábado 9 de abril de 15 a 17hs hora ARG
 
 **Costo?**
 
-Costo Nacional | 4000 ARS
+Costo Nacional | 4000 ARS mensual
 
 Pago via transferencia a
 
