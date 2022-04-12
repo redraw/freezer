@@ -9,8 +9,7 @@ mercadopago_link: ''
 finalizado: false
 
 ---
-
-**El taller de Fotobordado invita a intervenir fotografías utilizando el bordado libre.** 
+**El taller de Fotobordado invita a intervenir fotografías utilizando el bordado libre.**
 
 Al utilizar esta técnica tan antigua en una imagen, podemos transformar nuestra mirada, expresándonos de diversas formas. Una fotografía bordada es un objeto único, que contiene la memoria y la experiencia personal que quien lo hace. En 2 sesiones semanales, se presentarán a los participantes algunos puntos de bordado, la técnica en papel, transferencia en tela, tipos de materiales, inspiraciones visuales y consejos sobre la técnica.
 
@@ -26,14 +25,14 @@ Costo Internacional | 40 USD por mes
 
 El pago es via Paypal a: [http://paypal.me/mayrabiajante](http://paypal.me/mayrabiajante "http://paypal.me/mayrabiajante")
 
-___
+***
 
-Cada grupo tiene un cupo máximo de 12 alumnxs. Para sumarte, es recomendable tener buena conexión a internet y una computadora o celular. 
+Cada grupo tiene un cupo máximo de 12 alumnxs. Para sumarte, es recomendable tener buena conexión a internet y una computadora o celular.
 
 [Inscribite en este formulario de inscripción](https://docs.google.com/forms/d/1FEQmGD9s4Qf295d3i-OGmF5jJWsRbPC1mQ_Sc6lcUv4/edit)
 
-**Arrancamos este taller de forma online el Sábado 5 de mayo de 12 a 15 hs.**
+**Arrancamos este taller de forma online el Sábado 7 de mayo de 12 a 15 hs.**
 
-Días antes del inicio, nuestras docentes te enviarán el enlace de conexión para el primer encuentro. 
+Días antes del inicio, nuestras docentes te enviarán el enlace de conexión para el primer encuentro.
 
 Ante cualquier duda escribinos a freezerfoto@gmail.com :)
