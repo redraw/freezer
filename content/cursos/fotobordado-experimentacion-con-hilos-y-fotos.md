@@ -31,7 +31,7 @@ Cada grupo tiene un cupo máximo de 12 alumnxs. Para sumarte, es recomendable te
 
 [Inscribite en este formulario de inscripción](https://docs.google.com/forms/d/1FEQmGD9s4Qf295d3i-OGmF5jJWsRbPC1mQ_Sc6lcUv4/edit)
 
-**Arrancamos este taller de forma online el Sábado 7 de mayo de 12 a 15 hs.**
+**Arrancamos este taller de forma online el Sábado 7 y 14 de mayo de 12 a 15 hs.**
 
 Días antes del inicio, nuestras docentes te enviarán el enlace de conexión para el primer encuentro.
 
