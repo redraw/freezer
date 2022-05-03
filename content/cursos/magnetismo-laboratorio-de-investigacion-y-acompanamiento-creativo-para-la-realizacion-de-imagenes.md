@@ -1,13 +1,13 @@
 ---
 date: 2021-09-30T21:56:22.000+00:00
-thumbnail: "/v1641775555/2022/marlax_gppx4j.jpg"
+thumbnail: "/v1651533641/2022/marlax2_gqga1s.jpg"
 title: Magnetismo | Laboratorio de investigación y acompañamiento creativo  para la
   realización de imágenes
 inicio: 2021-10-18T22:00:00.000+00:00
 docente: Mar
 lugar: Online
-mercadopago_link: https://mpago.la/1Qw1NJF
-finalizado: true
+mercadopago_link: https://mpago.la/1D7wCGx
+finalizado: false
 
 ---
 Magnetismo es un espacio de acompañamiento creativo para la realización de imágenes. A través de nuestros archivos, ejercicios y referencias investigaremos nuestro propio lenguaje atrayendo las imágenes que nos interpelen para continuar creando.
@@ -24,7 +24,7 @@ Coordina **Marla Zakai,** fotografa, editora de fanzines/libros. Coordina espaci
 
 **Fechas:**
 
-¡Nuevo horario! • Jueves de 10 a 12hs desde el jueves 3 de marzo
+¡Nuevo horario! • **Jueves 12 de mayo de 18 a 20hs**
 
 **Destinataries:**
 
@@ -36,7 +36,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Costo:**
 
-**ARS $3000**
+**ARS $3500**
 
 **Costo internacional:** [**30 USD via PayPal**](https://www.paypal.com/invoice/p/#BRDPULTMHPDPQCVJ)
 
@@ -44,6 +44,6 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 [• Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1rtWGmOZCK71SogfwBVneCNnLk-zdTxL85vrE1FWXJ3w/edit)
 
-• Para reservar tu lugar [realizá el pago con este link de MercadoPago.](https://mpago.la/1Qw1NJF)
+• Para reservar tu lugar [realizá el pago con este link de MercadoPago.](https://mpago.la/1D7wCGx)
 
 Con este QR podés pagar con tu celular:
