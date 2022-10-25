@@ -6,7 +6,7 @@ inicio: 2022-06-01T21:00:00Z
 docente: Julieta Vieira Noble
 lugar: Online
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 
 ---
 El curso propone establecer un diálogo entre la fotografía y la poesía. Tomar a la escritura como punto de partida y como herramienta de autoconocimiento para descubrir el porqué creamos las fotos que creamos.
