@@ -3,8 +3,8 @@ date: 2021-09-30T21:56:22.000+00:00
 thumbnail: "/v1651533641/2022/marlax2_gqga1s.jpg"
 title: Magnetismo | Laboratorio de investigación y acompañamiento creativo  para la
   realización de imágenes
-inicio: 2021-10-18T22:00:00.000+00:00
-docente: Mar
+inicio: 2022-11-02T21:00:00Z
+docente: Marla Zakai
 lugar: Online
 mercadopago_link: https://mpago.la/1D7wCGx
 finalizado: false
@@ -24,7 +24,7 @@ Coordina **Marla Zakai,** fotografa, editora de fanzines/libros. Coordina espaci
 
 **Fechas:**
 
-¡Nuevo horario! • **Jueves 12 de mayo de 18 a 20hs**
+¡Nuevo horario! • **4 miércoles de noviembre de 18 a 21hs**
 
 **Destinataries:**
 
@@ -42,7 +42,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Para inscribirte:**
 
-[• Completá nuestro formulario de inscripción](https://docs.google.com/forms/d/1rtWGmOZCK71SogfwBVneCNnLk-zdTxL85vrE1FWXJ3w/edit)
+[• Completá nuestro formulario de inscripción](https://forms.gle/mkc65U18uY1AEAxZ9)
 
 • Para reservar tu lugar [realizá el pago con este link de MercadoPago.](https://mpago.la/1D7wCGx)
 
