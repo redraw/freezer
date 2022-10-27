@@ -6,7 +6,7 @@ title: Magnetismo | Laboratorio de investigación y acompañamiento creativo  pa
 inicio: 2022-11-02T21:00:00Z
 docente: Marla Zakai
 lugar: Online
-mercadopago_link: https://mpago.la/1D7wCGx
+mercadopago_link: https://mpago.la/2wj3v52
 finalizado: false
 
 ---
