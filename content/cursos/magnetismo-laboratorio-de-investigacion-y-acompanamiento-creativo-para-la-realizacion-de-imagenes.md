@@ -36,7 +36,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **Costo:**
 
-**ARS $3500**
+**ARS $6000**
 
 **Costo internacional:** [**30 USD via PayPal**](https://www.paypal.com/invoice/p/#BRDPULTMHPDPQCVJ)
 
@@ -44,6 +44,6 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 [• Completá nuestro formulario de inscripción](https://forms.gle/mkc65U18uY1AEAxZ9)
 
-• Para reservar tu lugar [realizá el pago con este link de MercadoPago.](https://mpago.la/1D7wCGx)
+• Para reservar tu lugar [realizá el pago con este link de MercadoPago.](https://mpago.la/2wj3v52)
 
 Con este QR podés pagar con tu celular:
