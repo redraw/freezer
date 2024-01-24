@@ -23,7 +23,7 @@ class CloudinaryStore extends TinaCloudCloudinaryMediaStore {
     return super.persist(files)
   }
   parse = (img) => {
-    return img.src.replace("http://", "https://")
+    return img.src.replace("http://", "https://").replace("image/upload", "image/upload/t_media_lib_thumb")
   }
 }
 
