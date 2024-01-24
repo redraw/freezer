@@ -1,14 +1,15 @@
 ---
-date: 2020-10-08T19:18:45.000+00:00
-thumbnail: "/v1645451498/2022/Sin_t%C3%ADtulo-1_xuqbnr.jpg"
+date: 2020-10-08T19:18:45.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1645451498/2022/Sin_t%C3%ADtulo-1_xuqbnr.jpg
 title: Alterar lo visible | Experimentación en collage digital
-inicio: 2022-03-16T22:00:00Z
+inicio: 2022-03-16T22:00:00.000Z
 docente: F3millennial
 lugar: Online
-mercadopago_link: https://mpago.la/21o9T42
+mercadopago_link: 'https://mpago.la/21o9T42'
 finalizado: true
-
+_template: curso
 ---
+
 Alterar lo visible es un espacio de taller en el que aprenderemos sobre collage digital con el fin de incentivar un proceso creativo individual y grupal. Repasaremos una variedad de temáticas que van desde la historia de la técnica hasta cómo y dónde buscar las imágenes adecuadas, familiarizarse con los elementos y poner en discusión lo aprendido. Observaremos referencias, haremos ejercicios prácticos, debatiremos sobre lo aprendido y resolveremos las preguntas que surjan en el camino.
 
 **Destinatarixs:**

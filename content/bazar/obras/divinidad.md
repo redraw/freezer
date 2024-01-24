@@ -1,14 +1,15 @@
 ---
-date: 2020-10-23T02:59:26.000+00:00
-precio: "$2500"
+date: 2020-10-23T02:59:26.000Z
+precio: $2500
 title: Axis Mundi II
 autor: Luciana Demichelis
-thumbnail: "/v1603422228/2020/lu__k5ju2a.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1603422228/2020/lu__k5ju2a.jpg
 categorias:
-- obras
+  - obras
 listado: true
-
+_template: bazar_obra
 ---
+
 Fotografía en A3 (20 cm x 30 cm)
 
 Con passepartout y marco negro. 

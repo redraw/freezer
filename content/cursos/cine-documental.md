@@ -1,14 +1,15 @@
 ---
-date: 2022-03-23T22:31:22Z
-thumbnail: "/v1648074745/2022/Documental_-_Web_1_gief53.jpg"
+date: 2022-03-23T22:31:22.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1648074745/2022/Documental_-_Web_1_gief53.jpg
 title: Cine Documental
-inicio: 2022-04-05T00:00:00Z
-docente: " Julián Kominek"
+inicio: 2022-04-05T00:00:00.000Z
+docente: ' Julián Kominek'
 lugar: Online
 mercadopago_link: ''
 finalizado: false
-
+_template: curso
 ---
+
 El taller de cine documental tiene como objetivo otorgar las herramientas básicas para la comprensión de la estructura narrativa cinematográfica y cómo pueden aplicarse para la construcción de un relato documental. El taller se compone por doce encuentros teóricoprácticos donde se analizará material fílmico, se discutirá la bibliografía pertinente y se realizará un trabajo final integrador de 5 minutos.
 
 **Destinatarixs:**  

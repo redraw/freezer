@@ -1,14 +1,15 @@
 ---
-date: 2021-06-03T15:54:47.000+00:00
-thumbnail: "/v1645456443/2022/Errar_los_Aparatos_-_Web_xecxez.jpg"
+date: 2021-06-03T15:54:47.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1645456443/2022/Errar_los_Aparatos_-_Web_xecxez.jpg
 title: ERRAR LOS APARATOS
-inicio: 2022-03-18T21:30:00Z
+inicio: 2022-03-18T21:30:00.000Z
 docente: Martín Bollati
 lugar: Online
 mercadopago_link: 'https://mpago.la/1LY2t1N '
 finalizado: false
-
+_template: curso
 ---
+
 Este taller busca promover la crítica del aparato fotográficos a través de la producción y la argumentación. Haremos uso de la malinterpretación como herramienta fundamental para producir lo nuevo (imágenes, textos, ideas). Queremos leer y producir de la manera equivocada. Azar, misterio, intuición, interacción y esencialmente el juego, serán los vectores para acercarnos a nuevas formas.
 
 Algunos pensamientos de Vilem Flusser (y de otrxs) servirán de guía para enredar nuestras reflexiones. La metodología de trabajo será la siguiente: acción y pensamiento como un simultáneo. Teoría y práctica como formas de pensar a la vez. En cada encuentro pondremos nuestras lecturas en común y de ellas surgirán ejercicios que nos ayudarán a problematizar esos textos y a producir imágenes para ponerlos en acción.

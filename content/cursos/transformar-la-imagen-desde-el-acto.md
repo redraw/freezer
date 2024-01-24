@@ -1,14 +1,15 @@
 ---
-date: 2022-03-23T22:49:02Z
-thumbnail: "/v1648075782/2022/webtransformar_fuqlad.jpg"
+date: 2022-03-23T22:49:02.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1648075782/2022/webtransformar_fuqlad.jpg
 title: Transformar la imagen desde el acto
-inicio: 2022-04-09T18:00:00Z
-docente: " Nicolas Zúñiga"
+inicio: 2022-04-09T18:00:00.000Z
+docente: ' Nicolas Zúñiga'
 lugar: Online
 mercadopago_link: ''
 finalizado: true
-
+_template: curso
 ---
+
 Transformar la imagen desde el acto, es un curso orientado a la exploración lúdica de la edición de fotografía y creación de imagen por medio programación visual, para ello **usaremos el software TouchDesigner,** un programa dirigido al desarrollo de medios interactivos, entornos generativos y visuales en 2D y 3D. En la primera etapa del curso usaremos la fotografía como motor para intervenir y explorar las diversas posibilidades de edición que nos brinda el software, con la intención de llegar a generar una imagen o video completamente diferente, pero que guarde rasgos de su origen. La segunda etapa se basa en usar el cuerpo, el objeto y los elementos que dispongamos, para interactuar por medio de la webcam con filtros interactivos creados previamente. Durante las últimas clases desarrollaremos sistemas de edición o filtros interactivos en base a los intereses de cada une.
 
 **Destinatarixs:**  

@@ -1,14 +1,15 @@
 ---
-date: 2020-10-03T22:13:25.000+00:00
-thumbnail: "/v1647490134/2022/dani_jpg_q6jxhf.jpg"
+date: 2020-10-03T22:13:25.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1647490134/2022/dani_jpg_q6jxhf.jpg
 title: Imagen Latente | Una aproximación a la fotografía analógica
-inicio: 2022-04-05T21:00:00Z
+inicio: 2022-04-05T21:00:00.000Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: " https://mpago.la/2XdV5v6 "
+mercadopago_link: ' https://mpago.la/2XdV5v6 '
 finalizado: false
-
+_template: curso
 ---
+
 Imagen latente: la imagen invisible que se origina en la película cuando exponemos, y se hace visible cuando revelamos.
 
 En este taller online haremos un recorrido por las partes fundamentales de la fotografía analógica: la exposición, las cámaras, los rollos y qué pasa cuando revelamos. También hablaremos sobre diferentes formas de experimentar con lo analógico a través del uso de filtros, doble exposición y rollos vencidos.

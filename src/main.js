@@ -24,8 +24,11 @@ export default function(Vue, { head }) {
     observer: true,
   })
 
-  Vue.prototype.getImageUrl = (path, cloudinaryParams = "c_limit,w_1280,h_920") => {
-    return `${settings.cloudinary_url}/${cloudinaryParams + ",q_80,f_auto"}${path}`
+  Vue.prototype.getImageUrl = (path, params = "c_limit,w_1280,h_920") => {
+    if (typeof path === "string" && path.includes("cloudinary.com")) {
+      return path.replace(/\/freezer\/image\/upload\/(.+)\/v/, `/freezer/image/upload/${params + ",q_80,f_auto"}/v`)
+    }
+    return path
   }
 
   Vue.use(VueTippy, {

@@ -3,7 +3,7 @@ autor: Luciana Demichelis
 date: 2020-10-10T03:00:00.000+00:00
 precio: "$2500"
 title: 'Axis Mundi '
-thumbnail: "/v1603418655/2020/PSX_20200723_173119_gfoqdf.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1603418655/2020/PSX_20200723_173119_gfoqdf.jpg
 listado: true
 categorias:
 - obras

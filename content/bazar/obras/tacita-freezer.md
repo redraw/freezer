@@ -1,14 +1,15 @@
 ---
-date: 2020-10-26T03:59:57Z
-precio: "$550"
+date: 2020-10-26T03:59:57.000Z
+precio: $550
 title: Tacita Freezer
 autor: Freezer
-thumbnail: "/v1603685179/2020/tacitafreezer_ttquos.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1603685179/2020/tacitafreezer_ttquos.jpg
 categorias:
-- tazas
+  - tazas
 listado: true
-
+_template: bazar_obra
 ---
+
 Taza sublimada. De un lado tiene el logo, del otro dice Freezer, plataforma latinoamericana de fotografía.
 
 La más pedida de todo el bazar.

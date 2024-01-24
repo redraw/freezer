@@ -1,14 +1,15 @@
 ---
-thumbnail: "/2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg"
+thumbnail: /2020/03/Sin_t%C3%ADtulo-2_mgpps3.jpg
 title: Diseño de Montaje | Edición Virtual
-inicio: 2020-04-01T18:30:00.000+00:00
+inicio: 2020-04-01T18:30:00.000Z
 docente: Martín Difeo
 lugar: Online
-mercadopago_link: " http://mpago.la/423PGp"
+mercadopago_link: ' http://mpago.la/423PGp'
 finalizado: true
-date: 
-
+date: null
+_template: curso
 ---
+
 Taller Digital Intensivo con [Martín Difeo](https://martindifeo.com/)  
   
 \+ 3 horas de video dividido en 3 módulos.   

@@ -1,14 +1,15 @@
 ---
-date: 2020-11-29T19:00:00.000+00:00
-thumbnail: "/v1610736068/2021/Po%C3%A9ticas_de_Photoshop_-_s3klw8.jpg"
+date: 2020-11-29T19:00:00.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1610736068/2021/Po%C3%A9ticas_de_Photoshop_-_s3klw8.jpg
 title: Poéticas de Photoshop | Edición introductoria
-inicio: 2020-12-10T20:00:00.000+00:00
+inicio: 2020-12-10T20:00:00.000Z
 docente: Rocío Frigerio
 lugar: Online
-mercadopago_link: https://mpago.la/2CUCphb
+mercadopago_link: 'https://mpago.la/2CUCphb'
 finalizado: true
-
+_template: curso
 ---
+
 Un curso para aprender a utilizar photoshop desde cero:
 
 En este curso aprenderemos las funciones esenciales del programa y como pueden ser implementadas de manera profesional y experimental. Al finalizar el curso contaremos con los conocimientos básicos necesarios para realizar composiciones, correcciones de color, retoque fotográfico y piezas de diseño.

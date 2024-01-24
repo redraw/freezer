@@ -1,10 +1,11 @@
 ---
-date: 2020-11-30T13:26:13Z
+date: 2020-11-30T13:26:13.000Z
 title: 'Encuentro de miradas del conurbano: un lugar común'
-thumbnail: "/v1606744823/2020/ladrillo_zugelt.png"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1606744823/2020/ladrillo_zugelt.png
 listado: true
-
+_template: nota
 ---
+
 
 **Ante las limitaciones de encontrarse en un espacio físico, Encuentro de miradas del conurbano busca seguir apostando por construir comunidad, hoy de manera virtual.**
 

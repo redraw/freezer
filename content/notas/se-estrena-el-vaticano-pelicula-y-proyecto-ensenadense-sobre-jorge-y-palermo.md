@@ -1,10 +1,11 @@
 ---
-date: 2020-08-29T01:04:59Z
-title: Se estrena El Vaticano, película ensenadense sobre Jorge y Palermo
-thumbnail: "/v1598675339/2020/arbol_rnhjkd.jpg"
+date: 2020-08-29T01:04:59.000Z
+title: 'Se estrena El Vaticano, película ensenadense sobre Jorge y Palermo'
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1598675339/2020/arbol_rnhjkd.jpg
 listado: true
-
+_template: nota
 ---
+
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598675772/2020/1-jorge1_h9kwll.jpg)
 
 Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)

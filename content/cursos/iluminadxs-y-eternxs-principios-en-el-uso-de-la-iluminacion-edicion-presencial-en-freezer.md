@@ -1,14 +1,15 @@
 ---
-date: 2021-03-23T15:48:36Z
-thumbnail: "/v1618669931/2021/web_iluminadxs_presencial_tw5vkb.jpg"
-title: Iluminadxs y eternxs,  principios en el uso de la iluminación | Edición online
-inicio: 2021-05-07T13:00:00Z
+date: 2021-03-23T15:48:36.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1618669931/2021/web_iluminadxs_presencial_tw5vkb.jpg
+title: 'Iluminadxs y eternxs,  principios en el uso de la iluminación | Edición online'
+inicio: 2021-05-07T13:00:00.000Z
 docente: Martina Izeta
 lugar: Online
-mercadopago_link: https://mpago.la/2qL4RRV
+mercadopago_link: 'https://mpago.la/2qL4RRV'
 finalizado: true
-
+_template: curso
 ---
+
 El taller propone entender la iluminación en la fotografía desde su lado creativo mediante un abordaje teórico- practico. En las clases nos centramos en explorar las distintas fuentes de luz, ya sean naturales o artificiales, utilizando recursos tanto profesionales como caseros.
 
 ***

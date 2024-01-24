@@ -1,14 +1,15 @@
 ---
-date: 2021-06-15T00:52:34Z
-thumbnail: "/v1624286001/2021/web_blender_wkll4z.jpg"
+date: 2021-06-15T00:52:34.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1624286001/2021/web_blender_wkll4z.jpg
 title: 'Blender para principiantes '
-inicio: 2021-07-08T20:00:00Z
+inicio: 2021-07-08T20:00:00.000Z
 docente: Joaquin Cavo
 lugar: Online
-mercadopago_link: https://mpago.la/1FLkGsz
+mercadopago_link: 'https://mpago.la/1FLkGsz'
 finalizado: true
-
+_template: curso
 ---
+
 En este curso vamos a iniciarnos en el mundo del 3D.
 
 Modelar un mate será la excusa para que veamos múltiples herramientas para luego poder hacer nuestro propio camino.
