@@ -1,14 +1,15 @@
 ---
-date: 2022-02-22T16:52:53Z
-thumbnail: "/v1645548790/2022/webjuandias_oigi8b.jpg"
+date: 2022-02-22T16:52:53.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1645548790/2022/webjuandias_oigi8b.jpg
 title: Blender para fotógrafes
-inicio: 2022-02-16T22:00:00Z
+inicio: 2022-02-16T22:00:00.000Z
 docente: Juan Dias
 lugar: Online
 mercadopago_link: ''
 finalizado: true
-
+_template: curso
 ---
+
 Blender para fotógrafes busca iniciar desde cero en Blender para luego ver algunas formas de utilizarlo con fotografía, crear elementos para colocar en fotos, recrear escenas para proyectos de exposiciones y más. En las primeras clases veremos conceptos teóricos y prácticos: moverse en el programa, modelar con formas básicas, retocar mallas, materiales, UVs, renderizado, iluminación, etc. El objetivo será adentrarse y motivarse a profundizar en la herramienta para luego vincularla con la fotografía.
 
 **Destinatarixs:**

@@ -3,7 +3,7 @@ autor: Gonzalo Lamarque
 date: 2020-10-10T03:00:00.000+00:00
 precio: "$2500"
 title: Piedras al lago
-thumbnail: "/v1603683512/2020/PiedrasAlLago_-_Gonzalo_Lamarque_efbeye.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1603683512/2020/PiedrasAlLago_-_Gonzalo_Lamarque_efbeye.jpg
 listado: true
 categorias:
 - obras

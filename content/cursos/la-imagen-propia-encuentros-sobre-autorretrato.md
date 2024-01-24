@@ -1,14 +1,15 @@
 ---
-date: 2021-04-28T23:55:20.000+00:00
-thumbnail: "/v1648744901/2022/weblaimagen_roqcrs.jpg"
+date: 2021-04-28T23:55:20.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1648744901/2022/weblaimagen_roqcrs.jpg
 title: La Imagen Propia | Encuentros sobre autorretrato
-inicio: 2022-04-11T21:00:00Z
+inicio: 2022-04-11T21:00:00.000Z
 docente: Savia Flor & Eli Portela
 lugar: Online
-mercadopago_link: https://mpago.la/1ke4jM2
+mercadopago_link: 'https://mpago.la/1ke4jM2'
 finalizado: false
-
+_template: curso
 ---
+
 La Imagen Propia es un espacio de experimentación y acción en torno al autorretrato, en donde investigamos, miramos referentxs y trabajamos vinculando imágenes y palabras. Nos hacemos preguntas y realizamos ejercicios para movilizar los posibles registros que tenemos de nosotrxs mismxs en el cotidiano.
 
 **El taller está dirigido a toda persona interesada en autorretratarse o realizar producciones autorreferenciales. No es requisito contar con experiencia previa en el campo de la fotografía y/o el autorretrato.**

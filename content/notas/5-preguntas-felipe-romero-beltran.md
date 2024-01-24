@@ -2,7 +2,7 @@
 listado: true
 date: 2020-08-06T03:00:00Z
 title: 5 preguntas a Felipe Romero Beltrán
-thumbnail: "/v1596549575/2020/Reduccion-FR1_wczdop.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1596549575/2020/Reduccion-FR1_wczdop.jpg
 bg_color: "#111111"
 fg_color: "#FFFFFF"
 

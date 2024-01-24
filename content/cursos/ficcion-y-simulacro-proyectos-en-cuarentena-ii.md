@@ -1,6 +1,6 @@
 ---
 date: 2020-10-05T20:25:49.000+00:00
-thumbnail: "/v1623696873/2021/ficcion_web_agsl1z.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1623696873/2021/ficcion_web_agsl1z.jpg
 title: ficción y simulacro | proyectos fotográficos imaginarios
 inicio: 2021-05-13T21:00:00Z
 docente: Luciana Demichelis

@@ -1,14 +1,17 @@
 ---
-date: 2021-06-09T23:39:20Z
-thumbnail: "/v1623282169/2021/web_psd_proyectar_lifibj.jpg"
-title: Proyectar la imagen propia | Encuentros para crear proyectos basados en autorretrato
-inicio: 2021-06-23T13:00:00Z
+date: 2021-06-09T23:39:20.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1623282169/2021/web_psd_proyectar_lifibj.jpg
+title: >-
+  Proyectar la imagen propia | Encuentros para crear proyectos basados en
+  autorretrato
+inicio: 2021-06-23T13:00:00.000Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: ''
 finalizado: true
-
+_template: curso
 ---
+
 Abrimos un nuevo espacio para _proyectar la imagen propia_ y nos preguntamos ¿hacía dónde podemos llevarla?, ¿dónde aparece el gesto de continuidad ? 
 
 Proponemos construir un espacio donde sigamos profundizando sobre el autorretrato disolviendo sus límites, abriéndonos más allá de la fotografía como una forma de entremezclar disciplinas y formas de producir. 

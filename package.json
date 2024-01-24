@@ -2,8 +2,8 @@
   "name": "freezer.com.ar",
   "private": true,
   "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && tinacms build && gridsome build",
+    "develop": "export NODE_OPTIONS=--openssl-legacy-provider && tinacms dev -c 'gridsome develop'",
     "explore": "gridsome explore"
   },
   "dependencies": {
@@ -11,9 +11,14 @@
     "@gridsome/remark-prismjs": "0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
+    "@tinacms/auth": "^1.0.3",
+    "@tinacms/cli": "^1.5.22",
     "axios": "^0.21.1",
+    "graphql": "^16.7.1",
     "gridsome": "^0.7.23",
     "intersection-observer": "^0.7.0",
+    "next-tinacms-cloudinary": "^4.4.5",
+    "tinacms": "^1.5.28",
     "urijs": "^1.19.5",
     "vue": "^2.6.12",
     "vue-client-only": "^2.0.0",

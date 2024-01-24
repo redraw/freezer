@@ -1,14 +1,15 @@
 ---
-date: 2021-01-15T19:59:52.000+00:00
-thumbnail: "/v1610740808/2021/nahuel_txsubt.jpg"
+date: 2021-01-15T19:59:52.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1610740808/2021/nahuel_txsubt.jpg
 title: La conquista del espacio | Taller de composición fotográfica
-inicio: 2021-02-05T13:00:00.000+00:00
-docente: " Nahuel Medina"
+inicio: 2021-02-05T13:00:00.000Z
+docente: ' Nahuel Medina'
 lugar: Online
-mercadopago_link: https://mpago.la/1DS4dwr
+mercadopago_link: 'https://mpago.la/1DS4dwr'
 finalizado: true
-
+_template: curso
 ---
+
 Taller de composición fotográfica donde se verán elementos compositivos, como usar el color y la luz. Revisaremos material de cada alumnx clase a clase y trabajos de autorxs, uscando entender otras formas de mirar y transmitir.
 
 **Destinataries:**

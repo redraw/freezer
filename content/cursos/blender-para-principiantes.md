@@ -1,14 +1,15 @@
 ---
-date: 2020-08-14T00:24:14Z
-thumbnail: "/v1597364659/2020/pdf_pxypu2.jpg"
+date: 2020-08-14T00:24:14.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1597364659/2020/pdf_pxypu2.jpg
 title: Blender para principiantes
-inicio: 2020-08-24T21:00:00Z
+inicio: 2020-08-24T21:00:00.000Z
 docente: Santiago Bardi
 lugar: Online
 mercadopago_link: ''
 finalizado: true
-
+_template: curso
 ---
+
 En este curso vas a aprender todas las herramientas básicas de Blender para que te puedas desenvolver cómodamente en el software y seguir practicando y aprendiendo por tu cuenta. 
 
 Constará de cinco clases de dos horas en grupos reducidos de no más de 5 personas, en las que vamos a desarrollar un proyecto que va a involucrar todas las herramientas fundamentales.

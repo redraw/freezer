@@ -1,14 +1,17 @@
 ---
-date: 2021-06-14T17:30:50Z
-thumbnail: "/v1637257899/2021/dani_intervenciones_tb6m02.jpg"
-title: Intervenciones fotosensibles, workshop sobre procesos analógicos experimentales
-inicio: 2021-12-03T21:00:00Z
+date: 2021-06-14T17:30:50.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1637257899/2021/dani_intervenciones_tb6m02.jpg
+title: >-
+  Intervenciones fotosensibles, workshop sobre procesos analógicos
+  experimentales
+inicio: 2021-12-03T21:00:00.000Z
 docente: Daniela Eliana Flores
 lugar: Online
-mercadopago_link: https://mpago.la/1Cwc8xY
+mercadopago_link: 'https://mpago.la/1Cwc8xY'
 finalizado: true
-
+_template: curso
 ---
+
 En este workshop haremos un recorrido por distintos procesos experimentales en fotografía analógica. El foco de los encuentros estará en que, después de ver teoría y referentes, cada participante se anime a hacer sus propias intervenciones. Veremos algunos procesos más simples como doble exposición, máscaras internas, filtros y redscale; y otros más invasivos para la película como film soup, destrucción del soporte e intervenciones sobre negativos o copias.
 
 **Este workshop está dirigido a cualquier persona que haga fotografía analógica o que esté interesade en los procesos experimentales.**

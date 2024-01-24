@@ -1,14 +1,15 @@
 ---
-date: 2020-09-18T20:13:58.000+00:00
-thumbnail: "/v1600460052/2020/flaier_web2_flonav.jpg"
+date: 2020-09-18T20:13:58.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1600460052/2020/flaier_web2_flonav.jpg
 title: 'Componer en vivo: Resolume Arena'
-inicio: 2020-10-15T19:00:00.000+00:00
+inicio: 2020-10-15T19:00:00.000Z
 docente: Mecha Herrera
 lugar: Online
-mercadopago_link: https://mpago.la/1cRekFc
+mercadopago_link: 'https://mpago.la/1cRekFc'
 finalizado: true
-
+_template: curso
 ---
+
 En este **Curso de Resolume Arena** nos enfocaremos en su uso orientado a shows o streamings en vivo. El curso se estructura en cuatro clases. Las primeras dos clases se centran en dominar las herramientas y fundamentos del software; y las últimas dos, en aprender las diversas aplicaciones y usos que tiene Resolume y cómo implementarlas dentro del video en directo.
 
 **CLASE 1:**

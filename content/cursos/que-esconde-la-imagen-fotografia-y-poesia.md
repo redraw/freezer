@@ -1,14 +1,15 @@
 ---
-date: 2022-04-24T20:09:06Z
-thumbnail: "/v1650830961/2022/juli_heoguv.jpg"
-title: "¿Qué esconde la imagen? | Fotografía y poesía"
-inicio: 2022-06-01T21:00:00Z
+date: 2022-04-24T20:09:06.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1650830961/2022/juli_heoguv.jpg
+title: ¿Qué esconde la imagen? | Fotografía y poesía
+inicio: 2022-06-01T21:00:00.000Z
 docente: Julieta Vieira Noble
 lugar: Online
 mercadopago_link: ''
 finalizado: true
-
+_template: curso
 ---
+
 El curso propone establecer un diálogo entre la fotografía y la poesía. Tomar a la escritura como punto de partida y como herramienta de autoconocimiento para descubrir el porqué creamos las fotos que creamos.
 
 ¿Qué es lo que convierte a un grupo de fotografías en una obra?

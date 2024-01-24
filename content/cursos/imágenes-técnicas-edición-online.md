@@ -1,14 +1,16 @@
 ---
-thumbnail: "/v1597238481/2020/flyer_vfrip0.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1597238481/2020/flyer_vfrip0.jpg
 title: Imágenes Técnicas | Iniciación a la fotografía
-inicio: 2020-09-19T14:00:00.000+00:00
+inicio: 2020-09-19T14:00:00.000Z
 docente: Luciana Demichelis
 lugar: Online
-mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-86ec02af-0ab5-4b72-98b4-ea0efd3c4774
+mercadopago_link: >-
+  https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-86ec02af-0ab5-4b72-98b4-ea0efd3c4774
 finalizado: true
-date: 
-
+date: null
+_template: curso
 ---
+
 Se busca que lxs interesadxs logren (en estos tiempos más virtuales que nunca) usar hacia el final del curso la herramienta fotográfica con fines creativos: aprender el manejo básico de la cámara como también conceptos relativos a la edición posterior de las imágenes.
 
 El curso es para todxs aquellos sin experiencia que quieran aprender las herramientas básicas y usos de la fotografía actual.

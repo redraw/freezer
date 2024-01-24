@@ -1,14 +1,15 @@
 ---
-thumbnail: "/v1586550730/2020/edicionyauto_rq4lrr.jpg"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1586550730/2020/edicionyauto_rq4lrr.jpg
 title: Edición y autopublicación
-inicio: 2020-04-16T20:00:00.000+00:00
+inicio: 2020-04-16T20:00:00.000Z
 docente: Maxi Magnano
 lugar: Online
-mercadopago_link: http://mpago.la/3oWMb3
+mercadopago_link: 'http://mpago.la/3oWMb3'
 finalizado: true
-date: 2020-04-11T20:00:00.000+00:00
-
+date: 2020-04-11T20:00:00.000Z
+_template: curso
 ---
+
 El objetivo del curso es recorrer el proceso que va desde el cúmulo de fotos sueltas hasta la publicación física de un grupo coherente de fotos. Para esto, haremos un primer acercamiento a dos programas fundamentales para  
 la actividad fotográfica: Adobe Lightroom y Adobe InDesign. A través de estas herramientas indagaremos en los procesos de organización del archivo, de edición digital de la imagen, de preparación de archivos para impresión y de maquetado digital de publicaciones, teniendo como finalidad la organización y creación de un proyecto impreso (ya sea libro o fanzine).
 

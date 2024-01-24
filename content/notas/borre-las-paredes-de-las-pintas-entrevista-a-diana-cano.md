@@ -1,10 +1,11 @@
 ---
-date: 2020-08-20T13:23:08Z
+date: 2020-08-20T13:23:08.000Z
 title: Borré las paredes de las pintas | Entrevista a Diana Cano
-thumbnail: "/v1597933284/2020/image99999ddsdds_erlqkr.png"
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1597933284/2020/image99999ddsdds_erlqkr.png
 listado: true
-
+_template: nota
 ---
+
 Por[ Lucía Alegría ](https://www.instagram.com/lanadediamante/)y [Luciana Demichelis](https://www.instagram.com/demichelisluciana/)
 
 El trabajo de Diana Cano se centra en la reconfiguración del **error como recurso creativo**, **la memoria como detonante** y la **percepción del color.**

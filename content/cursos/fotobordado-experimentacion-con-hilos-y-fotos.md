@@ -1,14 +1,15 @@
 ---
-date: 2022-04-12T16:00:23Z
-thumbnail: "/v1649779299/2022/mairavbordado_qehzqy.jpg"
+date: 2022-04-12T16:00:23.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1649779299/2022/mairavbordado_qehzqy.jpg
 title: Fotobordado | Experimentación con hilos y fotos
-inicio: 2022-05-05T03:00:00Z
+inicio: 2022-05-05T03:00:00.000Z
 docente: Mayra Biajante
 lugar: Online
 mercadopago_link: ''
 finalizado: false
-
+_template: curso
 ---
+
 **El taller de Fotobordado invita a intervenir fotografías utilizando el bordado libre.**
 
 Al utilizar esta técnica tan antigua en una imagen, podemos transformar nuestra mirada, expresándonos de diversas formas. Una fotografía bordada es un objeto único, que contiene la memoria y la experiencia personal que quien lo hace. En 2 sesiones semanales, se presentarán a los participantes algunos puntos de bordado, la técnica en papel, transferencia en tela, tipos de materiales, inspiraciones visuales y consejos sobre la técnica.

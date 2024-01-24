@@ -1,14 +1,15 @@
 ---
-date: 2021-06-04T17:32:05Z
-thumbnail: "/v1631800766/2021/Tradici%C3%B3n_Selectiva_-_Web_mvqb92.jpg"
+date: 2021-06-04T17:32:05.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1631800766/2021/Tradici%C3%B3n_Selectiva_-_Web_mvqb92.jpg
 title: 'Tradición selectiva | Encuentros sobre fotografía surrealista '
-inicio: 2021-10-06T21:01:00Z
+inicio: 2021-10-06T21:01:00.000Z
 docente: Agustina Fernández Agostegui
 lugar: Online
-mercadopago_link: https://mpago.la/2YXwsF3
+mercadopago_link: 'https://mpago.la/2YXwsF3'
 finalizado: true
-
+_template: curso
 ---
+
 Al partir de la base de que todo conjunto de obras consideradas exponentes de una corriente estética en particular es una “simple” selección hegemónica, proponemos problematizar desde una perspectiva sociológica el canon surrealista. El siguiente taller propone una reconfiguración del corpus. Nuestro presente nos impide seguir reproduciendo los mismos recortes y métodos que hemos heredado.
 
 Ante un canon casi exclusivamente compuesto por hombres cis blancos, nos vamos adentrar en el movimiento surrealista, considerado machista por gran cantidad de teóricos, y rearmaremos aquello que habitualmente se enseña de dicha vanguardia histórica. Se trabajará de forma interdisciplinaria, revisando cómo los cambios sociales de la época van repercutiendo en las formas de representación y en las técnicas empleadas. De esta forma, el rol de la mujer como disidencia será central y se problematizará el lugar que ocupaba en dicha época.

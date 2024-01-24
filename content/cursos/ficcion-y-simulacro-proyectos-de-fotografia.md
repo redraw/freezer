@@ -1,14 +1,16 @@
 ---
-date: 2020-06-28T01:24:34.000+00:00
-thumbnail: "/v1597184509/2020/ficcion_y_simulacro_4_d5dbbw.jpg"
+date: 2020-06-28T01:24:34.000Z
+thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1597184509/2020/ficcion_y_simulacro_4_d5dbbw.jpg
 title: ficción y simulacro | proyectos de fotografía
-inicio: 2020-09-11T21:00:00.000+00:00
+inicio: 2020-09-11T21:00:00.000Z
 docente: Luciana Demichelis
 lugar: Online
-mercadopago_link: https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024
+mercadopago_link: >-
+  https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=132297489-04bf2cd2-e6dc-49db-b6b3-fd507c8fd024
 finalizado: true
-
+_template: curso
 ---
+
 Basándonos en los conceptos claves de comunicación, fotografía, verdad y ficción, en el curso se discutirá los motivos que llevan a conceder a la imagen fotográfica ciertas atribuciones mecánicas, ideológicas e identitarias. Se busca que le alumnx puede poner en discusión las imágenes propias como también los textos y los autores que se charlarán en el taller, viendo sus fotografías por fuera de la idea de 'registro' y alentando la creación de nuevos inventos a través de su dispositivo .
 
 Orientado **a todxs aquellos interesados ​​en trabajar con sus fotografías como vehículo creador de nuevas ideas.**
