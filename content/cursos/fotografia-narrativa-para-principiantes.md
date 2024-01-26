@@ -1,13 +1,13 @@
 ---
-date: 2022-03-17T03:23:20.000Z
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1647487574/2022/Fotograf%C3%ADa_Narrativa_-_WEBjpg_aznfca.jpg
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1647487574/2022/Fotograf%C3%ADa_Narrativa_-_WEBjpg_aznfca.jpg
 title: 'Fotografía narrativa para principiantes '
 inicio: 2022-04-07T21:00:00.000Z
 docente: Jacinta
 lugar: Online
 mercadopago_link: 'https://mpago.la/2i9zRcL  '
-finalizado: false
-_template: curso
+finalizado: true
+date: 2022-03-17T03:23:20.000Z
 ---
 
 El taller consiste en 8 encuentros para intercambiar pensamientos sobre la fotografía. El eje está puesto en las posibilidades narrativas de la imagen fotográfica y cómo servirnos de otras disciplina como la pintura, el cine y la literatura para potenciarla.
@@ -16,10 +16,10 @@ La dinámica de los encuentros se divide en visionados, lecturas, ejercicios de 
 
 \*Les autores que se proponen fueron cuidadosamente **seleccionades con perspectiva latinoamericana y de género** con el fin de integrar miradas diferentes a la tradición de la academia.
 
-**Destinatarixs:**  
+**Destinatarixs:**\
 Curiosxs y principiantes de la fotografía.
 
-**Requerimientos:**  
+**Requerimientos:**\
 WIFI, computadora y cualquier dispositivo para sacar fotos.
 
 **Duración de cada clase:**
@@ -38,9 +38,9 @@ Jueves 7 de abril de 18 a 19:30
 
 **Costo (pagá en estos enlaces)**
 
-[Costo Nacional | $4000 por mes](https://mpago.la/2i9zRcL   )
+[Costo Nacional | $4000 por mes](https://mpago.la/2i9zRcL)
 
-[Costo Internacional | 40 USD por mes](https://paypal.me/fotografiaalborde?country.x=AR&locale.x=es_XC)
+[Costo Internacional | 40 USD por mes](https://paypal.me/fotografiaalborde?country.x=AR\&locale.x=es_XC)
 
 ***
 
