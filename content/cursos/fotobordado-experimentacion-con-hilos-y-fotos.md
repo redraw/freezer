@@ -1,13 +1,13 @@
 ---
-date: 2022-04-12T16:00:23.000Z
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1649779299/2022/mairavbordado_qehzqy.jpg
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1649779299/2022/mairavbordado_qehzqy.jpg
 title: Fotobordado | Experimentación con hilos y fotos
 inicio: 2022-05-05T03:00:00.000Z
 docente: Mayra Biajante
 lugar: Online
 mercadopago_link: ''
-finalizado: false
-_template: curso
+finalizado: true
+date: 2022-04-12T16:00:23.000Z
 ---
 
 **El taller de Fotobordado invita a intervenir fotografías utilizando el bordado libre.**
@@ -18,7 +18,7 @@ Al utilizar esta técnica tan antigua en una imagen, podemos transformar nuestra
 
 Acordate que la reserva de tu cupo se realiza a través del pago del curso (Paypal)
 
-Te pedimos que nos avises cuando hayas hecho la seña o el pago a freezerfoto@gmail.com
+Te pedimos que nos avises cuando hayas hecho la seña o el pago a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)
 
 Costo Nacional | $4300 por mes
 
@@ -36,4 +36,4 @@ Cada grupo tiene un cupo máximo de 12 alumnxs. Para sumarte, es recomendable te
 
 Días antes del inicio, nuestras docentes te enviarán el enlace de conexión para el primer encuentro.
 
-Ante cualquier duda escribinos a freezerfoto@gmail.com :)
+Ante cualquier duda escribinos a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com) :)
