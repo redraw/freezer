@@ -1,5 +1,11 @@
 ---
+title: Imagen Latente
 listado: true
+anio: '2020'
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192080/2020/E338C423-D66E-4FDA-98CD-9123A34691EF_1_te5fro.jpg
+premiere: false
+gifs_hashtag: ''
 galeria:
   stack: true
   autores:
@@ -7,11 +13,16 @@ galeria:
       url: 'http://www.instagram.com/yayanalogica/'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202599/2020/AA028_lyfxdg.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202599/2020/AA025A_pluypm.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202600/2020/AA003_obgary.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202598/2020/AA030_qhyl63.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202597/2020/AA029_tizpsp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202599/2020/AA028_lyfxdg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202599/2020/AA025A_pluypm.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202600/2020/AA003_obgary.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202598/2020/AA030_qhyl63.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202597/2020/AA029_tizpsp.jpg
     - nombre: vanessa durini
       url: 'http://www.instagram.com/lasundari'
       video: ''
@@ -40,145 +51,220 @@ galeria:
       url: 'http://www.instagram.com/vallramirez'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202422/2020/AA012_w0jzhw.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202423/2020/AA001_waatyh.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202426/2020/Kodak_200_-_022_fhabkw.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202422/2020/AA012_w0jzhw.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202423/2020/AA001_waatyh.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202426/2020/Kodak_200_-_022_fhabkw.jpg
     - nombre: paloma isasmendi
       url: www.instagram.com/paloma.portfolio/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202346/2020/3_PalomaIsasmendi_lp6mu3.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/2_PalomaIsasmendi_suol1y.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/1_PalomaIsasmendi_pqxssx.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/5_PalomaIsasmendi_zakukf.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202346/2020/4_PalomaIsasmendi_dhtqr5.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202346/2020/3_PalomaIsasmendi_lp6mu3.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/2_PalomaIsasmendi_suol1y.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/1_PalomaIsasmendi_pqxssx.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202345/2020/5_PalomaIsasmendi_zakukf.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202346/2020/4_PalomaIsasmendi_dhtqr5.jpg
     - nombre: nicolas schulze
       url: www.instagram.com/_fotosdemierda/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202310/2020/AA028_2_hd4l6h.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202314/2020/AA009_vforlb.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202309/2020/000028530002_vu3kyn.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202315/2020/AA036_bfvgql.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202316/2020/AA028_yxvkd6.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202310/2020/AA028_2_hd4l6h.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202314/2020/AA009_vforlb.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202309/2020/000028530002_vu3kyn.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202315/2020/AA036_bfvgql.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202316/2020/AA028_yxvkd6.jpg
     - nombre: melina otero
       url: www.instagram.com/melina0tero
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/27770013_txxxx9.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/00600010_zj6hio.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/00600001_1_n3blla.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202218/2020/33530021_xklaaz.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202215/2020/27770029_p5ip7h.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202221/2020/27770026_jrqxhx.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/27770013_txxxx9.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/00600010_zj6hio.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202223/2020/00600001_1_n3blla.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202218/2020/33530021_xklaaz.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202215/2020/27770029_p5ip7h.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202221/2020/27770026_jrqxhx.jpg
     - nombre: mariano gutierrez
       url: www.instagram.com/mariano.pele
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202124/2020/NO_DX_17_vtvh2t.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202133/2020/NO_DX_7_mynj8g.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202127/2020/NO_DX_1_vvov02.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202127/2020/NO_DX_31_oscvki.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202124/2020/NO_DX_27_z85gfd.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202124/2020/NO_DX_17_vtvh2t.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202133/2020/NO_DX_7_mynj8g.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202127/2020/NO_DX_1_vvov02.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202127/2020/NO_DX_31_oscvki.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609202124/2020/NO_DX_27_z85gfd.jpg
     - nombre: marcos cuomo
       url: www.instagram.com/marcoscuomo/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201733/2020/IMG00175_-_Marcos_Cuomo_j5sfpl.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201737/2020/IMG00145_-_Marcos_Cuomo_x7uula.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201737/2020/IMG00142_-_Marcos_Cuomo_vaqwmu.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201722/2020/ee_-_Marcos_Cuomo_wggglp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201722/2020/ragtdrgf_-_Marcos_Cuomo_g9xb94.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201733/2020/IMG00175_-_Marcos_Cuomo_j5sfpl.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201737/2020/IMG00145_-_Marcos_Cuomo_x7uula.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201737/2020/IMG00142_-_Marcos_Cuomo_vaqwmu.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201722/2020/ee_-_Marcos_Cuomo_wggglp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201722/2020/ragtdrgf_-_Marcos_Cuomo_g9xb94.jpg
     - nombre: manu sabbadini
       url: www.instagram.com/manusabbb
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu2_q54krw.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201627/2020/manu1_o7et8e.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu5_y3ex3q.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu4_il0qyz.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu3_pmps1b.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu2_q54krw.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201627/2020/manu1_o7et8e.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu5_y3ex3q.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu4_il0qyz.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201628/2020/manu3_pmps1b.jpg
     - nombre: lara olindi
       url: www.instagram.com/okey4ever
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201429/2020/AA10_-_Lara_Olin_dlmseg.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201444/2020/AA001_-_Lara_Olin_awpdty.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201450/2020/Fomapan_400_-_003_-_Lara_Olin_bnz9rb.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201445/2020/AA034_-_Lara_Olin_oudx54.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201449/2020/AA017_-_Lara_Olin_aijzyz.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201429/2020/AA10_-_Lara_Olin_dlmseg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201444/2020/AA001_-_Lara_Olin_awpdty.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201450/2020/Fomapan_400_-_003_-_Lara_Olin_bnz9rb.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201445/2020/AA034_-_Lara_Olin_oudx54.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609201449/2020/AA017_-_Lara_Olin_aijzyz.jpg
     - nombre: jerónimo guzman
       url: www.instagram.com/wacho.pistola_/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200221/2020/C41-021_oac0df.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200215/2020/C41-016_ahzjkv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200216/2020/C41_-_006_bjqfzv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200222/2020/C41-030_hnhhvs.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200222/2020/C41-029_ysnhlv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200221/2020/C41-021_oac0df.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200215/2020/C41-016_ahzjkv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200216/2020/C41_-_006_bjqfzv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200222/2020/C41-030_hnhhvs.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200222/2020/C41-029_ysnhlv.jpg
     - nombre: isabella montalbano
       url: www.instagram.com/isabellamontalbano/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200114/2020/AA012-2_xbamhs.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200119/2020/AA007_sdsrgh.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200110/2020/000086120001_bkhx7f.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200101/2020/AA035_mvpibw.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200120/2020/AA016_ahtmrl.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200114/2020/AA012-2_xbamhs.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200119/2020/AA007_sdsrgh.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200110/2020/000086120001_bkhx7f.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200101/2020/AA035_mvpibw.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609200120/2020/AA016_ahtmrl.jpg
     - nombre: guadalupe bellegia
       url: www.instagram.com/guabelleggia
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_003_goiaki.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198277/2020/Kodak_Tmax_100_-_002_oho07g.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_019_oeug0n.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_012_sq8ks1.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198280/2020/Kodak_Tmax_100_-_008_tqllpr.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_003_goiaki.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198277/2020/Kodak_Tmax_100_-_002_oho07g.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_019_oeug0n.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198279/2020/Kodak_Tmax_100_-_012_sq8ks1.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198280/2020/Kodak_Tmax_100_-_008_tqllpr.jpg
     - nombre: flor berdichevsky
       url: www.instagram.com/florberdi
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198189/2020/flor_erdi_1694_-AA032Ajpg_biw8ny.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198188/2020/flor_erdi_1694_-AA030A_xkybgh.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198186/2020/img147_ztcah7.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198185/2020/img142_i2ubqp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198185/2020/Florencia-Berdichevsky_1_iuttg8.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198189/2020/flor_erdi_1694_-AA032Ajpg_biw8ny.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198188/2020/flor_erdi_1694_-AA030A_xkybgh.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198186/2020/img147_ztcah7.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198185/2020/img142_i2ubqp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609198185/2020/Florencia-Berdichevsky_1_iuttg8.jpg
     - nombre: fer aliciardi
       url: www.instagram.com/Otrapiel___
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196776/2020/IMG_20201010_125228_-_Fer_Aliciardi_bhz02l.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196775/2020/IMG_20201010_125148_-_Fer_Aliciardi_ot5wtv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196772/2020/IMG_20201010_124551_-_Fer_Aliciardi_mzrk1v.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/IMG_20201010_124530_-_Fer_Aliciardi_qy9rpy.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196775/2020/IMG_20200918_203709_-_Fer_Aliciardi_kctmtv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196776/2020/IMG_20201010_125228_-_Fer_Aliciardi_bhz02l.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196775/2020/IMG_20201010_125148_-_Fer_Aliciardi_ot5wtv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196772/2020/IMG_20201010_124551_-_Fer_Aliciardi_mzrk1v.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/IMG_20201010_124530_-_Fer_Aliciardi_qy9rpy.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196775/2020/IMG_20200918_203709_-_Fer_Aliciardi_kctmtv.jpg
         - >-
           /v1609196773/2020/FER_ALICIARDI_img00101605911633182_-_Fer_Aliciardi_a9gi7k.jpg
         - >-
           /v1609196776/2020/A293984_00_img00121599254011211_-_Fer_Aliciardi_d7qbla.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/454300061596659495836_-_Fer_Aliciardi_irrwfe.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/IMG_20201208_220133_-_Fer_Aliciardi_tg8oik.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/454300061596659495836_-_Fer_Aliciardi_irrwfe.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196774/2020/IMG_20201208_220133_-_Fer_Aliciardi_tg8oik.jpg
     - nombre: daniel esperben
       url: ''
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196423/2020/3_1_rmrcj4.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196423/2020/3_1_rmrcj4.jpg
     - nombre: 'aylen barrios '
       url: www.instagram.com/ariadnaylenb/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196123/2020/AA014_gxhc9n.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196148/2020/Kodak_400_-_011-2_mdpir4.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196146/2020/Kodak_400_-_004_wg1bc3.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196147/2020/Kodak_200_-_014_lwxwam.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196119/2020/AA030-_xtem6d.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196123/2020/AA014_gxhc9n.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196148/2020/Kodak_400_-_011-2_mdpir4.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196146/2020/Kodak_400_-_004_wg1bc3.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196147/2020/Kodak_200_-_014_lwxwam.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196119/2020/AA030-_xtem6d.jpg
     - nombre: yago gonzalez
       url: www.instagram.com/yagoyagoyagoyago/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196026/2020/2_Pro_Image_100_-_021_hxpmvv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196027/2020/Pro_Image_100_-_018_uf0kex.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196025/2020/Pro_Image_100_-_009_rr1rtt.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196026/2020/2_Pro_Image_100_-_021_hxpmvv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196027/2020/Pro_Image_100_-_018_uf0kex.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609196025/2020/Pro_Image_100_-_009_rr1rtt.jpg
     - nombre: valentina ruiz
       url: www.instagram.com/valeruuuiz
       video: ''
@@ -199,9 +285,12 @@ galeria:
       url: www.instagram.com/silvinaonetti/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195868/2020/image3_eveg1g.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195867/2020/image1_jlbint.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195868/2020/image4_ivsuam.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195868/2020/image3_eveg1g.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195867/2020/image1_jlbint.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195868/2020/image4_ivsuam.jpg
     - nombre: paula a. reynoso
       url: www.instagram.com/paulaareynoso/
       video: ''
@@ -230,118 +319,180 @@ galeria:
       url: www.instagram.com/ody_stark_ph/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_021_de5lzs.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_014_n4xl5w.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_028_g0to6p.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_021_de5lzs.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_014_n4xl5w.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195652/2020/Ilford_Pan_100_-_028_g0to6p.jpg
     - nombre: natalia hurtado
       url: www.instagram.com/hurtadorobado/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195587/2020/15_-_Natalia_Hurtado_wngg3v.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195589/2020/5_-_Natalia_Hurtado_bdwn0a.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195585/2020/4_-_Natalia_Hurtado_vqxiwa.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195596/2020/4_-_Natalia_Hurtado_1_ewuznp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195595/2020/3_-_Natalia_Hurtado_qhklzp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195589/2020/2_kwaurf.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195592/2020/1_uje9c4.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195599/2020/24_-_Natalia_Hurtado_ohxmcn.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195587/2020/15_-_Natalia_Hurtado_wngg3v.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195589/2020/5_-_Natalia_Hurtado_bdwn0a.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195585/2020/4_-_Natalia_Hurtado_vqxiwa.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195596/2020/4_-_Natalia_Hurtado_1_ewuznp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195595/2020/3_-_Natalia_Hurtado_qhklzp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195589/2020/2_kwaurf.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195592/2020/1_uje9c4.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195599/2020/24_-_Natalia_Hurtado_ohxmcn.jpg
     - nombre: matias orzi
       url: www.instagram.com/mtt.ph_/
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195423/2020/Copia_de_Kodak_50_D_vencido_9_tnsku0.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195423/2020/Copia_de_Copia_de_Fuji_Eterna_250_D039_h4oj0z.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195424/2020/Copia_de_Kodak_Vision_320_T_19_dzitnf.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195420/2020/Copia_de_Kodak_400025_nnqdu1.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195422/2020/Copia_de_Kodak_50_D_vencido_28_xpqfqj.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195423/2020/Copia_de_Kodak_50_D_vencido_9_tnsku0.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195423/2020/Copia_de_Copia_de_Fuji_Eterna_250_D039_h4oj0z.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195424/2020/Copia_de_Kodak_Vision_320_T_19_dzitnf.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195420/2020/Copia_de_Kodak_400025_nnqdu1.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195422/2020/Copia_de_Kodak_50_D_vencido_28_xpqfqj.jpg
     - nombre: maria del valle tello
       url: ''
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195095/2020/capullos_lghmpm.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195092/2020/muerte-vida_o6etj4.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195094/2020/espantapajaros_f8i5rt.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195092/2020/eltuneldeloso_whdxdg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195095/2020/capullos_lghmpm.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195092/2020/muerte-vida_o6etj4.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195094/2020/espantapajaros_f8i5rt.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609195092/2020/eltuneldeloso_whdxdg.jpg
     - nombre: marce damian
       url: www.instagram.com/xmarcedamian
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194127/2020/img059_-_Marce_Dami%C3%A1n_l0fzoq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194124/2020/img057_-_Marce_Dami%C3%A1n_ax9mkt.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194124/2020/img021_-_Marce_Dami%C3%A1n_vxdqxh.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194127/2020/img011_-_Marce_Dami%C3%A1n_kfdyp3.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194122/2020/img010_-_Marce_Dami%C3%A1n_x5sryk.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194126/2020/img002_-_Marce_Dami%C3%A1n_wo2kco.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194128/2020/img122_-_Marce_Dami%C3%A1n_zlt3kl.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194127/2020/img059_-_Marce_Dami%C3%A1n_l0fzoq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194124/2020/img057_-_Marce_Dami%C3%A1n_ax9mkt.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194124/2020/img021_-_Marce_Dami%C3%A1n_vxdqxh.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194127/2020/img011_-_Marce_Dami%C3%A1n_kfdyp3.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194122/2020/img010_-_Marce_Dami%C3%A1n_x5sryk.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194126/2020/img002_-_Marce_Dami%C3%A1n_wo2kco.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194128/2020/img122_-_Marce_Dami%C3%A1n_zlt3kl.jpg
     - nombre: luciana belén cardozo
       url: 'www.instagram.com/caradenube '
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194032/2020/img024_-_Luciana_Bel%C3%A9n_Cardozo_gdukhr.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194030/2020/img021_-_Luciana_Bel%C3%A9n_Cardozo_om78zy.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194031/2020/img017_-_Luciana_Bel%C3%A9n_Cardozo_v0dhnp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194030/2020/img016_-_Luciana_Bel%C3%A9n_Cardozo_bfljh7.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194033/2020/img014_-_Luciana_Bel%C3%A9n_Cardozo_sedoja.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194027/2020/img009_-_Luciana_Bel%C3%A9n_Cardozo_pvqulq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194032/2020/img009_-_Luciana_Bel%C3%A9n_Cardozo_1_bq0nmq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194026/2020/img008_-_Luciana_Bel%C3%A9n_Cardozo_tmx9j0.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194024/2020/img008_-_Luciana_Bel%C3%A9n_Cardozo_1_qutkrr.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194031/2020/img034_-_Luciana_Bel%C3%A9n_Cardozo_i3zmen.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194032/2020/img024_-_Luciana_Bel%C3%A9n_Cardozo_gdukhr.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194030/2020/img021_-_Luciana_Bel%C3%A9n_Cardozo_om78zy.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194031/2020/img017_-_Luciana_Bel%C3%A9n_Cardozo_v0dhnp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194030/2020/img016_-_Luciana_Bel%C3%A9n_Cardozo_bfljh7.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194033/2020/img014_-_Luciana_Bel%C3%A9n_Cardozo_sedoja.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194027/2020/img009_-_Luciana_Bel%C3%A9n_Cardozo_pvqulq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194032/2020/img009_-_Luciana_Bel%C3%A9n_Cardozo_1_bq0nmq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194026/2020/img008_-_Luciana_Bel%C3%A9n_Cardozo_tmx9j0.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194024/2020/img008_-_Luciana_Bel%C3%A9n_Cardozo_1_qutkrr.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609194031/2020/img034_-_Luciana_Bel%C3%A9n_Cardozo_i3zmen.jpg
     - nombre: juan martin argoitia
       url: www.instagram.com/juanmargoitia
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA3_brveeq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA2_muhisb.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193935/2020/JMA1_noov7w.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193931/2020/JMA6_afmtx7.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA4_jt4d9a.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA3_brveeq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA2_muhisb.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193935/2020/JMA1_noov7w.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193931/2020/JMA6_afmtx7.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609193934/2020/JMA4_jt4d9a.jpg
     - nombre: irene orlandoni
       url: 'https://www.instagram.com/ireneorlandoni/'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192931/2020/AAA019_hqz4dq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192931/2020/AAA008_hitvsg.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192927/2020/AAA003_pqz0py.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192934/2020/img027_mgg99z.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192933/2020/img012_znbaqg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192931/2020/AAA019_hqz4dq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192931/2020/AAA008_hitvsg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192927/2020/AAA003_pqz0py.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192934/2020/img027_mgg99z.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192933/2020/img012_znbaqg.jpg
     - nombre: francesca bertoglio
       url: 'https://www.instagram.com/_franui_'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192838/2020/FrancescaBertoglio3_sgee6s.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192841/2020/FrancescaBertoglio2_eonlhk.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192833/2020/FrancescaBertoglio1_cpu3cq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192841/2020/FrancescaBertoglio5_elvbsv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192831/2020/FrancescaBertoglio4_wqjvpa.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192838/2020/FrancescaBertoglio3_sgee6s.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192841/2020/FrancescaBertoglio2_eonlhk.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192833/2020/FrancescaBertoglio1_cpu3cq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192841/2020/FrancescaBertoglio5_elvbsv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192831/2020/FrancescaBertoglio4_wqjvpa.jpg
     - nombre: flor agliano
       url: 'https://www.instagram.com/aglianoflora/'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192623/2020/FA0005_-_025_axqi16.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192622/2020/FA0005_-_015_iltpby.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192636/2020/Flora0004_-_009_xhpfyg.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192623/2020/Flor0004_-_006_afitmk.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192637/2020/FA0005_-_026_d72dgp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192623/2020/FA0005_-_025_axqi16.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192622/2020/FA0005_-_015_iltpby.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192636/2020/Flora0004_-_009_xhpfyg.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192623/2020/Flor0004_-_006_afitmk.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192637/2020/FA0005_-_026_d72dgp.jpg
     - nombre: 'Dévora Peñaloza '
       url: 'https://www.instagram.com/cantalaselva'
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192080/2020/E338C423-D66E-4FDA-98CD-9123A34691EF_1_te5fro.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192080/2020/E338C423-D66E-4FDA-98CD-9123A34691EF_1_te5fro.jpg
         - >-
           /v1609192082/2020/C3A6CEFA-9DE5-4547-82DE-60E1D82B6579_-_D%C3%A9vora_Pe%C3%B1aloza_z58grr.jpg
         - >-
           /v1609192081/2020/0382343F-4469-42C3-8B1E-51D867636B46_-_D%C3%A9vora_Pe%C3%B1aloza_zigy2s.jpg
         - >-
           /v1609192081/2020/99DC952A-A31B-47A7-AAEB-21A9C936E89B_-_D%C3%A9vora_Pe%C3%B1aloza_usp2dv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/000013_wjyh8g.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/000013_wjyh8g.jpg
         - >-
           /v1609192079/2020/7F61CF13-1F8E-40DC-A7A4-9A0AD58A6839_-_D%C3%A9vora_Pe%C3%B1aloza_ilsqqe.jpg
         - >-
           /v1609192082/2020/1EA6F553-5222-43EB-894C-E773011EF069_-_D%C3%A9vora_Pe%C3%B1aloza_uvmiop.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192082/2020/IMG-1029_p8w72r.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/IMG_0626_giccd0.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/IMG_0601_wkgebi.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192082/2020/IMG-1029_p8w72r.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/IMG_0626_giccd0.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192081/2020/IMG_0601_wkgebi.jpg
         - >-
           /v1609192073/2020/F4BD0FD4-388F-45A8-8E40-DA0086CCB71B_-_D%C3%A9vora_Pe%C3%B1aloza_hgqfya.jpg
         - >-
@@ -350,38 +501,49 @@ galeria:
       url: www.instagram.com/chadoo__
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191873/2020/34_biy0o2.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191871/2020/28_ong17w.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191865/2020/Brad_Borja-9_-_Brad_Borja_bfurot.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-7_-_Brad_Borja_vqvtzs.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-6_-_Brad_Borja_pzasjw.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191867/2020/Brad_Borja-5_-_Brad_Borja_fcnhnv.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-4_-_Brad_Borja_on1ggq.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-3_-_Brad_Borja_dtpvqz.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191869/2020/Brad_Borja-2_-_Brad_Borja_zfmwn9.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191854/2020/Brad_Borja_-_Brad_Borja_qp3dra.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191859/2020/86360016_ncmtzp.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191860/2020/27060026_3_ryxntr.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191873/2020/34_biy0o2.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191871/2020/28_ong17w.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191865/2020/Brad_Borja-9_-_Brad_Borja_bfurot.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-7_-_Brad_Borja_vqvtzs.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-6_-_Brad_Borja_pzasjw.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191867/2020/Brad_Borja-5_-_Brad_Borja_fcnhnv.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-4_-_Brad_Borja_on1ggq.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191866/2020/Brad_Borja-3_-_Brad_Borja_dtpvqz.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191869/2020/Brad_Borja-2_-_Brad_Borja_zfmwn9.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191854/2020/Brad_Borja_-_Brad_Borja_qp3dra.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191859/2020/86360016_ncmtzp.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191860/2020/27060026_3_ryxntr.jpg
     - nombre: Ana Centeno
       url: www.instagram.com/anacentenoph
       video: ''
       imagenes:
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191673/2020/2018-12_27_bbaofi.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191674/2020/2018-12_25_hodlju.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191676/2020/2019-09_BYN_34_tulg4i.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191676/2020/2019-09_BYN_19_E_yyvbpu.jpg
-        - https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191675/2020/2019-09_BYN_12_cokegz.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191673/2020/2018-12_27_bbaofi.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191674/2020/2018-12_25_hodlju.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191676/2020/2019-09_BYN_34_tulg4i.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191676/2020/2019-09_BYN_19_E_yyvbpu.jpg
+        - >-
+          https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609191675/2020/2019-09_BYN_12_cokegz.jpg
 date: 2020-12-28T00:00:00.000Z
-title: 'Imagen Latente, una aproximación a la fotografía analógica'
-anio: '2020'
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1609192080/2020/E338C423-D66E-4FDA-98CD-9123A34691EF_1_te5fro.jpg
-premiere: false
-gifs_hashtag: ''
 bg_color: '#000000'
 fg_color: '#FFFFFF'
-_template: proyecto
 ---
 
-fotografías tomadas en diferentes partes de Latinoamérica de participantes de nuestro curso Imagen Latente, una aproximación a la fotografía analógica con[ Daniela Eliana Flores](https://www.instagram.com/danielaelianaflores/) durante mayo y diciembre de 2020. 
+fotografías tomadas en diferentes partes de Latinoamérica de participantes de nuestro curso Imagen Latente, una aproximación a la fotografía analógica con[ Daniela Eliana Flores](https://www.instagram.com/danielaelianaflores/) durante mayo y diciembre de 2020.
 
-ana centeno • aylen barrios • brad borja • daniel esperben • dévora peñaloza • fer aliciardi • flor agliano • flor berdichevsky • francesca bertoglio • guadalupe bellegia • irene orlandoni • isabella montalbano • ivana ibazeta • jerónimo guzman • juan martin argoitia • lara olin • luciana belén cardozo • manu sabbadini • marce damian •  marcos cuomo • maria del valle tello • mariano gutierrez • matias orzi • melina otero • natalia hurtado • nicolas schulze • ody reynoso • paloma isasmendi • paula a. reynoso • silvina de la guadalupe onetti •  una chica acuario • valentina ramirez • valentina ruiz • vanesa durini • yago gonzalez • yanina gimenez 
+ana centeno • aylen barrios • brad borja • daniel esperben • dévora peñaloza • fer aliciardi • flor agliano • flor berdichevsky • francesca bertoglio • guadalupe bellegia • irene orlandoni • isabella montalbano • ivana ibazeta • jerónimo guzman • juan martin argoitia • lara olin • luciana belén cardozo • manu sabbadini • marce damian •  marcos cuomo • maria del valle tello • mariano gutierrez • matias orzi • melina otero • natalia hurtado • nicolas schulze • ody reynoso • paloma isasmendi • paula a. reynoso • silvina de la guadalupe onetti •  una chica acuario • valentina ramirez • valentina ruiz • vanesa durini • yago gonzalez • yanina gimenez
