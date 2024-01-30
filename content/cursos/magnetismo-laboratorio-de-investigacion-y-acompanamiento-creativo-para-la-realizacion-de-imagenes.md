@@ -1,6 +1,6 @@
 ---
-date: 2021-09-30T21:56:22.000Z
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1651533641/2022/marlax2_gqga1s.jpg
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1651533641/2022/marlax2_gqga1s.jpg
 title: >-
   Magnetismo | Laboratorio de investigación y acompañamiento creativo  para la
   realización de imágenes
@@ -8,8 +8,8 @@ inicio: 2022-11-02T21:00:00.000Z
 docente: Marla Zakai
 lugar: Online
 mercadopago_link: 'https://mpago.la/2wj3v52'
-finalizado: false
-_template: curso
+finalizado: true
+date: 2021-09-30T21:56:22.000Z
 ---
 
 Magnetismo es un espacio de acompañamiento creativo para la realización de imágenes. A través de nuestros archivos, ejercicios y referencias investigaremos nuestro propio lenguaje atrayendo las imágenes que nos interpelen para continuar creando.
@@ -30,7 +30,7 @@ Coordina **Marla Zakai,** fotografa, editora de fanzines/libros. Coordina espaci
 
 **Destinataries:**
 
-A Fotograf_s y artistas visuales que deseen quieran trabajar con imagenes propias o de archivo
+A Fotograf\_s y artistas visuales que deseen quieran trabajar con imagenes propias o de archivo
 
 **Elementos necesarios**
 
@@ -40,7 +40,7 @@ Buena conexión wifi. Computadora preferentemente, puede ser reemplazada por tel
 
 **ARS $6000**
 
-**Costo internacional:** [**30 USD via PayPal**](https://www.paypal.com/invoice/p/#BRDPULTMHPDPQCVJ)
+**Costo internacional:** **[30 USD via PayPal](https://www.paypal.com/invoice/p/#BRDPULTMHPDPQCVJ)**
 
 **Para inscribirte:**
 
