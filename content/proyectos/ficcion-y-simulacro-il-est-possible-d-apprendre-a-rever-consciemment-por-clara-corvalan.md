@@ -1,5 +1,5 @@
 ---
-title: 'il est possible d''apprendre à rêver consciemment por '
+title: il est possible d'apprendre à rêver consciemment
 listado: true
 anio: '2020'
 thumbnail: >-
