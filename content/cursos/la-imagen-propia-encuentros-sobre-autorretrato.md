@@ -1,13 +1,13 @@
 ---
-date: 2021-04-28T23:55:20.000Z
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1648744901/2022/weblaimagen_roqcrs.jpg
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1648744901/2022/weblaimagen_roqcrs.jpg
 title: La Imagen Propia | Encuentros sobre autorretrato
 inicio: 2022-04-11T21:00:00.000Z
 docente: Savia Flor & Eli Portela
 lugar: Online
 mercadopago_link: 'https://mpago.la/1ke4jM2'
-finalizado: false
-_template: curso
+finalizado: true
+date: 2021-04-28T23:55:20.000Z
 ---
 
 La Imagen Propia es un espacio de experimentación y acción en torno al autorretrato, en donde investigamos, miramos referentxs y trabajamos vinculando imágenes y palabras. Nos hacemos preguntas y realizamos ejercicios para movilizar los posibles registros que tenemos de nosotrxs mismxs en el cotidiano.
@@ -41,9 +41,9 @@ WIFI. Computadora o celular. Dispositivo para tomar fotos
 
 Costo Nacional (ARG) | $4000 (por transferencia al alias logro.carinio.poesia)
 
-MercadoPago | $4300 [en este enlace](https://www.mercadopago.com.ar/checkout/v1/payment/redirect/64be45f3-b5da-45cf-a11e-84ab722e38fb/payment-option-form/?source=link&router-request-id=3799f142-bdf6-446d-afdb-4fa0abc7d1dc&preference-id=649080404-e78b716b-a2d8-43d2-bcb6-7b3d6442787b&p=1a97ff3f0f449707f20b32fa27f2e454#/)
+MercadoPago | $4300 [en este enlace](https://www.mercadopago.com.ar/checkout/v1/payment/redirect/64be45f3-b5da-45cf-a11e-84ab722e38fb/payment-option-form/?source=link\&router-request-id=3799f142-bdf6-446d-afdb-4fa0abc7d1dc\&preference-id=649080404-e78b716b-a2d8-43d2-bcb6-7b3d6442787b\&p=1a97ff3f0f449707f20b32fa27f2e454#/)
 
-Costo Internacional | 60USD  (enviando via PayPal a florr.ms@gmail.com)
+Costo Internacional | 60USD  (enviando via PayPal a [florr.ms@gmail.com](mailto:florr.ms@gmail.com))
 
 ***
 
@@ -55,6 +55,6 @@ Sobre las coordinadoras:
 
 ***
 
-Recordá que podés regalar este taller enviandonos un mail a freezerfoto@gmail.com :)
+Recordá que podés regalar este taller enviandonos un mail a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com) :)
 
 Con este QR podés pagar directamente desde tu celular desde MercadoPago:
