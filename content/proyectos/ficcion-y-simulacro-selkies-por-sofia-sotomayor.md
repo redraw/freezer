@@ -1,5 +1,5 @@
 ---
-title: selkies | sofía sotomayor
+title: selkies
 listado: true
 anio: '2020'
 thumbnail: >-
@@ -52,3 +52,4 @@ bg_color: '#B09FC9'
 fg_color: '#FFFFFF'
 ---
 
+Proyecto desarrollado durante los encuentros de Ficción y simulacro con Luciana Demichelis por Sofía Sotomayor
