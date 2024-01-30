@@ -1,17 +1,21 @@
 ---
 title: Contacto
-
 ---
-Con sede en la ciudad de La Plata, FREEZER es un proyecto coordinado por [Luciana Demichelis ](https://www.instagram.com/demichelisluciana/)que se vincula a la investigación, formación y encuentro a partir de la imagen fotográfica.
 
-Creamos cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran pensar, fortalecer y producir nuevas propuestas a partir de su imaginario visual.
+Con sede en la ciudad de La Plata (Argentina) y Madrid (España), Freezer es un proyecto coordinado por [Luciana Demichelis ](https://www.instagram.com/demichelisluciana/)que vincula la investigación, formación y encuentro a partir de la imagen fotográfica.
 
-También producimos eventos y contenido web donde nuestros participantes podrán mostrar sus trabajos curados en el transcurso de los talleres.
-
-Nos acompañamos mutuamente en el proceso de creación de proyectos desde el principio hasta el final: estudiamos autorxs, editamos, recortamos, catalogamos, archivamos, superponemos y creamos con los dispositivos que tengamos cerca.
-
-Los cursos durante el 2020 serán dictados en [La Playa Estudios](https://www.instagram.com/laplayaestudios/ " La Playa Estudios")  y de forma online con ganas intensas de trasladarse también a otros puntos del país.
+Difundimos narrativas visuales, proyectos, espacios de encuentro y cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran fortalecer y producir nuevas propuestas a partir de su imaginario visual. 
 
 Podés colaborar con nuestro trabajo [comprandonos un café](https://cafecito.app/freezerfoto).
 
-Si tenés alguna duda o propuesta [mandanos un mail, todos los consejos son bienvenidos.  ](mailto:freezerfoto@gmail.com "mandanos un mail ")
+Si tenés alguna duda o propuesta [mandanos un mail, q](mailto:freezerfoto@gmail.com "mandanos un mail ")ueremos saber de vos. \
+\
+\_\_\_\_
+
+Based in La Plata and Madrid, Freezer is a project coordinated by Luciana Demichelis that is linked to research, training and encounters based on the photographic image.
+
+We create courses for those who are starting out and for those with previous tools who want to think, strengthen and produce new proposals from their visual imagination. We also produce events and web content where our participants can show their curated work during the workshops. We accompany each other in the project creation process from beginning to end: we study authors, edit, cut, catalog, archive, overlay and create with the devices we have nearby.
+
+You can collaborate with our work by [buying us a coffee.]()
+
+If you have any questions or proposals, send us an email to freezerfoto\@gmail.com. We want to hear from you.
