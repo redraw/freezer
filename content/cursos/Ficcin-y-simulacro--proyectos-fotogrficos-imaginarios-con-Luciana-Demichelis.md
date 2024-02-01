@@ -18,13 +18,12 @@ conceptuales mediante una secuencia de imágenes.
 
 El resultado final es la creación de una publicación en común bajo un tema colectivo y el análisis de posibles ideas expositivas para un proyecto fotográfico.
 
-8 encuentros + diseño de exposición (Marzo - Abril) | Presencial en Madrid | Viernes de 17 a 20 hs., \
-Inicia el viernes 8 de marzo €60 al mes 
+Madrid | 8 encuentros + diseño de exposición (Marzo - Abril)  Viernes de 17 a 20 hs.  | Inicia el viernes 8 de marzo | €60 al mes | Encuentros en Sterlab (Calle Fernán Caballero 2bis - 1o2, Madrid) 
+
+\_\_\_\_\_\_\_\_
 
 Online | Jueves de 17 a 20 hs. (Horario Argentina) | 8 encuentros online  + diseño de exposición (Marzo - Abril)\
-Inicio jueves 7 de marzo\
-ARS $35000 al mes\
-60 USD al mes
+Inicio jueves 7 de marzo | ARS $35000 o un pago por los dos meses de ARS $50000 | LATAM y resto del mundo: 60 USD al mes o 1 pago final por todo el curso de 100 USD
 
 [Inscripción en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform)
 
