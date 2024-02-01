@@ -49,7 +49,7 @@ ARGENTINA | Transferencia bancaria (Banco Provincia) al alias mecha.risa.vaso
 ARS $35000 al mes o un pago por los dos meses de ARS $50000
 
 
-LATAM / USA / EUROPA | Via Paypal a paypal.com/paypalme/ficysimulacro
+LATAM / USA / EUROPA | Via Paypal a [paypal.com/paypalme/ficysimulacro]()
 
 60 USD al mes o 1 pago final por todo el curso de 100 USD
 
