@@ -21,7 +21,6 @@ El resultado final es la creación de una publicación en común bajo un tema co
 8 encuentros + diseño de exposición (Marzo - Abril) | Presencial en Madrid | Viernes de 17 a 20 hs., \
 Inicia el viernes 8 de marzo €60 al mes 
 
-
 Online | Jueves de 17 a 20 hs. (Horario Argentina) | 8 encuentros online  + diseño de exposición (Marzo - Abril)\
 Inicio jueves 7 de marzo\
 ARS $35000 al mes\
@@ -29,27 +28,22 @@ ARS $35000 al mes\
 
 [Inscripción en este enlace]()
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 — Becas completas (1 beca online + 1 beca presencial en Madrid) 
-El taller ofrece 2 becas para cursar de forma 100% gratuita el curso Ficción y simulacro '24 para artistas, fotógrafxs y creadores. Para aplicar, prepará una carpeta de Google Drive con hasta 15 imágenes, que escribas un statement y adjuntes tu bio. Los resultados de lxs ganadorxs de la beca presencial en Madrid y la beca online serán anunciados el 16/2.   Abierta la inscripción en el mismo formulario para inscribirte al seminario. La opción estará disponible hasta el 15/2 a las 23.59 (GMT-3)\
+El taller ofrece 2 becas para cursar de forma 100% gratuita el curso Ficción y simulacro '24 para artistas, fotógrafxs y creadores. Para aplicar, prepará una carpeta de Google Drive con hasta 15 imágenes, que escribas un statement y adjuntes tu bio. Los resultados de lxs ganadorxs de la beca presencial en Madrid y la beca online serán anunciados el 16/2.   Abierta la inscripción en el mismo formulario para inscribirte al seminario. La opción estará disponible hasta el 15/2 a las 23.59 (GMT-3)\\
 
-Ante cualquier duda, escribir a lumdemichelis\@gmail.com o a freezerfoto\@gmail.com\
-
+Ante cualquier duda, escribir a [lumdemichelis@gmail.com](mailto:lumdemichelis@gmail.com) o a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)\\
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Para confirmar tu inscripción, podés dejar ya pago el curso. 
 
-MADRID | Pago en efectivo  (Coordinar via freezerfoto\@gmail.com)
+MADRID | Pago en efectivo  (Coordinar via [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com))
 
 Via Paypal a paypal.com/paypalme/ficysimulacro
 
-
 \_\_\_\_\_\_
-
 
 ONLINE 
 ARGENTINA | Transferencia bancaria (Banco Provincia) al alias mecha.risa.vaso
