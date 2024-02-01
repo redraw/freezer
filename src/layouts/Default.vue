@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <div class="banner" v-if="$settings.banner_cursos">
+    <div class="banner" v-if="$settings.banner_cursos && showBanner">
       <client-only>
         <marquee-text :repeat="10" :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
           <span v-html="bannerCursosText"></span>
@@ -60,6 +60,9 @@ export default {
   },
 
   computed: {
+    showBanner() {
+      return this.$static.cursos.edges.length > 0
+    },
     bannerCursosText() {
       const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
       const sep = (text) => `<span style='color: yellow'>&nbsp;&nbsp;${text}&nbsp;&nbsp;</span>`
