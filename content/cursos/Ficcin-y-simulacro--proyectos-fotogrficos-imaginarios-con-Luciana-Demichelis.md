@@ -26,7 +26,7 @@ Inicio jueves 7 de marzo\
 ARS $35000 al mes\
 60 USD al mes
 
-[Inscripción en este enlace]()
+[Inscripción en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
