@@ -31,7 +31,7 @@ ARS $35000 al mes\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 — Becas completas (1 beca online + 1 beca presencial en Madrid) 
-El taller ofrece 2 becas para cursar de forma 100% gratuita el curso Ficción y simulacro '24 para artistas, fotógrafxs y creadores. Para aplicar, prepará una carpeta de Google Drive con hasta 15 imágenes, que escribas un statement y adjuntes tu bio. Los resultados de lxs ganadorxs de la beca presencial en Madrid y la beca online serán anunciados el 16/2.   [Abierta la inscripción en el mismo formulario para inscribirte al seminario](). La opción estará disponible hasta el 15/2 a las 23.59 (GMT-3)\\
+El taller ofrece 2 becas para cursar de forma 100% gratuita el curso Ficción y simulacro '24 para artistas, fotógrafxs y creadores. Para aplicar, prepará una carpeta de Google Drive con hasta 15 imágenes, que escribas un statement y adjuntes tu bio. Los resultados de lxs ganadorxs de la beca presencial en Madrid y la beca online serán anunciados el 16/2.   [Abierta la inscripción en el mismo formulario para inscribirte al seminario](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform). La opción estará disponible hasta el 15/2 a las 23.59 (GMT-3)\\
 
 Ante cualquier duda, escribir a [lumdemichelis@gmail.com](mailto:lumdemichelis@gmail.com) o a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)
 
