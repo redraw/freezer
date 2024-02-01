@@ -9,6 +9,7 @@ docente: Luciana Demichelis
 lugar: 'Online / Madrid '
 mercadopago_link: 'https://mpago.la/23UG242'
 date: 2024-02-07T23:00:00.000Z
+finalizado: false
 ---
 
 Contraponiendo conceptos como 'verdad' y 'ficción', en este curso se discutirá e imaginará los motivos que llevan a conceder a la imagen fotográfica diferentes atribuciones identitarias. La exposición teórica animará a los alumnos a discutir y a dialogar sobre los contenidos en base a la conceptualización, selección de imágenes, secuenciación y puesta en página. Utilizaremos mágenes no exclusivamente fotográficas y pondremos en evidencia el sentido histórico en el que se inscriben los diferentes proyectos.

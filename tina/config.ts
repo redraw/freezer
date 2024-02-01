@@ -70,6 +70,9 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+        defaultItem: () => {
+          return {finalizado: false}
+        },
         fields: [
           {
             type: "rich-text",
@@ -88,6 +91,9 @@ export default defineConfig({
         path: "content/notas",
         match: {
           include: "**/*",
+        },
+        defaultItem: () => {
+          return {listado: true}
         },
         fields: [
           {
