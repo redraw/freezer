@@ -12,7 +12,7 @@ listado: true
 
 Entrevista por [Luciana Demichelis]() | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
 
-![](https://res.cloudinary.com/freezer/image/upload/v1719565926/41-020-fm66_01_cover_front_lr_01_fjew6e.webp)
+![](https://res.cloudinary.com/freezer/image/upload/v1719566657/41-020-fm66_01_cover_front_lr_01_copia_zvucbj.jpg)
 
 La puerta de entrada a todos los puntos del universo, imaginada por el escritor argentino Jorge Luis Borges, fue hecha a imagen y semejanza con lo que fue una de las primeras IA abiertas al público (Dalle-2) por Juan Manuel y el editor del proyecto, el fotógrafo Martín Bollati en 2023. Como un Aleph actual, los programas de inteligencia artificial generadores de imágenes conceden el deseo de dar forma a todo lo que se puede nombrar, a pedido y en el momento. De la misma forma, el Aleph presenta en la imaginación todo el cosmos en un segundo. Al igual que la inteligencia artificial, creadora en 1' de cualquier imagen que podamos imaginar, es capaz de mostrarnos todas las praderas, todas las montañas, todos los ríos, todas las habitaciones y todas las llaves.
 
