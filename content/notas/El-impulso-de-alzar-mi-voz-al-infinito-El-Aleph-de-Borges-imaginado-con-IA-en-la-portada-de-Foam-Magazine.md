@@ -12,6 +12,8 @@ listado: true
 
 Entrevista por [Luciana Demichelis]() | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
 
+![](https://res.cloudinary.com/freezer/image/upload/v1719565561/Aleph-2-Juan-Manuel-Lara_Sed-Editorial-000-_zjmr62.jpg)
+
 La puerta de entrada a todos los puntos del universo, imaginada por el escritor argentino Jorge Luis Borges, fue hecha a imagen y semejanza con lo que fue una de las primeras IA abiertas al público (Dalle-2) por Juan Manuel y el editor del proyecto, el fotógrafo Martín Bollati en 2023. Como un Aleph actual, los programas de inteligencia artificial generadores de imágenes conceden el deseo de dar forma a todo lo que se puede nombrar, a pedido y en el momento. De la misma forma, el Aleph presenta en la imaginación todo el cosmos en un segundo. Al igual que la inteligencia artificial, creadora en 1' de cualquier imagen que podamos imaginar, es capaz de mostrarnos todas las praderas, todas las montañas, todos los ríos, todas las habitaciones y todas las llaves.
 
 Con pocos referentes en materia de creación de proyectos de este estilo, ambos editaron contrarreloj en el estudio de Bollati en Parque Centenario basándose en el cuento de Borges. Fueron pioneros. A las pocas semanas, el proyecto estaba listo para llegar a imprenta. La presentación del proyecto fue íntima, con apenas 15 personas en el mismo lugar donde fue creado. Un año después, Foam Magazine #66: MISSING MIRROR – Photography Through the Lens of AI tiene la imagen principal de dicho proyecto (una mano señalando, una mano impulsando) en su portada.
@@ -36,6 +38,8 @@ Tanto las revistas, como los festivales y muestras, y en general todas las insta
 
 En este caso, yo laburé con un texto de la literatura argentina, ese es el lugar de donde me surgió hacer el trabajo, y creo que recuperar la tradición, en este caso literaria, pero también editorial, es el lugar desde donde yo quiero hablar.
 
+![](https://res.cloudinary.com/freezer/image/upload/v1719565345/448627856_985322856583416_8539822445549321403_n_pqsala.jpg)
+
 **¿Te imaginaste el proyecto en formato expositivo? ¿Cuál sentís que son sus potencias / dificultades?**
 
 Sí, me lo imaginé en formato expositivo, y me lo imagino, porque es la instancia ahora en donde creo que quedó parado este proyecto, más allá de la difusión propia del libro, de la serie de imágenes, que está teniendo su propio camino. Un año después de haberlo editadol, las imágenes están llegando a otros puertos, en este caso muy literalmente. Entonces un poco está el darle tiempo a eso, pero también, obviamente, tengo muy presente (y pendiente) la instancia expositiva. 
@@ -53,6 +57,8 @@ Evolucionó muy concretamente para mí en lo que es la circulación y difusión.
 **¿Estás trabajando en otros proyectos? ¿Tenés algún otro en mente o aún querés profundizar sobre Aleph-2?**
 
 Sí, estoy trabajando en otros proyectos. Cuando terminamos la edición final de Aleph-2 dejé también de trabajarlo, porque fue una verdadera sobredosis de imágenes, básicamente, entonces quedé un poco quemado con el uso de inteligencia artificial y en el laburo con imágenes también. Así que este último año largo, año y medio, me dediqué a trabajar más instalaciones, a recorrer otras materialidades, soportes, otro trabajo en el vínculo de mi obra con el espacio, sobre todo. Eso repercutió en lo que estoy haciendo y en lo que proyecto hacer más adelante. 
+
+![](https://res.cloudinary.com/freezer/image/upload/v1719565602/aleph-2-by-juan-manuel-lara-817285_tkuwuf.jpg)
 
 **¿Será con IA?**
 
