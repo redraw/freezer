@@ -8,7 +8,7 @@ thumbnail: >-
 listado: true
 ---
 
-### De La Plata al mundo, el artista Juan Manuel Lara presentó su proyecto 'Aleph-2' en la portada de la última Foam Magazine, principal medio de fotografía de los Países Bajos. La edición fue íntegramente realizada con proyectos con inteligencia artificial. Ahora, Juan Manuel está participando con su libro de la feria de fotografía más grande del mundo en la categoría a mejor fotolibro a nivel internacional en Les Rencontres d'Arles, Francia.
+### De La Plata al mundo, el artista Juan Manuel Lara presentó su proyecto 'Aleph-2' en la portada de la última Foam Magazine, principal medio de fotografía de los Países Bajos. La edición fue íntegramente realizada con proyectos con inteligencia artificial. Ahora, Juan Manuel está participando con su libro en una de las ferias de fotografía más grande del mundo en la categoría a mejor fotolibro a nivel internacional: Les Rencontres d'Arles, Francia.
 
 Entrevista por [Luciana Demichelis]() | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
 
