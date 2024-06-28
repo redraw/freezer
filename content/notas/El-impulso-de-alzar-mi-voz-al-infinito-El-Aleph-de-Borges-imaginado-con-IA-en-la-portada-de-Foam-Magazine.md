@@ -16,7 +16,7 @@ Entrevista por [Luciana Demichelis]() | Imagen de la serie Aleph-2 © Juan Man
 
 La puerta de entrada a todos los puntos del universo, imaginada por el escritor argentino Jorge Luis Borges, fue hecha a imagen y semejanza con lo que fue una de las primeras IA abiertas al público (Dalle-2) por Juan Manuel y el editor del proyecto, el fotógrafo Martín Bollati en 2023. Como un Aleph actual, los programas de inteligencia artificial generadores de imágenes conceden el deseo de dar forma a todo lo que se puede nombrar, a pedido y en el momento. De la misma forma, el Aleph presenta en la imaginación todo el cosmos en un segundo. Al igual que la inteligencia artificial, creadora en 1' de cualquier imagen que podamos imaginar, es capaz de mostrarnos todas las praderas, todas las montañas, todos los ríos, todas las habitaciones y todas las llaves.
 
-Con pocos referentes en materia de creación de proyectos de este estilo, ambos editaron contrarreloj en el estudio de Bollati en Parque Centenario basándose en el cuento de Borges. Fueron pioneros. A las pocas semanas, el proyecto estaba listo para llegar a imprenta. La presentación del proyecto fue íntima, con apenas 15 personas en el mismo lugar donde fue creado. Un año después, Foam Magazine #66: MISSING MIRROR – Photography Through the Lens of AI tiene la imagen principal de dicho proyecto (una mano señalando, una mano impulsando) en su portada.
+Con pocos referentes en materia de creación de proyectos de este estilo, ambos editaron contrarreloj en el estudio de Bollati en Parque Centenario eligiendo las imágenes, basados en el cuento original. Fueron pioneros. A las pocas semanas, el proyecto estaba listo para llegar a imprenta. La presentación del proyecto fue íntima, con apenas 15 personas en el mismo lugar donde fue creado. Un año después, Foam Magazine #66: MISSING MIRROR – Photography Through the Lens of AI tiene la imagen principal de dicho proyecto (una mano señalando, una mano impulsando) en su portada.
 
 Mientras el libro espera este lunes presentarse en la feria de publicaciones de Arles, desde La Plata Juan nos cuenta sobre la cocina de distribución de este proyecto y algunas perspectivas desde la mirilla del futuro próximo.
 
@@ -24,7 +24,7 @@ Mientras el libro espera este lunes presentarse en la feria de publicaciones de 
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719565309/448754679_476973698157012_4263399551457975138_n_qsafgn.jpg)
 
-\*\*¿Cómo 'terminó' Aleph-2 en la portada de Foam Magazine? \*\*
+**¿Cómo 'terminó' Aleph-2 en la portada de Foam Magazine? **
 
 Yo mismo no sé bien cómo terminé ahí, pero, según me dijeron, creo que vieron mi trabajo por redes sociales. A partir de ahí, un editor de la revista me contactó y me comentó que estaban trabajando en un número especial acerca de fotografía e inteligencia artificial. En este año Aleph-2 circuló bastante a través de plataformas fotográficas de Instagram, más que nada. Y al conjugar el texto literario con la fotografía y la inteligencia artificial, llama bastante la atención, me parece. Y bueno, la circulación llega a lugares que por ahí no nos imaginamos, así que por ese lado me convocaron.
 
