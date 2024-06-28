@@ -18,9 +18,9 @@ La puerta de entrada a todos los puntos del universo, imaginada por el escritor 
 
 Con pocos referentes en materia de creación de proyectos de este estilo, ambos editaron contrarreloj en el estudio de Bollati en Parque Centenario basándose en el cuento de Borges. Fueron pioneros. A las pocas semanas, el proyecto estaba listo para llegar a imprenta. La presentación del proyecto fue íntima, con apenas 15 personas en el mismo lugar donde fue creado. Un año después, Foam Magazine #66: MISSING MIRROR – Photography Through the Lens of AI tiene la imagen principal de dicho proyecto (una mano señalando, una mano impulsando) en su portada.
 
-![](https://res.cloudinary.com/freezer/image/upload/v1719565561/Aleph-2-Juan-Manuel-Lara_Sed-Editorial-000-_zjmr62.jpg)
-
 Mientras el libro espera este lunes presentarse en la feria de publicaciones de Arles, desde La Plata Juan nos cuenta sobre la cocina de distribución de este proyecto y algunas perspectivas desde la mirilla del futuro próximo.
+
+![](https://res.cloudinary.com/freezer/image/upload/v1719565561/Aleph-2-Juan-Manuel-Lara_Sed-Editorial-000-_zjmr62.jpg)
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719565309/448754679_476973698157012_4263399551457975138_n_qsafgn.jpg)
 
