@@ -24,7 +24,7 @@ Mientras el libro espera este lunes presentarse en la feria de publicaciones de 
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719565309/448754679_476973698157012_4263399551457975138_n_qsafgn.jpg)
 
-\*\*¿Cómo terminó Aleph-2 en la portada de Foam Magazine? \*\*
+\*\*¿Cómo 'terminó' Aleph-2 en la portada de Foam Magazine? \*\*
 
 Yo mismo no sé bien cómo terminé ahí, pero, según me dijeron, creo que vieron mi trabajo por redes sociales. A partir de ahí, un editor de la revista me contactó y me comentó que estaban trabajando en un número especial acerca de fotografía e inteligencia artificial. En este año Aleph-2 circuló bastante a través de plataformas fotográficas de Instagram, más que nada. Y al conjugar el texto literario con la fotografía y la inteligencia artificial, llama bastante la atención, me parece. Y bueno, la circulación llega a lugares que por ahí no nos imaginamos, así que por ese lado me convocaron.
 
