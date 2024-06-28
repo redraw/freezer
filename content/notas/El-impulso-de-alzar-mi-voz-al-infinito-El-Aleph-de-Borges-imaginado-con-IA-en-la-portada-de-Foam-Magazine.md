@@ -10,7 +10,7 @@ listado: true
 
 ### De La Plata al mundo, el artista Juan Manuel Lara presentó su proyecto 'Aleph-2' en la portada de la última Foam Magazine, principal medio de fotografía de Países Bajos. La edición fue íntegramente realizada con proyectos hechos con inteligencia artificial. Ahora, Juan Manuel está participando con su libro en una de las ferias de fotografía más grandes del mundo en la categoría a mejor fotolibro a nivel internacional: Les Rencontres d'Arles, Francia.
 
-Entrevista por [Luciana Demichelis]() | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
+Entrevista por [Luciana Demichelis](http://lucianademichelis.com.ar) | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719566657/41-020-fm66_01_cover_front_lr_01_copia_zvucbj.jpg)
 
@@ -32,7 +32,9 @@ Yo mismo no sé bien cómo terminé ahí, pero, según me dijeron, creo que vier
 
 Creo que algo que nos reúne es la pregunta. La actitud de preguntar haciendo. Más allá de varias certezas a la hora de desarrollar nuestro trabajo, en mi caso hay curiosidad por lo nuevo. Y no sólo es decir: ¿A ver de qué se trata esto?, sino también es hacer y ver cómo impacta mientras hacemos, ¿no? Por otro lado, me parece que aún no logro tener la distancia como para ver cómo afecta a la fotografía, básicamente porque estoy afectado, estoy dentro de la afectación.
 
-Lo mejor para mí hoy es mantenernos curiosos y críticos, innovadores y un poco atrevidos a la hora de usar la inteligencia artificial y vincularla con la fotografía. Leímos que el fotolibro está por concursar en Arles, la feria de fotografía más grande de Europa. ¿Cuál sentís que viene siendo el rol de autores latinoamericanxs dentro de dicho espacio?
+Lo mejor para mí hoy es mantenernos curiosos y críticos, innovadores y un poco atrevidos a la hora de usar la inteligencia artificial y vincularla con la fotografía. Leímos que el fotolibro está por concursar en Arles, la feria de fotografía más grande de Europa. 
+
+**¿Cuál sentís que viene siendo el rol de autores latinoamericanxs dentro de dicho espacio?**
 
 Yo puedo hablar de los que conozco, que están haciendo acá cosas acá en Argentina, por ejemplo en SED, con este trabajo y lo que está haciendo Martín (Bollati) con Hermes Unesco. Yo puedo decir que desde Argentina nos estamos metiendo con eso, con posturas bastante definidas, y sé que participan 3 o 4 proyectos más de Sudamérica, de Perú precisamente, y después no estoy seguro, no estoy al tanto ni en contacto con otras publicaciones.
 
