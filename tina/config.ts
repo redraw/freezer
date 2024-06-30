@@ -2,6 +2,7 @@ import { defineConfig } from "tinacms";
 import { bazar___obraFields } from "./templates";
 import { cursoFields } from "./templates";
 import { notaFields } from "./templates";
+import { autorFields } from "./templates";
 import { proyectoFields } from "./templates";
 import { single_pageFields } from "./templates";
 import { configFields, imageUploadDir } from "./templates";
@@ -52,6 +53,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          ...proyectoFields(),
           {
             type: "rich-text",
             name: "body",
@@ -59,7 +61,6 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...proyectoFields(),
         ],
       },
       {
@@ -74,6 +75,7 @@ export default defineConfig({
           return {finalizado: false}
         },
         fields: [
+          ...cursoFields(),
           {
             type: "rich-text",
             name: "body",
@@ -81,7 +83,6 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...cursoFields(),
         ],
       },
       {
@@ -96,6 +97,7 @@ export default defineConfig({
           return {listado: true}
         },
         fields: [
+          ...notaFields(),
           {
             type: "rich-text",
             name: "body",
@@ -103,7 +105,28 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...notaFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Autores",
+        name: "autor",
+        path: "content/autores",
+        match: {
+          include: "**/*",
+        },
+        defaultItem: () => {
+          return {}
+        },
+        fields: [
+          ...autorFields(),
+          {
+            type: "rich-text",
+            name: "bio",
+            label: "Bio",
+            description: "Bio",
+            isBody: true,
+          },
         ],
       },
       {
@@ -115,6 +138,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          ...bazar___obraFields(),
           {
             type: "rich-text",
             name: "body",
@@ -122,7 +146,6 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...bazar___obraFields(),
         ],
       },
       {
@@ -134,6 +157,7 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          ...single_pageFields(),
           {
             type: "rich-text",
             name: "body",
@@ -141,7 +165,6 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...single_pageFields(),
         ],
       },
       {

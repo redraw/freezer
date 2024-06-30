@@ -123,6 +123,36 @@ export function notaFields() {
       name: "listado",
       label: "listado",
     },
+    {
+      type: "reference",
+      name: "autor",
+      label: "autor",
+      collections: ["autor"],
+    }
+  ] as TinaField[];
+}
+export function autorFields() {
+  return [
+    {
+      type: "string",
+      name: "nombre",
+      label: "nombre",
+      isTitle: true,
+      required: true,
+    },
+    {
+      type: "string",
+      name: "url",
+      label: "url",
+    },
+    {
+      type: "image",
+      name: "avatar",
+      label: "avatar",
+      ui: {
+        uploadDir: imageUploadDir,
+      }
+    },
   ] as TinaField[];
 }
 export function proyectoFields() {

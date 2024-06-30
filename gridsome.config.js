@@ -31,8 +31,21 @@ module.exports = {
       use: "@gridsome/source-filesystem",
       options: {
         baseDir: "content",
+        path: "autores/**/*.md",
+        typeName: "Autor"
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        baseDir: "content",
         path: "notas/**/*.md",
-        typeName: "Nota"
+        typeName: "Nota",
+        refs: {
+          autor: {
+            typeName: "Autor",
+          }
+        }
       }
     },
     {
