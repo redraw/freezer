@@ -10,7 +10,7 @@ autores:
 
 **_Primera nota que compartimos en Freezer escrita por_** [**_Pugna XYZ,_**](https://pugnaxyz.medium.com/) **_el proyecto impulsado por_** [**_Felipe Alarcón Correa_**](https://www.instagram.com/felipeacn/) **_de discusión y difusión de proyectos hechos por artistas visuales y fotógrafos latinoamericanos._**
 
-[Zully Sotelo](https://www.instagram.com/zullynka/)es una fotógrafa, artista visual, gestora y editora colombiana. Creo que en el país es una de las voces más solidas en relación al mundo de la creación de fotolibros. Hace poco que pude conocer su fotolibro _Extrañezas,_ un búsqueda en relación a las ideas de belleza, la mujer, a la familia y la vulnerabilidad, hecho a través del álbum familiar de la familia de Zully_._ Con motivo de este le hice la siguiente entrevista.
+[Zully Sotelo](https://www.instagram.com/zullynka/) es una fotógrafa, artista visual, gestora y editora colombiana. Creo que en el país es una de las voces más solidas en relación al mundo de la creación de fotolibros. Hace poco que pude conocer su fotolibro _Extrañezas,_ un búsqueda en relación a las ideas de belleza, la mujer, a la familia y la vulnerabilidad, hecho a través del álbum familiar de la familia de Zully_._ Con motivo de este le hice la siguiente entrevista.
 
 ![](https://miro.medium.com/max/700/1*3KnSWE553doLp34rr9OEVw.jpeg)
 
