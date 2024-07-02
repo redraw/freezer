@@ -1,14 +1,14 @@
 ---
-date: 2020-08-29T01:04:59.000Z
 title: 'Se estrena El Vaticano, película ensenadense sobre Jorge y Palermo'
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1598675339/2020/arbol_rnhjkd.jpg
+date: 2020-08-29T01:04:59.000Z
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1598675339/2020/arbol_rnhjkd.jpg
 listado: true
-_template: nota
+autores:
+  - autor: content/autores/Juan-Ignacio-Di-Placido.md
 ---
 
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598675772/2020/1-jorge1_h9kwll.jpg)
-
-Por[ Juan Ignacio Di Placido](https://www.instagram.com/juanidipla/)
 
 ## **Jorge y Palermo habitan el Vaticano: una usina hidráulica abandonada del siglo XIX en las afueras de Ensenada, provincia de Buenos Aires.**
 
@@ -42,14 +42,14 @@ A raíz del retrato al Ruso Sandoval, aparece Gonzalo Almeida, amigo y cineasta,
 
 Fue un proceso de conexión arduo, en donde la confianza mutua se hizo eje en el grupo y desde allí el proyecto fue tomando forma en el propio tránsito del mismo. Más allá del proyecto audiovisual en si, la conexión humana es prioritaria. Compartir el entorno común, un plato de comida, **vivir historias muy íntimas que afloran en contextos adversos**, son el sustento para abordar el compromiso que implica dicha conexión.
 
-**_El Vaticano_**, como el joven Jorge, más conocido por Palermo, denomina a la construcción que los cobija, devino en el título para el documental que narra la relación entre ambos protagonistas en su día a día.
+***El Vaticano***, como el joven Jorge, más conocido por Palermo, denomina a la construcción que los cobija, devino en el título para el documental que narra la relación entre ambos protagonistas en su día a día.
 
 ![](https://res.cloudinary.com/freezer/c_limit,w_1280,h_920/v1598675201/2020/5-Jorge_kc9ts4.jpg)
 
-En paralelo, la serie **_Los Jorges_** surge del taller coordinado por Luciana Demichelis como un trabajo que intenta enfocarse en lo que rodea a los protagonistas del film, realizado íntegramente con cámara analógica y películas de diversas sensibilidades. Allí, puede observarse una mirada diferente a la abordada en el documental, desde un lugar más contextual haciendo eje en los objetos y el entorno.
+En paralelo, la serie ***Los Jorges*** surge del taller coordinado por Luciana Demichelis como un trabajo que intenta enfocarse en lo que rodea a los protagonistas del film, realizado íntegramente con cámara analógica y películas de diversas sensibilidades. Allí, puede observarse una mirada diferente a la abordada en el documental, desde un lugar más contextual haciendo eje en los objetos y el entorno.
 
 Todo este proyecto logra coronar, de alguna manera, con la aprobación por parte del INCAA y la posterior realización del documental de manera profesional, cumpliendo cuestiones legales y requisitos inexorables para poder ser.
 
-La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires). La ópera prima ya está disponible para apreciarla de manera online [**a través de este link**](http://www.fidba.com.ar/2020/programa/el-vaticano/) **con validez hasta este lunes 31 de agosto**.
+La película es una producción de Perro Sudaka, dirigida por Gonzalo Almeida, que actualmente compite en la sección "Largometrajes Nacionales" dentro de la primera edición del FIDBA 2020 (Festival Internacional de Documentales Buenos Aires). La ópera prima ya está disponible para apreciarla de manera online **[a través de este link](http://www.fidba.com.ar/2020/programa/el-vaticano/)** **con validez hasta este lunes 31 de agosto**.
 
-[_Juan Ignacio Di Placido_](https://www.behance.net/DIPLA/moodboards) _es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto_ [_Usina Gráfica_](https://www.instagram.com/usinagrafica/) _y difunde sus fotografías analógicas desde_ [_Diplanalogico_](https://www.instagram.com/diplanalogico/)_. Padre de la inigualable_ [_Carmela_](https://www.instagram.com/p/B-KvbzQHS7h5m78cps0WKRTKVI3l6E9H6qoO7g0/) _e hincha acérrimo de Boca._
+*[Juan Ignacio Di Placido](https://www.behance.net/DIPLA/moodboards)* *es fotógrafo y trabajador de las artes visuales.  Moviliza desde Ensenada su proyecto* *[Usina Gráfica](https://www.instagram.com/usinagrafica/)* *y difunde sus fotografías analógicas desde* *[Diplanalogico](https://www.instagram.com/diplanalogico/). Padre de la inigualable* *[Carmela](https://www.instagram.com/p/B-KvbzQHS7h5m78cps0WKRTKVI3l6E9H6qoO7g0/)* *e hincha acérrimo de Boca.*

@@ -6,11 +6,13 @@ date: 2024-06-27T22:00:00.000Z
 thumbnail: >-
   https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1719566123/2024/06/448652115_1021700022901921_4220663780895345946_n_h2mfe9.jpg
 listado: true
+autores:
+  - autor: content/autores/Luciana-Demichelis.md
 ---
 
 ### De La Plata al mundo, el artista Juan Manuel Lara presentó su proyecto 'Aleph-2' en la portada de la última Foam Magazine, principal medio de fotografía de Países Bajos. La edición fue íntegramente realizada con proyectos hechos con inteligencia artificial. Ahora, Juan Manuel está participando con su libro en una de las ferias de fotografía más grandes del mundo en la categoría a mejor fotolibro a nivel internacional: Les Rencontres d'Arles, Francia.
 
-Entrevista por [Luciana Demichelis](http://lucianademichelis.com.ar) | Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
+Imagen de la serie Aleph-2 © Juan Manuel Lara, cortesía del artista.
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719566657/41-020-fm66_01_cover_front_lr_01_copia_zvucbj.jpg)
 
@@ -24,7 +26,7 @@ Mientras el libro espera este lunes presentarse en la feria de publicaciones de 
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1719565309/448754679_476973698157012_4263399551457975138_n_qsafgn.jpg)
 
-**¿Cómo 'terminó' Aleph-2 en la portada de Foam Magazine? **
+\*\*¿Cómo 'terminó' Aleph-2 en la portada de Foam Magazine? \*\*
 
 Yo mismo no sé bien cómo terminé ahí, pero, según me dijeron, creo que vieron mi trabajo por redes sociales. A partir de ahí, un editor de la revista me contactó y me comentó que estaban trabajando en un número especial acerca de fotografía e inteligencia artificial. En este año Aleph-2 circuló bastante a través de plataformas fotográficas de Instagram, más que nada. Y al conjugar el texto literario con la fotografía y la inteligencia artificial, llama bastante la atención, me parece. Y bueno, la circulación llega a lugares que por ahí no nos imaginamos, así que por ese lado me convocaron.
 
@@ -32,7 +34,7 @@ Yo mismo no sé bien cómo terminé ahí, pero, según me dijeron, creo que vier
 
 Creo que algo que nos reúne es la pregunta. La actitud de preguntar haciendo. Más allá de varias certezas a la hora de desarrollar nuestro trabajo, en mi caso hay curiosidad por lo nuevo. Y no sólo es decir: ¿A ver de qué se trata esto?, sino también es hacer y ver cómo impacta mientras hacemos, ¿no? Por otro lado, me parece que aún no logro tener la distancia como para ver cómo afecta a la fotografía, básicamente porque estoy afectado, estoy dentro de la afectación.
 
-Lo mejor para mí hoy es mantenernos curiosos y críticos, innovadores y un poco atrevidos a la hora de usar la inteligencia artificial y vincularla con la fotografía. Leímos que el fotolibro está por concursar en Arles, la feria de fotografía más grande de Europa. 
+Lo mejor para mí hoy es mantenernos curiosos y críticos, innovadores y un poco atrevidos a la hora de usar la inteligencia artificial y vincularla con la fotografía. Leímos que el fotolibro está por concursar en Arles, la feria de fotografía más grande de Europa.
 
 **¿Cuál sentís que viene siendo el rol de autores latinoamericanxs dentro de dicho espacio?**
 

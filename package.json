@@ -29,5 +29,8 @@
     "vue-server-renderer": "^2.6.12",
     "vue-template-compiler": "^2.6.12",
     "vue-tippy": "^4.4.0"
+  },
+  "volta": {
+    "node": "18.20.3"
   }
 }

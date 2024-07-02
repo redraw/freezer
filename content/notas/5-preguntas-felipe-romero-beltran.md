@@ -1,13 +1,14 @@
 ---
-listado: true
-date: 2020-08-06T03:00:00Z
+bg_color: '#111111'
+fg_color: '#FFFFFF'
 title: 5 preguntas a Felipe Romero Beltrán
-thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1596549575/2020/Reduccion-FR1_wczdop.jpg
-bg_color: "#111111"
-fg_color: "#FFFFFF"
-
+date: 2020-08-06T03:00:00.000Z
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1596549575/2020/Reduccion-FR1_wczdop.jpg
+listado: true
+autores:
+  - autor: content/autores/Luciana-Demichelis.md
 ---
-Por [Luciana Demichelis](http://instagram.com/demichelisluciana)
 
 Reducción es un proyecto que estudia los procedimientos de  sometimiento policial a indocumentados en Madrid. La obra presenta '**dos cuerpos indocumentados aplicando el Manual de Defensa Policial para reducirse uno a otro**'. La acción fue instruida por un policía oficial perteneciente al Cuerpo Nacional de Policía.
 
@@ -47,7 +48,7 @@ Es por esto que decidí dividir el proyecto en estas tres partes. Las calles don
 
 **La serie crea un vínculo con la performance ¿Crees que trabaja también con el fotoperiodismo?**
 
-\-Te puedo responder desde mi educación fotográfica. En los últimos años, la fotografía de corte documental ha sufrido un desplazamiento ante el agotamiento de ciertos lenguajes. Mis intereses siempre han estado muy ligados a la imagen fotográfica documental pero soy consciente de dicho agotamiento. Mi pretensión primera no fue realizar una performance sino registrar fotográficamente un suceso. Es claro también que hay decisiones sobre la superficie de la imagen que acentúan la performatividad del registro. (Decisión de luz, indumentaria, fondo)
+-Te puedo responder desde mi educación fotográfica. En los últimos años, la fotografía de corte documental ha sufrido un desplazamiento ante el agotamiento de ciertos lenguajes. Mis intereses siempre han estado muy ligados a la imagen fotográfica documental pero soy consciente de dicho agotamiento. Mi pretensión primera no fue realizar una performance sino registrar fotográficamente un suceso. Es claro también que hay decisiones sobre la superficie de la imagen que acentúan la performatividad del registro. (Decisión de luz, indumentaria, fondo)
 
 ![](https://res.cloudinary.com/freezer/c_scale,w_1200/v1596684233/2020/Reduccion-FR8_kmq8gv.jpg)
 
@@ -81,4 +82,4 @@ Muchas gracias Felipe :)
 
 Conocé más de su trabajo [en su web](https://feliperomerobeltran.com/).
 
-**_Felipe Romero Beltrán_** _(Bogotá, 1992), doctorando por la Universidad Complutense de Madrid, fotógrafo y artista visual. Realizó un Grado Universitario en fotografía en Buenos Aires, Argentina. Durante su estadía, ganó una beca en la universidad Bezalel (Jerusalén) para desarrollar proyectos de orden documental en Medio Oriente, acentuando su interés en Egipto, Israel y Palestina. En 2016, Felipe decide trasladarse a la ciudad de Madrid, donde actualmente reside y trabaja. Con sus proyectos fotográficos, Felipe ha sido ganador en distintos certámenes internacionales (Torres Hedjuk Cidade da Cultura Galicia, Photoespaña HACER 2019, Tabacalera Cantera 2019, VIPHOTO FEST, Feria ARTBO artecamara 2019, Encontros da imagem, New York Times Call 2019, Sony Photography Awards, Canon Student program Visa pour ĺimage, Burn Magazine Magnum Foundation, Luca Dolega París, World Nomads Japón.)_
+***Felipe Romero Beltrán*** *(Bogotá, 1992), doctorando por la Universidad Complutense de Madrid, fotógrafo y artista visual. Realizó un Grado Universitario en fotografía en Buenos Aires, Argentina. Durante su estadía, ganó una beca en la universidad Bezalel (Jerusalén) para desarrollar proyectos de orden documental en Medio Oriente, acentuando su interés en Egipto, Israel y Palestina. En 2016, Felipe decide trasladarse a la ciudad de Madrid, donde actualmente reside y trabaja. Con sus proyectos fotográficos, Felipe ha sido ganador en distintos certámenes internacionales (Torres Hedjuk Cidade da Cultura Galicia, Photoespaña HACER 2019, Tabacalera Cantera 2019, VIPHOTO FEST, Feria ARTBO artecamara 2019, Encontros da imagem, New York Times Call 2019, Sony Photography Awards, Canon Student program Visa pour ĺimage, Burn Magazine Magnum Foundation, Luca Dolega París, World Nomads Japón.)*

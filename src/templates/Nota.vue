@@ -7,8 +7,15 @@
     </h1>
     <div class="container">
       <div class="content">
-        <small>{{ $page.nota.date }}</small>
-        <div class="nota" v-html="$page.nota.content"/>
+        <small class="autores"
+          >{{ $page.nota.date }} | Escribe
+          <span v-for="(autor, idx) in autores" :id="autor.node.id">
+            <a :href="autor.node.url">{{ autor.node.nombre }}</a>
+            <span v-if="autores.length > 1 && idx < autores.length -2 ">, </span>
+            <span v-if="autores.length > 1 && idx === autores.length -2 "> y </span>
+          </span>
+        </small>
+        <div class="nota" v-html="$page.nota.content" />
       </div>
     </div>
   </Layout>
@@ -23,9 +30,26 @@ query ($path: String!) {
     listado
     date (format: "YYYY-MM-DD")
     thumbnail
+    autores {
+      autor
+    }
   }
 }
 </page-query>
+
+<static-query>
+query {
+  autores: allAutor {
+    edges {
+      node {
+        id
+        nombre
+        url
+      }
+    }
+  }
+}
+</static-query>
 
 <script>
 export default {
@@ -45,24 +69,41 @@ export default {
         },
         {
           name: "twitter:card",
-          content: "summary_large_image"
+          content: "summary_large_image",
         },
         {
           name: "robots",
-          content: this.$page.nota.listado ? "all" : "noindex"
-        }
+          content: this.$page.nota.listado ? "all" : "noindex",
+        },
       ],
     };
-  }
+  },
+  computed: {
+    autores() {
+      return this.$static.autores?.edges.filter((edge) => {
+        return this.$page.nota.autores?.filter((item) => item?.autor === edge?.node?.id).length > 0;
+      });
+    },
+  },
 };
 </script>
 
-<style>
-  .nota img {
-    width: 100%;
-  }
+<style scoped>
+.autores {
+  font-weight: bold;
+  color: #bbb
+}
 
-  .nota p {
-    margin: 1.5em 0;
-  }
+.autores a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.nota img {
+  width: 100%;
+}
+
+.nota p {
+  margin: 1.5em 0;
+}
 </style>

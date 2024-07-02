@@ -4,12 +4,12 @@ title: 'Encuentro de miradas del conurbano: un lugar común'
 thumbnail: https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1606744823/2020/ladrillo_zugelt.png
 listado: true
 _template: nota
+autores:
+  - autor: content/autores/Luciana-Demichelis.md
 ---
 
 
 **Ante las limitaciones de encontrarse en un espacio físico, Encuentro de miradas del conurbano busca seguir apostando por construir comunidad, hoy de manera virtual.**
-
-Escribe [Luciana Demichelis ](https://www.instagram.com/archivodemichelis/)
 
 Fotografías de [Juan Dias](https://www.instagram.com/juandiasfoto/), Andrea Rodriguez y [German Romeo Pena](https://www.instagram.com/germanromeopena/)
 
