@@ -124,10 +124,21 @@ export function notaFields() {
       label: "listado",
     },
     {
-      type: "reference",
-      name: "autor",
-      label: "autor",
-      collections: ["autor"],
+      type: "object",
+      name: "autores",
+      label: "autores",
+      list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.autor };
+        }
+      },
+      fields: [{
+        type: "reference",
+        name: "autor",
+        label: "autor",
+        collections: ["autor"],
+      }]
     }
   ] as TinaField[];
 }

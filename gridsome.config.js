@@ -40,12 +40,7 @@ module.exports = {
       options: {
         baseDir: "content",
         path: "notas/**/*.md",
-        typeName: "Nota",
-        refs: {
-          autor: {
-            typeName: "Autor",
-          }
-        }
+        typeName: "Nota"
       }
     },
     {
