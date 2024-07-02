@@ -7,7 +7,6 @@ listado: true
 autores:
   - autor: content/autores/Luca-Alegre.md
   - autor: content/autores/Luciana-Demichelis.md
-  - autor: content/autores/Juan-Ignacio-Di-Placido.md
 ---
 
 El trabajo de Diana Cano se centra en la reconfiguración del **error como recurso creativo**, **la memoria como detonante** y la **percepción del color.**
