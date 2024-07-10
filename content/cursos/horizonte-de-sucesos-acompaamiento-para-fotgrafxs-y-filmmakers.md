@@ -15,7 +15,7 @@ Trabajamos juntxs organizando tus proyectos, evaluando de forma personalizada el
 
 El objetivo es que durante 1 hora (que puede ser mensual o semanal) trabajemos juntxs en que el proyecto tome forma y puedas sacarlo del freezer.
 
-[Inscribite completando este formulario de inscripción y eligiendo al coordinadorx que realizará tu acompañamiento. ]()
+[Inscribite completando este formulario de inscripción y eligiendo al coordinadorx que realizará tu acompañamiento. ](https://docs.google.com/forms/d/1fkm0H5z5Pz5f0aK05JT1y6xmaZCW-7A5hi2LJPDE1GA/edit)
 
 Turnos disponibles | Julio & Agosto 2024
 
