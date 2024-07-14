@@ -1,4 +1,6 @@
 ---
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1720974386/2024/07/Cursos_freezer_24-4_wkloov.jpg
 title: 'ingeniería del papel '
 inicio: 2024-07-26T22:00:00.000Z
 docente: Francisca P. Burgos
@@ -11,9 +13,9 @@ En este taller experimentaremos desde la ingeniería del papel, por medio de pli
 
 [Inscribite en este formulario ](https://forms.gle/diAbfgpVAYkEuryi8)
 
-Costo total del curso | €50 
+Costo total del curso | €50
 
-Pago via Paypal al mail mfpburgos\@gmail.com
+Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
 
 **Programa**
 
@@ -21,15 +23,15 @@ Pago via Paypal al mail mfpburgos\@gmail.com
 
 2 hras. x sesión
 
-**Sesión 1 | Presentación de participantes y talleristas. **
+\*\*Sesión 1 | Presentación de participantes y talleristas. \*\*
 
 Presentación teórica >> visionado y análisis de referencias.
 
-Diagramación de mecanismos. 
+Diagramación de mecanismos.
 
 Se enviará pdf con mecanismos y links de youtube para montaje.
 
-**Sesión 2 | Presentación de resultados, aclaración de dudas. **
+\*\*Sesión 2 | Presentación de resultados, aclaración de dudas. \*\*
 
 Habrán 7 días entre sesiones para practicar con el papel y los mecanismos entregados. En esos días los participantes podrán contactarnos por mail o whatsapp.
 
