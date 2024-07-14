@@ -19,7 +19,7 @@ Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
 
 **Programa**
 
-2 sesiones (27 de julio y 3 de agosto)
+2 sesiones (27 de julio y 3 de agosto) a las 10 AM Argentina Chile / 15 PM España / Europa
 
 2 hras. x sesión
 
