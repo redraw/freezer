@@ -23,7 +23,7 @@ Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
 
 2 hras. x sesión
 
-\*\*Sesión 1 | Presentación de participantes y talleristas. \*\*
+**Sesión 1 | Presentación de participantes y talleristas. **
 
 Presentación teórica >> visionado y análisis de referencias.
 
@@ -31,7 +31,7 @@ Diagramación de mecanismos.
 
 Se enviará pdf con mecanismos y links de youtube para montaje.
 
-\*\*Sesión 2 | Presentación de resultados, aclaración de dudas. \*\*
+**Sesión 2 | Presentación de resultados, aclaración de dudas. **
 
 Habrán 7 días entre sesiones para practicar con el papel y los mecanismos entregados. En esos días los participantes podrán contactarnos por mail o whatsapp.
 
