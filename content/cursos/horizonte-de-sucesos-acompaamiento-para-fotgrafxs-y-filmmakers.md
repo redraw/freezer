@@ -1,7 +1,6 @@
 ---
-thumbnail: >-
-  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1720611032/2024/07/Cursos_freezer_24-7_h1qj9x.jpg
-title: 'horizonte de sucesos: acompañamiento para fotógrafxs y filmmakers'
+thumbnail: ''
+title: acompañamiento para fotógrafxs y filmmakers
 inicio: 2024-07-10T22:00:00.000Z
 docente: 'Luciana Demichelis, Marla Zakai y Cabri Lynch'
 lugar: 'Online / Madrid '
@@ -9,7 +8,7 @@ finalizado: false
 date: 2024-07-09T22:00:00.000Z
 ---
 
-Horizonte de sucesos es un acompañamiento personalizado para autorxs de fotografía coordinado por Luciana Demichelis, Marla Zakai o Cabri Lynch. 
+Un acompañamiento personalizado para autorxs de fotografía coordinado por Luciana Demichelis, Marla Zakai o Cabri Lynch. 
 
 Trabajamos juntxs organizando tus proyectos, evaluando de forma personalizada el estadío del proyecto. Revisamos los textos de la obra, secuenciamos las imágenes, trabajamos en el título. Imaginamos una forma final de presentación para becas y convocatorias que potencie lo que estás haciendo. 
 
@@ -25,4 +24,4 @@ Marla Zakai | [https://calendly.com/marlazakai93/tutoria-individual](https://cal
 
 Cabri Lynch | [https://calendly.com/cabrilynch/encuentro-individual](https://calendly.com/cabrilynch/encuentro-individual)
 
-Ante cualquier duda, escribinos a freezerfoto\@gmail.com
+Ante cualquier duda, escribinos a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)
