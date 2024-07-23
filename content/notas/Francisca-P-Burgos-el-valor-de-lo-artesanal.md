@@ -46,7 +46,7 @@ También hay redes de migrantes que no necesariamente se dedican a la fotografí
 
 Creo que la “fotografía latinoamericana” no deja de ser una mirada extractivista incluso para mirarnos a nosotrxs mismxs. Siento que el espacio que se le entrega sigue siendo ese espacio cosificante de “el latino, la latina, el migrante, la migrante” sin poner en valor el trabajo indiferentemente del origen de ello. Siento que a veces se da el espacio para completar esa cuota de integración, mientras sigue siendo una mirada sesgada. Quizá no en todos los espacios se funciona así, pero el general de la mirada de los nortes es a esa caricaturización un poco de lo latino. 
 
-![](https://res.cloudinary.com/freezer/image/upload/v1721732469/2024/07/343838305_925069968763084_1613858068865891367_n_c2cxvc.jpg)
+![](https://res.cloudinary.com/freezer/image/upload/v1721732461/2024/07/317664964_2159945244192776_6324321872721984878_n_cusa44.jpg)
 
 **¿Por qué te parece importante autopublicarse?**
 
