@@ -44,15 +44,20 @@ Said, Susan Sontag, Gayatri Spivak, Walter Benjamin, Gilles Deleuze.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Costo: €45 (ES/Europa) / Soles 180 (Perú) / 50 USD (Resto del mundo) / 60000 Pesos Argentinos
-Fecha: Jueves 15, 22 y 29 de agosto.
 
-Horarios:
 
-Perú 10h a 12h Argentina 12h a 14h
-España / 17h a 19h.
+**Fecha: Jueves 15, 22 y 29 de agosto.**
+
+**Horarios:**
+
+**Perú 10h a 12h **
+
+**Argentina 12h a 14h
+España / 17h a 19h.**
+
+
 6 horas impartidas en 3 sesiones de 2 horas cada una.
 Modalidad: Vía zoom / 12 cupos.
-
 
 Medios de pago: 
 
@@ -68,7 +73,6 @@ Resto del mundo (Paypal): [https://paypal.me/enriquepezo?country.x=ES\&locale.x
 ![](https://res.cloudinary.com/freezer/image/upload/v1722680085/Imagen_de_WhatsApp_2024-08-02_a_las_21.34.41_d8e4f127_h2thps.jpg)
 
 Coordina [@enriquepezo](http://www.instagram.com/enriquepezo)
-
 
 Enrique Pezo Gómez (Iquitos, Perú. 1994), se desarrolla en Madrid como artista visual e investigador. Por medio del lenguaje fotográfico activa dispositivos de memorias que traen a la consciencia colectiva occidental relatos que permanecen en los márgenes.
 
