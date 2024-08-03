@@ -14,7 +14,7 @@ formas tradicionales de ver y entender las imágenes. A lo largo de tres sesione
 explorarán diversas temáticas que desafían la percepción visual y los discursos hegemónicos.
 Ofreciendo, además, herramientas para crear proyectos visuales conscientes y críticos. 
 
-[Inscribite ahora en este formulario ]()
+[Inscribite ahora en este formulario ](http://docs.google.com/forms/d/e/1FAIpQLSeWs6XAIQrI7cljS4QEWpjtsQp_CtMqEgrIkmPWPgcbfn_lCw/viewform?usp=sf_link)
 
 [
 ]()Sesión 1: Usos de la imagen fotográfica.
