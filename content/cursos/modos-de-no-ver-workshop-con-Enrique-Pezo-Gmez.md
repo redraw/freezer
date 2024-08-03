@@ -10,7 +10,7 @@ date: 2024-08-14T22:00:00.000Z
 ---
 
 Este workshop se enfoca en el análisis crítico y el desarrollo de proyectos visuales, cuestionando las
-formas tradicionales de ver y entender las imágenes. A lo largo de tres semanas, lxs participantes
+formas tradicionales de ver y entender las imágenes. A lo largo de tres sesiones, lxs participantes
 explorarán diversas temáticas que desafían la percepción visual y los discursos hegemónicos.
 Ofreciendo, además, herramientas para crear proyectos visuales conscientes y críticos. 
 
@@ -43,7 +43,7 @@ Said, Susan Sontag, Gayatri Spivak, Walter Benjamin, Gilles Deleuze.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Costo: €45 (ES/Europa)Soles 180 (Perú) 50 USD (Resto del mundo)60000 Pesos Argentinos
+Costo: €45 (ES/Europa) / Soles 180 (Perú) / 50 USD (Resto del mundo) / 60000 Pesos Argentinos
 Fecha: Jueves 15, 22 y 29 de agosto.
 
 Horarios:
@@ -52,12 +52,24 @@ Perú 10h a 12h Argentina 12h a 14h
 España / 17h a 19h.
 6 horas impartidas en 3 sesiones de 2 horas cada una.
 Modalidad: Vía zoom / 12 cupos.
-Medios de pago: Plin (Perú): 942168688
-Bizum (España): 624025629Alias (Argentina): Mecha.risa.vasoResto del mundo (Paypal): https\://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ES
+
+
+Medios de pago: 
+
+Plin (Perú): 942168688
+Bizum (España): 624025629
+
+Alias (Argentina): Mecha.risa.vaso
+
+Resto del mundo (Paypal): [https://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ES](https://paypal.me/enriquepezo?country.x=ES\&locale.x=es_ES)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+![](https://res.cloudinary.com/freezer/image/upload/v1722680085/Imagen_de_WhatsApp_2024-08-02_a_las_21.34.41_d8e4f127_h2thps.jpg)
+
 Coordina [@enriquepezo](http://www.instagram.com/enriquepezo)
+
+
 Enrique Pezo Gómez (Iquitos, Perú. 1994), se desarrolla en Madrid como artista visual e investigador. Por medio del lenguaje fotográfico activa dispositivos de memorias que traen a la consciencia colectiva occidental relatos que permanecen en los márgenes.
 
 Obtuvo la XX Beca Roberto Villagraz otorgada por la escuela EFTI de Madrid para estudiar el “Máster en Fotografía de Autor”. Recibió la beca DAFO del Ministerio de Cultura del Perú para estudiar el “Máster en Crítica Cinematográfica” en la Escuela de Cine y Audiovisual de Madrid ECAM. Fue becario en CAMPO LAT para estudiar "Pensamiento y producción de Fotolibros". Es egresado de la Carrera Profesional en Dirección de Proyectos Visuales y Fotografía del Centro de la Imagen de Lima.
