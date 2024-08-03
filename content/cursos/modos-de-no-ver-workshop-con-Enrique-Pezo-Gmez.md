@@ -18,9 +18,7 @@ Ofreciendo, además, herramientas para crear proyectos visuales conscientes y cr
 
 [
 ]()Sesión 1: Usos de la imagen fotográfica.
-Abordaremos el uso de la imagen fotográfica, destacando la importancia de desconfiar de las
-imágenes y el peligro de la historia única. Se explorará cómo las imágenes pueden manipularse para
-servir intereses específicos y cómo desarrollar una mirada crítica frente a ellas.
+Usos de la imagen fotográfica. Abordaremos el uso de la imagen fotográfica, destacando la importancia de desconfiar de ellas y el peligro de la historia única. Se explorará sus lógicas de manipulación al servicio de intereses específicos y en cómo desarrollar una mirada crítica frente a ellas.
 
 Sesión 2: El proyecto visual: ¿Qué? / ¿Cómo? / ¿Por qué? / ¿Para qué?
 Nos centramos en la creación de proyectos visuales. Se discutirán las preguntas fundamentales que
