@@ -23,8 +23,7 @@ Usos de la imagen fotográfica. Abordaremos el uso de la imagen fotográfica, de
 Sesión 2: El proyecto visual: ¿Qué? / ¿Cómo? / ¿Por qué? / ¿Para qué?
 Nos centramos en la creación de proyectos visuales. Se discutirán las preguntas fundamentales que
 guían cualquier proyecto: qué se quiere mostrar, cómo se va a representar, por qué se hace y para qué.
-Se analizará el lugar de enunciación y la importancia de la investigación en la imagen. Además,
-contaremos con la participación de Fernanda del Barrio, artista visual invitada.
+Se analizará el lugar de enunciación y la importancia de la investigación en la imagen. Además, contaremos con la participación de unx artista visual invitadx.
 
 Sesión 3: Desmontar para montar nuevos relatos.
 Reflexionaremos sobre la cultura visual en el contexto de la colonialidad y la hegemonía cultural. Se
