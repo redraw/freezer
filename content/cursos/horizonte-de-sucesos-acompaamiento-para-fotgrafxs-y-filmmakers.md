@@ -1,6 +1,7 @@
 ---
-thumbnail: ''
-title: acompañamiento para fotógrafxs y filmmakers
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1722969574/2024/08/Imagen_de_WhatsApp_2024-08-06_a_las_18.17.51_347d9c15_yp3siy.jpg
+title: 'una señal: acompañamiento para fotógrafxs y filmmakers'
 inicio: 2024-07-10T22:00:00.000Z
 docente: 'Luciana Demichelis, Marla Zakai y Cabri Lynch'
 lugar: 'Online / Madrid '
