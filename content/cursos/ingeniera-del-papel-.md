@@ -6,7 +6,7 @@ inicio: 2024-07-26T22:00:00.000Z
 docente: Verónica Garay y Francisca P. Burgos
 lugar: 'Online '
 finalizado: false
-date: 2024-07-26T22:00:00.000Z
+date: 2024-09-20T22:00:00.000Z
 ---
 
 Entregar herramientas y nociones básicas del diseño gráfico para publicaciones, como también explorar diversas técnicas de plegados y ensamblados POP-UP para el diseño versátil y volumétrico de una autopublicación.
