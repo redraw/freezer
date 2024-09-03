@@ -3,13 +3,17 @@ thumbnail: >-
   https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1720974386/2024/07/Cursos_freezer_24-4_wkloov.jpg
 title: 'ingeniería del papel '
 inicio: 2024-07-26T22:00:00.000Z
-docente: Francisca P. Burgos
+docente: Verónica Garay y Francisca P. Burgos
 lugar: 'Online '
 finalizado: false
 date: 2024-07-26T22:00:00.000Z
 ---
 
-En este taller experimentaremos desde la ingeniería del papel, por medio de pliegues y ensambles, para crear puestas en escenas fotográficas dentro de un soporte fanzine o autopublicación.
+Entregar herramientas y nociones básicas del diseño gráfico para publicaciones, como también explorar diversas técnicas de plegados y ensamblados POP-UP para el diseño versátil y volumétrico de una autopublicación.
+
+Dirigidos a fotógrafes o artistas que tengan el interés de experimentar su obra en publicaciones autogestionadas en pequeño o gran formato.
+
+Coordina quipo de FACZINE, Verónica Garay y Francisca P. Burgos
 
 [Inscribite en este formulario ](https://forms.gle/diAbfgpVAYkEuryi8)
 
@@ -19,7 +23,7 @@ Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
 
 **Programa**
 
-2 sesiones (27 de julio y 3 de agosto) a las 10 AM Argentina Chile / 15 PM España / Europa
+2 sesiones (21 y 28 de septiembre). a las 10 AM Argentina Chile / 15 PM España / Europa
 
 2 hras. x sesión
 
