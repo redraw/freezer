@@ -17,9 +17,13 @@ Coordina quipo de FACZINE, Verónica Garay y Francisca P. Burgos
 
 [Inscribite en este formulario ](https://forms.gle/diAbfgpVAYkEuryi8)
 
-Costo total del curso | €50
+**Costo total del curso | 25€ / $35000 ARS / $25.000 CLP (Peso chileno)**
 
-Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
+Pago via Paypal al mail [mfpburgos@gmail.com ](mailto:mfpburgos@gmail.com)
+
+En Argentina, al alias mecha.risa.vaso
+
+En Chile, Cuenta rut 18.143.776-6
 
 **Programa**
 
@@ -35,7 +39,7 @@ Diagramación de mecanismos.
 
 Se enviará pdf con mecanismos y links de youtube para montaje.
 
-\*\*Sesión 2 | Presentación de resultados, aclaración de dudas. \*\*
+Sesión 2 | Presentación de resultados, aclaración de dudas. 
 
 Habrán 7 días entre sesiones para practicar con el papel y los mecanismos entregados. En esos días los participantes podrán contactarnos por mail o whatsapp.
 
