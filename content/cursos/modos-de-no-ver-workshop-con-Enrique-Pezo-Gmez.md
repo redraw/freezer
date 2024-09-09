@@ -5,7 +5,7 @@ title: 'modos de (no) ver: workshop con Enrique Pezo Gómez'
 inicio: 2024-08-14T22:00:00.000Z
 docente: Enrique Pezo Gómez
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2024-08-14T22:00:00.000Z
 ---
 
@@ -42,16 +42,14 @@ Said, Susan Sontag, Gayatri Spivak, Walter Benjamin, Gilles Deleuze.
 
 Costo: €45 (ES/Europa) / Soles 180 (Perú) / 50 USD (Resto del mundo) / 60000 Pesos Argentinos
 
-
 **Fecha: Jueves 15, 22 y 29 de agosto.**
 
 **Horarios:**
 
-**Perú 10h a 12h **
+\*\*Perú 10h a 12h \*\*
 
 **Argentina 12h a 14h
 España / 17h a 19h.**
-
 
 6 horas impartidas en 3 sesiones de 2 horas cada una.
 Modalidad: Vía zoom / 12 cupos.
