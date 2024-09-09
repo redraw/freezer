@@ -1,6 +1,6 @@
 ---
 thumbnail: >-
-  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1720974386/2024/07/Cursos_freezer_24-4_wkloov.jpg
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1725891697/2024/09/Cursos_freezer_24_camila-49_1_w8ylnx.jpg
 title: 'ingeniería del papel '
 inicio: 2024-07-26T22:00:00.000Z
 docente: Verónica Garay y Francisca P. Burgos
@@ -27,7 +27,7 @@ Pago via Paypal al mail [mfpburgos@gmail.com](mailto:mfpburgos@gmail.com)
 
 2 hras. x sesión
 
-**Sesión 1 | Presentación de participantes y talleristas. **
+\*\*Sesión 1 | Presentación de participantes y talleristas. \*\*
 
 Presentación teórica >> visionado y análisis de referencias.
 
@@ -35,7 +35,7 @@ Diagramación de mecanismos.
 
 Se enviará pdf con mecanismos y links de youtube para montaje.
 
-**Sesión 2 | Presentación de resultados, aclaración de dudas. **
+\*\*Sesión 2 | Presentación de resultados, aclaración de dudas. \*\*
 
 Habrán 7 días entre sesiones para practicar con el papel y los mecanismos entregados. En esos días los participantes podrán contactarnos por mail o whatsapp.
 
