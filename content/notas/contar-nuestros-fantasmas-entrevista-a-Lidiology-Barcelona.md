@@ -20,7 +20,6 @@ Fue duro emocionalmente por todo lo que remueves mientras vas construyendo la hi
 
 Me gustaría exponerlo en distintos lugares y que esto genere un cuestionamiento, debate sobre un tema tan importante y tabú como son los abusos sexuales en la infancia. También publicarlo en formato libro que siempre me parece que favorece más a la introspección, desde la tranquilidad de tu hogar. Y dejarme un poco llevar por lo que el propio proyecto me pida y genere.
 
-
 ![](https://res.cloudinary.com/freezer/image/upload/v1727280809/2024/09/fantasma23_n4bcmn.jpg)
 
 ¿Qué criterios deben seguirse para seleccionar las fotografías que formarán parte del archivo sin exponer directamente las experiencias de los niños?
@@ -40,4 +39,6 @@ Puede ayudar de muchas formas, pero principalmente creo que es una herramienta m
 
 Paralelamente estoy construyendo mi propio álbum familiar de una forma intimista. También trabajó en otro proyecto en el que a través del autorretrato reconstruyo el camino que se transita en la depresión profunda. Y estoy trabajando también en el vínculo de amor profundo animal-humano, que creamos y las familias no corrientes que se forman.
 
-![](https://res.cloudinary.com/freezer/image/upload/v1727281294/2024/09/002717--005--VK_sydgfo.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727281320/2024/09/001115--005--VK_pevcjr.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727281311/2024/09/001960--025--VK_qbfecg.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727281311/2024/09/001960--025--VK_qbfecg.jpg)
+![](https://res.cloudinary.com/freezer/image/upload/v1727427357/2024/09/001850--022--VK_p7idmd.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727427278/000315--036--VK_lbso4u.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727427371/2024/09/IMG_6817_hmogxo.jpg)
+
+![](https://res.cloudinary.com/freezer/image/upload/v1727427365/2024/09/001946--017--VK_hikloo.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1727281311/2024/09/001960--025--VK_qbfecg.jpg)
