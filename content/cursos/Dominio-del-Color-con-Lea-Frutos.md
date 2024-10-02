@@ -11,19 +11,15 @@ Desde Japón, el fotógrafo y docente argentino Lea Frutos coordina en nuestra p
 
 [Inscribite en este formulario]()
 
-
 Utilizando las herramientas de Camera Raw y Lightroom, aprenderás a dominar los aspectos técnicos y creativos del color para que tus imágenes no solo cuenten historias, sino que también evoquen emociones profundas. 
-
 
 Contenido del taller
 
 El poder emocional del color: Cómo transmitir sensaciones a través de la paleta cromática Psicología y armonía del color en la composición fotográfica Dominio avanzado de Camera Raw para ajustes de color precisos Técnicas de edición para realzar y manipular colores Desarrollo de estilos visuales únicos mediante el uso estratégico del color 
 
-
 Estructura
 
 El taller se desarrolla en dos sesiones intensivas de 90 minutos cada una. Además, recibirás 5 presets de color exclusivos que analizaremos durante las sesiones, permitiéndote aplicar lo aprendido de inmediato en tu flujo de trabajo. 
-
 
 Este taller está diseñado para fotógrafos de todos los niveles que deseen sumergirse en el fascinante mundo del color y elevar su trabajo al siguiente nivel.
 
@@ -32,3 +28,25 @@ Este taller está diseñado para fotógrafos de todos los niveles que deseen sum
 Sobre el coordinador: Lea Frutos (1992) es un fotógrafo y director creativo de Buenos Aires, Argentina, con más de 10 años de experiencia en el campo audiovisual. Captura la energía y esencia de artistas y bandas en conciertos, creando imágenes que cuentan historias y conectan con el público. Ha desarrollado un estilo distintivo con el correr de los años. En 2023, viajó a Japón, India y Nepal, lo que influyó significativamente en su perspectiva artística. Actualmente, está radicado en Tokio, expandiendo su arte y explorando nuevas colaboraciones.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Te dejamos la información para pagar y reservar tu lugar en el curso con Lea Frutos:
+
+
+Desde Argentina | $45.000
+
+Enviar a:
+
+CBU: 3840200500000006709017 
+
+Alias: BAZAR.DONDE.OBJETO 
+
+ Alias: leandro.frutos.uala
+
+Desde Latinoamérica y Estados Unidos | 60 USD
+
+Link de pago: [https://revolut.me/leafrutos](https://revolut.me/leafrutos)
+
+Desde Europa | 50 euros
+
+Link de pago: [https://revolut.me/leafrutos](https://revolut.me/leafrutos)
+
