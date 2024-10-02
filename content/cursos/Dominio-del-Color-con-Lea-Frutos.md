@@ -33,16 +33,15 @@ Sobre el coordinador: Lea Frutos (1992) es un fotógrafo y director creativo d
 
 Te dejamos la información para pagar y reservar tu lugar en el curso con Lea Frutos:
 
-
 Desde Argentina | $45.000
 
 Enviar a:
 
-CBU: 3840200500000006709017 
+CBU: 3840200500000006709017
 
-Alias: BAZAR.DONDE.OBJETO 
+Alias: BAZAR.DONDE.OBJETO
 
- Alias: leandro.frutos.uala
+Alias: leandro.frutos.uala
 
 Desde Latinoamérica y Estados Unidos | 60 USD
 
@@ -51,4 +50,3 @@ Link de pago: [https://revolut.me/leafrutos](https://revolut.me/leafrutos)
 Desde Europa | 50 euros
 
 Link de pago: [https://revolut.me/leafrutos](https://revolut.me/leafrutos)
-
