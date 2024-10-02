@@ -1,4 +1,6 @@
 ---
+thumbnail: >-
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1727869348/2024/10/Sin_t%C3%ADtulo-1_copia_ytatxd.jpg
 title: Dominio del Color con Lea Frutos
 inicio: 2024-10-11T22:00:00.000Z
 docente: Lea Frutos
