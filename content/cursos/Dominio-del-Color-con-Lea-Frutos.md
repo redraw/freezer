@@ -11,6 +11,8 @@ date: 2024-10-11T22:00:00.000Z
 
 Desde Japón, el fotógrafo y docente argentino Lea Frutos coordina en nuestra plataforma un workshop de dos encuentros para aprender a utilizar la herramienta Camera Raw para editar tus imágenes. 
 
+Online | 12 y 19 de octubre | 7 AM ARG / 12 PM EUROPA / 4 AM MÉXICO / 7 PM JAPÓN
+
 [Inscribite en este formulario](https://forms.gle/RerHq5UhEiYHzjtQ6 "Inscribite en este formulario")
 
 Utilizando las herramientas de Camera Raw y Lightroom, aprenderás a dominar los aspectos técnicos y creativos del color para que tus imágenes no solo cuenten historias, sino que también evoquen emociones profundas. 
