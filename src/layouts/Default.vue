@@ -1,15 +1,24 @@
 <template>
   <div class="layout">
-    <div class="banner" v-if="$settings.banner_cursos && showBanner">
+    <div class="banner" v-if="$settings.show_banner">
       <client-only>
-        <marquee-text :repeat="10" :paused="bannerPaused" :duration="60" @mouseenter="bannerPaused = !bannerPaused" @mouseleave="bannerPaused = !bannerPaused">
-          <span v-html="bannerCursosText"></span>
+        <marquee-text
+          :repeat="10"
+          :paused="bannerPaused"
+          :duration="60"
+          @mouseenter="bannerPaused = !bannerPaused"
+          @mouseleave="bannerPaused = !bannerPaused"
+        >
+          <span v-if="!!$settings.banner" v-html="bannerText"></span>
+          <span
+            v-else-if="$static.cursos.edges.length"
+            v-html="bannerCursosText"
+          ></span>
         </marquee-text>
       </client-only>
     </div>
-    <div class="banner" v-else-if="$settings.banner.length" v-html="$settings.banner" />
     <Header v-if="showHeader" />
-    <slot/>
+    <slot />
     <Footer v-if="showFooter" />
   </div>
 </template>
@@ -32,19 +41,23 @@ query {
 
 <script>
 // https://github.com/EvodiaAut/vue-marquee-text-component/issues/44#issuecomment-993102743
-import MarqueeText from 'vue-marquee-text-component/src/components/MarqueeText.vue'
+import MarqueeText from "vue-marquee-text-component/src/components/MarqueeText.vue";
 
-import Header from "@/components/Header"
-import Footer from "@/components/Footer"
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+function sep(text = "⚡️", color = "yellow") {
+  return `<span style='color: ${color}'>&nbsp;&nbsp;${text}&nbsp;&nbsp;</span>`;
+}
 
 export default {
   props: {
     showHeader: {
-      default: true
+      default: true,
     },
     showFooter: {
-      default: true
-    }
+      default: false,
+    },
   },
 
   components: {
@@ -55,26 +68,40 @@ export default {
 
   data() {
     return {
-      bannerPaused: false
-    }
+      bannerPaused: false,
+    };
   },
 
   computed: {
-    showBanner() {
-      return this.$static.cursos.edges.length > 0
-    },
     bannerCursosText() {
-      const link = (edge) => `<a href="${edge.node.path}">${edge.node.title}</a>`
-      const sep = (text) => `<span style='color: yellow'>&nbsp;&nbsp;${text}&nbsp;&nbsp;</span>`
+      const link = (edge) =>
+        `<a href="${edge.node.path}">${edge.node.title}</a>`;
       const banner = [
         "",
-        `freezer cursos ${new Date().getFullYear()}`, 
-        ...this.$static.cursos.edges.map(link)
-      ]
-      return banner.join(sep("⚡"))
-    }
-  }
-}
+        `freezer cursos ${new Date().getFullYear()}`,
+        ...this.$static.cursos.edges.map(link),
+      ];
+      return banner.join(
+        sep(
+          this.$settings.banner_separator,
+          this.$settings.banner_separator_color
+        )
+      );
+    },
+    bannerText() {
+      if (!!this.$settings.banner) {
+        return this.$settings.banner
+          .split("\n")
+          .join(
+            sep(
+              this.$settings.banner_separator,
+              this.$settings.banner_separator_color
+            )
+          );
+      }
+    },
+  },
+};
 </script>
 
 <style>
@@ -88,12 +115,13 @@ html {
 
 body {
   --color-base: rgb(255, 255, 255);
-  --color-base-1: rgb(243, 243, 243);
+  --color-base-1: rgb(223, 223, 223);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(43, 43, 43);
   --color-link: #2742c9;
-  font-family: "Space Grotesk",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
+  font-family: "Space Grotesk", -apple-system, system-ui, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
   padding: 0;
   font-size: 16px;
   background: var(--color-base);
@@ -113,6 +141,12 @@ h1 {
   letter-spacing: -0.01em;
 }
 
+hr {
+  border: 0;
+  border-top: 2px solid var(--color-base-1);
+  margin: 1em 0;
+}
+
 a {
   color: var(--color-link);
 }
@@ -123,7 +157,11 @@ a {
   display: flex;
   position: relative;
   flex-flow: column;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), transparent 15em) !important;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.6),
+    transparent 15em
+  ) !important;
 }
 
 .container {
@@ -144,12 +182,12 @@ img {
   transition: opacity 0.2s;
 }
 
-img[lazy=loading] {
+img[lazy="loading"] {
   opacity: 0;
   visibility: hidden;
 }
 
-img[lazy=loaded] {
+img[lazy="loaded"] {
   opacity: 1;
   visibility: visible;
 }
@@ -160,7 +198,8 @@ img[lazy=loaded] {
   margin-bottom: 0.5rem;
 }
 
-.titulo, .titulo-zarpado {
+.titulo,
+.titulo-zarpado {
   color: white;
   background: black;
   padding: 2rem;
@@ -178,7 +217,7 @@ img[lazy=loaded] {
   /* text-transform: uppercase; */
 }
 .banner img {
-  margin: 0 .5em;
+  margin: 0 0.5em;
 }
 .banner a {
   text-decoration: none;
@@ -187,7 +226,7 @@ img[lazy=loaded] {
 
 select {
   width: 100%;
-  font-family: 'Space Grotesk';
+  font-family: "Space Grotesk";
   font-size: medium;
 }
 

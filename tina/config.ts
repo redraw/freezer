@@ -196,19 +196,38 @@ export default defineConfig({
             },
           },
           {
-            type: "string",
-            name: "footer",
-            label: "Footer text",
-          },
-          {
-            type: "boolean",
-            name: "dark_mode",
-            label: "Dark mode",
+            type: "object",
+            list: true,
+            name: "menu",
+            label: "Menu",
+            ui: {
+              itemProps: (item) => ({
+                key: item.name,
+                label: item.name,
+              }),
+            },
+            fields: [
+              {
+                type: "string",
+                name: "name",
+                label: "Name",
+              },
+              {
+                type: "string",
+                name: "url",
+                label: "URL",
+              },
+            ],
           },
           {
             type: "string",
             name: "tv_playlist",
             label: "TV playlist",
+          },
+          {
+            type: "boolean",
+            name: "show_banner",
+            label: "Mostrar banner",
           },
           {
             type: "string",
@@ -218,6 +237,19 @@ export default defineConfig({
               component: "textarea",
             },
           },
+          {
+            type: "string",
+            name: "banner_separator",
+            label: "Banner separator",
+          },
+          {
+            type: "string",
+            name: "banner_separator_color",
+            label: "Banner separator color",
+            ui: {
+              component: "color",
+            },
+          }
         ],
       },
     ],

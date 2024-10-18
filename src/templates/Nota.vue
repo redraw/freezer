@@ -88,7 +88,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .autores {
   font-weight: bold;
   color: #bbb
@@ -99,11 +99,12 @@ export default {
   text-decoration: none;
 }
 
-.nota img {
-  width: 100%;
+.nota p > img {
+  text-align: center;
 }
 
 .nota p {
+  width: 100%;
   margin: 1.5em 0;
 }
 </style>
