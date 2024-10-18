@@ -1,9 +1,5 @@
 {
-  "footer": "La Plata | Buenos Aires | Argentina • Copyleft 2020",
   "cloudinary_url": "https://res.cloudinary.com/freezer",
-  "dark_mode": false,
-  "site_name": "Freezer",
-  "site_description": "Freezer es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.",
   "menu": [
     {
       "name": "Cursos",
@@ -34,9 +30,12 @@
       "url": "https://newsletter.freezer.com.ar"
     }
   ],
-  "tv_playlist": "PLKQmUvBol137O58bpdWz0lTS08Gedg7kn",
-  "banner": "",
   "banner_cursos": true,
   "banner_color": "#000",
-  "_template": "theme_configuration"
+  "site_name": "Freezer",
+  "site_description": "Freezer es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.",
+  "footer": "La Plata | Buenos Aires | Argentina • Copyleft 2020",
+  "dark_mode": false,
+  "tv_playlist": "PLKQmUvBol137O58bpdWz0lTS08Gedg7kn",
+  "banner": "freezer ✺ festival internacional de fotografía ✺ 23 y 24 de noviembre de 2024 ✺ casa unclan ✺ la plata, provincia de buenos aires ✺ argentina ✺ convocatoria abierta ✺ feria editorial ✺ proyecciones de proyectos de fotografía ✺ talleres ✺ charlas abiertas ✺ VJ books ✺ "
 }
