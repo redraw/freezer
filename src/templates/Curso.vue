@@ -107,6 +107,9 @@ export default {
   display: none;
 }
 @media screen and (min-width: 720px) {
+  .titulo {
+    display: block;
+  }
   .content {
     padding: 0 2rem;
   }
