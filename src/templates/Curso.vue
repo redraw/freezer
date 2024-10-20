@@ -23,6 +23,10 @@
               <span class="label">lugar</span>
               <div v-text="$page.curso.lugar" />
             </div>
+            <div class="estado" v-if="$page.curso.finalizado">
+              <span class="label">estado</span>
+              <small class="finalizado">🕑 finalizado</small>
+            </div>
           </div>
           <div class="content" v-html="$page.curso.content" />
           <div class="content" v-if="$page.curso.mercadopago_link">
@@ -126,6 +130,9 @@ export default {
   }
   .titulo {
     padding: 0 2rem;
+  }
+  .estado {
+    display: none;
   }
   .right {
     flex-basis: 60%;
