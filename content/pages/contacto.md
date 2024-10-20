@@ -20,4 +20,4 @@ You can collaborate with our work by [buying us a coffee](https://cafecito.app/f
 
 If you have any questions or proposals, send us an email to [freezerfoto@gmail.com](freezerfoto@gmail.com). We want to hear from you.
 
-✉️ [email](freezerfoto@gmail.com) - 📸 [instagram](https://www.instagram.com/freezer.foto)
+✉️ [email](mailto:freezerfoto@gmail.com)   📸 [instagram](https://www.instagram.com/freezer.foto)
