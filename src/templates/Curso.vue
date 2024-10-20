@@ -3,7 +3,7 @@
     <div class="container">
       <div class="curso">
         <div class="thumbnail">
-          <img v-lazy="getImageUrl($page.curso.thumbnail, 'c_scale,w_400')" :alt="$page.curso.title" />
+          <img v-lazy="getImageUrl($page.curso.thumbnail, 'c_scale,w_800')" :alt="$page.curso.title" />
         </div>
         <div class="right">
           <h1 class="titulo">
@@ -82,7 +82,7 @@ export default {
 <style scoped>
 .curso {
   display: flex;
-  flex-flow: row wrap-reverse;
+  flex-flow: row wrap;
   justify-content: center;
 }
 .right {
@@ -101,7 +101,10 @@ export default {
   padding: 0 2rem;
 }
 .meta > div {
-  margin: 0 2rem 1rem 0;
+  margin: 1rem 2rem 1rem 0;
+}
+.titulo {
+  display: none;
 }
 @media screen and (min-width: 720px) {
   .content {

@@ -17,7 +17,7 @@
             <i class="anio">{{ curso.node.anio }}</i>
             / {{ curso.node.title }}
           </div>
-          <g-image class="thumb" :src="getImageUrl(curso.node.thumbnail, 'w_500')"/>
+          <g-image class="thumb" :src="getImageUrl(curso.node.thumbnail, 'w_800')" :alt="curso.node.title"/>
         </g-link>
       </masonry>
       <Pager :info="$page.cursos.pageInfo"/>
