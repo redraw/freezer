@@ -4,7 +4,7 @@ title: Contacto
 
 Con sede en la ciudad de La Plata (Argentina) y Madrid (España), Freezer es un proyecto coordinado por [Luciana Demichelis](https://www.instagram.com/demichelisluciana) que vincula la investigación, formación y encuentro a partir de la imagen fotográfica.
 
-Difundimos narrativas visuales, proyectos, espacios de encuentro y cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran fortalecer y producir nuevas propuestas a partir de su imaginario visual. 
+Difundimos narrativas visuales, proyectos, espacios de encuentro y cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran fortalecer y producir nuevas propuestas a partir de su imaginario visual.
 
 Podés colaborar con nuestro trabajo [comprandonos un café](https://cafecito.app/freezerfoto).
 
@@ -19,3 +19,5 @@ We create courses for those who are starting out and for those with previous too
 You can collaborate with our work by [buying us a coffee](https://cafecito.app/freezerfoto)
 
 If you have any questions or proposals, send us an email to [freezerfoto@gmail.com](freezerfoto@gmail.com). We want to hear from you.
+
+✉️ [email](freezerfoto@gmail.com) - 📸 [instagram](https://www.instagram.com/freezer.foto)
