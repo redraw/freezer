@@ -69,7 +69,7 @@ To support the festival, you can make your[ contribution via Wise in this link�
 \
 \_\_\_\_\_\_
 
-Charlas abiertas
+Charlas abiertas y presentaciones
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
@@ -77,8 +77,37 @@ Charla abierta con Martín Bollati
 
 Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
-Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlace. ]()
+Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlace. ](https://docs.google.com/forms/d/1PYKFPwej3yQ1ErIdYzpjuNibJ5vYv5wx_3CDCm3o3tg/edit "Confirmá tu asistencia completando este formulario de inscripción")
 
 Biblioteca/Colisión esuna biblioteca de lectura comparada de libros de fotografía a través del uso de herramientas de image-to-image con motores de inteligencia artificial.
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
+
+![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
+
+O FUTURO es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
+
+Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+
+Entrada libre y gratuita. 
+
+Talleres
+
+![](https://res.cloudinary.com/freezer/image/upload/v1729874175/freezer_fotofest_1_-29_fwvnua.jpg)
+
+Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo
+
+Domingo 24 de noviembre | 15 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+
+[Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
+
+Durante el segundo día del festival, tendremos un taller de Taller de Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo ✺
+
+
+La propuesta es sumergirse en las posibilidades que nos brinda el proceso personal en un espacio de creación colectiva para componer/materializar una pieza artesanal propia. El collage, el recorte y la superposición; la tinta y el papel, la tipografía y todo tipo de imágenes, se ponen a disposición como disparadores para ese hacer.
+Materiales necesarios:Imágenes con las que quieras trabajar. Opcional si tienen alguna materialidad particular con la que quieran trabajar / libros e imágenes para compartir durante el encuentro.
+
+
+Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, Buenos Aires, Argentina. Desde 2015 publica obras de artistas visuales como Federico Ruvituso, Paula Giogi y Julia Sbriller; y coedita publicaciones en conjunto con otros proyectos independientes como FestiFreak, Shirley la Bombón, entre otros.
+
+Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
