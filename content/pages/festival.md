@@ -26,7 +26,7 @@ Los proyectos en formato audiovisual seleccionados de artistas argentinxs se pre
 
 En el marco del intercambio internacional, proyectaremos 35 proyectos creados por autores de El Local durante la jornada del 23 de noviembre del Festival en Casa Unclan (calle 5 N°1512 entre 63 y 64), La Plata, Provincia de Buenos Aires, Argentina.
 
-La convocatoria estará abierta hasta el viernes 8 de noviembre, 23.59 (Hora Argentina)
+La convocatoria abierta hasta el viernes 8 de noviembre, 23.59 (Hora Argentina)
 Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocatoria es libre y gratuita.
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
@@ -34,8 +34,6 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 ***
 
 **¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público**
-
-[Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link")
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
 Tradução em português abaixo / EN below
@@ -45,8 +43,11 @@ En este contexto, las imágenes gritan o nos piden una pausa. Invitamos a fotó
 Las imágenes seleccionadas serán pegadas en La Plata días antes del festival y días después, distribuidas en dos sesiones. 
 
 También invitaremos a lxs autorxs seleccionadxs a pegar en sus propios barrios sus fotos y la imagen de otrx participantx de la convocatoria, con el fin de expandir las imágenes a todas las latitudes posibles. 
-La convocatoria es libre y gratuita. Estará abierta hasta el día domingo 10/11 a las 23.59 (hora Argentina)
-Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
+La convocatoria es libre y gratuita. 
+
+🕒 Abierta hasta el día domingo 10/11 a las 23.59 (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
+
+✺
 
 A Argentina atravessa um dos momentos mais complexos da sua história recente. Sob a gestão de Javier Milei, assistimos a um agravamento da crise económica, cortes orçamentais na educação, saúde e cultura misturados com violência desproporcional. As ruas assistem a greves, mobilizações e manifestações de resistência.
 
@@ -54,8 +55,9 @@ Neste contexto, as imagens gritam ou pedem uma pausa. Convidamos os fotógrafos 
 
 Convidaremos também os autores selecionados a colarem as suas fotos e a imagem dos restantes participantes da convocatória nos seus próprios bairros, de forma a expandir as imagens para todas as latitudes possíveis.
 
-A chamada é gratuita e aberta.
-Para colaborar com o festival, pode fazer a sua contribuição para[ internacionalmente para este link da Wise](https://wise.com/pay/me/lucianam2248) ou [adquirir os nossos produtos na nossa pré-venda.](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)
+A chamada é gratuita e aberta. Para colaborar com o festival, pode fazer a sua contribuição para[ internacionalmente para este link da Wise](https://wise.com/pay/me/lucianam2248) ou [adquirir os nossos produtos na nossa pré-venda.](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)
+
+✺
 
 Argentina is going through one of the most complex moments in its recent history. Under the leadership of Javier Milei, we have seen a worsening of the economic crisis, budget cuts in education, health and culture mixed with disproportionate violence. The streets are witnessing strikes, mobilizations and expressions of resistance.
 
@@ -64,7 +66,13 @@ In this context, the images scream or ask us to pause. We invite photographers a
 We will also invite the selected authors to paste their photos and the image of another participant in the call in their own neighborhoods, in order to expand the images to all possible latitudes.
 
 The call is free and open to the public.
-To support the festival, you can make your[ contribution via Wise in this link ](https://wise.com/pay/me/lucianam2248)or [get our merch in our pre-sale. ](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)\\
+To support the festival, you can make your[ contribution via Wise in this link ](https://wise.com/pay/me/lucianam2248)or [get our merch in our pre-sale. ](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)
+
+✺
+
+[Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link") 
+
+✺
 
 ***
 
@@ -74,7 +82,7 @@ To support the festival, you can make your[ contribution via Wise in this link�
 
 **Charla abierta con Martín Bollati**
 
-Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+🕒Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlace. ](https://docs.google.com/forms/d/1PYKFPwej3yQ1ErIdYzpjuNibJ5vYv5wx_3CDCm3o3tg/edit "Confirmá tu asistencia completando este formulario de inscripción")
 
@@ -82,13 +90,15 @@ Biblioteca/Colisión esuna biblioteca de lectura comparada de libros de fotograf
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
 
+✺
+
 ![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
 
 **O futuro, presentación del libro de Jerónimo Rivero**
 
-O FUTURO es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
+🕒 Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
-Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+O FUTURO es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
 
 Entrada libre y gratuita.
 
@@ -100,7 +110,7 @@ Entrada libre y gratuita.
 
 **Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo**
 
-Domingo 24 de noviembre | 15 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+🕒Domingo 24 de noviembre | 15 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
 [Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
 
@@ -117,17 +127,17 @@ Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de
 
 ## VJ Books
 
-Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
-
 **Todo desgravita | Federico Paladino (Editorial La Balsa) + Música de Seba Rulli**
+
+🕒Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Todo desgravita es una performance editorial en homenaje al músico y poeta Sebastían Rulli. Federico Paladino propone una secuencia de relaciones entre imágenes impresas para acompañar sus canciones.
 
 ✺
 
-Domingo 24 a las 19hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
-
 **Ciclo Fotograma + Hermes 3E (RapxComida)**
+
+🕒 Domingo 24 a las 19hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Julián Luna es Hermes 3E, músico y enfermero del Hospital de Niños de La Plata. Es activista de la ciudad con dos ciclos mensuales de eventos con los que recauda alimentos para sustentar el comedor "Caminando juntos" de Villa Elisa, Barril el rincón. Estudió batería, tiene una banda y también es rapero. 'Estoy trabajando en mi tercer álbum pero lo más importante que hago es gestionar estos espacios donde la gente adoptó como parte de la cultura hacer algo por el otro.'
 
