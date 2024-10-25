@@ -6,7 +6,7 @@ title: festival
 
 Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Casa Unclan (calle 5 N°1512 entre 63 y 64). Serán dos días de propuestas de encuentro, proyecciones de proyectos fotográficos, talleres, charlas y VJ books.
 
-\##Convocatorias
+## Convocatorias
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729864782/freezer_fotofest-6_1_edpl0v.png)
 
@@ -123,13 +123,14 @@ Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La
 
 Todo desgravita es una performance editorial en homenaje al músico y poeta Sebastían Rulli. Federico Paladino propone una secuencia de relaciones entre imágenes impresas para acompañar sus canciones.
 
+✺
+
 Domingo 24 a las 19hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 **Ciclo Fotograma + Hermes 3E (RapxComida)**
 
 Julián Luna es Hermes 3E, músico y enfermero del Hospital de Niños de La Plata. Es activista de la ciudad con dos ciclos mensuales de eventos con los que recauda alimentos para sustentar el comedor "Caminando juntos" de Villa Elisa, Barril el rincón. Estudió batería, tiene una banda y también es rapero. 'Estoy trabajando en mi tercer álbum pero lo más importante que hago es gestionar estos espacios donde la gente adoptó como parte de la cultura hacer algo por el otro.'
 
-\
 Fotograma es una productora autogestiva de fotografía local. Hecha por y para la ciudad de La Plata la premisa del proyecto es fomentar el desarrollo y expansión de la fotografía platense. Fotograma proporciona espacios de encuentros y diálogos para que el mundo de las imágenes se disfrute y se comparta.
 
 En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.
