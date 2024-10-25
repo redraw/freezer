@@ -14,6 +14,10 @@ La feria se desarrollará ambos días desde las 15hs, compartiendo el espacio co
 
 [Ya podés inscribirte en nuestra feria editorial. ](https://docs.google.com/forms/d/1n57rFTlj8avM3XY9j_zxQcv_o08lqk4BAwpTjAkSaLI/edit#responses "Ya podés inscribirte en la primera convocatoria abierta para participar de nuestra feria editorial. ") La convocatoria estará abierta hasta el domingo 3/11 hasta las 23.59 hs.
 
+***
+
+Convocatoria abierta El Locaaaal (ES) + Freezer (AR): Lazos
+
 ![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
 
 Abrimos la convocatoria para fotógrafxs y artistas argentinxs o migrantes en territorio argentino a la presentación de videos de máximo 1' (un minuto de duración) basados en proyectos fotográficos. 
@@ -30,6 +34,12 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
 
+***
+
+ ✺ ¡A la calle! ✺ Festival Internacional de Fotografía Freezer ✺ 23 y 24 de noviembre
+
+[Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link")
+
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
 Tradução em português abaixo / EN below
 
@@ -42,9 +52,6 @@ La convocatoria es libre y gratuita. Estará abierta hasta el día domingo 10/11
 Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 A Argentina atravessa um dos momentos mais complexos da sua história recente. Sob a gestão de Javier Milei, assistimos a um agravamento da crise económica, cortes orçamentais na educação, saúde e cultura misturados com violência desproporcional. As ruas assistem a greves, mobilizações e manifestações de resistência.
 
 Neste contexto, as imagens gritam ou pedem uma pausa. Convidamos os fotógrafos e artistas plásticos a enviarem uma única fotografia à nossa convocatória para realizar intervenções em espaços públicos. Os autores selecionados terão as suas imagens impressas e coladas nas ruas do festival: as diagonais da cidade de La Plata, na Argentina.
@@ -55,9 +62,6 @@ A chamada é gratuita e aberta.
 Para colaborar com o festival, pode fazer a sua contribuição para[ internacionalmente para este link da Wise](https://wise.com/pay/me/lucianam2248) ou [adquirir os nossos produtos na nossa pré-venda.](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 Argentina is going through one of the most complex moments in its recent history. Under the leadership of Javier Milei, we have seen a worsening of the economic crisis, budget cuts in education, health and culture mixed with disproportionate violence. The streets are witnessing strikes, mobilizations and expressions of resistance.
 
 In this context, the images scream or ask us to pause. We invite photographers and visual artists to send a single photo to our call for interventions in public space. The selected authors will have their images printed and pasted on the streets of the festival: the diagonals of the city of La Plata, Argentina.
@@ -66,8 +70,9 @@ We will also invite the selected authors to paste their photos and the image of 
 
 The call is free and open to the public.
 To support the festival, you can make your[ contribution via Wise in this link ](https://wise.com/pay/me/lucianam2248)or [get our merch in our pre-sale. ](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)\
-\
-\_\_\_\_\_\_
+
+
+***
 
 Charlas abiertas y presentaciones
 
@@ -90,6 +95,8 @@ O FUTURO es un proyecto editorial y audiovisual de Jerónimo Rivero que explora 
 Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Entrada libre y gratuita. 
+
+***
 
 Talleres
 
