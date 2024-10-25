@@ -118,3 +118,27 @@ Materiales necesarios:Imágenes con las que quieras trabajar. Opcional si tiene
 Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, Buenos Aires, Argentina. Desde 2015 publica obras de artistas visuales como Federico Ruvituso, Paula Giogi y Julia Sbriller; y coedita publicaciones en conjunto con otros proyectos independientes como FestiFreak, Shirley la Bombón, entre otros.
 
 Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
+
+***
+
+VJ Books
+
+Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+
+Todo desgravita | Federico Paladino (Editorial La Balsa) + Música de Seba Rulli
+
+Todo desgravita es una performance editorial en homenaje al músico y poeta Sebastían Rulli. Federico Paladino propone una secuencia de relaciones entre imágenes impresas para acompañar sus canciones.
+
+Domingo 24 a las 19hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+
+Ciclo Fotograma + Hermes 3E (RapxComida)
+
+
+Julián Luna es Hermes 3E, músico y enfermero del Hospital de Niños de La Plata. Es activista de la ciudad con dos ciclos mensuales de eventos con los que recauda alimentos para sustentar el comedor "Caminando juntos" de Villa Elisa, Barril el rincón. Estudió batería, tiene una banda y también es rapero. 'Estoy trabajando en mi tercer álbum pero lo más importante que hago es gestionar estos espacios donde la gente adoptó como parte de la cultura hacer algo por el otro.' 
+
+\
+Fotograma es una productora autogestiva de fotografía local. Hecha por y para la ciudad de La Plata la premisa del proyecto es fomentar el desarrollo y expansión de la fotografía platense. Fotograma proporciona espacios de encuentros y diálogos para que el mundo de las imágenes se disfrute y se comparta.
+
+En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.
+
+![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)
