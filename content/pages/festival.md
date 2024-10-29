@@ -43,7 +43,7 @@ En este contexto, las imágenes gritan o nos piden una pausa. Invitamos a fotó
 Las imágenes seleccionadas serán pegadas en La Plata días antes del festival y días después, distribuidas en dos sesiones. 
 
 También invitaremos a lxs autorxs seleccionadxs a pegar en sus propios barrios sus fotos y la imagen de otrx participantx de la convocatoria, con el fin de expandir las imágenes a todas las latitudes posibles. 
-La convocatoria es libre y gratuita. 
+La convocatoria es libre y gratuita.
 
 🕒 Abierta hasta el día domingo 10/11 a las 23.59 (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
 
@@ -70,7 +70,7 @@ To support the festival, you can make your[ contribution via Wise in this link�
 
 ✺
 
-[Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link") 
+[Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link")
 
 ✺
 
@@ -145,4 +145,4 @@ Fotograma es una productora autogestiva de fotografía local. Hecha por y para l
 
 En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)
+![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1730164348/freezer_fotofest_2-16_hpvq6m.jpg)
