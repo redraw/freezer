@@ -143,6 +143,4 @@ Julián Luna es Hermes 3E, músico y enfermero del Hospital de Niños de La Plat
 
 Fotograma es una productora autogestiva de fotografía local. Hecha por y para la ciudad de La Plata la premisa del proyecto es fomentar el desarrollo y expansión de la fotografía platense. Fotograma proporciona espacios de encuentros y diálogos para que el mundo de las imágenes se disfrute y se comparta.
 
-En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.
-
-![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1730164348/freezer_fotofest_2-16_hpvq6m.jpg)
+En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.![](https://res.cloudinary.com/freezer/image/upload/v1730164348/freezer_fotofest_2-16_hpvq6m.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)
