@@ -108,7 +108,7 @@ En cada proyecto publicado una imagen se encuentra con otra para producir una nu
 
 O FUTURO (2024) es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
 
-Entrada libre y gratuita.
+Entrada libre y gratuita.  [Confirmá tu asistencia inscribiéndote en este enlace. ](https://forms.gle/jRADiZDSwWWtfjBY7 "Confirmá tu asistencia completando este formulario de inscripción")
 
 ***
 
