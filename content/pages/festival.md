@@ -78,6 +78,14 @@ To support the festival, you can make your[ contribution via Wise in this link�
 
 ## Charlas abiertas y presentaciones
 
+![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)\
+\
+**Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)**\
+🕒Sábado 23 a las 16hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+
+\
+Durante los años 2021 a 2023 Leo Vaca retrató a 40 Madres y Abuelas de Plaza de Mayo en sus hogares. Proyecto de la Secretaria de Derechos Humanos de la Nación que culminó en la publicación del foto libro "madres y abuelas" diseñado por Mariana Miguelez.
+
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
 **Charla abierta con Martín Bollati**
@@ -86,7 +94,7 @@ To support the festival, you can make your[ contribution via Wise in this link�
 
 Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlace. ](https://docs.google.com/forms/d/1PYKFPwej3yQ1ErIdYzpjuNibJ5vYv5wx_3CDCm3o3tg/edit "Confirmá tu asistencia completando este formulario de inscripción")
 
-Biblioteca/Colisión esuna biblioteca de lectura comparada de libros de fotografía a través del uso de herramientas de image-to-image con motores de inteligencia artificial.
+Biblioteca/Colisión (2024) es una biblioteca de lectura comparada de libros de fotografía a través del uso de herramientas de image-to-image con motores de inteligencia artificial.
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
 
@@ -98,9 +106,9 @@ En cada proyecto publicado una imagen se encuentra con otra para producir una nu
 
 🕒 Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
-O FUTURO es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
+O FUTURO (2024) es un proyecto editorial y audiovisual de Jerónimo Rivero que explora la región del alto Paraná, en territorios transfronterizos de Argentina, Paraguay y Brasil. Desde allí narra historias vinculadas al ambiente, la sobreexplotación de los recursos naturales y las formas de resistencia que proponen las comunidades afectadas.
 
-Entrada libre y gratuita hasta agotar capacidad. [Confirmá tu asistencia inscribiéndote en este enlace. ](https://docs.google.com/forms/d/1PYKFPwej3yQ1ErIdYzpjuNibJ5vYv5wx_3CDCm3o3tg/edit "Confirmá tu asistencia completando este formulario de inscripción")
+Entrada libre y gratuita.
 
 ***
 
