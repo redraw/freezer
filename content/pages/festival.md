@@ -137,7 +137,7 @@ Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de
 
 🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
-[Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
+[Inscripción abierta en este enlace](https://forms.gle/px4TSwnDbLo4MZRFA "Inscripción abierta en este enlace")
 
 Durante el segundo día del festival, tendremos un taller de Cianotipia con la fotógrafa Célica Véliz ✺
 
