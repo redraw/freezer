@@ -8,14 +8,6 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 
 ## Convocatorias
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729864782/freezer_fotofest-6_1_edpl0v.png)
-
-La feria será ambos días desde las 15hs, compartiendo el espacio con talleres y otras actividades que se desarrollarán a lo largo de la jornada. El sábado la feria se realizará hasta las 19 y el domingo hasta las 21.
-
-[Ya podés inscribirte en nuestra feria editorial. ](https://docs.google.com/forms/d/1n57rFTlj8avM3XY9j_zxQcv_o08lqk4BAwpTjAkSaLI/edit#responses "Ya podés inscribirte en la primera convocatoria abierta para participar de nuestra feria editorial. ") La convocatoria estará abierta hasta el domingo 3/11 hasta las 23.59 hs.
-
-***
-
 **Convocatoria abierta El Local (ES) + Freezer (AR): Lazos**
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
@@ -73,6 +65,12 @@ To support the festival, you can make your[ contribution via Wise in this link�
 [Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link")
 
 ✺
+
+![](https://res.cloudinary.com/freezer/image/upload/v1729864782/freezer_fotofest-6_1_edpl0v.png)
+
+La feria será ambos días desde las 15hs, compartiendo el espacio con talleres y otras actividades que se desarrollarán a lo largo de la jornada. El sábado la feria se realizará hasta las 19 y el domingo hasta las 21.
+
+[Ya podés inscribirte en nuestra feria editorial. ](https://docs.google.com/forms/d/1n57rFTlj8avM3XY9j_zxQcv_o08lqk4BAwpTjAkSaLI/edit#responses "Ya podés inscribirte en la primera convocatoria abierta para participar de nuestra feria editorial. ") La convocatoria estará abierta hasta el domingo 3/11 hasta las 23.59 hs.
 
 ***
 
