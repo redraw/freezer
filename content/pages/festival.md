@@ -26,7 +26,7 @@ Los proyectos en formato audiovisual seleccionados de artistas argentinxs se pre
 
 En el marco del intercambio internacional, proyectaremos 35 proyectos creados por autores de El Local durante la jornada del 23 de noviembre del Festival en Casa Unclan (calle 5 N°1512 entre 63 y 64), La Plata, Provincia de Buenos Aires, Argentina.
 
-La convocatoria abierta hasta el viernes 8 de noviembre, 23.59 (Hora Argentina)
+La convocatoria abierta hasta el **viernes 8 de noviembre, 23.59** (Hora Argentina)
 Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocatoria es libre y gratuita.
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
@@ -45,7 +45,7 @@ Las imágenes seleccionadas serán pegadas en La Plata días antes del festival 
 También invitaremos a lxs autorxs seleccionadxs a pegar en sus propios barrios sus fotos y la imagen de otrx participantx de la convocatoria, con el fin de expandir las imágenes a todas las latitudes posibles. 
 La convocatoria es libre y gratuita.
 
-🕒 Abierta hasta el día domingo 10/11 a las 23.59 (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
+🕒** Abierta hasta el día domingo 10/11 a las 23.59** (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
 
 ✺
 
@@ -118,7 +118,24 @@ Entrada libre y gratuita.  [Confirmá tu asistencia inscribiéndote en este enla
 
 **Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo**
 
-🕒Domingo 24 de noviembre | 15 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+
+[Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
+
+Durante el segundo día del festival, tendremos un taller de Taller de Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo ✺
+
+La propuesta es sumergirse en las posibilidades que nos brinda el proceso personal en un espacio de creación colectiva para componer/materializar una pieza artesanal propia. El collage, el recorte y la superposición; la tinta y el papel, la tipografía y todo tipo de imágenes, se ponen a disposición como disparadores para ese hacer.
+Materiales necesarios:Imágenes con las que quieras trabajar. Opcional si tienen alguna materialidad particular con la que quieran trabajar / libros e imágenes para compartir durante el encuentro.
+
+Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, Buenos Aires, Argentina. Desde 2015 publica obras de artistas visuales como Federico Ruvituso, Paula Giogi y Julia Sbriller; y coedita publicaciones en conjunto con otros proyectos independientes como FestiFreak, Shirley la Bombón, entre otros.
+
+Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
+
+✺
+
+**Cianotipia con Célica Véliz**
+
+🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
 [Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
 
