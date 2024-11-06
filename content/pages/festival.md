@@ -133,20 +133,29 @@ Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de
 
 ✺
 
+![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
+
 **Cianotipia con Célica Véliz**
 
 🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
 [Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
 
-Durante el segundo día del festival, tendremos un taller de Taller de Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo ✺
+Durante el segundo día del festival, tendremos un taller de Cianotipia con la fotógrafa Célica Véliz ✺
 
-La propuesta es sumergirse en las posibilidades que nos brinda el proceso personal en un espacio de creación colectiva para componer/materializar una pieza artesanal propia. El collage, el recorte y la superposición; la tinta y el papel, la tipografía y todo tipo de imágenes, se ponen a disposición como disparadores para ese hacer.
-Materiales necesarios:Imágenes con las que quieras trabajar. Opcional si tienen alguna materialidad particular con la que quieran trabajar / libros e imágenes para compartir durante el encuentro.
+Los actualmente llamados “procesos alternativos” son en su mayoría técnicas de copia fotográfica que datan del siglo XIX. Permiten cubrir papel y otras superficies con una capa química fotosensible para copiar imágenes en ellos.Estos procesos nos dan muchas posibilidades de impresión, ya sea en papel, tela, madera, cerámica o vidrio. Se puede trabajar con imágenes obtenidas con cualquier cámara, con dibujos o con objetos por contacto. Las imágenes deben estar previamente impresas en negativo sobre un soporte transparente. Todo esto hace a los procesos alternativos muy versátiles para trabajar en distintos proyectos fotográficos. La técnica que abordaremos en la práctica de este taller es la cianotipia sobre distintas superficies como papel y tela y sus métodos de tonalizado y blanqueo.La cianotipia es una técnica que utiliza sales de hierro como material sensible para realizar copias por contacto, sobre papel y otras superficies. Da como resultado imágenes en tonos azules que también pueden ser tonalizadas.
 
-Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, Buenos Aires, Argentina. Desde 2015 publica obras de artistas visuales como Federico Ruvituso, Paula Giogi y Julia Sbriller; y coedita publicaciones en conjunto con otros proyectos independientes como FestiFreak, Shirley la Bombón, entre otros.
 
-Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
+Costo de inscripción | $9000 ARS Alias: freezerfotoclub 
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+Célica Véliz | Fotógrafa, Profesora de Artes Visuales y Técnica Ceramista, nacida en Ezeiza, Buenos Aires. Se formó en la ciudad de Tandil en IPAT y en la Escuela de Cerámica. Al finalizar sus estudios, se interesó por las técnicas fotográficas del siglo XIX y comenzó a investigar y experimentar con ellas.
+Actualmente es docente de la cátedra de procesos fotoquímicos en la Tecnicatura Universitaria en Fotografía de la UNLP y coordina talleres de fotografía experimental y procesos fotográficos alternativos en la Cooperativa de la Imagen (CABA), en su espacio virtual “Superficies Sensibles” y en el Ágora del ExpFestival. Desde 2023 es la directora de la residencia artística del Experimental Photo Festival (Barcelona).
+Ha realizado varias muestras individuales en museos y galerías de su país. También participó en exhibiciones colectivas y festivales en Argentina, Colombia, Ecuador, México y España. Ha publicado los mini libros “MADER” (2014), “El Cuerpo Roto” (2019) y “Las Vías de Escape” (2020). 
+Su trabajo aborda principalmente lo autobiográfico, el autorretrato, la edición de fanzines fotográficos, la narración de historias en imágenes acerca del cuerpo y la enfermedad, los lazos familiares, como así también la experimentación con la materialidad, los soportes, la construcción de cámaras y distintas técnicas sin limitarse a los procesos antiguos.
 
 ***
 
