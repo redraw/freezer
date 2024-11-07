@@ -37,7 +37,7 @@ Las imágenes seleccionadas serán pegadas en La Plata días antes del festival 
 También invitaremos a lxs autorxs seleccionadxs a pegar en sus propios barrios sus fotos y la imagen de otrx participantx de la convocatoria, con el fin de expandir las imágenes a todas las latitudes posibles. 
 La convocatoria es libre y gratuita.
 
-🕒** Abierta hasta el día domingo 10/11 a las 23.59** (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
+🕒\*\* Abierta hasta el día domingo 10/11 a las 23.59\*\* (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
 
 ✺
 
@@ -143,12 +143,10 @@ Durante el segundo día del festival, tendremos un taller de Cianotipia con la 
 
 Los actualmente llamados “procesos alternativos” son en su mayoría técnicas de copia fotográfica que datan del siglo XIX. Permiten cubrir papel y otras superficies con una capa química fotosensible para copiar imágenes en ellos.Estos procesos nos dan muchas posibilidades de impresión, ya sea en papel, tela, madera, cerámica o vidrio. Se puede trabajar con imágenes obtenidas con cualquier cámara, con dibujos o con objetos por contacto. Las imágenes deben estar previamente impresas en negativo sobre un soporte transparente. Todo esto hace a los procesos alternativos muy versátiles para trabajar en distintos proyectos fotográficos. La técnica que abordaremos en la práctica de este taller es la cianotipia sobre distintas superficies como papel y tela y sus métodos de tonalizado y blanqueo.La cianotipia es una técnica que utiliza sales de hierro como material sensible para realizar copias por contacto, sobre papel y otras superficies. Da como resultado imágenes en tonos azules que también pueden ser tonalizadas.
 
-
-Costo de inscripción | $9000 ARS Alias: freezerfotoclub 
-
+Costo de inscripción | $9000 ARS \
+Alias: freezerfotofest 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 Célica Véliz | Fotógrafa, Profesora de Artes Visuales y Técnica Ceramista, nacida en Ezeiza, Buenos Aires. Se formó en la ciudad de Tandil en IPAT y en la Escuela de Cerámica. Al finalizar sus estudios, se interesó por las técnicas fotográficas del siglo XIX y comenzó a investigar y experimentar con ellas.
 Actualmente es docente de la cátedra de procesos fotoquímicos en la Tecnicatura Universitaria en Fotografía de la UNLP y coordina talleres de fotografía experimental y procesos fotográficos alternativos en la Cooperativa de la Imagen (CABA), en su espacio virtual “Superficies Sensibles” y en el Ágora del ExpFestival. Desde 2023 es la directora de la residencia artística del Experimental Photo Festival (Barcelona).
