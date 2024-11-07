@@ -6,10 +6,6 @@
   "site_description": "Freezer es un proyecto vinculado a la investigación, formación y encuentro a partir de la imagen fotográfica.",
   "menu": [
     {
-      "name": "tienda",
-      "url": "https://tienda.freezer.com.ar/"
-    },
-    {
       "name": "Cursos",
       "url": "/cursos"
     },
@@ -26,6 +22,10 @@
       "url": "/festival"
     },
     {
+      "name": "tienda",
+      "url": "https://tienda.freezer.com.ar/"
+    },
+    {
       "name": "Contacto",
       "url": "/contacto"
     },
@@ -38,5 +38,5 @@
   "show_banner": true,
   "banner": "freezer\nfestival internacional de fotografía\n23 y 24 de noviembre de 2024\ncasa unclan\nla plata, provincia de buenos aires\nargentina\nconvocatoria abierta\nferia editorial\nproyecciones de proyectos de fotografía\ntalleres\ncharlas abiertas\nVJ books",
   "banner_separator": "✺",
-  "banner_separator_color": "#22FF00"
+  "banner_separator_color": "#F4BED9"
 }
