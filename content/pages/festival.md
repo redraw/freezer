@@ -23,7 +23,7 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
 
-✺
+✺ ✺ ✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
 
@@ -83,7 +83,7 @@ La feria será ambos días desde las 15hs, compartiendo el espacio con talleres 
 
 Durante los años 2021 a 2023 Leo Vaca retrató a 40 Madres y Abuelas de Plaza de Mayo en sus hogares. Proyecto de la Secretaria de Derechos Humanos de la Nación que culminó en la publicación del foto libro "madres y abuelas" diseñado por Mariana Miguelez.
 
-✺
+✺ ✺ ✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
@@ -97,7 +97,7 @@ Biblioteca/Colisión (2024) es una biblioteca de lectura comparada de libros de 
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
 
-✺
+✺ ✺ ✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
 
@@ -130,7 +130,7 @@ Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, B
 
 Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
 
-✺
+✺ ✺ ✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
 
@@ -164,7 +164,7 @@ Su trabajo aborda principalmente lo autobiográfico, el autorretrato, la edició
 
 Todo desgravita es una performance editorial en homenaje al músico y poeta Sebastían Rulli. Federico Paladino propone una secuencia de relaciones entre imágenes impresas para acompañar sus canciones.
 
-✺
+✺ ✺ ✺
 
 **Ciclo Fotograma + Hermes 3E (RapxComida)**
 
