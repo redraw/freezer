@@ -141,6 +141,11 @@ h1 {
   letter-spacing: -0.01em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  padding: 1em 0;
+  margin: 0;
+}
+
 hr {
   border: 0;
   border-top: 2px solid var(--color-base-1);

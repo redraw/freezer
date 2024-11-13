@@ -7,14 +7,14 @@
     </h1>
     <div class="container">
       <div class="content">
-        <small class="autores"
+        <p class="autores"
           >{{ $page.nota.date }} | Escribe
           <span v-for="(autor, idx) in autores" :id="autor.node.id">
             <a :href="autor.node.url">{{ autor.node.nombre }}</a>
             <span v-if="autores.length > 1 && idx < autores.length -2 ">, </span>
             <span v-if="autores.length > 1 && idx === autores.length -2 "> y </span>
           </span>
-        </small>
+        </p>
         <div class="nota" v-html="$page.nota.content" />
       </div>
     </div>
@@ -91,6 +91,7 @@ export default {
 <style>
 .autores {
   font-weight: bold;
+  margin: 1em 0;
   color: #bbb
 }
 
