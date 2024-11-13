@@ -8,7 +8,7 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 
 ## Convocatorias
 
-**Convocatoria abierta El Local (ES) + Freezer (AR): Lazos**
+#### Convocatoria abierta El Local (ES) + Freezer (AR): Lazos
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
 
@@ -23,11 +23,10 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
 
-***
-
-**¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público**
+#### ¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
+
 Tradução em português abaixo / EN below
 
 Argentina atraviesa uno de los momentos más complejos de su historia reciente. Bajo la gestión de Javier Milei, hemos visto un recrudecimiento de la crisis económica, recortes presupuestarios en educación, salud y cultura mezclado con una violencia desproporcionada. Las calles estan siendo testigo de huelgas, movilizaciones y expresiones de resistencia. 
@@ -37,7 +36,7 @@ Las imágenes seleccionadas serán pegadas en La Plata días antes del festival 
 También invitaremos a lxs autorxs seleccionadxs a pegar en sus propios barrios sus fotos y la imagen de otrx participantx de la convocatoria, con el fin de expandir las imágenes a todas las latitudes posibles. 
 La convocatoria es libre y gratuita.
 
-🕒\*\* Abierta hasta el día domingo 10/11 a las 23.59\*\* (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
+🕒 **Abierta hasta el día domingo 10/11 a las 23.59** (hora Argentina). Para colaborar con el festival, podés realizar tu aporte al alias freezerfotofest, via internacional [a este link de Wise](https://wise.com/pay/me/lucianam2248) o [conseguir nuestro merch en nuestra preventa](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit).
 
 ✺
 
@@ -60,8 +59,6 @@ We will also invite the selected authors to paste their photos and the image of 
 The call is free and open to the public.
 To support the festival, you can make your[ contribution via Wise in this link ](https://wise.com/pay/me/lucianam2248)or [get our merch in our pre-sale. ](https://docs.google.com/forms/d/1_B2dBNtzTedQ2Esdz3phirMvF97Q3dziYdyM8jFyZ6E/edit)
 
-✺
-
 [Inscribite en este enlace](https://docs.google.com/forms/d/1P2B-48gB5mj6eP_gSSGLFTUlqulGTV7tmUuYXW8-h_Q/edit "Inscribite en este link")
 
 ✺
@@ -76,19 +73,19 @@ La feria será ambos días desde las 15hs, compartiendo el espacio con talleres 
 
 ## Charlas abiertas y presentaciones
 
-![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)\
-\
-**Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)**\
-🕒Sábado 23 a las 16hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)\\
 
-\
+#### Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)
+
+🕒 Sábado 23 a las 16hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+
 Durante los años 2021 a 2023 Leo Vaca retrató a 40 Madres y Abuelas de Plaza de Mayo en sus hogares. Proyecto de la Secretaria de Derechos Humanos de la Nación que culminó en la publicación del foto libro "madres y abuelas" diseñado por Mariana Miguelez.
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
-**Charla abierta con Martín Bollati**
+#### Charla abierta con Martín Bollati
 
-🕒Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+🕒 Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlace. ](https://docs.google.com/forms/d/1PYKFPwej3yQ1ErIdYzpjuNibJ5vYv5wx_3CDCm3o3tg/edit "Confirmá tu asistencia completando este formulario de inscripción")
 
@@ -96,11 +93,9 @@ Biblioteca/Colisión (2024) es una biblioteca de lectura comparada de libros de 
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
 
-✺
-
 ![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
 
-**O futuro, presentación del libro de Jerónimo Rivero**
+#### O futuro, presentación del libro de Jerónimo Rivero
 
 🕒 Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
@@ -114,39 +109,37 @@ Entrada libre y gratuita.  [Confirmá tu asistencia inscribiéndote en este enla
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729874175/freezer_fotofest_1_-29_fwvnua.jpg)
 
-**Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo**
+#### Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo
 
-🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+🕒 Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
 [Inscripción abierta en este enlace](https://docs.google.com/forms/d/16hzLBBHjl9vqNzc3UOyjzq6jD76xoWhb7JPiE2ZUIOw/edit "Inscripción abierta en este enlace")
 
-Durante el segundo día del festival, tendremos un taller de Taller de Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo ✺
+Durante el segundo día del festival, tendremos un taller de Taller de Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo.
 
 La propuesta es sumergirse en las posibilidades que nos brinda el proceso personal en un espacio de creación colectiva para componer/materializar una pieza artesanal propia. El collage, el recorte y la superposición; la tinta y el papel, la tipografía y todo tipo de imágenes, se ponen a disposición como disparadores para ese hacer.
-Materiales necesarios:Imágenes con las que quieras trabajar. Opcional si tienen alguna materialidad particular con la que quieran trabajar / libros e imágenes para compartir durante el encuentro.
+Materiales necesarios: Imágenes con las que quieras trabajar. Opcional si tienen alguna materialidad particular con la que quieran trabajar / libros e imágenes para compartir durante el encuentro.
 
 Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, Buenos Aires, Argentina. Desde 2015 publica obras de artistas visuales como Federico Ruvituso, Paula Giogi y Julia Sbriller; y coedita publicaciones en conjunto con otros proyectos independientes como FestiFreak, Shirley la Bombón, entre otros.
 
 Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
 
-✺
-
 ![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
 
-**Cianotipia con Célica Véliz**
+#### Cianotipia con Célica Véliz
 
-🕒Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
+🕒 Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
 [Inscripción abierta en este enlace](https://forms.gle/px4TSwnDbLo4MZRFA "Inscripción abierta en este enlace")
 
-Durante el segundo día del festival, tendremos un taller de Cianotipia con la fotógrafa Célica Véliz ✺
+Durante el segundo día del festival, tendremos un taller de Cianotipia con la fotógrafa Célica Véliz
 
 Los actualmente llamados “procesos alternativos” son en su mayoría técnicas de copia fotográfica que datan del siglo XIX. Permiten cubrir papel y otras superficies con una capa química fotosensible para copiar imágenes en ellos.Estos procesos nos dan muchas posibilidades de impresión, ya sea en papel, tela, madera, cerámica o vidrio. Se puede trabajar con imágenes obtenidas con cualquier cámara, con dibujos o con objetos por contacto. Las imágenes deben estar previamente impresas en negativo sobre un soporte transparente. Todo esto hace a los procesos alternativos muy versátiles para trabajar en distintos proyectos fotográficos. La técnica que abordaremos en la práctica de este taller es la cianotipia sobre distintas superficies como papel y tela y sus métodos de tonalizado y blanqueo.La cianotipia es una técnica que utiliza sales de hierro como material sensible para realizar copias por contacto, sobre papel y otras superficies. Da como resultado imágenes en tonos azules que también pueden ser tonalizadas.
 
 Costo de inscripción | $9000 ARS \
 Alias: freezerfotofest 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+✺
 
 Célica Véliz | Fotógrafa, Profesora de Artes Visuales y Técnica Ceramista, nacida en Ezeiza, Buenos Aires. Se formó en la ciudad de Tandil en IPAT y en la Escuela de Cerámica. Al finalizar sus estudios, se interesó por las técnicas fotográficas del siglo XIX y comenzó a investigar y experimentar con ellas.
 Actualmente es docente de la cátedra de procesos fotoquímicos en la Tecnicatura Universitaria en Fotografía de la UNLP y coordina talleres de fotografía experimental y procesos fotográficos alternativos en la Cooperativa de la Imagen (CABA), en su espacio virtual “Superficies Sensibles” y en el Ágora del ExpFestival. Desde 2023 es la directora de la residencia artística del Experimental Photo Festival (Barcelona).
@@ -159,7 +152,7 @@ Su trabajo aborda principalmente lo autobiográfico, el autorretrato, la edició
 
 **Todo desgravita | Federico Paladino (Editorial La Balsa) + Música de Seba Rulli**
 
-🕒Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
+🕒 Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Todo desgravita es una performance editorial en homenaje al músico y poeta Sebastían Rulli. Federico Paladino propone una secuencia de relaciones entre imágenes impresas para acompañar sus canciones.
 
