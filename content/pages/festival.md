@@ -130,9 +130,9 @@ Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, B
 
 Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
 
-![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
-
 ✺
+
+![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
 
 #### Cianotipia con Célica Véliz
 
