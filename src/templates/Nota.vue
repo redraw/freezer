@@ -99,7 +99,7 @@ export default {
   text-decoration: none;
 }
 
-.nota p > img {
+.nota p:has(img) {
   text-align: center;
 }
 

@@ -144,7 +144,7 @@ h1 {
 hr {
   border: 0;
   border-top: 2px solid var(--color-base-1);
-  margin: 1em 0;
+  margin: 2em 0;
 }
 
 a {

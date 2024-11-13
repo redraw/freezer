@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="container">
-      <div v-html="$page.post.content" class="content" />
+      <div v-html="$page.post.content" class="page content" />
     </div>
   </Layout>
 </template>
@@ -14,6 +14,16 @@ query SinglePage ($path: String!) {
   }
 }
 </page-query>
+
+<style>
+.page {
+  max-width: 60ch;
+  margin: 0 auto;
+}
+.page p:has(img) {
+  width: 100%;
+}
+</style>
 
 <script>
 export default {
