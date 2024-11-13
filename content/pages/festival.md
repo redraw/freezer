@@ -1,5 +1,5 @@
 ---
-title: festival
+title: Festival
 toc: true
 ---
 
