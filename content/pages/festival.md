@@ -8,9 +8,9 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 
 ## Convocatorias
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
+### Convocatoria abierta El Local (ES) + Freezer (AR): Lazos
 
-#### Convocatoria abierta El Local (ES) + Freezer (AR): Lazos
+![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
 
 Abrimos la convocatoria para fotógrafxs y artistas argentinxs o migrantes en territorio argentino a la presentación de videos de máximo 1' (un minuto de duración) basados en proyectos fotográficos.
 
@@ -25,9 +25,9 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 
 ✺ ✺ ✺
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
+### ¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público
 
-#### ¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público
+![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
 
 Tradução em português abaixo / EN below
 
@@ -75,9 +75,9 @@ La feria será ambos días desde las 15hs, compartiendo el espacio con talleres 
 
 ## Charlas abiertas y presentaciones
 
-![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)
+### Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)
 
-#### Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)
+![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)
 
 🕒 Sábado 23 a las 16hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
@@ -85,9 +85,9 @@ Durante los años 2021 a 2023 Leo Vaca retrató a 40 Madres y Abuelas de Plaza d
 
 ✺ ✺ ✺
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
+### Charla abierta con Martín Bollati
 
-#### Charla abierta con Martín Bollati
+![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
 🕒 Sábado 23 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
@@ -99,9 +99,9 @@ En cada proyecto publicado una imagen se encuentra con otra para producir una nu
 
 ✺ ✺ ✺
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
+### O futuro, presentación del libro de Jerónimo Rivero
 
-#### O futuro, presentación del libro de Jerónimo Rivero
+![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
 
 🕒 Domingo 24 a las 17hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
@@ -113,9 +113,9 @@ Entrada libre y gratuita.  [Confirmá tu asistencia inscribiéndote en este enla
 
 ## Talleres
 
-![](https://res.cloudinary.com/freezer/image/upload/v1729874175/freezer_fotofest_1_-29_fwvnua.jpg)
+### Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo
 
-#### Publicaciones Experimentales con Ayelén Ruiz de Infante de Editorial Morpurgo
+![](https://res.cloudinary.com/freezer/image/upload/v1729874175/freezer_fotofest_1_-29_fwvnua.jpg)
 
 🕒 Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
@@ -132,9 +132,9 @@ Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de
 
 ✺ ✺ ✺
 
-![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
+### Cianotipia con Célica Véliz
 
-#### Cianotipia con Célica Véliz
+![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
 
 🕒 Domingo 24 de noviembre | 14 hs. | Casa Unclan (calle 5 N°1512 entre 63 y 64, La Plata)
 
@@ -158,7 +158,7 @@ Su trabajo aborda principalmente lo autobiográfico, el autorretrato, la edició
 
 ## VJ Books
 
-**Todo desgravita | Federico Paladino (Editorial La Balsa) + Música de Seba Rulli**
+### Todo desgravita | Federico Paladino (Editorial La Balsa) + Música de Seba Rulli
 
 🕒 Sábado 23 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
@@ -166,7 +166,7 @@ Todo desgravita es una performance editorial en homenaje al músico y poeta Seba
 
 ✺ ✺ ✺
 
-**Ciclo Fotograma + Hermes 3E (RapxComida)**
+### Ciclo Fotograma + Hermes 3E (RapxComida)
 
 🕒 Domingo 24 a las 19hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
