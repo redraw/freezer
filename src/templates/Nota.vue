@@ -100,10 +100,6 @@ export default {
   text-decoration: none;
 }
 
-.nota p:has(img) {
-  text-align: center;
-}
-
 .nota p {
   width: 100%;
   margin: 1.5em 0;

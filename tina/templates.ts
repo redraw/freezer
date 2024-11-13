@@ -287,6 +287,11 @@ export function single_pageFields() {
       isTitle: true,
       required: true,
     },
+    {
+      type: "boolean",
+      name: "toc",
+      label: "Tabla de contenido",
+    }
   ] as TinaField[];
 }
 export function configFields() {

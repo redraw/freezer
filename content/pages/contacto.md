@@ -1,5 +1,6 @@
 ---
 title: Contacto
+toc: false
 ---
 
 Con sede en la ciudad de La Plata (Argentina) y Madrid (España), Freezer es un proyecto coordinado por [Luciana Demichelis](https://www.instagram.com/demichelisluciana) que vincula la investigación, formación y encuentro a partir de la imagen fotográfica.

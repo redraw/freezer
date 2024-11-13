@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="page container">
-      <div class="toc">
+      <div v-if="$page.post.toc" class="toc">
         <ul>
           <li
             v-for="heading in $page.post.headings"
@@ -24,6 +24,7 @@
 query SinglePage ($path: String!) {
   post: singlePage (path: $path) {
     title
+    toc
     content
     headings {
       anchor

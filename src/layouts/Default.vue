@@ -235,6 +235,11 @@ select {
   font-size: medium;
 }
 
+.nota p:has(img), .page p:has(img) {
+  text-align: center;
+}
+
+
 @media screen and (min-width: 720px) {
   .content {
     padding: 0;
