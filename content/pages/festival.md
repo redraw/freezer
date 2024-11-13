@@ -8,9 +8,9 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 
 ## Convocatorias
 
-#### Convocatoria abierta El Local (ES) + Freezer (AR): Lazos
-
 ![](https://res.cloudinary.com/freezer/image/upload/v1729865272/freezer_fotofest_1_-61_bvm9zr.jpg)
+
+#### Convocatoria abierta El Local (ES) + Freezer (AR): Lazos
 
 Abrimos la convocatoria para fotógrafxs y artistas argentinxs o migrantes en territorio argentino a la presentación de videos de máximo 1' (un minuto de duración) basados en proyectos fotográficos.
 
@@ -23,9 +23,11 @@ Los proyectos seleccionados se comunicarán el día 12 de noviembre. La convocat
 
 [Inscribite en este enlace](https://docs.google.com/forms/d/15OTCETvsp7uOMsZG2sFSCfEQtMxnPto_IOs7UHZWUbk/edit "Inscribite en este link")
 
-#### ¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público
+✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868362/freezer_fotofest_1_-33_3_has96m.jpg)
+
+#### ¡A la calle! Convocatoria abierta a enviar fotografías para intervenciones en el espacio público
 
 Tradução em português abaixo / EN below
 
@@ -73,13 +75,15 @@ La feria será ambos días desde las 15hs, compartiendo el espacio con talleres 
 
 ## Charlas abiertas y presentaciones
 
-![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)\\
+![](https://res.cloudinary.com/freezer/image/upload/v1730846051/freezer_fotofest_2-35_xltu26.jpg)
 
 #### Presentación del fotolibro 'Madres y abuelas' de Leo Vaca sobre Madres y Abuelas de Plaza de Mayo (2023)
 
 🕒 Sábado 23 a las 16hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
 
 Durante los años 2021 a 2023 Leo Vaca retrató a 40 Madres y Abuelas de Plaza de Mayo en sus hogares. Proyecto de la Secretaria de Derechos Humanos de la Nación que culminó en la publicación del foto libro "madres y abuelas" diseñado por Mariana Miguelez.
+
+✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729868549/freezer_fotofest-18_2_q1kbwy.png)
 
@@ -92,6 +96,8 @@ Entrada libre y gratuita. [Confirmá tu asistencia inscribiéndote en este enlac
 Biblioteca/Colisión (2024) es una biblioteca de lectura comparada de libros de fotografía a través del uso de herramientas de image-to-image con motores de inteligencia artificial.
 
 En cada proyecto publicado una imagen se encuentra con otra para producir una nueva a partir de su colisión. Se establece así una convivencia donde secuencias originales de libros ya publicados colaboran para construir una nueva narración que potencialmente devele ideas sobre las ediciones originales y sus proyecciones latentes.
+
+✺
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729873853/freezer_fotofest_1_-33_4_s4r5gi.jpg)
 
@@ -125,6 +131,8 @@ Morpurgo es una pequeña editorial de arte y fotografía con base en La Plata, B
 Ayelén Ruiz de Infante desde el 2015, co-dirige Morpurgo, pequeña editorial de arte y fotografía y forma parte de Espacio Queer, Festival Internacional de Cine LGBTQI+.Actualmente trabaja de forma independiente y es docente de Fotografía y Tipografía​.
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1730933720/freezer_fotofest_2-33_hzxrro.jpg)
+
+✺
 
 #### Cianotipia con Célica Véliz
 
