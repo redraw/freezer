@@ -47,6 +47,10 @@ query SinglePage ($path: String!) {
   width: 100%;
 }
 
+.page h2 {
+  color: #787878;
+}
+
 .toc {
   width: 100%;
   position: relative;
