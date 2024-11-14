@@ -1,11 +1,49 @@
 ---
 title: Festival
 toc: true
+thumbnail: https://res.cloudinary.com/freezer/image/upload/v1729256728/freezer_fotofest-8_to8s2c.jpg
 ---
 
 ![](https://res.cloudinary.com/freezer/image/upload/v1729256728/freezer_fotofest-8_to8s2c.jpg)
 
 Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Casa Unclan (calle 5 N°1512 entre 63 y 64). Serán dos días de propuestas de encuentro, proyecciones de proyectos fotográficos, talleres, charlas y VJ books.
+
+<details open>
+<summary><strong>Sábado 23 de Noviembre</strong></summary>
+
+- **15:00 - Feria Editorial**  
+  La feria editorial estará abierta hasta las 19:00.
+
+- **16:00 - [Presentación del fotolibro 'Madres y abuelas'](#presentación-del-fotolibro-madres-y-abuelas-de-leo-vaca-sobre-madres-y-abuelas-de-plaza-de-mayo-2023)**  
+  Presentación del fotolibro de Leo Vaca sobre las Madres y Abuelas de Plaza de Mayo.
+
+- **17:00 - [Charla abierta con Martín Bollati](#charla-abierta-con-martín-bollati)**  
+  Explora el proyecto 'Biblioteca/Colisión'.
+
+- **18:00 - [Todo desgravita](#todo-desgravita--federico-paladino-editorial-la-balsa--música-de-seba-rulli)**  
+  Federico Paladino (Editorial La Balsa) junto a la música de Seba Rulli en una performance editorial.
+
+</details>
+
+<details open>
+<summary><strong>Domingo 24 de Noviembre</strong></summary>
+
+- **14:00 - [Taller de Publicaciones Experimentales](#publicaciones-experimentales-con-ayelén-ruiz-de-infante-de-editorial-morpurgo)**  
+  Con Ayelén Ruiz de Infante de Editorial Morpurgo.
+
+- **14:00 - [Taller de Cianotipia](#cianotipia-con-célica-véliz)**  
+  Con la fotógrafa Célica Véliz, explorando la técnica de impresión de cianotipia.
+
+- **15:00 - Feria Editorial**  
+  La feria editorial estará abierta hasta las 21:00.
+
+- **17:00 - [O futuro](#o-futuro-presentación-del-libro-de-jerónimo-rivero)**  
+  Presentación del libro de Jerónimo Rivero sobre la región del alto Paraná.
+
+- **19:00 - [Ciclo Fotograma + Hermes 3E (RapxComida)](#ciclo-fotograma--hermes-3e-rapxcomida)**  
+  Proyección en colaboración con Fotograma y Hermes 3E, conectando los mundos visual y sonoro.
+
+</details>
 
 ## Convocatorias
 
@@ -175,4 +213,7 @@ Julián Luna es Hermes 3E, músico y enfermero del Hospital de Niños de La Plat
 
 Fotograma es una productora autogestiva de fotografía local. Hecha por y para la ciudad de La Plata la premisa del proyecto es fomentar el desarrollo y expansión de la fotografía platense. Fotograma proporciona espacios de encuentros y diálogos para que el mundo de las imágenes se disfrute y se comparta.
 
-En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.![](https://res.cloudinary.com/freezer/image/upload/v1730164348/freezer_fotofest_2-16_hpvq6m.jpg)![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)
+En nuestra participación del festival realizaremos una proyección que invita a conectar dos universos artísticos, el visual y el sonoro a través de una propuesta narrativa. Reindivicando la importancia del material editorial físico y el uso de las diapositivas como sustentos visuales.
+
+![](https://res.cloudinary.com/freezer/image/upload/v1730164348/freezer_fotofest_2-16_hpvq6m.jpg)
+![](https://res.cloudinary.com/freezer/image/upload/v1729875561/2024/10/freezer_fotofest_1_-16_vy9hev.jpg)

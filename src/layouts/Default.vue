@@ -239,6 +239,9 @@ select {
   text-align: center;
 }
 
+summary {
+  cursor: pointer;
+}
 
 @media screen and (min-width: 720px) {
   .content {

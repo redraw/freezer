@@ -8,7 +8,10 @@
             :key="heading.anchor"
             :style="{ marginLeft: `${(heading.depth - 1) * 15}px` }"
           >
-            <a :href="heading.anchor">{{ heading.value }}</a>
+            <strong v-if="heading.depth <= 2">
+              <a :href="heading.anchor">{{ heading.value }}</a>
+            </strong>
+            <a v-else :href="heading.anchor">{{ heading.value }}</a>
           </li>
         </ul>
       </div>
@@ -26,6 +29,8 @@ query SinglePage ($path: String!) {
     title
     toc
     content
+    excerpt
+    thumbnail
     headings {
       anchor
       value
@@ -102,6 +107,18 @@ export default {
   metaInfo() {
     return {
       title: this.$page.post.title,
+      meta: [
+        {
+          key: "description",
+          property: "description",
+          content: this.$page.post.excerpt
+        },
+        this.$page.post.thumbnail && {
+          key: "image",
+          property: "og:image",
+          content: this.$page.post.thumbnail
+        }
+      ]
     };
   },
 };

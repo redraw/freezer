@@ -1,6 +1,7 @@
 ---
 title: internet te amo
 toc: false
+thumbnail: https://i.imgur.com/VZCv9p8.jpg
 _template: single_page
 ---
 

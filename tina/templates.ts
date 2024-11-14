@@ -291,6 +291,14 @@ export function single_pageFields() {
       type: "boolean",
       name: "toc",
       label: "Tabla de contenido",
+    },
+    {
+      type: "image",
+      name: "thumbnail",
+      label: "thumbnail",
+      ui: {
+        uploadDir: imageUploadDir,
+      }
     }
   ] as TinaField[];
 }
