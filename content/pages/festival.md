@@ -12,13 +12,13 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 <details open>
 <summary><strong>Sábado 23 de Noviembre</strong></summary>
 
-* **15:00 - Feria Editorial**\
+* **15:00 - Feria Editorial**
   La feria editorial estará abierta hasta las 19:00.
-* **16:00 - [Presentación del fotolibro 'Madres y abuelas'](#presentación-del-fotolibro-madres-y-abuelas-de-leo-vaca-sobre-madres-y-abuelas-de-plaza-de-mayo-2023)**\
+* **16:00 - [Presentación del fotolibro 'Madres y abuelas'](#presentación-del-fotolibro-madres-y-abuelas-de-leo-vaca-sobre-madres-y-abuelas-de-plaza-de-mayo-2023)**
   Presentación del fotolibro de Leo Vaca sobre las Madres y Abuelas de Plaza de Mayo.
-* **17:00 - [Charla abierta con Martín Bollati](#charla-abierta-con-martín-bollati)**\
+* **17:00 - [Charla abierta con Martín Bollati](#charla-abierta-con-martín-bollati)**
   Explora el proyecto 'Biblioteca/Colisión'.
-* **18:00 - [Todo desgravita](#todo-desgravita--federico-paladino-editorial-la-balsa--música-de-seba-rulli)**\
+* **18:00 - [Todo desgravita](#todo-desgravita--federico-paladino-editorial-la-balsa--música-de-seba-rulli)**
   Federico Paladino (Editorial La Balsa) junto a la música de Seba Rulli en una performance editorial.
 
 </details>
@@ -26,19 +26,17 @@ Llega el primer Festival Fotográfico de Freezer el 23 y 24 de Noviembre, en Cas
 <details open>
 <summary><strong>Domingo 24 de Noviembre</strong></summary>
 
-* **14:00 - [Taller de Publicaciones Experimentales](#publicaciones-experimentales-con-ayelén-ruiz-de-infante-de-editorial-morpurgo)**\
+* **14:00 - [Taller de Publicaciones Experimentales](#publicaciones-experimentales-con-ayelén-ruiz-de-infante-de-editorial-morpurgo)**
   Con Ayelén Ruiz de Infante de Editorial Morpurgo.
-* **14:00 - [Taller de Cianotipia](#cianotipia-con-célica-véliz)**\
+* **14:00 - [Taller de Cianotipia](#cianotipia-con-célica-véliz)**
   Con la fotógrafa Célica Véliz, explorando la técnica de impresión de cianotipia.
-* **15:00 - Feria Editorial**\
+* **15:00 - Feria Editorial**
   La feria editorial estará abierta hasta las 21:00.
-* **17:00 - [O futuro](#o-futuro-presentación-del-libro-de-jerónimo-rivero)**\
+* **17:00 - [O futuro](#o-futuro-presentación-del-libro-de-jerónimo-rivero)**
   Presentación del libro de Jerónimo Rivero sobre la región del alto Paraná.
-* **18.00 - [Un Manifiesto Fotográfico ](https://docs.google.com/forms/d/1lLuBe3FlsuFx1sCoXMZUq0m_PqFIc7alUDM_l-R-Zok/edit)**
-
-    Invitamos a estudiantes de todas las latitudes del mundo a participar en la creación colectiva de un manifiesto fotográfico.
-
-* **19:00 - [Ciclo Fotograma + Hermes 3E (RapxComida)](#ciclo-fotograma--hermes-3e-rapxcomida)**\
+* **18.00 - [Un Manifiesto Fotográfico](#un-manifiesto-fotográfico)**
+  Invitamos a estudiantes de todas las latitudes del mundo a participar en la creación colectiva de un manifiesto fotográfico.
+* **19:00 - [Ciclo Fotograma + Hermes 3E (RapxComida)](#ciclo-fotograma--hermes-3e-rapxcomida)**
   Proyección en colaboración con Fotograma y Hermes 3E, conectando los mundos visual y sonoro.
 
 </details>
@@ -146,6 +144,8 @@ O FUTURO (2024) es un proyecto editorial y audiovisual de Jerónimo Rivero que e
 
 Entrada libre y gratuita.  [Confirmá tu asistencia inscribiéndote en este enlace. ](https://forms.gle/jRADiZDSwWWtfjBY7 "Confirmá tu asistencia completando este formulario de inscripción")
 
+✺ ✺ ✺
+
 ### Un manifiesto fotográfico
 
 🕒 Domingo 24 a las 18hs (puntual) | Casa Unclan, calle 5 N°1512 entre 63 y 64, La Plata, Argentina
@@ -155,13 +155,10 @@ Un manifiesto es un escrito en el que una persona o grupo de personas exponen p
 Invitamos a estudiantes de todas las latitudes del mundo a participar con sus respuestas a estas preguntas y afirmaciones en la creación colectiva de un manifiesto fotográfico. Podés participar desde cualquier lugar del mundo, la única consigna es que seas estudiante de fotografía (en el más amplio sentido de la palabra). 
 En el cierre del festival, junto a Ciclo Fotograma y Luciana Demichelis haremos una charla abierta presencial y leeremos las respuestas de todxs lxs estudiantxs que hayan enviado sus consignas para el manifiesto. El fin es realizar post-festival una primera edición de un manifiesto fotográfico con lo que se haya dicho o pensado de forma colectiva. 
 
-
 Domingo 24 de noviembre a las 18 hs.
 Casa Unclan (Calle 5 entre 63 y 64, La Plata, provincia de Buenos Aires, Argentina)
 
 [Enviá tus consignas para el manifiesto en este enlace, podés participar desde cualquier lugar del mundo.](https://docs.google.com/forms/d/1lLuBe3FlsuFx1sCoXMZUq0m_PqFIc7alUDM_l-R-Zok/edit)
-
-
 
 ***
 
