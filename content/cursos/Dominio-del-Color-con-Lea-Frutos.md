@@ -5,7 +5,7 @@ title: Dominio del Color con Lea Frutos
 inicio: 2024-10-11T22:00:00.000Z
 docente: Lea Frutos
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2024-10-11T22:00:00.000Z
 ---
 
