@@ -1,12 +1,12 @@
 ---
 thumbnail: >-
-  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1722679816/2024/08/Cursos_freezer_24-6_lede7y.jpg
+  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1734466326/2024/12/Portada_copia_vxvcgq.jpg
 title: 'modos de (no) ver: workshop con Enrique Pezo Gómez'
-inicio: 2024-08-14T22:00:00.000Z
+inicio: 2025-01-16T03:00:00.000Z
 docente: Enrique Pezo Gómez
 lugar: 'Online '
 finalizado: true
-date: 2024-08-14T22:00:00.000Z
+date: 2025-01-16T03:00:00.000Z
 ---
 
 Este workshop se enfoca en el análisis crítico y el desarrollo de proyectos visuales, cuestionando las
@@ -14,7 +14,7 @@ formas tradicionales de ver y entender las imágenes. A lo largo de tres sesione
 explorarán diversas temáticas que desafían la percepción visual y los discursos hegemónicos.
 Ofreciendo, además, herramientas para crear proyectos visuales conscientes y críticos. 
 
-[Inscribite ahora en este formulario ](http://docs.google.com/forms/d/e/1FAIpQLSeWs6XAIQrI7cljS4QEWpjtsQp_CtMqEgrIkmPWPgcbfn_lCw/viewform?usp=sf_link)
+[Inscribite ahora en este formulario ](https://forms.gle/6nwJ4VcuxNKHzXQA6)
 
 [
 ]()Sesión 1: Usos de la imagen fotográfica.
@@ -42,7 +42,7 @@ Said, Susan Sontag, Gayatri Spivak, Walter Benjamin, Gilles Deleuze.
 
 Costo: €45 (ES/Europa) / Soles 180 (Perú) / 50 USD (Resto del mundo) / 60000 Pesos Argentinos
 
-**Fecha: Jueves 15, 22 y 29 de agosto.**
+**Fecha: Jueves 16, 23 y 30 de enero**
 
 **Horarios:**
 
