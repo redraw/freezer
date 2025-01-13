@@ -56,7 +56,7 @@ Modalidad: Vía zoom / 12 cupos.
 
 Medios de pago: 
 
-Plin (Perú): 942168688
+Plin (Perú): 992009890
 Bizum (España): 624025629
 
 Alias (Argentina): Mecha.risa.vaso
