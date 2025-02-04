@@ -25,6 +25,8 @@ Estamos abiertxs a recibir cursos que tengan que ver con la creación visual des
 
 \_\_\_\_\_\_\_\_\_\
 \
+
+
 Registration open for proposals for workshops, workshops and open talks for our 2025/2026 programming. If the course or talk is in English, the workshop facilitator will require a translator. Please consider their fees within the figures for the cost of the workshop.
 
 We are looking for training projects both online and in person, coordinated by teachers from all over Latin America and the world. We are interested in those proposals that challenge the participants' searches about the photographic format, the expansion of its limits and that reflect on new questions in relation to the medium. Submitting your workshop information to participate in this call is free of charge.
@@ -46,4 +48,4 @@ Photography and new technologies (3D, AI, visual experimentation.
 
 We look forward to your project for our 2025/2026 schedule.
 
-#### [Apply here]()
+#### [Apply here](https://docs.google.com/forms/d/16MHTkV2hQf3b5gYvByGTsnX_b0Xoz-BSEr_sRyiYzns/edit)
