@@ -7,7 +7,8 @@ title: >-
 inicio: 2025-02-04T03:00:00.000Z
 docente: 'en búsqueda '
 lugar: Online / Presencial
-mercadopago_link: '-'
+mercadopago_link: >-
+  https://docs.google.com/forms/d/16MHTkV2hQf3b5gYvByGTsnX_b0Xoz-BSEr_sRyiYzns/edit
 finalizado: false
 date: 2025-02-28T03:00:00.000Z
 ---
@@ -18,7 +19,7 @@ La convocatoria estará abierta hasta el 28/2 a las 23.59 hs hora Argentina.
 
 Buscamos proyectos de formación tanto online como presenciales, coordinados por docentes de toda Latinoamérica y el mundo. Nos interesan aquellas propuestas que interpelen las búsquedas de lxs participantxs acerca del formato fotográfico, la expansión de sus límites y que reflexionen acerca de las nuevas preguntas en relación al medio.
 
-Estamos abiertxs a recibir cursos que tengan que ver con la creación visual desde todas sus perspectivas: estudios de la imagen, formación básica, 3D, investigación fotográfica, creación de proyectos fotográficos, procesos editoriales de fotolibros, (en todas sus alternativas), escritura de textos que fomenten la imaginación, entre otros. El envío de la información de tu taller para participar de esta convocatoria es libre y gratuito. 
+Estamos abiertxs a recibir cursos que tengan que ver con la creación visual desde todas sus perspectivas: estudios de la imagen, formación básica, 3D, investigación fotográfica, creación de proyectos fotográficos, procesos editoriales de fotolibros, (en todas sus alternativas), escritura de textos que fomenten la imaginación, entre otros. El envío de la información de tu taller para participar de esta convocatoria es libre y gratuito.
 
 [Esperamos tu proyecto con mucho entusiasmo para nuestra grilla 2025/2026. Participá en este enlace. ]()
 
