@@ -8,7 +8,7 @@ inicio: 2024-03-07T23:00:00.000Z
 docente: Luciana Demichelis
 lugar: 'Online / Madrid '
 mercadopago_link: 'https://mpago.la/23UG242'
-finalizado: false
+finalizado: true
 date: 2024-02-07T23:00:00.000Z
 ---
 
