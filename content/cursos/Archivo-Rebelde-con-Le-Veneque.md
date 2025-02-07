@@ -14,14 +14,13 @@ date: 2025-02-23T03:00:00.000Z
 Inicio ✺  Domingo 23 de febrero hasta el domingo 16 de marzo de 2025\
 Horario ✺ 4 a 6 PM (hora Colombia) / 6 a 8 PM hora Argentina / 10 a 12 PM hora España
 
+Cantidad de encuentros | 4 clases online
 
-Cantidad de encuentros | 4 clases 
+Costo ✺ 40 USD para residentes en Argentina y Venezuela ($48.800 pesos argentinos todo el taller) o 60 USD Colombia y resto del mundo. Reservá tu cupo en este link de pago en Paypal | [https://www.paypal.me/andresperezlv](https://www.paypal.me/andresperezlv)
 
 
-Costo ✺ 40 USD para residentes en Argentina y Venezuela ($48.800 pesos argentinos todo el taller) o 60 USD Colombia y resto del mundo. 
+### ✺ \*\*[Inscribite en este enlace ](https://docs.google.com/forms/d/e/1FAIpQLSdqwaY0TxKKwxH3Vjf7oluygSZ7z-uDXNJYj_VQdjy97rNmlA/viewform?usp=header)\*\*✺
 
-### ✺ **[Inscribite en este enlace ](https://docs.google.com/forms/d/e/1FAIpQLSdqwaY0TxKKwxH3Vjf7oluygSZ7z-uDXNJYj_VQdjy97rNmlA/viewform?usp=header)**✺
+Andrés Pérez (Venezuela, 1993) es fotógrafe no binarie y artista visual. Como persona diversa y migrante sus narrativas están enfocadas en identidad, género, memoria, violencia binaria y cuerpos queer, especialmente en territorio latinoamericano. Su lenguaje visual es la unión de su creatividad y sus intereses políticos. Creando una mezcla inesperada entre documentalismo expandido, archivo, moda y retrato. La identidad visual de Pérez construye imágenes rebeldes y juguetonas, generando tensión entre la realidad y la ficción.
 
-Andrés Pérez (Venezuela, 1993) es fotógrafe no binarie y artista visual. Como persona diversa y migrante sus narrativas están enfocadas en identidad, género, memoria, violencia binaria y cuerpos queer, especialmente en territorio latinoamericano. Su lenguaje visual es la unión de su creatividad y sus intereses políticos. Creando una mezcla inesperada entre documentalismo expandido, archivo, moda y retrato. La identidad visual de Pérez construye imágenes rebeldes y juguetonas, generando tensión entre la realidad y la ficción. 
-
-Ha sido ganador de los premios Pride Photo, Prince Claus Fund, iila Photo y POY Latam. Durante el 2024 fue finalista de la Joop Swart Masterclass por World Press Photo y está entre los artistas seleccionados del Panorama Latino Americano por Photo Vogue. Su trabajo ha sido expuesto en París, Ámsterdam, Noruega, Eslovenia, Japón, Malasia, Argentina, Colombia y Venezuela.  Actualmente trabaja en 3 exhibiciones en el Museo de Roma en Trastevere, el Houston Center for Photography y el Museum für kunst und gewerbe Hamburg. Publicaciones en: Der Greif, Vist Projects, Lenscratch, Foto Femme United, Canon Latam, DW Español, Organización Nelson Garrido, Cinco 8 y El Universal. 
+Ha sido ganador de los premios Pride Photo, Prince Claus Fund, iila Photo y POY Latam. Durante el 2024 fue finalista de la Joop Swart Masterclass por World Press Photo y está entre los artistas seleccionados del Panorama Latino Americano por Photo Vogue. Su trabajo ha sido expuesto en París, Ámsterdam, Noruega, Eslovenia, Japón, Malasia, Argentina, Colombia y Venezuela.  Actualmente trabaja en 3 exhibiciones en el Museo de Roma en Trastevere, el Houston Center for Photography y el Museum für kunst und gewerbe Hamburg. Publicaciones en: Der Greif, Vist Projects, Lenscratch, Foto Femme United, Canon Latam, DW Español, Organización Nelson Garrido, Cinco 8 y El Universal.
