@@ -5,7 +5,7 @@ title: 'ingeniería del papel '
 inicio: 2024-07-26T22:00:00.000Z
 docente: Verónica Garay y Francisca P. Burgos
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2024-09-20T22:00:00.000Z
 ---
 
@@ -39,7 +39,7 @@ Diagramación de mecanismos.
 
 Se enviará pdf con mecanismos y links de youtube para montaje.
 
-Sesión 2 | Presentación de resultados, aclaración de dudas. 
+Sesión 2 | Presentación de resultados, aclaración de dudas.
 
 Habrán 7 días entre sesiones para practicar con el papel y los mecanismos entregados. En esos días los participantes podrán contactarnos por mail o whatsapp.
 
