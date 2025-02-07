@@ -5,7 +5,7 @@ title: 'una señal: acompañamiento para fotógrafxs y filmmakers'
 inicio: 2024-07-10T22:00:00.000Z
 docente: 'Luciana Demichelis, Marla Zakai y Cabri Lynch'
 lugar: 'Online / Madrid '
-finalizado: false
+finalizado: true
 date: 2024-07-09T22:00:00.000Z
 ---
 
