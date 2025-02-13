@@ -22,14 +22,16 @@ Libre y gratuito [con inscripción previa en este formulario.](https://docs.goog
 *Actividades*
 
 **Micrófono Abierto de Proyectos**\
-Espacio donde quienes quieran pueden contar en 5-10 minutos en qué están trabajando y abrir preguntas o comentarios del grupo. Una forma de visibilizar procesos y generar colaboraciones.\\
-
-Micrófono Abierto de ProyectosEspacio donde quienes quieran pueden contar en 5-10 minutos en qué están trabajando y abrir preguntas o comentarios del grupo. Una forma de visibilizar procesos y generar colaboraciones.
+Espacio donde quienes quieran pueden contar en 5-10 minutos en qué están trabajando y abrir preguntas o comentarios del grupo. Una forma de visibilizar procesos y generar colaboraciones.
 
 
-Cámara CiegaTraer cámara, se hará una actividad en dúos.
+Cámara Ciega
+
+Traer cámara, se hará una actividad en dúos.
 
 
-Archivos en ComúnTrae una foto impresa (propia o ajena) en un sobre. 
+Archivos en Común
+
+Trae una foto impresa (propia o ajena) en un sobre. 
 
 [Inscribite en este enlace para enviarte punto exacto de encuentro y coordinar el orden de presentaciones fotográficas.](https://docs.google.com/forms/d/1Yqbkw7bDAd04ufyL1EkV7x8_TbWgIXdulDbh111_kFQ/edit) Según la cantidad de inscriptxs, estableceremos un límite de propuestas de presentaciones, que quedarán para ser exhibidas en el siguiente encuentro.
