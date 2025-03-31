@@ -47,7 +47,7 @@ Herramientas teóricas: 
 
 Se entregará una carpeta de drive con bibliografía de Chimamanda Adichie, André Bazin, Jhon Berger, George Didi-Huberman, Harun Farocki, Michel Foucault, Achille Mbembe, Nicholas Mirzoeff, Anibal Quijano, Silvia Rivera Cusicanqui, Edward Said, Susan Sontag, Gayatri Spivak, Walter Benjamin, Gilles Deleuze.
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fechas: Martes 22, 29 de abril y 6 de mayo.
 
