@@ -6,10 +6,10 @@ title: >-
   Demichelis
 inicio: 2024-03-07T23:00:00.000Z
 docente: Luciana Demichelis
-lugar: 'Online / Madrid '
+lugar: Online / La Plata
 mercadopago_link: 'https://mpago.la/23UG242'
-finalizado: true
-date: 2024-02-07T23:00:00.000Z
+finalizado: false
+date: 2025-04-17T03:00:00.000Z
 ---
 
 ¿De qué manera la fotografía puede ser utilizada como herramienta de la imaginación política, en la construcción de espacios de memoria histórica, re-historizaciones, y en la creación de otras cartografías y archivos?
