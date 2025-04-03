@@ -43,35 +43,68 @@ Martes de abril y mayo (5 encuentros) desde el 22 de abril a las 18 hs. | Zona 
 
 Máximo 7 participantes
 
-[Inscripción en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform)
+[Inscripción en este enlace](https://forms.gle/bpgoJ8r9KCodm7ZC8)****
+
+**///////////////////////////////**
+
+#### Objetivos
+
+Explorar el potencial de la fotografía como herramienta de la imaginación política, abordando la construcción de espacios de memoria histórica, re-historizaciones y la creación de nuevas cartografías visuales. Desde una perspectiva latinoamericana y contemporánea, el taller busca desarrollar proyectos fotográficos que cuestionen las nociones de verdad y ficción, generando un ensayo visual colectivo y finalizando con una exposición presencial o virtual.
 
 ***
 
-**Becas completas (1 beca online + 1 beca presencial en Madrid)**
+#### Sesión 1: Imagen, poder y ficción: ¿Qué vemos cuando miramos una foto?
 
-El taller ofrece 2 becas para cursar de forma 100% gratuita el curso Ficción y simulacro '24 para artistas, fotógrafxs y creadores. Para aplicar, prepará una carpeta de Google Drive con hasta 15 imágenes, un statement y adjuntá tu bio. Los resultados de lxs ganadorxs de la beca presencial en Madrid y la beca online serán anunciados el 16/2.
+En esta primera sesión, abordaremos el vínculo entre la fotografía y la construcción de identidades. Reflexionaremos sobre cómo las imágenes pueden consolidar narrativas oficiales o desafiarlas, explorando cómo se configuran desde la mirada y el poder.
 
-[Abierta la inscripción en el mismo formulario para inscribirte al seminario](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform). La opción estará disponible hasta el 15/2 a las 23.59 (GMT-3)
+Contenidos:
 
-Ante cualquier duda, escribir a [lumdemichelis@gmail.com](mailto:lumdemichelis@gmail.com) o a [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)
-
-***
-
-Para confirmar tu inscripción, podés dejar ya pago el curso.
-
-**MADRID**
-
-Pago en efectivo (coordinar via [freezerfoto@gmail.com](mailto:freezerfoto@gmail.com)) o vía Paypal a [paypal.com/paypalme/ficysimulacro](paypal.com/paypalme/ficysimulacro)
+* Introducción al concepto de ficción en la fotografía.
+* El poder de la imagen en la construcción de identidad.
+* La fotografía como espacio de disputa simbólica.
+* Análisis de casos emblemáticos donde la imagen fotográfica crea nuevas realidades.
 
 ***
 
-**ONLINE**
+#### Sesión 2: Ficción y memoria: Crear desde el sur global
 
-ARGENTINA | Transferencia bancaria (Banco Provincia) al alias *mecha.risa.vaso*
-ARS $35000 al mes o un pago por los dos meses de ARS $50000
+En esta sesión, reflexionaremos sobre el potencial de la fotografía para resignificar memorias colectivas desde una perspectiva latinoamericana. Exploraremos cómo las imágenes pueden abrir caminos hacia nuevas interpretaciones históricas y políticas.
 
-LATAM / USA / EUROPA | Vía [paypal.com/paypalme/ficysimulacro](paypal.com/paypalme/ficysimulacro)
+Contenidos:
 
-60 USD al mes o 1 pago final por todo el curso de 100 USD
+* La ficción como recurso de memoria y resistencia.
+* Ejemplos de proyectos fotográficos latinoamericanos que cuestionan lo documental.
+* Taller práctico: creación de ficciones visuales a partir de imágenes de archivo.
+* Discusión grupal sobre estrategias de intervención en la memoria visual.
 
-**¡Gracias! Te esperamos en marzo para iniciar los encuentros.**
+***
+
+#### Sesión 3: Narrativas insurgentes: Cartografía y archivo
+
+Esta sesión propone pensar la fotografía como un acto de insurgencia frente a la idea de copia de la realidad. Exploraremos nuevas formas de mapear historias visuales que rompan con las estructuras narrativas convencionales.
+
+Contenidos:
+
+* La fotografía como dispositivo de nuevas cartografías visuales.
+* Ejemplos de proyectos que desafían la noción de archivo tradicional.
+* Ejercicio práctico: creación de un mapa visual colectivo que articule realidad y ficción.
+* Debate: ¿Cómo pueden las imágenes subvertir los relatos impuestos?
+
+***
+
+#### Sesión 4: Ensayo visual: Construcción de proyectos personales y colectivos
+
+En esta última sesión, cada participante desarrollará su propio proyecto fotográfico o colectivo, incorporando los conceptos trabajados a lo largo del taller. El objetivo es consolidar una propuesta visual que trascienda la idea de registro para convertirse en un acto de imaginación política.
+
+Contenidos:
+
+* Desarrollo de proyectos personales o colectivos.
+* Revisión y ajustes finales en los ensayos visuales.
+* Preparación de la exposición (virtual o presencial).
+* Reflexión grupal sobre los procesos de creación y las decisiones visuales tomadas.
+
+***
+
+#### Cierre del taller: Exposición y puesta en común
+
+La exposición final será el momento de compartir las ficciones visuales creadas, reflexionando colectivamente sobre los significados construidos. Se alentará a que los proyectos generen nuevas preguntas e impulsen futuros desarrollos personales.
