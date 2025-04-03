@@ -20,6 +20,12 @@ Desde una perspectiva basada en la fotografía contemporánea y latinoamericana,
 
 El resultado final es la creación de una publicación en común bajo un tema colectivo y el análisis de posibles ideas expositivas para un proyecto fotográfico.
 
+### [Inscripción abierta en este enlace](https://forms.gle/bpgoJ8r9KCodm7ZC8)
+
+###
+
+
+Días y horarios
 
 ✺ Team Online | €60 | $60000 ARS (en hasta 2 partes) | 60 USD
 
@@ -42,10 +48,6 @@ Máximo 12 participantes
 Martes de abril y mayo (5 encuentros) desde el 22 de abril a las 18 hs. | Zona Plaza Italia
 
 Máximo 7 participantes
-
-[Inscripción en este enlace](https://forms.gle/bpgoJ8r9KCodm7ZC8)****
-
-**///////////////////////////////**
 
 #### Objetivos
 
