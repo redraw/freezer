@@ -55,7 +55,7 @@ Explorar el potencial de la fotografía como herramienta de la imaginación pol�
 
 #### Sesión 1: Imagen, poder y ficción: ¿Qué vemos cuando miramos una foto?
 
-En esta primera sesión, abordaremos el vínculo entre la fotografía y la construcción de identidades. Reflexionaremos sobre cómo las imágenes pueden consolidar narrativas oficiales o desafiarlas, explorando cómo se configuran desde la mirada y el poder.
+En esta primera sesión, abordaremos el vínculo entre la fotografía y la construcción de identidades. Reflexionaremos sobre cómo las imágenes pueden consolidar narrativas oficiales o desafiarlas, explorando cómo se configuran desde la mirada y el poder. Cada participante desarrollará su propio proyecto fotográfico o colectivo, incorporando los conceptos trabajados a lo largo del taller.
 
 Contenidos:
 
@@ -94,7 +94,7 @@ Contenidos:
 
 #### Sesión 4: Ensayo visual: Construcción de proyectos personales y colectivos
 
-En esta última sesión, cada participante desarrollará su propio proyecto fotográfico o colectivo, incorporando los conceptos trabajados a lo largo del taller. El objetivo es consolidar una propuesta visual que trascienda la idea de registro para convertirse en un acto de imaginación política.
+En esta penúltima sesión, veremos los avances de los proyectos fotográficos iniciados. El objetivo es consolidar una propuesta visual que trascienda la idea de registro para convertirse en un acto de imaginación política.
 
 Contenidos:
 
