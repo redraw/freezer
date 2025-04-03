@@ -20,14 +20,28 @@ Desde una perspectiva basada en la fotografía contemporánea y latinoamericana,
 
 El resultado final es la creación de una publicación en común bajo un tema colectivo y el análisis de posibles ideas expositivas para un proyecto fotográfico.
 
-**Madrid | 8 encuentros + diseño de exposición (Marzo - Abril)**
 
-Viernes de 17 a 20 hs.
-Inicia el viernes 8 de marzo | €60 al mes | Encuentros en Sterlab (Calle Fernán Caballero 2bis - 1o2, Madrid)
+✺ Team Online | €60 | $60000 ARS (en hasta 2 partes) | 60 USD
 
-**Online | Jueves de 17 a 20 hs. (Horario Argentina) | 8 encuentros online  + diseño de exposición (Marzo - Abril)**
+Jueves de abril y mayo (5 encuentros) desde el 17 de abril
 
-Inicio jueves 7 de marzo | ARS $35000 o un pago por los dos meses de ARS $50000 | LATAM y resto del mundo: 60 USD al mes o 1 pago final por todo el curso de 100 USD
+Latinoamérica:
+Argentina / Uruguay / Chile / Paraguay: 17:00 hs.
+Bolivia/Venezuela: 16:00 hs.
+Colombia / Perú / Ecuador: 15:00 hs.
+México (CDMX): 14:00 hs.
+
+Europa:
+España / Francia / Alemania / Italia: 21:00 hs.
+Reino Unido / Portugal: 20:00 hs.
+
+Máximo 12 participantes
+
+✺ Sede La Plata, team presencial | $60000 Pesos ARG en hasta 2 pagos (seña + día de inicio del taller)
+
+Martes de abril y mayo (5 encuentros) desde el 22 de abril a las 18 hs. | Zona Plaza Italia
+
+Máximo 7 participantes
 
 [Inscripción en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSfBiWbEluXe3Guizv8CdUJ6iYPP8TK2ffZcWu98icE9e4x37g/viewform)
 
