@@ -7,7 +7,7 @@ title: >-
 inicio: 2024-03-07T23:00:00.000Z
 docente: Luciana Demichelis
 lugar: Online / La Plata
-mercadopago_link: 'https://mpago.la/23UG242'
+mercadopago_link: ''
 finalizado: false
 date: 2025-04-17T03:00:00.000Z
 ---
