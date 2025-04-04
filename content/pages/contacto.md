@@ -8,7 +8,7 @@ Con sede en la ciudad de La Plata (Argentina) y Madrid (España), Freezer es un 
 
 Difundimos narrativas visuales, proyectos, espacios de encuentro y cursos para quienes están comenzando y para aquellxs con herramientas anteriores que quieran fortalecer y producir nuevas propuestas a partir de su imaginario visual.
 
-Podés colaborar con nuestro trabajo [comprandonos un café](https://cafecito.app/freezerfoto).
+Nuestra labor es libre y gratuita, pero si querés colaborar con nuestro Festival y Plataforma, podés subscribirte desde Argentina en este [enlace de MercadoPago por $2000 ARS](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c93808495fc6baa0195fd5aab980096) o [$5000 ARS](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c93808496006dfa0196016c47250078). Desde otros países, [podés enviar via Paypal la colaboración que desees. ](https://paypal.me/ficysimulacro)
 
 Si tenés alguna duda o propuesta [mandanos un mail](mailto:freezerfoto@gmail.com) queremos saber de vos.
 
