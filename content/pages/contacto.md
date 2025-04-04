@@ -18,7 +18,7 @@ Based in La Plata and Madrid, Freezer is a project coordinated by Luciana Demich
 
 We create courses for those who are starting out and for those with previous tools who want to think, strengthen and produce new proposals from their visual imagination. We also produce events and web content where our participants can show their curated work during the workshops. We accompany each other in the project creation process from beginning to end: we study authors, edit, cut, catalog, archive, overlay and create with the devices we have nearby.
 
-You can collaborate with our work by [buying us a coffee](https://cafecito.app/freezerfoto)
+Our work is free and open to the public, but if you'd like to contribute to our Festival and Platform, you can send your donation [via PayPal.]()
 
 If you have any questions or proposals, send us an email to [freezerfoto@gmail.com](freezerfoto@gmail.com). We want to hear from you.
 
