@@ -10,7 +10,7 @@ Difundimos narrativas visuales, proyectos, espacios de encuentro y cursos para q
 
 Nuestra labor es libre y gratuita, pero si querés colaborar con nuestro Festival y Plataforma, podés subscribirte desde Argentina en este [enlace de MercadoPago por $2000 ARS](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c93808495fc6baa0195fd5aab980096) o [$5000 ARS](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c93808496006dfa0196016c47250078). Desde otros países, [podés enviar via Paypal la colaboración que desees. ](https://paypal.me/ficysimulacro)
 
-Si tenés alguna duda o propuesta [mandanos un mail](mailto:freezerfoto@gmail.com) queremos saber de vos.
+Si tenés alguna duda o propuesta [mandanos un mail](mailto:freezerfoto@gmail.com), queremos saber de vos.
 
 ***
 
@@ -22,4 +22,5 @@ Our work is free and open to the public, but if you'd like to contribute to our 
 
 If you have any questions or proposals, send us an email to [freezerfoto@gmail.com](freezerfoto@gmail.com). We want to hear from you.
 
-✉️ [email](mailto:freezerfoto@gmail.com)   📸 [instagram](https://www.instagram.com/freezer.foto)
+✉️ our [email](mailto:freezerfoto@gmail.com)   \
+📸 [instagram](https://www.instagram.com/freezer.foto)
