@@ -9,7 +9,7 @@ docente: 'en búsqueda '
 lugar: Online / Presencial
 mercadopago_link: >-
   https://docs.google.com/forms/d/16MHTkV2hQf3b5gYvByGTsnX_b0Xoz-BSEr_sRyiYzns/edit
-finalizado: false
+finalizado: true
 date: 2025-02-28T03:00:00.000Z
 ---
 
