@@ -18,7 +18,7 @@ Fecha de inicio | Martes 13 de mayo 
 
 Duración | 5 encuentros virtuales por la plataforma Google Meet
 
-[Anotate en este formulario de inscripción]()
+[Anotate en este formulario de inscripción](https://forms.gle/6HCZ2mpLjhM4Swjd8)
 
 Costo | $ 70000 o dos pagos de $40000, [70 USD via Paypal](https://www.paypal.me/edgardomtzz)
 
