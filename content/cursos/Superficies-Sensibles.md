@@ -16,20 +16,15 @@ Fecha de inicio | Martes 13 de mayo 
 ✺ de 18:30 a 20:30
 ✺ de 10 a 12 hs (Hora Argentina)
 
-
 Duración | 5 encuentros virtuales por la plataforma Google Meet
+
+[Anotate en este formulario de inscripción]()
 
 Costo | $ 70000 o dos pagos de $40000, [70 USD via Paypal](https://www.paypal.me/edgardomtzz)
 
 En Argentina: Alias palo.auto.tambor (Célica Véliz)
 
-
-
-
 Incluye apuntes, videos y bibliografía complementaria, como así también consultas posteriores. No es necesario contar con los materiales para la primera clase. Se va a ir guiando a les participantes para conseguir estos materiales.
-
-
-
 
 Sobre el taller
 
@@ -40,10 +35,6 @@ Estos procesos consisten en aplicar una emulsión fotosensible sobre soportes co
 Esta versatilidad los convierte en una herramienta ideal para proyectos artísticos experimentales, donde la materialidad y el soporte se integran al proceso creativo.
 
 Cabe destacar que no se  necesita contar con una cámara para realizar este taller ya que estaremos abocadxs a la copia. 
-
-
-
-
 
 Contenidos y actividades
 
@@ -61,25 +52,14 @@ Terminación y protección de las copias.
 
 Accesorios para procesos alternativos: cómo construirlos. Unidad UV y contacteras.
 
-
-
-
 CIANOTIPIA
 
 La cianotipia es una técnica que utiliza sales de hierro como material sensible para realizar copias por contacto, de fotografías y otras imágenes, sobre papel y varias superficies. Da como resultados imágenes en tonos azules que también pueden ser tonalizadas. Fue inventada en 1842 por Sir John Herschel. Y desarrollada por Anna Atkins con sus famosos volúmenes “British Algae”.
-
-
-
 
 VAN DYKE (VDB)
 
 El proceso Van Dyke Brown es un método de impresión por contacto que utiliza sales de hierro y nitrato de plata como materia prima y produce tonos marrones. Esta técnica recibe su nombre por el pintor flamenco Anton Van Dyck ya que los tonos resultantes recuerdan a la paleta de colores utilizada por él.
 
-
-
-
 ANTOTIPIA Y COPIA A LA CLOROFILA
 
 Dos técnicas que aprovechan las propiedades fotosensibles de distintos vegetales. Con la antotipia se pueden producir pigmentos de distintos colores y aplicarlos sobre papel o tela. En el caso de la impresión a la clorofila utilizaremos hojas verdes como soporte. La luz que atraviesa una transparencia positiva colocada por contacto sobre papel cubierto con pigmentos vegetales o sobre hojas verdes hará que reaccionen aclarándose, dejando ver las imágenes sobre estas superficies.
-
-
