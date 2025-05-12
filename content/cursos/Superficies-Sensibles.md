@@ -36,7 +36,7 @@ Esta versatilidad los convierte en una herramienta ideal para proyectos artísti
 
 Cabe destacar que no se  necesita contar con una cámara para realizar este taller ya que estaremos abocadxs a la copia. 
 
-Contenidos y actividades
+**Contenidos y actividades**
 
 Técnicas de copia fotográfica. Historia de las mismas. Referentes históricos y proyectos actuales. Publicaciones, libros de artista, trabajos textiles y sobre otros soportes. Repaso de técnicas que estaremos practicando en el taller y otras que veremos en teoría.
 
@@ -51,15 +51,3 @@ Copia Van Dyke sobre papel y/o tela. Teoría y práctica. Preparación de quími
 Terminación y protección de las copias.
 
 Accesorios para procesos alternativos: cómo construirlos. Unidad UV y contacteras.
-
-CIANOTIPIA
-
-La cianotipia es una técnica que utiliza sales de hierro como material sensible para realizar copias por contacto, de fotografías y otras imágenes, sobre papel y varias superficies. Da como resultados imágenes en tonos azules que también pueden ser tonalizadas. Fue inventada en 1842 por Sir John Herschel. Y desarrollada por Anna Atkins con sus famosos volúmenes “British Algae”.
-
-VAN DYKE (VDB)
-
-El proceso Van Dyke Brown es un método de impresión por contacto que utiliza sales de hierro y nitrato de plata como materia prima y produce tonos marrones. Esta técnica recibe su nombre por el pintor flamenco Anton Van Dyck ya que los tonos resultantes recuerdan a la paleta de colores utilizada por él.
-
-ANTOTIPIA Y COPIA A LA CLOROFILA
-
-Dos técnicas que aprovechan las propiedades fotosensibles de distintos vegetales. Con la antotipia se pueden producir pigmentos de distintos colores y aplicarlos sobre papel o tela. En el caso de la impresión a la clorofila utilizaremos hojas verdes como soporte. La luz que atraviesa una transparencia positiva colocada por contacto sobre papel cubierto con pigmentos vegetales o sobre hojas verdes hará que reaccionen aclarándose, dejando ver las imágenes sobre estas superficies.
