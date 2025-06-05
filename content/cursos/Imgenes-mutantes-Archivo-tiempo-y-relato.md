@@ -12,8 +12,8 @@ date: 2025-06-17T03:00:00.000Z
 **Junto a Raquel Bravo, fotógrafa y cineasta española, presentamos un nuevo taller online en el que abordaremos el cruce entre lo fotográfico y lo cinematográfico como territorios de tránsito, relectura y reescritura. Partiremos de lo fílmico como fuente de inspiración metodológica y referencial pero también como un archivo expandido sujeto a procesos de interpretación, diálogo y negociación. Tensionaremos las ideas de tiempo, secuencia y la creación de marcos ficcionales como formas visuales de pensamiento.**
 
 A lo largo del taller se propondrán ejercicios prácticos vinculados a los materiales teóricos, y se pondrán en común las investigaciones realizadas en la sesión final. \
-\
-[Inscribite ahora en este formulario, convocatoria abierta hasta el 16 de junio. ]()
+[\
+Inscribite ahora en este formulario, convocatoria abierta hasta el 16 de junio. ](https://forms.gle/NUpZnoutnvxtwpdc8)
 
 \
 Sesión 1:
