@@ -35,7 +35,7 @@ duración extendida y la repetición. A partir de referencias del cine, el video
 
 analizaremos cómo ciertas estrategias formales desestabilizan la linealidad y habilitan nuevas
 
-formas de narración.\\
+formas de narración.
 
 Sesión 3:
 
