@@ -5,7 +5,7 @@ title: Archivo Rebelde con Le Veneque
 inicio: 2025-02-23T03:00:00.000Z
 docente: 'Andres Perez, Le Veneque'
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-02-23T03:00:00.000Z
 ---
 
@@ -17,7 +17,6 @@ Horario ✺ 4 a 6 PM (hora Colombia) / 6 a 8 PM hora Argentina / 10 a 12 PM h
 Cantidad de encuentros | 4 clases online
 
 Costo ✺ 40 USD para residentes en Argentina y Venezuela ($48.800 pesos argentinos todo el taller) o 60 USD Colombia y resto del mundo. Reservá tu cupo en este link de pago en Paypal | [https://www.paypal.me/andresperezlv](https://www.paypal.me/andresperezlv)
-
 
 ### ✺ \*\*[Inscribite en este enlace ](https://docs.google.com/forms/d/e/1FAIpQLSdqwaY0TxKKwxH3Vjf7oluygSZ7z-uDXNJYj_VQdjy97rNmlA/viewform?usp=header)\*\*✺
 
