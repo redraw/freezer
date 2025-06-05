@@ -8,7 +8,7 @@ inicio: 2024-03-07T23:00:00.000Z
 docente: Luciana Demichelis
 lugar: Online / La Plata
 mercadopago_link: ''
-finalizado: false
+finalizado: true
 date: 2025-04-17T03:00:00.000Z
 ---
 
@@ -23,7 +23,6 @@ El resultado final es la creación de una publicación en común bajo un tema co
 ### [Inscripción abierta en este enlace](https://forms.gle/bpgoJ8r9KCodm7ZC8)
 
 ###
-
 
 Días y horarios
 
