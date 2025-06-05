@@ -5,7 +5,7 @@ title: Imagen en sospecha con Enrique Pezo Gómez
 inicio: 2025-04-22T03:00:00.000Z
 docente: Enrique Pezo Gómez
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-04-22T03:00:00.000Z
 ---
 
