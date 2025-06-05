@@ -5,7 +5,7 @@ title: Superficies Sensibles
 inicio: 2025-05-13T03:00:00.000Z
 docente: Célica Véliz
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-05-13T03:00:00.000Z
 ---
 
