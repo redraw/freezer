@@ -9,14 +9,15 @@ finalizado: false
 date: 2025-07-03T03:00:00.000Z
 ---
 
-
 En este taller se propone  un recorrido por el trabajo de distintxs artistas que se mueven entre la fotografía, el cine, el video y la instalación, con el objetivo de reflexionar sobre las posibilidades expresivas y perceptivas de estos medios. Buscaremos ampliar nuestra forma de ver y de hacer, explorando tanto los límites del encuadre como aquello que queda por fuera: lo que podría haber, lo que se sugiere, lo que se escapa.
 
 La propuesta es cuestionar colectivamente nuestra relación con las imágenes, no solo como espectadores sino también como creadores. Analizaremos distintas estrategias que han sido utilizadas por artistas contemporáneos para expandir los márgenes de la imagen y construir formas de mirada más sensibles, abiertas y plurales. Abordaremos nociones como el encuadre, el tiempo y el montaje, y cómo estas se despliegan en el espacio mediante la secuencia y el vínculo con el espectador. 
 
 En cada encuentro se propondrán momentos de diálogo colectivo y visionado de obras para acompañar la reflexión desde una experiencia más activa. El taller está dirigido a quienes estén interesadxs en cuestionar los límites de la representación visual y expandir su práctica —sea esta artística, teórica o sensible— a partir de un vínculo más crítico y poético con las imágenes.\
 \
-Duración: 3 encuentros presenciales. 2 horas cada encuentro 
+Duración: 3 encuentros presenciales. 2 horas cada encuentro
+
+
 Inicio: Jueves 3, 10, 17 y 24 de Julio 
 
 [Inscribite ahora en este formulario ](https://forms.gle/vpe6YyLTekc2XPnQ6)
@@ -50,5 +51,3 @@ Videoarte y cine expandido. El rol del cuerpo y del espectador en la construcci�
 Artistas a abordar:
 
 Andrés Denegri / Chantal Akerman / Chris Marker / Angelo Yoto / Films to Break Project/ Collective Manhattan One Two Three Four / Takashi Ito / Sherrie Levine (apropiación) / Narcisa Hirch
-
-
