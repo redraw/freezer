@@ -6,6 +6,7 @@ inicio: 2025-07-02T03:00:00.000Z
 docente: ' Alexandre Kok Martins '
 lugar: 'Online '
 finalizado: false
+date: 2025-07-02T03:00:00.000Z
 ---
 
 Desde el siglo XIX, el surgimiento de la fotografía transformó profundamente las formas de ver y registrar la
