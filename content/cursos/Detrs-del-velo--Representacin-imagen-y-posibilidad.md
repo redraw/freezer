@@ -2,11 +2,11 @@
 thumbnail: >-
   https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1750638642/2025/06/FREEZER-1_3_copia_alueiw.jpg
 title: 'Detrás del velo – Representación, imagen y posibilidad'
-inicio: 2025-07-03T03:00:00.000Z
+inicio: 2025-07-10T03:00:00.000Z
 docente: Agustina Puricelli
 lugar: 'Online '
 finalizado: false
-date: 2025-07-03T03:00:00.000Z
+date: 2025-07-10T03:00:00.000Z
 ---
 
 En este taller se propone  un recorrido por el trabajo de distintxs artistas que se mueven entre la fotografía, el cine, el video y la instalación, con el objetivo de reflexionar sobre las posibilidades expresivas y perceptivas de estos medios. Buscaremos ampliar nuestra forma de ver y de hacer, explorando tanto los límites del encuadre como aquello que queda por fuera: lo que podría haber, lo que se sugiere, lo que se escapa.
@@ -16,9 +16,7 @@ La propuesta es cuestionar colectivamente nuestra relación con las imágenes, n
 En cada encuentro se propondrán momentos de diálogo colectivo y visionado de obras para acompañar la reflexión desde una experiencia más activa. El taller está dirigido a quienes estén interesadxs en cuestionar los límites de la representación visual y expandir su práctica —sea esta artística, teórica o sensible— a partir de un vínculo más crítico y poético con las imágenes.\
 \
 Duración: 3 encuentros presenciales. 2 horas cada encuentro
-
-
-Inicio: Jueves 3, 10, 17 y 24 de Julio 
+Jueves 10, 17 y 24 de Julio de 19 a 21.
 
 [Inscribite ahora en este formulario ](https://forms.gle/vpe6YyLTekc2XPnQ6)
 
