@@ -8,7 +8,7 @@
         :title="link.url"
         :style="{
           'font-size': `${Math.floor(100 / $settings.menu.length) * 0.5}vh`,
-          'line-height': '1.5'
+          'padding-bottom': '1.5em'
         }"
       >
         {{ link.name }}
