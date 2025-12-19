@@ -5,7 +5,7 @@ title: Pensar la fotografía en América Latina
 inicio: 2025-07-02T03:00:00.000Z
 docente: ' Alexandre Kok Martins '
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-07-02T03:00:00.000Z
 ---
 
