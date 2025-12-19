@@ -5,7 +5,7 @@ title: 'Detrás del velo – Representación, imagen y posibilidad'
 inicio: 2025-07-10T03:00:00.000Z
 docente: Agustina Puricelli
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-07-10T03:00:00.000Z
 ---
 
