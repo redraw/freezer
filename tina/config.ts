@@ -42,6 +42,9 @@ export default defineConfig({
       return CloudinaryStore
     },
   },
+  cmsCallback: (cms) => {
+    return cms
+  },
   schema: {
     collections: [
       {
