@@ -5,7 +5,7 @@ title: 'Encuentros cercanos ✺ Freezer Fotoclub ''25: La Plata, Argentina'
 inicio: 2025-02-22T03:00:00.000Z
 docente: encuentro colectivo
 lugar: La Plata
-finalizado: false
+finalizado: true
 date: 2025-02-22T03:00:00.000Z
 ---
 
@@ -24,11 +24,9 @@ Libre y gratuito [con inscripción previa en este formulario.](https://docs.goog
 **Micrófono Abierto de Proyectos**\
 Espacio donde quienes quieran pueden contar en 5-10 minutos en qué están trabajando y abrir preguntas o comentarios del grupo. Una forma de visibilizar procesos y generar colaboraciones.
 
-
 Cámara Ciega
 
 Traer cámara, se hará una actividad en dúos.
-
 
 Archivos en Común
 
