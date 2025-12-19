@@ -5,13 +5,13 @@ title: 'La Zona: clínica de obra y narrativa fotográfica con Raymundo Lagresta
 inicio: 2025-06-26T03:00:00.000Z
 docente: Raymundo Lagresta
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2025-06-27T03:00:00.000Z
 ---
 
 La Zona es una clínica / taller multidisciplinaria pensada para fotógrafxs, aficionadxs, avanzadxs y principiantes, así como para artistas visuales que quieran explorar  de forma personal el proceso creativo, descubrir nuevas posibilidades y explotar su visión personal a través de la fotografía.
 
-¿Qué dicen mis imágenes? ¿Qué territorios puedo explorar? ¿Cuál es el soporte material que potencia su latir?  ¿Que ocurre con mi archivo visual? En La Zona trabajamos partiendo de estas preguntas para que cada participante explore sus propias imágenes y descubra nuevas posibilidades para el desarrollo de su hacer creativo. 
+¿Qué dicen mis imágenes? ¿Qué territorios puedo explorar? ¿Cuál es el soporte material que potencia su latir?  ¿Que ocurre con mi archivo visual? En La Zona trabajamos partiendo de estas preguntas para que cada participante explore sus propias imágenes y descubra nuevas posibilidades para el desarrollo de su hacer creativo.
 
 Es un espacio de reflexión acerca del infinito por qué del hacer visual, explorando temáticas, archivos, ejercicios disparadores desde el sonido, la escritura y el audiovisual, analizando autores, leyendo, viendo obra en un hacer grupal contenido desde el entrenamiento de la mirada y el desarrollo de ensayos de autor. Su dinámica quincenal y semestral está pensada para que cada participante tenga el tiempo necesario para desarrollar su propia obra y explorar los ejercicios planteados en cada encuentro.
 
@@ -23,7 +23,7 @@ En LA ZONA vamos a:
 
 \- Analizar textos sobre la imagen y los procesos creativos para nutrir nuestra obra.
 
- \- Proyectar ensayos fotográficos y fotolibros para ampliar la mirada y las posibilidades narrativas de la imagen.
+\- Proyectar ensayos fotográficos y fotolibros para ampliar la mirada y las posibilidades narrativas de la imagen.
 
 \- Indagar en el archivo visual personal para activar vínculos creativos.
 
@@ -39,7 +39,7 @@ De Junio a Agosto (3 meses: 6 encuentros)
 
 Dinámica: 1 Encuentro quincenal de 2hs. desde el 27 de junio (o Sábados desde el 28 de junio)
 
-**Día y horarios: Lunes de 19 a 21hs / Sábados de 10 a 12hs **
+\*\*Día y horarios: Lunes de 19 a 21hs / Sábados de 10 a 12hs \*\*
 
 Costo: $50000
 
