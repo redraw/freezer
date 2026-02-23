@@ -48,14 +48,17 @@ Se entregará una carpeta de drive con bibliografía de Chimamanda Adichie, Andr
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Fechas: Martes 22, 29 de abril y 6 de mayo.
+Fechas: Jueves 12, 19 y 26 de marzo.
 
 Hora:
 
-Perú: 10h a 12h
-Argentina: 12h a 14h / España y Francia: 17h a 19h
+Perú: 10h a 12h
+Argentina: 12h a 14h
+España y Francia: 16h a 18h
 
-Costo: €50 (ES/Europa) / Soles 200 (Perú) / 55 USD (Resto del mundo) / 60000 Pesos Argentinos
+Costo: 
+
+€50 (ES/Europa) / Soles 200 (Perú) / 55 USD (Resto del mundo) / 70000 Pesos Argentinos
 
 6 horas impartidas en 3 sesiones de 2 horas cada una.
 
@@ -67,11 +70,11 @@ Plin (Perú): 992009890
 
 Bizum (España): 624025629
 
-Alias (Argentina): freezerfotofest
+Alias (Argentina): freezerfotofest (se puede hacer 2 pagos de $35000)
 
-Resto del mundo (Paypal): [https://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ES]()
+Resto del mundo (Paypal): https\://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ESCoordina[ @enriquepezo](http://www.instagram.com/enriquepezo)
 
-Coordina[ @enriquepezo](http://www.instagram.com/enriquepezo)
+\_\_\_\_\_\_\_\_\_
 
 Enrique Pezo Gómez (Iquitos, Perú, 1994) es un artista visual e investigador radicado en Marsella, Francia. Su trabajo revisa las narrativas oficiales de los territorios latinoamericanos a través de la performatividad de la imagen fotográfica y la teorización especulativa, proponiendo nuevas alternativas de discusión desde una posición crítica.
 
