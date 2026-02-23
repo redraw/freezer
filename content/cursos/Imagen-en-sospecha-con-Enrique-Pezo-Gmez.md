@@ -1,15 +1,14 @@
 ---
-thumbnail: >-
-  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1743452219/2025/03/FREEZER-1_1_copia_oc7oe5.jpg
+thumbnail: 'https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1743452219/2025/03/FREEZER-1_1_copia_oc7oe5.jpg'
 title: Imagen en sospecha con Enrique Pezo Gómez
-inicio: 2025-04-22T03:00:00.000Z
+inicio: 2026-03-12T03:00:00.000Z
 docente: Enrique Pezo Gómez
 lugar: 'Online '
-finalizado: true
-date: 2025-04-22T03:00:00.000Z
+finalizado: false
+date: 2026-03-12T03:00:00.000Z
 ---
 
-[Workshop de tres sesiones (2 horas cada una). Inscribite en este enlace. ](https://forms.gle/4Z6cBjHrqgAGjWJk9)
+[Workshop de tres sesiones (2 horas cada una). Inscribite en este enlace. ](https://forms.gle/Dd4YbgMQ8b2Y7sQx9)
 
 Este taller invita a explorar la fotografía como un campo de sospecha. La fotografía ha sido históricamente un instrumento de poder, utilizada tanto para documentar como para construir narrativas que responden a estructuras de dominación. Desarrollar una mirada crítica hacia la fotografía como documento implica cuestionar su aparente objetividad y reconocer los discursos que la atraviesan. ¿Qué se muestra y qué se oculta en una imagen? ¿Desde qué perspectiva se enuncia? Estas preguntas nos llevarán a reflexionar sobre la relación entre imagen, poder y colonialidad, entendiendo cómo ciertos imaginarios han sido impuestos y perpetuados a lo largo del tiempo.
 
