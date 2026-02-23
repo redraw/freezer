@@ -22,7 +22,7 @@ Com o objetivo de reflexionar sobre os papeis exercidos pela fotografia na Amér
 
 [Inscribite ahora en este formulario](https://forms.gle/DqTMPioHwFMHWiaS7)
 
-Fechas: Miércoles 2/7, 09, 16, 23, 30/7 y 06/8
+Fechas: Del 02 de abril hasta el 14 de mayo.
 
 🕖 19:00 (Argentina / Uruguay / Brasil)
 🕕 18:00 (Chile / Bolivia /Venezuela / Paraguay)
