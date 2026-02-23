@@ -1,11 +1,10 @@
 ---
-thumbnail: >-
-  https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1750637653/2025/06/el_ritmo_encuentros_cercanos-50_wlusyt.jpg
+thumbnail: 'https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1771824014/2026/02/freezer_26_-57_nbqesk.jpg'
 title: Pensar la fotografía en América Latina
 inicio: 2025-07-02T03:00:00.000Z
 docente: ' Alexandre Kok Martins '
 lugar: 'Online '
-finalizado: true
+finalizado: false
 date: 2025-07-02T03:00:00.000Z
 ---
 
@@ -21,7 +20,7 @@ aparato ótico. Enquanto alguns detinham a possibilidade de produzir as imagens,
 
 Com o objetivo de reflexionar sobre os papeis exercidos pela fotografia na América Latina, este curso atravessa diferentes períodos históricos, abordagens e técnicas fotográficas que marcaram a produção da região. O curso aborda algumas temáticas relevantes para as discussões sobre fotografia: a relação entre a câmera e as técnicas pictóricas anteriores; a fotografia como um objeto visual político; o limiar da imagem fotossensível entre o documento e a livre criação artística.
 
-[Inscribite ahora en este formulario](https://forms.gle/uLR2h6yGFkRib82d8)
+[Inscribite ahora en este formulario](https://forms.gle/DqTMPioHwFMHWiaS7)
 
 Fechas: Miércoles 2/7, 09, 16, 23, 30/7 y 06/8
 
