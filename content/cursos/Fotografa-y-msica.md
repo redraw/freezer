@@ -51,4 +51,4 @@ Matricula de pre-inscripción durante marzo: $30.000
 
 Argentina via alias: freezerfotofest
 
-[Inscripción abierta en este enlace](http://www.freezer.com.ar/cursos)
+[Inscripción abierta en este enlace](https://forms.gle/Q1DWiawXDSnQUeqHA)
