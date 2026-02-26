@@ -15,18 +15,16 @@ A lo largo de la historia el surgimiento de la fotografía transformó profundam
 En este taller haremos un recorrido sobre las diferentes nociones que relacionan fotografía y música, desde el oficio del registro en vivo hasta como trabajadores visuales de la escena para artes de discos, dirección creativa en sesiones fotográficas editoriales y proyectos personales fotográficos que trabajan de forma directa con la escena musical. El curso aborda temáticas relevantes para la inserción en el mercado sin perder la visión personal y autoral: la relación entre el rigor del oficio técnico trabajo visual. La fotografía se vuelve una herramienta clave para un proyecto sonoro en el umbral del registro contemporáneo, situado en el vínculo constante entre la labor profesional como creación artística. 
 La idea es producir una curaduría de materiales fotográficos de los participantes con el fin de brindar herramientas para su porfolio profesional-creativo. 
 
-
-Cronograma
+**Cronograma**
 
 Clase 01 Historia de la fotografía de música, usos y dirección creativa
 Clase 02 El oficio en vivo: técnica, formato y uso lumínico, arte de discos
 Clase 03 Edición: corrección de color y tratamiento de archivos
 Clase 04 Curaduría, presentación y circulación del archivo fotográfico
 
+\
+**Sobre la profesora**
 
-
-
-Sobre la profesora
 [Luciana Demichelis](https://www.lucianademichelis.com.ar/) (Ensenada, 1992) Fotógrafa seleccionada como uno de los '15 fotógrafos emergentes más prometedores de todo el mundo' compilado por el British Journal of Photography 'Ones to Watch' 2023.
 
 Licenciada en Comunicación orientada en Periodismo por la Universidad Nacional de La Plata y Máster en Fotografía Contemporánea por LENS Escuela de Artes Visuales y la Universidad Europea Miguel de Cervantes de Madrid, en sus proyectos investiga el imaginario latinoamericano, los rituales, las identidades disidentes y el valor político de la fiesta. 
@@ -38,8 +36,9 @@ Obtuvo en noviembre de 2022 el segundo premio del Salón Nacional de Artes Visua
 
 Coordina talleres fotográficos desde 2011, dictando clases en el Teatro Argentino de La Plata (Fotografía I, Fotografía y retrato, Fotografía y ficción) desde 2015. Desde 2020 impulsa Freezer, plataforma de talleres de fotografía. Desde 2023 es además docente en la Carrera de Fotografía a de la Facultad de Artes en la Universidad Nacional de La Plata en el seminario obligatorio Introducción a los Proyectos Fotográficos y desde 2025 es docente de las materias Foto V y VI en la Cátedra Fotografía. 
 
+**Fechas**
 
-Fechas
+
 Inicia el Lunes 6 de abril hasta el 4 de mayo. 
 
 🕖 18:00 (Argentina / Uruguay / Brasil) 🕕 17:00 (Chile / Bolivia /Venezuela / Paraguay) 🕔 16:00 (Colombia / Perú / Ecuador / Panamá / México CDMX) 🕓 15:00 (Guatemala / Honduras / El Salvador / Nicaragua / Costa Rica) / Europa: 🕙 23:00 (medianoche en España / Francia / Alemania)
@@ -50,6 +49,6 @@ Pago [Internacional via Paypal](https://www.paypal.com/paypalme/ficysimulacro)
 
 Matricula de pre-inscripción durante marzo: $30.000
 
-Argentina via alias: freezerfotofest\
+Argentina via alias: freezerfotofest
 
-[www.freezer.com.ar/cursos](http://www.freezer.com.ar/cursos)
+[Inscripción abierta en este enlace](http://www.freezer.com.ar/cursos)
