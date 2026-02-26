@@ -10,7 +10,7 @@ date: 2026-04-06T03:00:00.000Z
 
 [Inscripción abierta en este enlace](https://forms.gle/LVjHRycRXrpVTLfs5)
 
-A lo largo de la historia el surgimiento de la fotografía transformó profundamente las formas de ver, difundir y registrar la escena musical. Entre la obra artística y el oficio, las y los fotógrafxs relacionados con la música trabajamos de forma intensa y de forma creativa en registrar el escenario pero también en dirigir de forma creativa las propuestas estéticas locales y masivas.
+A lo largo de la historia el surgimiento de la fotografía transformó profundamente las formas de ver, difundir y registrar la escena musical. Entre la obra artística y el oficio, las y los fotógrafxs relacionados con la música trabajamos de forma intensa en registrar el escenario pero también en dirigir de forma creativa las propuestas estéticas locales y masivas.
 
 En este taller haremos un recorrido sobre las diferentes nociones que relacionan fotografía y música, desde el oficio del registro en vivo hasta como trabajadores visuales de la escena para artes de discos, dirección creativa en sesiones fotográficas editoriales y proyectos personales fotográficos que trabajan de forma directa con la escena musical. El curso aborda temáticas relevantes para la inserción en el mercado sin perder la visión personal y autoral: la relación entre el rigor del oficio técnico trabajo visual. La fotografía se vuelve una herramienta clave para un proyecto sonoro en el umbral del registro contemporáneo, situado en el vínculo constante entre la labor profesional como creación artística. 
 La idea es producir una curaduría de materiales fotográficos de los participantes con el fin de brindar herramientas para su porfolio profesional-creativo. 
