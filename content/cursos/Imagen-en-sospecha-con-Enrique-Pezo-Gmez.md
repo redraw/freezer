@@ -4,7 +4,7 @@ title: Imagen en sospecha con Enrique Pezo Gómez
 inicio: 2026-03-12T03:00:00.000Z
 docente: Enrique Pezo Gómez
 lugar: 'Online '
-finalizado: false
+finalizado: true
 date: 2026-03-12T03:00:00.000Z
 ---
 
@@ -72,7 +72,7 @@ Bizum (España): 624025629
 
 Alias (Argentina): freezerfotofest (se puede hacer 2 pagos de $35000)
 
-Resto del mundo (Paypal): https\://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ESCoordina[ @enriquepezo](http://www.instagram.com/enriquepezo)
+Resto del mundo (Paypal): [https://paypal.me/enriquepezo?country.x=ES\&locale.x=es\_ESCoordina](https://paypal.me/enriquepezo?country.x=ES\&locale.x=es_ESCoordina)[ @enriquepezo](http://www.instagram.com/enriquepezo)
 
 \_\_\_\_\_\_\_\_\_
 
