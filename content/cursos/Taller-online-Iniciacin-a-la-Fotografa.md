@@ -1,6 +1,6 @@
 ---
 thumbnail: 'https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1773695993/2026/03/freezer_26_-66_hv5wyk.jpg'
-title: Taller online Iniciación a la Fotografía
+title: Iniciación a la Fotografía
 inicio: 2026-04-09T03:00:00.000Z
 docente: Martina Manuel
 lugar: Online
@@ -14,15 +14,11 @@ A lo largo de los encuentros, vamos a desarmar el funcionamiento de la cámara d
 
 El curso propone un equilibrio entre la teoría y la práctica constante. Vamos a mirar el trabajo de grandes fotógrafos para inspirarnos y entender cómo resolvieron sus imágenes, y tendremos ejercicios semanales para que pongas el cuerpo y la cámara en acción. Queremos que este sea tu punto de partida para construir una mirada propia, dándote las bases sólidas para que te sientas con total confianza a la hora de retratar tu entorno.
 
-Inscribite en este formulario haciendo click aquí
-
-
-
+[Inscribite en este formulario haciendo click aquí](https://forms.gle/dDMfzWHWisZmV3uo8)
 
 Grupo online de 3 meses de duración desde el Jueves 9 de abril 
 
 De 19 a 21 hs. (Horario Argentina)
-
 
 Paraguay, Bolivia, Venezuela
 18:00 a 20:00 hs
@@ -32,9 +28,6 @@ México (CDMX), Costa Rica, Guatemala
 16:00 a 18:00 hs
 España
 23:00 a 01:00 hs
-
-
-
 
 Programa del taller
 
