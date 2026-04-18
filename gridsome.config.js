@@ -12,7 +12,7 @@ module.exports = {
   siteDescription: settings.site_description,
   plugins: [
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "proyectos/**/*.md",
@@ -20,7 +20,7 @@ module.exports = {
       }
     },
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "cursos/**/*.md",
@@ -28,7 +28,7 @@ module.exports = {
       },
     },
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "autores/**/*.md",
@@ -36,7 +36,7 @@ module.exports = {
       },
     },
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "notas/**/*.md",
@@ -44,7 +44,7 @@ module.exports = {
       }
     },
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "bazar/obras/*.md",
@@ -62,7 +62,7 @@ module.exports = {
       }
     },
     {
-      use: "@gridsome/source-filesystem",
+      use: "@kriya/gridsome-source-filesystem",
       options: {
         baseDir: "content",
         path: "pages/**/*.md",
@@ -70,7 +70,7 @@ module.exports = {
       }
     },
     {
-      use: '@gridsome/plugin-google-analytics',
+      use: '@kriya/gridsome-plugin-google-analytics',
       options: {
         id: 'UA-156250757-1'
       }
@@ -80,7 +80,7 @@ module.exports = {
     remark: {
       externalLinksTarget: "_blank",
       externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      plugins: ["@gridsome/remark-prismjs"]
+      plugins: ["@kriya/gridsome-remark-prismjs"]
     }
   },
   templates: {
