@@ -1,6 +1,7 @@
-import express, { Router } from 'express'
+import express, { Router, Request, Response } from 'express'
 import { isAuthorized } from '@tinacms/auth'
 import { createMediaHandler } from 'next-tinacms-cloudinary/dist/handlers'
+import type { NextApiRequest, NextApiResponse } from 'next'
 
 const app = express()
 const router = Router()
@@ -31,13 +32,13 @@ const mediaHandler = createMediaHandler({
   },
 })
 
-router.get('/cloudinary/media', mediaHandler)
+router.get('/cloudinary/media', (req: Request, res: Response) => mediaHandler(req as unknown as NextApiRequest, res as unknown as NextApiResponse))
 
-router.post('/cloudinary/media', mediaHandler)
+router.post('/cloudinary/media', (req: Request, res: Response) => mediaHandler(req as unknown as NextApiRequest, res as unknown as NextApiResponse))
 
-router.delete('/cloudinary/media/:media', (req, res) => {
+router.delete('/cloudinary/media/:media', (req: Request, res: Response) => {
   req.query.media = ['media', req.params.media]
-  return mediaHandler(req, res)
+  return mediaHandler(req as unknown as NextApiRequest, res as unknown as NextApiResponse)
 })
 
 app.use('/api', router)
