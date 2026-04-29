@@ -5,7 +5,7 @@ inicio: 2025-05-17T03:00:00.000Z
 docente: 'Andres Perez, Le Veneque'
 lugar: 'Online '
 finalizado: false
-date: 2025-02-23T03:00:00.000Z
+date: 2026-05-16T03:00:00.000Z
 ---
 
 **Archivo Rebelde** es un espacio para apropiarnos de nuestra historia e intervenirla con aquellas preguntas que nunca nos hicimos. Este ejercicio de apropiación e intervención posibilita una nueva forma de mirar nuestro pasado. Esto nos permite cuestionar el carácter impenetrable del archivo como institución y generar una conexión emocional-expresiva-política con los datos obtenidos.
