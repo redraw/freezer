@@ -1,5 +1,5 @@
 ---
-thumbnail: 'https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1738960117/2025/02/Sin_t%C3%ADtulo-3_copia_vjjjar.jpg'
+thumbnail: 'https://res.cloudinary.com/freezer/image/upload/t_media_lib_thumb/v1777478094/2026/04/freezer_26_2-62_a6a2hh.jpg'
 title: Archivo Rebelde con Le Veneque
 inicio: 2025-05-17T03:00:00.000Z
 docente: 'Andres Perez, Le Veneque'
