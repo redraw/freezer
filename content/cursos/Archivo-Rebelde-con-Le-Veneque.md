@@ -10,7 +10,7 @@ date: 2026-05-16T03:00:00.000Z
 
 **Archivo Rebelde** es un espacio para apropiarnos de nuestra historia e intervenirla con aquellas preguntas que nunca nos hicimos. Este ejercicio de apropiación e intervención posibilita una nueva forma de mirar nuestro pasado. Esto nos permite cuestionar el carácter impenetrable del archivo como institución y generar una conexión emocional-expresiva-política con los datos obtenidos.
 
-Inicio ✺  4 encuentros online desde el sábado 17 de mayo, 
+Inicio ✺  4 encuentros online desde el sábado 16 de mayo, 
 11 AM Colombia / 13 PM Argentina / 18 PM Europa.
 
 Cantidad de encuentros | 4 clases online
