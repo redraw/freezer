@@ -4,7 +4,7 @@ title: Archivo Rebelde con Le Veneque
 inicio: 2025-05-17T03:00:00.000Z
 docente: 'Andres Perez, Le Veneque'
 lugar: 'Online '
-finalizado: true
+finalizado: false
 date: 2025-02-23T03:00:00.000Z
 ---
 
